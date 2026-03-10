@@ -6,28 +6,20 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 ---
 
-## CONTINUITY ISSUES TO RESOLVE
+## REVISION HISTORY
 
-### CRITICAL: Protagonist Name Change
-- **Chapters 1-4**: Protagonist is **Adam Hale**
-- **Chapters 5-15**: Protagonist is **Adam Hale**
-- In Chapter 1, a billboard reads "ADAM HALE: YOUR SKILLS SECURED YOUR FUTURE" — suggesting Adam Hale is his official/system name. But this is never explained in-text.
-- **Decision needed**: Is he Adam Hale using an alias? Was he renamed by the system? Pick one name and make the dual-identity intentional and clear, or unify the name throughout.
-
-### Character Name Confusion — RESOLVED
-- **Chapter 2** now introduces **"Kai Chen"** (water purification, round spectacles, salt-and-pepper hair)
-- Same character throughout. "Dr. Wei Chen" renamed to "Kai Chen" in Ch 2.
-- **"Sophia Reed"** renamed to **"Sofia Reed"** throughout (Chs 18-23).
-
-### Missing Chapter 5 — RESOLVED
-- Chapter 5 was consolidated. Numbering has been adjusted (former chapters 6-24 are now 5-23).
-
-### Structural Audit Consolidation — RESOLVED
-- **Prologue** rewritten: abstract tone-setter replaced with concrete Chamber-on-Mars opening.
-- **Chapter 9 added**: New Virel POV chapter ("The Shepherd's Calculation") inserted between Touchpoints and Chamber of Light. Old chapters 9-15 renumbered to 10-16.
-- **Old Chapters 16-18 consolidated**: Old 16 (Calculated Fall) trimmed to end before the crash. Old 17 (Fractured Arrival stub, ~1480 words) deleted. Old 18 rewritten as consolidated crash chapter combining the best of all three.
-- **Old Chapters 21-23 consolidated into two**: Old 21+22 (redundant gathering/council scenes) merged into new Ch 21 (The Gathering Light). Old 23 (Signals Across the Void) merged with Mars-side content into new Ch 22. Old Ch 24 (The Blue Dot) renumbered to Ch 23.
-- **Net result**: 24 chapters → 23 chapters (one added, two removed).
+- Protagonist unified as **Adam Hale** throughout (formerly dual-named).
+- Mentor unified as **Kai Chen** (formerly "Dr. Wei Chen"). **Sofia Reed** (formerly "Sophia").
+- Prologue rewritten: concrete Chamber-on-Mars opening.
+- Chapter 5 consolidated; Chapter 9 (Virel POV) added; later chapters consolidated.
+- **Net result**: Prologue + 23 chapters.
+- Chapter 6 split into two chapters (political/resistance). All subsequent chapters renumbered.
+- Dream sequences reduced from 4 to 2 across Chs 7-11 (formerly 6-10). Remaining dreams made stranger and more ambiguous.
+- Chapter 8 (formerly 7): sustained tension thread added (surveillance escalation, search alert, Virel/Thorne consequences).
+- Chapter 19 (formerly 18): crash scene dramatically expanded from ~200 words to full action set piece.
+- Chapter 22 (formerly 21): founding ceremony expanded from ~1,300 to ~3,500 words with scenes, conflict, texture.
+- Chapter 23 (formerly 22): duplicated Sofia-children and Artemis-Morea scenes removed (kept in Ch 21). Added Adam's personal message to his mother, Nneka/Dara material.
+- **Net result**: Prologue + 24 chapters.
 
 ---
 
@@ -35,7 +27,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 ### PROTAGONISTS
 
-**Adam Hale / Adam Hale** — *The Hunter*
+**Adam Hale** — *The Hunter*
 - Age: 26. Lean, angular face, faded-denim eyes, dark hair.
 - Background: Grew up in collapsed coastal California (or industrial district — inconsistent). Father was a steelworker who lost his job to AI, died of synthetic hallucinogen addiction. Mother Elaine is dying of lung failure ("the Fade"). Adam identified his father's body at 17.
 - Skills: Mechanical genius, self-taught musician/DJ, ran underground raves since 16. Builds music from environmental sounds on a beatmaker. Quick thinker, natural leader, masks pain with humor.
@@ -77,7 +69,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Older engineer, round spectacles, salt-and-pepper hair. Water purification specialist.
 - Quiet center of gravity for the resistance. Decades of navigating constrained systems.
 - Guides Adam to the Free Orioneers' hidden chamber. Mentor figure.
-- (Previously "Dr. Wei Chen" in Ch 2 — now unified as Kai Chen throughout.)
+- Water purification specialist across all chapters.
 
 **Sofia Reed**
 - Former Cambridge comparative literature professor, current waste management supervisor.
@@ -211,38 +203,41 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - *Establishes*: The Archive, Sofia's network, the gap between truth and narrative, Artemis's independent investigation, the beginning of mystical connection through music/vibration.
 
 ### Chapter 5: Fire in the Circuit
-- **POV**: Adam (as "Adam Hale") and Artemis
+- **POV**: Adam and Artemis
 - Environmental malfunction in Artemis's quarters (A-Deck). Adam dispatched to repair it.
 - Their first extended private interaction. She demonstrates surprising technical knowledge (designed a life-support backup). He's hostile ("rich-girl panic"), she pushes back ("pretending cynicism is clarity").
 - Real connection forms through technical collaboration. He notices her mythology book.
 - Virel arrives at the end — notes the dynamic between them with cold assessment.
 - *Establishes*: Their intellectual compatibility, Artemis's hidden engineering past, Virel's surveillance instinct.
-- **NOTE**: This chapter switches to "Adam Hale" without explanation. The Zedd warning about "admin logs" suggests Adam may be using an alias, but this needs explicit handling.
 
 ### Chapter 6: Shadows Between Stars
-- **POV**: Multiple (Morea council, Virel conspiracy, Adam, Artemis, Eli)
+- **POV**: Multiple (Morea council, Virel conspiracy, Eli)
 - **Nations Union council**: Morea suppresses Lt. Flores for suggesting transparency. Water allocation protests on C-Deck.
 - **Eli Abramov introduction**: Architect who designed the ship's soul. Carves the Tree of Life in hidden spaces. Leaves Exodus quotations. Mystical custodian.
-- **Virel's conspiracy revealed**: Holographic meeting with operatives. Dr. Nakamura drugging worker water (compliance compounds). Neural override testing on maintenance sectors. Recruitment of scientists. Patient takeover.
+- **Virel's conspiracy revealed**: Holographic meeting with operatives. Dr. Nakamura drugging worker water (compliance compounds). Neural override testing on maintenance sectors. Recruitment of Dr. Okoye. Patient takeover.
+- *Establishes*: Full political landscape, both factions' covert plans, Virel's philosophy and methods.
+
+### Chapter 7: Seeds of Resistance
+- **POV**: Adam, Zedd, Artemis
 - **Free Orioneers revealed**: Kai Chen leads Adam to hidden chamber. Full introduction to the network — Sofia, Al-Farouk, Jun-Ho Kim, Nneka Obi. Their mission: documentation, communication to Earth, and preparation for strategic intervention. They show Adam a schematic with the mysterious "Central Sub-Matrix Core." Jun-Ho gives him a seed.
 - **Eli meets Adam**: Gives him the etched tablet (Tree of Life).
-- **Zedd and Adam at night**: Zedd has been mapping a melody in the ship's walls.
-- **Shared dream**: Both Adam and Artemis fall through darkness, stars vanish, single light appears, mirrored figures.
-- *Establishes*: Full political landscape, all major factions and their plans, the Free Orioneers as organized resistance, Eli as spiritual guide, the Central Sub-Matrix Core mystery, shared dream phenomenon.
+- **Zedd and Adam at night**: Zedd has been mapping a melody in the ship's walls. Backstory about Dara (the woman who taught him to hear, left behind by selection).
+- **Artemis before sleep**: Reviews her schematic of hidden spaces, feels the ship vibrating, writes: "Something in this ship is listening."
+- *Establishes*: The Free Orioneers as organized resistance, Eli as spiritual guide, the Central Sub-Matrix Core mystery, Zedd's deepening sensitivity to the ship.
 
-### Chapter 7: Gravity's Pull
+### Chapter 8: Gravity's Pull
 - **POV**: Adam and Artemis (parallel)
-- Adam's dream: inverted Orion constellation with 13 stars (not 7). Voice: "He hunts. She remembers. You awaken." Zedd saw it too — has been mapping it in ship resonance.
+- Adam's dream: inverted Orion with 13 stars — but stranger, more architectural. A corridor of breathing walls, a fractal constellation, dust in his mouth. Voice: "He hunts. She remembers. You awaken." Zedd confirms he heard it in the harmonic map.
 - Neuro-monitoring: Dr. Voss personally scans Adam. Increased parahippocampal activity. She slips him a paper note: "Look up: Cosmic Resonance." Parting words: "Orion has always been a hunter... but also a warning."
 - Artemis studies Orion myths — all sanitized in the ship's database. Writes in journal: "Edited gods are no gods at all."
-- Adam researches Cosmic Resonance through Free Orioneer back-channels. Finds Voss's pre-collapse papers: consciousness aligning with cosmic patterns, myths as quantum architecture, constellations as "synchronizing beacons."
-- Adam overlays his dream pattern on the ship schematic — key points align with the Central Sub-Matrix Core.
-- Artemis in the botanical pod meets Al-Farouk tending contraband jasmine. He gives her seeds. "Growing beauty in an artificial Eden is its own form of resistance."
-- Fashion exhibition "Becoming Mars" — MUSE.10 presents culturally appropriated designs stripped of meaning. Artemis sees through it. Adam monitors environment from above. Their eyes meet. Zedd: "She sees it too... the fracture."
-- Shared dream: they sense each other's presence across the void. Stars whisper "Remembrance."
-- *Establishes*: Dr. Voss as secret ally, Cosmic Resonance theory, deepening mystical connection, cultural erasure as policy, the 13-star pattern.
+- Adam researches Cosmic Resonance through Free Orioneer back-channels. Finds Voss's pre-collapse papers. **Search triggers a monitoring alert** — proxy compromise detected. Adam has to abort and evade.
+- Artemis in the botanical pod meets Al-Farouk tending contraband jasmine. He gives her seeds.
+- Adam and Kai compare dream pattern to ship schematics. **Proximity warning** interrupts — security patrol in adjacent corridor. They scatter.
+- Fashion exhibition "Becoming Mars" — MUSE.10 presents culturally appropriated designs. Their eyes meet across the atrium. **Virel notices the sight-line between them. Thorne opens a surveillance file: "Convergence pattern detected."**
+- Chapter ends with both Adam and Artemis awake, circling the same mystery from opposite ends of the ship. No dream — tension, not transcendence.
+- *Establishes*: Dr. Voss as secret ally, Cosmic Resonance theory, cultural erasure as policy, the 13-star pattern, **escalating surveillance danger**.
 
-### Chapter 8: Touchpoints
+### Chapter 9: Touchpoints
 - **POV**: Adam and Artemis (converging)
 - Botanical garden: first "accidental" meeting (both deliberate). Honest conversation about engineered wildness.
 - Second meeting by olive trees: personal revelations. Adam shares his California childhood, father's story. Artemis reveals her mother was killed for questioning selection protocols. Trust extended.
@@ -253,7 +248,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Thorne cross-references their movement patterns. "Overlap Detected." Files report for Virel's eyes only.
 - *Establishes*: The romance as mutual awakening, shared vulnerability, the danger of surveillance, Virel preparing to exploit the connection.
 
-### Chapter 9: The Shepherd's Calculation
+### Chapter 10: The Shepherd's Calculation
 - **POV**: Prince Virel
 - Virel's insomnia, biometric self-monitoring. The ship at night from his perspective.
 - Thorne delivers surveillance report: Adam and Artemis's movement patterns overlapping. Virel sees opportunity, not threat.
@@ -263,9 +258,9 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Nightly ritual: listening to his dead mother's last audio recording. A moment of grief his own systems can't classify.
 - *Establishes*: Virel's interiority, his intellectual sophistication, his mother's influence, the gap between his philosophy and his humanity. Gives the antagonist genuine depth before Act III.
 
-### Chapter 10: The Chamber of Light
+### Chapter 11: The Chamber of Light
 - **POV**: Adam and Artemis (unified)
-- Shared dream: "Find the center... Find each other."
+- Dream: Adam inside the ship's living nervous system — crystalline lattice, bioluminescent filaments, a presence at the gravitational core. Artemis in a room of star charts from an impossible vantage point, tracing a shape that becomes a door. No voice, no words — pure geometry and spatial certainty.
 - Artemis translates dream geometry onto her ship map — systematic irregularities around the gravitational mid-core.
 - Adam tracks power consumption anomalies — circular, rhythmic, "like a heartbeat." Overlays dream pattern. Decides he must see it tonight.
 - Separate descents toward the ship's core, converging at gravitational buffer zone 7-D.
@@ -276,10 +271,10 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - The panel seals behind them. "It will find us when necessary."
 - *Establishes*: The Chamber as the book's mystical center, the cosmic/alien intelligence, their relationship as archetypal (not just personal), the two possible futures for Mars.
 
-### Chapter 11: The Frame
-- **Content**: Aftermath of the Chamber. Adam and Artemis changed. Virel/Thorne close in. Adam is framed and arrested (the tribunal referenced in Ch 12). Rising tension between factions.
+### Chapter 12: The Frame
+- **Content**: Aftermath of the Chamber. Adam and Artemis changed. Virel/Thorne close in. Adam is framed and arrested (the tribunal referenced in Ch 13). Rising tension between factions.
 
-### Chapter 12: Blood Ties
+### Chapter 13: Blood Ties
 - **POV**: Artemis (with Voss coda)
 - Artemis confronts General Morea after intervening at Adam's tribunal (Ch 11).
 - Morea reveals Earth "management" plan: "genetic remediation through targeted resource allocation" — calculated genocide via resource withdrawal. "Mars needs to begin clean."
@@ -292,16 +287,16 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Adam in detention, reaching through consciousness toward the Chamber of Light connection.
 - *Establishes*: The genocide plan as the ultimate stakes, Artemis's complete break with the regime, Eli as guide to hidden ship, Voss as network activator, forced marriage as political weapon.
 
-### Chapter 13: The Serpent Rises
+### Chapter 14: The Serpent Rises
 - Adam's trial/detention. Introduction of Malik Nkosi, Ayaka Tanaka, Rosa Oliveira. Rescue or escape plan.
 
-### Chapter 14: The Lower Depths
+### Chapter 15: The Lower Depths
 - The Neural Sea — what it is, the extraction mission referenced in Ch 16. Discovery of Protocol Prometheus and the full Mars colonization blueprint.
 
-### Chapter 15: The Neural Sea
+### Chapter 16: The Neural Sea
 - Escalation. Virel's power play. Morea's Earth genocide timeline. The resistance prepares. Adam and Artemis reunite.
 
-### Chapter 16: Heart of the Ship
+### Chapter 17: Heart of the Ship
 - **POV**: Ensemble (centered on Adam and Artemis)
 - Full group enters the Chamber of Light: Adam, Artemis, Voss, Kai Chen, Sofia, Malik, Ayaka, Rosa.
 - Decrypted Neural Sea data reveals the complete Mars plan: concentric-ring caste system, psychological control architecture, Earth orbital genocide platforms, Protocol Prometheus (mandatory neural control at Mars arrival).
@@ -314,7 +309,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - "Let's rewrite the trajectory. Not just of the ship, but of what it means to be human."
 - *Establishes*: Full stakes revealed, the choice to resist, the Chamber's cosmic origin, collective awakening over individual heroism.
 
-### Chapter 17: Calculated Fall
+### Chapter 18: Calculated Fall
 - **POV**: Ensemble (Adam, Artemis, Virel, Morea)
 - Resistance prepares navigation bypass beneath the Chamber of Light. Artemis broadcasts resistance message through ship's meditation channels — neural circlet removal wave spreads through the ship.
 - Virel orders Protocol Chimera — full purge of resistance elements. Brutality escalates across lower decks.
@@ -323,53 +318,57 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Chapter ends at the moment of commitment — Morea's hand on the controls, the ship's alarms sounding.
 - *Establishes*: The factions' final cruelty, Morea's redemption through sacrifice, the shift from algorithmic certainty to human choice.
 
-### Chapter 18: Impact Horizon
+### Chapter 19: Impact Horizon
 - **POV**: Ensemble (consolidated crash chapter — combines old Chapters 17-18)
 - Resistance discovers Morea has seized manual control, initiating atmospheric entry. "He chose the fall."
 - Adam coordinates engineering efforts with Zedd's gallows humor providing relief.
 - Eli Abramov appears with original structural blueprints revealing hidden sanctuary zones.
 - Atmospheric entry: gravity failures, hull breach, cross-hierarchy cooperation (Thorne rescued by a sanitation worker he'd disciplined).
 - Eli leads Adam and Artemis through shadow corridors to the Chamber of Light.
-- Chamber activates preservation field. Impact occurs with catastrophic force.
-- Survivors emerge onto Mars. Morea extracted from wreckage, broken but alive.
+- Chamber activates preservation field. **Extended crash set piece**: visceral physics of impact — hull compression, habitat rings rolling and skipping, engine detonation, the preservation field compressing survivors together, fourteen seconds of destruction rendered in full sensory detail. Sound returns in layers. Zedd records the first Martian wind.
+- Survivors emerge onto Mars across an eleven-kilometer debris field. Morea extracted from auxiliary bridge wreckage, broken but alive.
 - *Establishes*: The crash as crucible that dissolves hierarchy, Eli's sanctuary architecture, the Chamber's protective function, humanity's arrival on Mars through catastrophe rather than plan.
 
-### Chapter 19: Red Dust Rising
+### Chapter 20: Red Dust Rising
 - **POV**: Ensemble
 - First full assembly of survivors. Dr. Voss presents survival data — oxygen, power, food reserves.
 - Neural Sea files broadcast to the entire population, revealing the factions' genocide plans and Protocol Prometheus.
 - Shock and anger catalyze collective organization.
 - *Establishes*: Truth as foundation for new society, the end of information control.
 
-### Chapter 20: Judgement in the Dust
+### Chapter 21: Judgement in the Dust
 - **POV**: Ensemble
 - Public tribunal for Prince Virel, who attempted to activate orbital weapons targeting Earth even after the crash.
 - Virel's defense: calculated genocide as "mercy." The assembly rejects it.
 - Debate over punishment vs. justice. Decision to include even former enemies in the new order.
 - *Establishes*: Collective justice without vengeance, the refusal to replicate old patterns of elimination.
 
-### Chapter 21: The Gathering Light
-- **POV**: Ensemble (consolidated from old Chapters 21-22)
-- Aurora phenomenon over the crash site. Survivors gather at the exposed Chamber of Light.
-- Faction symbols discarded — former insignia left in a pile. Ceremony of release.
-- Zedd's sampler moment: recording Mars sounds, building new music from a new world.
-- Transition into the first practical Mars Council meeting. Resource status, working groups forming.
-- Virel contributes silently — offering agricultural knowledge without seeking authority.
-- Governance proposals debated. No elevated platform, no rank.
-- *Establishes*: The ceremonial break with the old order AND the practical beginning of the new one, in a single chapter that moves from ritual to action.
+### Chapter 22: The Gathering Light
+- **POV**: Ensemble
+- **Expanded founding chapter** (~3,500 words, doubled from original).
+- Adam and Artemis preparing — tension about whether people will come, fear about what to say. Neither looks like a leader.
+- Amphitheater of mismatched salvage panels. Fires against minus-thirty cold. A thousand people gathering.
+- **Artemis's speech**: specific examples of unexpected cooperation, admission of her own complicity. Challenged by a D-Deck worker: "Then why should we listen to you?" — "You shouldn't. Listen because what I'm saying matches what you already know."
+- **Adam's speech**: rage as fuel, not framework. Trust as the opposite of control.
+- Aurora phenomenon. Chamber responds.
+- **Confessions with real weight**: security officer trembling, RSO technician who designed water compliance protocols ("I knew what was in it"), **Zedd's expanded moment** — his loss of Dara, the sampler as last connection. Not everyone participates — the D-Deck man stays seated, a woman turns her back, an officer walks out. "More honest than unanimity would have been."
+- **Mars Council**: dawn, bad numbers (19 days of water, 26 days of power), D-Deck man challenges allocation priorities. Orbital weapons platforms discussion (Virel's biometric key needed). Governance proposals: rotation, transparency, open disagreement.
+- **Adam and Artemis afterward**: "This is still the easy part." Adam thinking about his mother. Promise to send another message.
+- *Establishes*: The ceremonial break with the old order AND the practical beginning of the new one. Conflict and dissent within the founding moment. The founding as messy, contested, and real.
 
-### Chapter 22: Signals Across the Void
-- **POV**: Ensemble (consolidated from old Chapters 23-24 Mars sections)
-- Transmission prepared and sent to Earth — not a command but a record and an invitation.
-- Virel working irrigation channels (agricultural integration, not penance).
-- Sofia teaching children in the wreckage. Child Lina discovers spontaneous plant growth near the Chamber.
-- Zedd encodes Mars sounds into the transmission signal.
-- Artemis visits recovering General Morea — their reconciliation scene.
-- Adam thinks about his mother, composes a personal message.
-- Chamber illumination at dusk. The settlement's lights forming a new constellation.
-- *Establishes*: Connection between worlds, the new society taking root, thematic resolution, open-ended possibility.
+### Chapter 23: Signals Across the Void
+- **POV**: Ensemble
+- Transmission prepared and sent to Earth — complete Neural Sea files + Artemis's introduction.
+- Virel working irrigation channels — Jun-Ho teaching him to respond to what emerges rather than impose outcomes.
+- Lina (age 5) discovers spontaneous plant growth — the seed Adam planted has adapted to Martian soil. Jun-Ho: "The plant is rewriting itself."
+- **Adam's personal message to his mother** (expanded scene): alone in the communications alcove, recording and almost deleting it. Raw grief about the eight days of medication. Mentions Nneka, Artemis, the people who paid the most now doing the most to keep them alive. Gives recording to Zedd for the next transmission burst. Zedd put one in for Dara.
+- Zedd's sound portrait layered into the signal — wind, children's laughter, Chamber hum.
+- Night: jasmine cutting (from Al-Farouk's seeds) hasn't flowered yet but the leaves are green. Nneka at the southern perimeter, looking at Earth.
+- The settlement's scattered lights forming a new constellation. Earth visible as a small blue point.
+- *Establishes*: Connection between worlds, the new society taking root, personal grief alongside collective hope, open-ended possibility.
+- **Note**: Artemis-Morea reconciliation scene and Sofia-children lesson scene removed (kept in Ch 21 where they are fuller).
 
-### Chapter 23: The Blue Dot
+### Chapter 24: The Blue Dot
 - **POV**: Earth (Multiple — Carmen Ochoa, Renata Vidal, Director-General Tanabe)
 - Earth receives the Mars transmission 43 days after it's sent.
 - **Carmen Ochoa**: Elaine Hale's caretaker in a Los Angeles shelter. Hears Adam's name in the crew manifest. Carries the news to Elaine's bedside. Elaine's fingers tighten around her hand.
@@ -416,16 +415,16 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - **Key developments**: Ship hierarchy established, allies found, Lunar ceremony reveals Adam's talent, first connection with Artemis, the Archive discovered.
 - **Act I climax**: Adam's promotion to Team Alpha (opportunity/trap), Artemis taps back through the walls.
 
-### ACT II: AWAKENING (Chapters 5-12)
+### ACT II: AWAKENING (Chapters 5-13)
 - **Rising action**: Secret meetings, shared dreams, Virel's conspiracy revealed, the Free Orioneers.
-- **Virel's interiority**: Ch 9 (The Shepherd's Calculation) — antagonist POV establishing his philosophy and humanity before Act III.
-- **Midpoint**: Discovery of the Chamber of Light (Ch 10). Their union. Visions of two possible futures.
+- **Virel's interiority**: Ch 10 (The Shepherd's Calculation) — antagonist POV establishing his philosophy and humanity before Act III.
+- **Midpoint**: Discovery of the Chamber of Light (Ch 11). Their union. Visions of two possible futures.
 - **Complications**: Surveillance tightens, Adam framed and arrested, Artemis confronts her father.
-- **Act II climax**: Morea reveals the genocide plan. Artemis renounces him. She's confined; Adam's detained. The resistance activates (Ch 12).
+- **Act II climax**: Morea reveals the genocide plan. Artemis renounces him. She's confined; Adam's detained. The resistance activates (Ch 13).
 
-### ACT III: REVOLUTION (Chapters 13-23)
+### ACT III: REVOLUTION (Chapters 14-24)
 - **Crisis**: Neural Sea extraction reveals full scope of evil. Protocol Prometheus days away.
-- **Dark moment**: Adam's breakdown — confronting his own complicity (Ch 15).
+- **Dark moment**: Adam's breakdown — confronting his own complicity (Ch 16).
 - **Climax**: The plan to alter the ship's course. Confrontation with Virel and Morea. The Chamber's role.
 - **Resolution**: TBD — What becomes of the Orion, Mars, Earth, and the two people at the center of it all.
 
@@ -480,21 +479,22 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 | 3 | The Selection Ceremony | Written | Adam / Artemis |
 | 4 | Signal and Noise | Written | Adam / Artemis |
 | 5 | Fire in the Circuit | Written | Adam / Artemis |
-| 6 | Shadows Between Stars | Written | Multiple |
-| 7 | Gravity's Pull | Written | Adam / Artemis |
-| 8 | Touchpoints | Written | Adam / Artemis |
-| 9 | The Shepherd's Calculation | **New** | Virel |
-| 10 | The Chamber of Light | Written | Adam / Artemis |
-| 11 | The Frame | Written | — |
-| 12 | Blood Ties | Written | Artemis / Voss |
-| 13 | The Serpent Rises | Written | — |
-| 14 | The Lower Depths | Written | — |
-| 15 | The Neural Sea | Written | — |
-| 16 | Heart of the Ship | Written | Ensemble |
-| 17 | Calculated Fall | Trimmed | Ensemble |
-| 18 | Impact Horizon | Revised (consolidated) | Ensemble |
-| 19 | Red Dust Rising | Written | — |
-| 20 | Judgement in the Dust | Written | — |
-| 21 | The Gathering Light | Revised (consolidated) | Ensemble |
-| 22 | Signals Across the Void | Revised (consolidated) | Ensemble |
-| 23 | The Blue Dot | Written | Earth (Multiple) |
+| 6 | Shadows Between Stars | **Split** (political half) | Multiple |
+| 7 | Seeds of Resistance | **New** (resistance half of old Ch 6) | Adam / Zedd / Artemis |
+| 8 | Gravity's Pull | **Revised** (dream reworked, tension added) | Adam / Artemis |
+| 9 | Touchpoints | Written | Adam / Artemis |
+| 10 | The Shepherd's Calculation | Written | Virel |
+| 11 | The Chamber of Light | **Revised** (dream reworked) | Adam / Artemis |
+| 12 | The Frame | Written | — |
+| 13 | Blood Ties | Written | Artemis / Voss |
+| 14 | The Serpent Rises | Written | — |
+| 15 | The Lower Depths | Written | — |
+| 16 | The Neural Sea | Written | — |
+| 17 | Heart of the Ship | Written | Ensemble |
+| 18 | Calculated Fall | Trimmed | Ensemble |
+| 19 | Impact Horizon | **Revised** (crash scene expanded) | Ensemble |
+| 20 | Red Dust Rising | Written | — |
+| 21 | Judgement in the Dust | Written | — |
+| 22 | The Gathering Light | **Revised** (expanded to ~3,500 words) | Ensemble |
+| 23 | Signals Across the Void | **Revised** (duplicates removed, new material) | Ensemble |
+| 24 | The Blue Dot | Written | Earth (Multiple) |

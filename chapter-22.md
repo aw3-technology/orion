@@ -1,135 +1,189 @@
-# Chapter 22: Signals Across the Void
+# Chapter 22: The Gathering Light
 
 
 
-The first transmission signal pulsed across the darkness between worlds — a fragile beam of coherent light, stretching from the makeshift communications array on Mars toward the distant blue planet that had once been home. Dr. Voss stood beside the device, her synthetic eyes tracking data streams only she could perceive.
+The Martian sunset painted the wreckage of the Orion in shades of crimson and gold, transforming jagged metal into accidental sculpture. Two weeks had passed since the crash landing, and what had once been chaos was slowly becoming order, not the rigid hierarchy of the ship's previous existence, but an order organic and necessary. Makeshift shelters dotted the landscape, constructed from salvaged hull sections and habitat modules. The thin Martian atmosphere carried the scent of iron and dust, and most of those moving between shelters wore salvaged breather masks pushed up on their foreheads or dangling around their necks, ready to clamp on when exertion made the marginal oxygen insufficient.
 
-"Signal integrity at eighty-seven percent," she reported. "Earth receivers should detect it within approximately forty-three days."
+"It's time," Artemis said to Adam. They stood at the edge of what they now called Haven, the cluster of shelters around the exposed Chamber of Light that had become the settlement's de facto center.
 
-The communications array embodied their transformed approach to technology. Salvaged components repurposed through collaborative effort — Rising Sun Order engineers alongside Nations Union technicians, elite passengers contributing specialized knowledge while maintenance crew provided practical implementation. The result bore the marks of many hands rather than algorithmic perfection.
+He didn't answer immediately. He was watching the people below: hundreds of them making their way toward the chamber, moving in twos and threes across the uneven terrain. Some carried children. Some carried injuries. All carried the particular watchfulness of people who had not yet decided whether the world they'd landed in was a beginning or a slow ending.
 
-Adam adjusted the final power coupling. "Power consumption stable. The solar array is generating sufficient output for the projected duration."
+"I don't know what to say to them," Adam admitted.
 
-The transmission contained the complete Neural Sea files — unfiltered evidence of what the factions had planned for both Mars and Earth. Not accusation but acknowledgment. Artemis had recorded a brief introduction, her face dust-covered and exhausted but carrying unmistakable conviction: "You were never meant to thrive. You were meant to serve — or die. But now, you know the truth."
+"Say something true. That's all any of us can do tonight."
 
-When the initial sequence completed, the gathering dispersed with quiet recognition of responsibility fulfilled.
+"That's easy for you. You were trained for speeches."
 
-"Do you think they'll respond?" asked a young engineer.
+"I was trained for propaganda." Artemis's jaw tightened. "This is different. And it terrifies me."
 
-Kai Chen answered before anyone else could. "We're just telling them what happened. What we found." He paused. "What they do with it — that's theirs."
+They looked at each other: dusty, exhausted, sunburned by ultraviolet radiation the thin atmosphere did little to filter. Adam's hands were blistered from two weeks of construction work. Artemis's hair, once maintained with military precision, was tied back with a strip of hull insulation. Neither of them looked like a leader. Both of them had become one anyway.
 
----
-
-In the days that followed, the settlement found its rhythm — not the mechanical efficiency of the Orion's systems but something more organic, driven by necessity and shaped by the uneven contours of Martian terrain and human temperament.
-
-Adam noticed the change in Virel before anyone mentioned it. The former prince of the Rising Sun Order was working irrigation channels between the main water reclamation system and the expanding agricultural sector, stripped to a standard work shirt, his hands caked in reddish-brown soil. His movements lacked the algorithmic precision that had once characterized everything about him — instead, there was hesitancy, a constant readjustment, the look of a man whose body was learning tasks his mind had always delegated.
-
-"He asked to join the agricultural team specifically," Artemis observed, standing beside Adam near the settlement's central path. "No one assigned him there."
-
-"Growing things requires different knowledge than optimizing systems," Adam said. "You have to respond to what emerges rather than imposing predetermined outcomes. Nothing could be further from Neural governance philosophy."
-
-They watched as Virel paused in his digging, exchanged a few words with Jun-Ho Kim — the agrigeneticist who had once grown contraband seedlings in the ship's hidden spaces. Jun-Ho pointed to something in the soil. Virel knelt to examine it, and from thirty meters away, Adam could see the slight shift in his expression — not wonder, exactly, but the absence of calculation. A face encountering something it couldn't immediately classify.
-
-"Perhaps that's precisely why he chose it," Artemis said. "Not as penance but as education."
+"Let's go," he said.
 
 ---
 
-Sofia Reed gathered children in an open area near the Chamber of Light — some from elite families, others born secretly in the lower decks, all equal beneath Martian sky. Using a section of salvaged hull metal as a writing surface, she conducted their first lesson on this new world.
+Kai Chen had constructed a circular arrangement of salvaged panels around the chamber entrance, creating a natural amphitheater. The panels were mismatched: a section of polished A-Deck wall leaning against bare hull plating from the engine core, a viewport frame holding no glass propped beside a cargo door. The materials of the old world repurposed without regard for their former status.
 
-"Why does the air look red sometimes?" asked a girl of perhaps seven.
+Small fires burned at intervals against the cooling Martian night, fed by chemical fuel blocks from the emergency stores. The air temperature had dropped to minus thirty and was falling. People huddled close to the flames, sharing thermal blankets salvaged from medical stores. Breath condensed in visible plumes.
 
-"Iron oxide — rust — suspended in the atmosphere," Sofia explained. "The same substance that gives Mars its color."
+The crowd was larger than Adam had expected, close to a thousand, maybe more. Children who had been born in secret aboard the Orion chased each other around the fires, mixing without hesitation with children from elite families. Former security officers helped elderly survivors navigate the uneven terrain. A woman with a Rising Sun Order tattoo on her wrist passed a flask of heated water to a man still wearing the remnants of a D-Deck maintenance uniform.
 
-"Are we Martians now?" questioned a boy who had been born aboard the Orion.
+But Adam also saw what lay beneath the surface cooperation. A cluster of former officers standing slightly apart, arms folded, faces closed. A group of lower-deck workers who eyed the officers with unconcealed hostility. Two women arguing in low voices near the perimeter. The settlement's unity was real but fragile, a truce born of shared emergency rather than shared conviction.
 
-Sofia considered this. "We're humans who live on Mars. What that makes us is something we'll discover together."
+Artemis took her position near the chamber entrance, not on an elevated platform but simply standing where all could see her. Adam remained nearby but slightly apart. Dr. Voss, Sofia, and Kai positioned themselves at different points around the circle.
 
-It was one of the children who made the discovery. A girl named Lina, barely five, appeared at the Chamber of Light carrying something in cupped hands, trailed by several other children and Sofia Reed.
+When silence settled (unevenly, in patches, conversation dying down as attention converged), Artemis spoke. Her voice carried in the thin air with startling clarity.
 
-"They wanted to share their discovery," Sofia explained.
+"Two weeks ago, I stood in front of a camera and told you the truth about what our leaders had planned. I was angry. I'm still angry." She paused, and her jaw unclenched, the armor loosening. "But anger is easy. What's hard is this part. The part where we figure out who we are when nobody's telling us."
 
-Lina opened her hands to reveal several tiny green shoots emerging from Martian soil — the first spontaneous growth beyond their cultivated gardens. Life adapting to alien environment without human direction.
+She moved closer to the chamber's crystalline core. "I've spent these two weeks watching people surprise me. A soldier from my father's guard, a man I'd never spoken to, spent three days hand-digging a latrine trench because the ground was too frozen for the excavator. A Neural programmer rewired a heating unit for the children's shelter using parts from her own enhancement hardware. Nobody ordered them. Nobody logged it. They just did it."
 
-"It was just there," Lina explained. "Nobody planted it. It decided."
+She looked down at her hands. "I keep thinking about that. About all the things people do when the system stops watching. I was raised to believe that without structure, without hierarchy, people would turn on each other. The last two weeks have made a liar of that belief."
 
-Adam knelt to examine it. "Life always finds pathways. Even in places we thought couldn't support it."
+A voice from the crowd: "Then why should we listen to you?"
 
-Nearby, Zedd sat cross-legged beside the communications array, adjusting levels on a small recorder patched into the system. He'd captured the child's voice — the wonder in those three words — and layered it beneath a low harmonic pulse from the Chamber.
+Artemis didn't flinch. The speaker was a heavyset man near the back, his face scarred from the crash, his arms folded across a chest still bearing the ghost-lines of a D-Deck work uniform.
 
-"Every transmission needs a heartbeat," he murmured. "Let Earth hear us breathing."
+"You shouldn't," she replied. "Not because I'm speaking. Not because of who I was. Listen because what I'm saying matches what you already know."
 
-He added one more sound — a burst of children's laughter from earlier in the day, chasing dust devils through the perimeter fields. With that, he pressed the final encode. A message not just sent but felt.
+The man didn't respond, but he didn't leave either. The silence that followed felt more honest than anything scripted could have been.
+
+Dr. Voss stepped forward. "The chamber beneath us exhibits quantum properties that defy conventional classification. It responds to collective human consciousness, amplifying shared intention rather than hierarchical direction. This is not mysticism. It is measurable, observable, and it predates our arrival on this planet by millennia."
+
+Sofia Reed added historical framing. "Throughout human history, transformative change has been preceded by collective gatherings around shared recognition, something felt in the body, not just understood in the mind."
+
+Kai Chen addressed the practical, because someone had to. "What we build here will reflect who we are becoming. The technical challenges are substantial: food production, life support, habitat construction. But the human challenges are more fundamental. Creating decision processes that don't recreate the hierarchies that failed Earth."
+
+Then Adam stepped forward. He had not planned what to say. Now, standing before a thousand people on a dead planet, he simply opened his mouth and said what was true.
+
+"I've been thinking about what happens after the anger runs out."
+
+His voice came out rougher than he'd intended. He cleared his throat and continued.
+
+"Rage got us here. It cracked the system open. It fueled resistance when compliance would have been easier. I wouldn't be standing here without it. But rage is fuel, not framework. You can't build with it."
+
+He paused. The firelight caught his face, throwing sharp shadows.
+
+"What I've learned — what this place keeps teaching me — is that the opposite of control isn't chaos. It's trust. Messy, imperfect, constantly renegotiated trust. I've spent these two weeks hauling wreckage and digging latrines and watching people I used to hate work beside me without being ordered to. And I keep waiting for someone to tell me what to do: someone to assign the tasks, enforce the schedule, punish the violations. No one does. And the work gets done anyway."
+
+He looked across the gathering: faces he knew, faces he didn't, faces marked by grief and exhaustion and the particular stubbornness of people who refuse to die on schedule.
+
+"We are collaborative, creative, contradictory, complex. We don't need perfection. We need honest participation. We need each other."
+
+As he spoke, something unexpected began above the gathering. Adam saw it first in the upturned faces: mouths falling open, eyes widening, the particular stillness that precedes awe. He looked up.
+
+The thin Martian atmosphere had begun to glow. Not uniformly; in ribbons and curtains of pale light that rippled across the sky like silk in slow wind. The colors shifted from blue-white to amber to a green so deep it was almost black. The patterns formed recognizable shapes: first the Orion constellation, each star pulsing in sequence, then structures that resembled the symbols on the chamber walls, then configurations no one could name.
+
+The chamber beneath their feet responded. Its crystalline core brightened, the pulse accelerating to match the rhythm of the aurora above. The ground hummed, a low, subsonic vibration that Adam felt in his teeth and his sternum.
+
+Dr. Voss pulled a handheld scanner from her belt, her synthetic eyes cycling rapidly. "No atmospheric condition can explain this. The patterns demonstrate coherence beyond known natural phenomena. The chamber is responding. Or initiating. I can't determine which."
+
+A thousand people stood beneath an alien sky and watched light perform for them. No one spoke. For perhaps two minutes, there was no division in the settlement: no faction, no rank, no history. Only the shared experience of witnessing something that exceeded every framework they had brought with them from Earth.
+
+In this moment of collective wonder, a former Nations Union security officer stepped forward. He was shaking. His hands trembled as he removed his insignia badge and placed it on the ground at the chamber's edge.
+
+"I enforced protocols I never fully understood," he said, his voice barely carrying. "I watched things happen. I did things. I told myself it was order. It was duty." He pressed his palms against his thighs to still them. "I see now what that acceptance cost others — and what it cost me."
+
+A Rising Sun Order technician joined him, a young woman who removed a neural enhancement component from behind her ear, wincing as the interface disengaged, and set it beside the badge. "I believed optimization would create paradise. I confused technological sophistication with actual progress. I helped design the compliance protocols for the water supply." Her voice broke. "I knew what was in it."
+
+The quiet after her words was dense with held breath and suppressed judgment. Adam saw faces harden in the crowd, people who had been on the receiving end of those protocols, whose agency had been chemically curtailed without their knowledge or consent. The forgiveness implied by this ceremony was not universal.
+
+Then Zedd stepped forward, scratching the back of his neck. "I don't have a badge to give. No rank. No enhancement. Just this." He pulled out his battered sound sampler (surface scorched, display cracked, one corner melted from the crash, still glowing faintly with its stubborn green light). "This thing helped me survive the ship. Not because it did anything useful. But because it reminded me we could make beauty out of broken loops." He placed it among the discarded artifacts.
+
+"Someone told me once that every space has a voice if you know how to listen. That buildings remember the people who pass through them." He paused, and his usual deflective humor was absent, replaced by something exposed and careful. "She didn't make it aboard. Two points on a selection composite separated us. Two points and a bureaucrat's ranking of which skill mattered more." He swallowed. "I put this sampler here because it's the last thing I own that connects me to the person who taught me to hear. And I want to start hearing this world the way she heard the old one, with everything. Not just the parts that are easy."
+
+He stepped back. The silence that followed was longer than the others, not because his confession was the most dramatic, but because it was the most recognizable. Loss without crime. Grief without villain. The quiet catastrophe of a system that sorted human beings like data and called the remainders acceptable.
+
+Adam reached into his jacket and felt the small metal tablet Eli had given him, the etched tree with ten branches, still carrying traces of epoxy on one edge. He placed it beside the other objects. "From the man who built the real ship underneath the one they showed us."
+
+Others came forward. A doctor who had administered compliance compounds under orders. A navigation officer who had falsified course data. A sanitation worker who had nothing to confess but wanted to say the names of the three family members who hadn't been selected. He spoke their names into the Martian air and then returned to his seat and wept without sound.
+
+Not everyone participated. The heavyset man who'd challenged Artemis stayed where he was, arms still folded. A woman near one of the fires turned her back to the proceedings and stared at the horizon. A former officer walked away entirely, his boots crunching on the frozen soil, his shoulders rigid with something that might have been contempt or shame or both.
+
+This, Adam thought, was more honest than unanimity would have been.
 
 ---
 
-Artemis made her way to the low-gravity shelter where General Morea was recovering. His physical condition remained precarious — broken bones, internal trauma, neural disruption from impact forces. Medical equipment monitored his vitals with precisely calculated intervention.
+The ceremonial gathering gave way, without formal transition, to something harder.
 
-His eyes opened as she approached — still sharp despite everything.
+Dawn found many still present, though the fires had burned low and the temperature had dropped to a point where exposed skin risked frostbite within minutes. People had drawn closer together for warmth, the physical intimacy of shared cold doing what rhetoric alone could not. As pale sunlight cast long shadows across the debris field, the circle reformed around different questions entirely.
 
-"Daughter."
+Dr. Voss began with the numbers, and the numbers were bad.
 
-"Father."
+"Water reclamation efficiency is at sixty-four percent of minimum requirements. At current consumption rates, we exhaust reserves in nineteen days. Power generation from salvaged solar cells will sustain basic life support (heating, oxygen supplementation, medical equipment) for approximately twenty-six days. Medical supplies, particularly antibiotics, require strict conservation. We have lost four people to infection this week alone."
 
-Silence extended between them — not comfortable but necessary, the weighted pause of accumulated history.
+The weight of those figures settled across the gathering. The aurora was gone. The sky was the color of dried blood. The wind carried iron dust that stung the eyes and coated the throat. Whatever the ceremony had been (beautiful, necessary, real), it changed nothing about the fundamental arithmetic of survival.
 
-"I heard about Virel's tribunal," he said, each word requiring effort. "An interesting precedent."
+"The reclamation system from Habitat Section 4 is mostly intact," offered a former maintenance worker, his voice gaining confidence as he spoke in his area of expertise. "With modifications, we could increase efficiency by fifteen percent. Maybe eighteen."
 
-"Not my society. Our shared attempt at something different."
+"I can help with that," added a Rising Sun Order engineer. "The sealing compounds we need should be salvageable from the command deck wreckage. I know where they stored them."
 
-He attempted a gesture his injuries prevented. "I would have executed him. Cleaner. More certain."
+"Who decides the allocation priorities?" asked the heavyset man. He was still there, still skeptical, but engaging now. "Because fifteen percent improvement doesn't mean anything if the same people from A-Deck get first access."
 
-"I know. That approach created the systems we're now trying to transcend."
+"Nobody gets first access," Kai said. "Need-based distribution. Children, medical cases, labor teams, in that order. Same food, same water, same air. That's the baseline."
 
-Another silence. When Morea spoke again, his voice carried unfamiliar uncertainty.
+"Easy to say when you're standing next to her." The man jerked his chin at Artemis. "Some of us have been equal our whole lives. Some of you are just getting started."
 
-"I saw such clarity in the order we created. Structure. Purpose. Direction."
+The tension in the circle tightened. Adam saw Artemis absorb the comment without visible reaction, but the set of her jaw said she understood its weight.
 
-"And the human cost?"
+"He's right," she said quietly, and the man blinked. "I can't undo where I came from. I can show up here every morning and do the work. That's all I've got."
 
-"Acceptable given alternatives," he replied automatically, then paused. "Necessary, I believed. Until it wasn't."
+The discussion continued as the sun climbed higher. Working groups formed organically around specific challenges: food production, shelter construction, medical care, environmental monitoring. Expertise surfaced from unexpected sources: a former A-Deck passenger who had been a structural engineer before the selection, a child psychologist who organized the first play group, a former galley worker who figured out how to make the nutrient paste palatable using Martian mineral salts.
 
-His gaze shifted to the ceiling. "I failed to see individuals within the system — saw function, saw purpose, saw utility. Failed to see..."
+General Morea's contributions arrived secondhand, relayed by the physician who monitored his recovery: tactical observations about sight lines and defensible positions, applicable now not to factional warfare but to protection against the planet itself.
 
-"You were trying to protect a future," Artemis offered. "You just forgot who it was meant for."
+Prince Virel remained silent through most exchanges. He sat at the edge of the circle, his position neither prominent nor hidden. When he finally spoke, offering specific technical information about the salvaged communication array's frequency ranges, his contribution was neither rejected nor privileged. Just incorporated. He said nothing else. He left when the working groups dispersed, walking toward the irrigation trenches where he'd been assigned.
 
-Something in his expression shifted — a tightness releasing.
+Voss raised one additional item before the practical discussions could close. "The orbital weapons platforms." The circle went quiet. "Virel's activation attempt was interrupted, but the platforms themselves remain in geocentric orbit. Their targeting systems are autonomous; once armed, they don't require a ground signal to fire. They require one to stand down."
 
-"What will you build here?" he asked, genuine curiosity replacing habitual authority.
+"Can we reach them from here?" Kai asked.
 
-"Something that acknowledges our interdependence rather than enforcing artificial hierarchy. Something that values adaptation over control. Something that remembers Earth rather than abandoning it."
+"Not with current equipment. The command frequency is encrypted to Virel's biometric signature, and the transmission power required exceeds anything we've salvaged." Voss paused. "But the platforms have a design limitation: their power cells were rated for eighteen months of standby. After that, they go dark permanently. We're at month fourteen."
 
-"Ambitious. Perhaps impossible."
+"So we have four months of existential threat hanging over Earth," Sofia said flatly.
 
-"Perhaps. But necessary to attempt regardless."
+"Unless we can build a transmitter powerful enough to send the deactivation code, which would require Virel's cooperation with the biometric key." Voss looked toward the perimeter. "Another reason his survival matters."
 
-When she rose to leave, Morea reached toward her with effort that caused visible pain.
+The implication settled over the group. Virel's knowledge wasn't just historical record; it was the only key to disarming weapons that could still kill billions.
 
-"I never saw you," he said. "Saw the symbol, the continuation, the implementation. Never fully saw you."
+"I propose we formalize this as the Mars Council," Artemis said. "Not as governing authority but as coordination framework. A place to share information and make decisions. Open to anyone who shows up."
 
-She took his outstretched hand briefly. "There's time yet. Rest now."
+"Rotation of facilitation responsibilities," suggested a former ship engineer. "No single person manages the process continuously. No permanent chairs. No titles."
+
+"Documentation accessible to all," proposed Sofia. "No classified information. No restricted files. Transparency as foundation."
+
+"And if someone disagrees with a decision?" asked the heavyset man. He was testing, still, but his tone had shifted from confrontation toward something like genuine inquiry.
+
+"Then they say so. Here. In front of everyone." Artemis met his gaze. "Disagreement isn't the enemy. Silence is."
+
+As working groups dispersed toward their various tasks, Zedd appeared near one of the smaller fires. He'd retrieved his sound sampler from the pile of discarded artifacts ("not taking it back," he clarified to no one in particular, "just borrowing it from history") and had rigged it to a salvaged speaker core. He pressed play. The sound that emerged was layered and strange: Orion engine noise, filtered through harmonic processing, overlaid with recorded Martian wind. The ship's last song, blending into the planet's first.
+
+"If we're gonna reinvent the world," he said, half-smiling, "we may as well give it a soundtrack."
 
 ---
 
-Night settled over the landscape, bringing temperature drops that required cooperative shelter arrangements. Around improvised heating units, people who had occupied separate worlds aboard the Orion shared physical space. Former security personnel sat alongside maintenance workers. Children from elite families played with those born secretly in lower decks.
+Artemis found Adam afterward, sitting alone on a section of collapsed hull that had become an unofficial observation point. The view extended across the full debris field: eleven kilometers of wreckage being slowly transformed into something that resembled, if you squinted, a settlement.
 
-Adam and Artemis sat near the Chamber of Light, whose crystalline structure emitted soft illumination supplementing the settlement's limited power. Exhaustion marked both their faces.
+"It worked better than I expected," he acknowledged as she sat beside him.
 
-"I keep thinking about my mother," Adam said quietly, his gaze directed toward the horizon where Earth would be visible once darkness fell. "Whether she's still alive. Whether she might somehow hear what we've sent."
+"Parts of it did. Oduya walked out during the confessions. Lena Vasquez refused to come at all."
 
-Artemis placed her hand on his shoulder. "The message isn't just data. It's connection across void. Even if she doesn't receive it directly, something of your truth is moving toward her."
+"Can't blame her."
 
-The Chamber pulsed with subtle illumination, its walls displaying constellations matching those visible in the sky above — with subtle variations suggesting alternative perspective. Among them, the Orion constellation appeared most prominently, transformed symbol incorporating both the hunter and the mission without reduction to either.
+"No." Artemis was quiet for a moment. "This is still the easy part. Establishing process when the alternative is obvious catastrophe."
 
-"We've been asking what message to send Earth," Artemis observed, "when perhaps the more important question is what message we're receiving here."
+"The real test comes when we're not facing immediate extinction. When security allows the luxury of disagreement."
 
-Adam considered this. "Not conquest but conversation. Not establishment but response."
+"Or when the first real resource shortage hits and someone has to decide who goes without."
 
-Around them, smaller groups formed for specific activities — skill sharing, storytelling circles, planning discussions. Not organized through central authority but emerging from recognized needs. The settlement's scattered lights created their own constellation against the Martian darkness — points of human persistence in a landscape that had never known such presence.
+They sat with that. Below them, a crew was stretching thermal sheeting over a new shelter frame. The sheeting had been the Aetherium Atrium's display ceiling, the same surface that had projected MUSE.10's fashion show propaganda. Now it would keep the cold off twenty people while they slept.
 
-The transmission signal continued its journey through interplanetary void — fragile yet persistent. Whether received or lost, understood or rejected, its sending represented choice rather than inevitability, relationship rather than separation.
+"I keep thinking about my mother," Adam said quietly. "Whether she heard the transmission. Whether she's still alive. Whether she'd recognize me now, standing up in front of a thousand people, talking about honest participation." He gave a small, self-deprecating laugh. "She'd probably tell me to stop speechifying and go fix something."
 
-A small plant pushed through Martian soil, reaching toward stars it could not comprehend yet somehow recognized. A community formed around principles that hierarchical systems had dismissed as inefficient yet which proved essential for survival.
+Artemis put her hand on his. "We'll send another message. A real one. With your voice."
 
-Earth watched from distant orbit, awaiting not judgment but reconnection.
+He nodded but didn't speak. Some silences between them had become more articulate than words.
 
-The signal continued its journey across the void.
+Around them, the settlement continued its slow, contested self-organization. People argued about water ratios and shelter assignments. A fistfight broke out near the food distribution point and was broken up by a former security officer and a sanitation worker, working together without discussion. The process was messy, incomplete, imperfect. But it was theirs.
+
+People were calling it the Gathering Light, though nobody had named it formally. The work crews headed out. The fires burned low. By midmorning the amphitheater was empty except for ash and bootprints in red soil, and the pile of discarded insignia still sitting at the chamber's edge: badges and neural components and one battered sound sampler, which Zedd would retrieve again before nightfall, because some things you can't give away no matter how much the gesture costs you.

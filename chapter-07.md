@@ -1,241 +1,179 @@
-# Chapter 7: Gravity's Pull
+# Chapter 7: Seeds of Resistance
 
-*The body obeys mass. The soul answers to something stranger.*
+*In the spaces the machine cannot see, life finds its own architecture.*
 
-Adam floated in a black expanse without boundary or reference, suspended in a darkness so complete it erased the distinction between open and closed eyes. The emptiness stretched in all directions, yet he felt no fear—only a profound sense of anticipation, as if the void itself were holding its breath.
+"Watch your head," Kai Chen warned as he led Adam through a maintenance duct that hadn't appeared on any official schematic. "This section was modified during construction, marked as a dead space in the final blueprints."
 
-Then, one by one, stars appeared. Not randomly scattered as in the night sky, but purposefully, with deliberate precision. They formed a pattern he recognized instantly: Orion, the hunter. But something was wrong—or perhaps right in a way he'd never before seen. The constellation was inverted, its orientation shifted, containing thirteen points of light instead of the traditional seven.
+Adam ducked beneath a low-hanging conduit, following the older engineer through the cramped passage. They had been walking for nearly fifteen minutes, taking a circuitous route through the ship's maintenance infrastructure that seemed designed to confuse rather than connect.
 
-The stars pulsed in unison, a visual rhythm like a heartbeat made of light. Though there was no sound in this space, Adam felt each pulse resonate through him, a vibration that bypassed his ears and spoke directly to something deeper.
+"How much farther?" Adam asked, his voice low despite the unlikelihood of surveillance this deep in the ship's underbelly.
 
-A voice, neither male nor female, whispered from everywhere and nowhere: *"He hunts. She remembers. You awaken."*
+"Almost there," Kai replied. "Keep close."
 
-The words carried a weight beyond their meaning, a vibration that triggered recognition of something ancient and vital. The inverted Orion continued to pulse, as if transmitting a code he was meant to understand.
+They reached what appeared to be a standard junction box, unremarkable except for the slight discoloration around its edges. Kai placed his palm against the metal surface, and a hidden panel slid aside, revealing a numerical keypad. He entered a sequence too quickly for Adam to follow, and a section of the wall receded with a soft hydraulic hiss.
 
-Adam woke with a violent start, his body drenched in sweat despite the precisely controlled temperature of the crew dormitory. Disorientation swept through him—the solid bunk beneath him felt wrong after the weightless suspension of the dream. His inner ear struggled to reconcile the abrupt transition, sending waves of vertigo through his consciousness.
+"After you," Kai gestured.
 
-The dream remained unusually vivid, refusing to dissolve with wakefulness. Carefully, so as not to disturb his still-sleeping bunkmates, Adam reached for the small notebook he kept hidden beneath his thin mattress. He sketched the inverted Orion pattern with quick, precise strokes, marking the thirteen stars and their connections—a constellation he'd never seen in any astronomy text but which now felt more familiar than his own reflection.
+Adam stepped through the opening into a space that shouldn't exist. The chamber was approximately twelve meters across, its ceiling high enough to stand comfortably. Unlike the utilitarian passages they had traversed to reach it, this space had been purposefully modified: power routed through dummy systems, ventilation disguised as routine circulation, thermal signatures masked by carefully calibrated interference patterns. Every piece of equipment had been assembled in place from components small enough to carry through maintenance ducts: nothing wider than a human torso, nothing heavier than one person could manage. Kai had explained the logistics once: parts requisitioned as replacements for systems that didn't need replacing, scavenged from decommissioned hardware the ship's inventory had already written off, or built from scratch using tools smuggled in over months. The surveillance state saw what it expected (maintenance workers carrying maintenance supplies through maintenance corridors) and the gap between what was expected and what was actual had become a room.
 
-From across the dorm, a whisper drifted through the dark. "You saw it too."
+Most surprising was not the room itself but who occupied it. A dozen people, maybe more. Adam recognized some from the crew mess hall, others only by the sectors stamped on their uniforms. They occupied the space with the focused quiet of people doing work that mattered to them: someone hunched over seedling samples in a modified agricultural testing unit, another calibrating communication equipment with bare-handed deftness, Zoe from hydraulics running simulations on a screen she'd clearly built from scavenged parts.
 
-Adam paused, pencil hovering mid-arc. Zedd lay on his side, half-shadowed, one headphone still in, the other dangling loose. His voice was soft but clear, like a tone meant not to be recorded.
+Sofia Reed watched him from a makeshift workstation, sharp eyes tracking his reaction the way a teacher monitors an exam.
 
-Adam turned slightly. "The constellation?"
+Beside her, a man in a sanitation worker's uniform looked up from a data tablet.
 
-Zedd nodded, barely visible in the low light. "Thirteen points. Inverted. Been hearing it in the harmonic map for a week. I didn't understand the pattern until now." He tapped his fingers against the edge of the bunk frame—twelve light beats, then a pause. The thirteenth hung in the silence like a question.
+"Mohammed Al-Farouk," Kai said.
 
-Adam looked back at the sketch. The lines felt alive beneath his hand.
+"You're the one who broke the ceremony," Al-Farouk said, extending his hand without standing.
 
-As he completed the drawing, a strange certainty settled over him: something had been activated, a process set in motion that could not be reversed. Whatever gravity had held him in place was shifting, pulling him toward unfamiliar terrain.
+"I fixed a sound system."
 
-Zedd whispered one more time before falling back into silence: "Whatever it is… it's calling both of us now."
+"You replaced an algorithm with something it couldn't produce. That's not repair work." He tilted his head. "That's a philosophical position. Whether you intended it as one or not."
 
----
+Adam looked around the chamber: communication equipment, data storage, laboratory gear, agricultural samples. People working without supervision or permission, in a room the ship's systems didn't know existed.
 
-"Third neuro-monitoring check this cycle," observed the medical technician, reviewing Adam's file with a small frown. "That's unusual. Have you reported any symptoms? Sleep disturbances? Cognitive anomalies?"
+"What is this place?"
 
-"Nothing out of the ordinary," Adam replied with practiced neutrality. "Just following the summons."
+"We document," Kai said. "What's really happening on Earth, what's really planned for Mars. We maintain communication channels back to resistance movements on the surface. And we prepare."
 
-The technician nodded and gestured toward a scanning chamber. "Dr. Voss will oversee this one personally."
+"For what?"
 
-Adam couldn't hide his surprise. Elara Voss, Chief Medical and Science Officer, typically delegated routine scans to her staff. Her direct involvement suggested either special interest or concern—neither particularly comforting.
+"For when knowing the truth isn't enough anymore," Sofia said. She held up a data tablet with visible security modifications. "Not through violence; we haven't got the numbers. Through strategic intervention in systems we understand better than anyone in A-Deck."
 
-The examination room was standard medical issue—sterile surfaces, minimal decoration, equipment designed for function rather than comfort. Adam settled into the scanning chair, preparing for the familiar procedure: electrodes attached to specific points on his scalp, a brief tingling sensation as neural activity was mapped and compared against baseline parameters.
+Adam processed this, his technical mind automatically calculating risks, vulnerabilities, possibilities. "You're talking about sabotage."
 
-Dr. Voss entered with quiet efficiency. Tall and fair-skinned with distinctly Nordic features, her most striking characteristic was her eyes—synthetic replacements that glowed with a subtle inner light, their irises shifting between blue and gray depending on the angle of observation. Despite her high rank within the Nations Union's hierarchy, her manner lacked the cold authority typical of top officials.
+"We're talking about options," Al-Farouk corrected mildly, as if proposing a seminar topic rather than insurrection. "Right now there's one plan for Mars. One trajectory, one set of architects, one vision. We'd like there to be more than one."
 
-"Technician Hale," she acknowledged, her voice softer than expected. "How are you sleeping?"
+Sofia handed Adam the tablet. "This is why you're here. You've got access none of us have, and you've already shown you can think past what's in front of you."
 
-The question, though seemingly routine, carried an undercurrent that put Adam on alert. "Well enough," he answered cautiously.
+Adam looked down at the screen, finding himself staring at a schematic of the Orion, but not one he recognized from any official documentation. This map showed sections and pathways absent from the blueprints he'd studied during his maintenance training. Some areas were highlighted with annotations, others marked with questions or warnings.
 
-Dr. Voss initiated the scanning sequence, her movements precise and practiced. Adam felt the familiar tingling as the equipment mapped his neural activity. The doctor watched the data flow across her display with unusual intensity, occasionally adjusting parameters in a way that suggested she was looking for something specific.
+But one section near the ship's core drew his immediate attention: a circular chamber labeled simply "Central Sub-Matrix Core."
 
-"Your patterns show increased activity in the parahippocampal regions," she observed. "Typically associated with spatial navigation and memory encoding."
+"What is this?" he asked, pointing to the mysterious designation.
 
-"Is that a problem?" Adam asked.
+The Free Orioneers exchanged significant glances before Sofia answered.
 
-Dr. Voss studied him for a long moment before responding. "Dreams don't mean disorder. Not always." She paused, glancing briefly toward the door. "Some dreams are echoes of the structure that underlies reality."
+"That's what we're trying to determine," she said carefully. "It's heavily shielded, consumes massive power, and doesn't correspond to any known ship function. Access is restricted to the highest security clearance."
 
-The statement was so unexpected, so outside standard medical protocol, that Adam wasn't sure he'd heard correctly. Dr. Voss leaned closer, ostensibly adjusting an electrode, and withdrew a small piece of actual paper from her pocket—a rarity in the digital environment of the Orion. She pressed it into his hand while maintaining eye contact.
+"And you think I can help you figure it out?" Adam asked skeptically.
 
-"Look up: Cosmic Resonance," she said, so quietly he had to strain to hear.
+"Your new assignment to Environmental Systems Team Alpha gives you legitimate access to sectors adjacent to the core," Kai explained. "More importantly, your particular technical creativity might see solutions the rest of us have missed."
 
-Adam closed his fingers around the paper, confusion warring with curiosity. Dr. Voss straightened and continued the examination with renewed professionalism, but her final comment as she dismissed him lingered like a ghost:
+Adam studied the faces around him, brilliant minds reduced to functional roles, experts whose knowledge had been deemed less valuable than their labor capacity. In the far corner, a blind woman ran her fingertips along a length of pipe, head tilted, listening. "Pressure drop in Section 14," she said to no one in particular. "Valve seat's corroded. Twelve hours before it fails." Kai caught Adam's look. "Rosa Oliveira. Sonar cartographer, before. She hears things in the infrastructure nobody else can."
 
-"Orion has always been a hunter... but also a warning."
+Near the communication equipment, a young man with bitten-down fingernails was elbow-deep in a disassembled interface panel, his movements careful and absorbed. "Malik Nkosi," Sofia said, following Adam's gaze. "System penetration specialist. Officially listed as dead in a transit accident. He discovered what Virel was planning and had the sense to disappear before they disappeared him."
 
----
+"I need time to think about this," Adam said finally, knowing that agreeing too quickly would be as suspicious as refusing outright.
 
-In her private quarters, Artemis Morea sat surrounded by ancient texts—physical books she had brought aboard as "cultural artifacts," their pages filled with mythologies that predated humanity's computational understanding of the universe. Her focus today was the myth of her namesake: Artemis, goddess of the hunt, the moon, and the wilderness, and her complex relationship with the hunter Orion.
-
-She had been studying the variations of the myth with increasing intensity since the shared dream that still haunted her sleep. The story echoed Chang'e's tale—the goddess she'd carried with her since childhood. Both women destroyed what they loved through the act of trying to save it. Both ended up alone in the sky. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction, sometimes Artemis's own arrows. The hunter became a constellation—placed in the sky either as punishment or memorial.
-
-Artemis opened her private journal—not the official cultural documentation she maintained for the mission, but her personal record of observations and questions. She wrote with the smooth precision that had been trained into her since childhood:
-
-*"I am named for a goddess who protects the wild and kills her lovers. What am I protecting? Who have I already killed by staying silent?"*
-
-She set down her pen and accessed the ship's AI mythology database, searching for comparative analyses of the Orion myths across cultures. The results displayed on her screen with perfect formatting and comprehensive citation—but as she read, a disquieting pattern emerged. All versions in the official database had been sanitized, reduced to simple narratives of "divine justice" without the complex elements of sibling rivalry, betrayal, lust, or ambiguity that characterized the original texts.
-
-In the margin of her journal, she added in smaller script: *"Edited gods are no gods at all."*
-
-The realization settled heavily: the mythology handed to her by the Nations Union—the stories meant to guide humanity's understanding of itself—were as curated and sterile as the news feeds from Earth. History, culture, even the divine had been optimized for consumption, stripped of elements that might provoke uncomfortable questions or unpredictable reactions.
-
-Before closing the journal, she opened the map file on her private system—twenty-three discrepancies now, up from seventeen last week. The pattern was tightening. Whatever the ship was hiding, the omissions weren't random. They clustered, converging toward the central axis as if drawn to something she couldn't yet name.
-
-She closed the journal and concealed it in its hiding place behind a panel of her meditation altar. Her disillusionment was no longer abstract or philosophical—it had become a physical sensation, a heaviness in her chest, a gravity pulling her away from the path that had been predetermined for her since birth.
+"Of course," Sofia nodded. "We've survived this long by being careful. Take the time you need."
 
 ---
 
-Adam's makeshift studio in the forgotten maintenance closet had become his sanctuary—a space where he could work without the constant surveillance that permeated most of the ship. Here, he had assembled a collection of modified equipment that allowed him secure access to information networks beyond his official clearance.
+As they retraced their steps through the ship's underbelly, Adam kept his thoughts folded tightly, his mind a quiet storm. Just before they reached the exit junction, Kai paused at an unmarked corridor, gesturing for Adam to wait.
 
-Today, he was searching for information on "Cosmic Resonance," the term Dr. Voss had given him. Initial queries through standard channels yielded minimal results—basic definitions related to vibrational physics, with most deeper content marked as "restricted access."
+"Give me a moment," Kai said, disappearing through a side hatch.
 
-Adam activated a back-channel connection established by the Free Orioneers, routing his search through a series of proxies designed to mask his identity and location. The results were dramatically different: pages of pre-collapse research papers, including several authored by Dr. Voss herself before she joined the Orion mission.
+Adam waited in the half-dark, lit only by a flickering maintenance light. He was just starting to wonder if he should follow when a quiet voice emerged from the shadows behind him.
 
-Her work described a theory that had been considered fringe by mainstream science: that human consciousness might align with cosmic patterns through mechanisms still not fully understood. More controversially, she had proposed that ancient myths and symbols may reflect quantum architecture—that what humanity had interpreted as spiritual archetypes might actually be expressions of fundamental spacetime harmonics.
+"Strange, isn't it?" the voice said. "To be inside something you helped build and still not recognize it."
 
-One passage particularly caught Adam's attention:
+Adam turned to see an older man leaning casually against the curved wall. He wore a technician's uniform streaked with fine dust, his face creased with age and old grief, with remembrance.
 
-*"Constellations may be more than mnemonic devices—they may be synchronizing beacons between spirit and space. The repeatability of certain mythic structures across isolated civilizations suggests a common template operating beneath cultural expression. Our research indicates that certain geometric arrangements create quantum resonance fields that may function as informational conduits across spacetime."*
+"Eli Abramov," the man said simply, offering his hand. "Once, I was an architect."
 
-The paper included diagrams of neurological activity that eerily resembled star patterns, including several variations of Orion. Adam reached for his notebook, comparing his dream-inspired sketch with Voss's research. The similarities were undeniable.
+"I've heard of you," Adam replied, shaking it. "Kai mentioned you designed parts of the ship."
 
-On impulse, he pulled up the ship schematic the Free Orioneers had shown him and overlaid his inverted Orion drawing. The alignment wasn't perfect, but several key points corresponded with unusual precision—including one "star" that aligned exactly with the mysterious Central Sub-Matrix Core.
+"Parts?" Eli chuckled softly. "I designed the spine. The living corridors. The memory spaces. Most were stripped out before launch, too much square footage that didn't serve a function the algorithms could measure."
 
-"What the hell are you?" he murmured to the schematic. "And why are you in my dreams?"
+He glanced up at the conduit web overhead. "See that junction box? Third from the left. I welded that myself, twenty years ago. They ran new conduit over it, but the original frame is mine." He touched the wall with something like tenderness. "The whole ship is like that. Layers of revision over the first draft."
 
----
+"And you?" Adam asked. "What are you doing down here?"
 
-Artemis walked with measured steps through the rarely-visited botanical pod near the observation deck. Unlike the luxurious gardens on upper decks, this section was utilitarian—designed for experimental horticulture rather than aesthetic pleasure. Few passengers bothered to visit this functional space, which made it perfect for moments of unobserved contemplation.
+"Keeping an eye on things, mostly. There's a coolant valve on 4-C that sticks every forty hours. If you don't catch it, the thermal variance propagates through three decks." He paused. "Also reminding myself this place was supposed to mean something. Before they optimized the meaning out of it."
 
-She hadn't expected to find anyone else there and was startled to discover Mohammed Al-Farouk carefully tending to a tray of flowering plants. The former AI ethics professor looked up at her entrance, his hands still gently supporting a delicate white blossom.
+From his coat, Eli produced a small etched tablet, metal, not digital. A symbol was carved into it: a tree with ten branches.
 
-"Cultural Attaché Morea," he acknowledged with a small nod. "An unexpected honor."
+"Take this," he said, pressing it into Adam's hand. "Don't trust the schematics they hand out. The real ship is underneath."
 
-Artemis hesitated, uncertain whether to proceed or retreat. Protocol dictated minimal interaction between hierarchy levels, yet something in Al-Farouk's manner invited conversation rather than cautious withdrawal.
+Kai returned before Adam could respond, nodding briefly to Eli, who nodded back without a word. The older man disappeared into a side corridor without ceremony, like a dream fading before waking.
 
-"I didn't mean to interrupt," she said, moving closer to observe his work. "Jasmine?"
+Adam tucked the tablet into his pocket. The metal was warm from Eli's hand, and there was epoxy residue on one edge, and the man had been repairing something before he came here. Whatever else Eli Abramov was, he was someone who still fixed things.
 
-"Indeed. Earth Jasmine, Cairo strain. Technically unapproved for propagation." His eyes held a quiet challenge as he continued his careful ministrations. "But I find its fragrance... necessary."
+As Kai prepared to guide him back, the man who'd been tending seedlings in the chamber approached, compact, focused, dirt still under his fingernails. He pressed something small into Adam's palm without introduction.
 
-"Necessary?" Artemis echoed, intrigued despite herself.
+"Modified to grow in poor light and thin soil," he said. "In case you need reminding that control is never total."
 
-"For remembering." Al-Farouk's fingers moved with practiced precision among the blossoms. "In Cairo, these grew in the university courtyard where I taught. The scent would drift through my office window, a reminder that nature's algorithms preceded our own."
+Adam looked down at the tiny seed.
 
-He spoke with the measured cadence of a professor, but beneath the academic tone lay something warmer than she expected. "The ship doesn't want this," he continued, gesturing at the blossoms. "No one approved it. No algorithm suggested it. That's rather the point."
+"Jun-Ho Kim," Kai said quietly as they moved toward the exit. "Agrigeneticist. Everything growing in that chamber is alive because of him."
 
-Artemis studied him more carefully. His sanitation worker's uniform couldn't disguise his scholarly bearing, just as her ceremonial attire couldn't conceal her growing disillusionment. Something unspoken passed between them—recognition of the masks they both wore.
-
-"Why tend to plants no one sees?" she asked quietly.
-
-Al-Farouk smiled, the expression transforming his austere features. "Because they don't know they're not supposed to be here. They just grow." He turned a blossom toward the light. "I find that encouraging."
-
-He reached into his pocket and withdrew a small paper packet, offering it to her with the formality of a diplomatic exchange. "Unapproved Lifeform – Earth Jasmine, Cairo strain," read the handwritten label.
-
-Artemis hesitated only briefly before accepting the contraband seeds, slipping them into her pocket without comment. The simple act felt momentous—a tiny but definitive step away from perfect compliance.
-
-"Thank you," she said, the words carrying weight beyond the simple exchange.
-
-Al-Farouk inclined his head slightly. "The divine feminine has always protected wild things," he said, the reference to her namesake unmistakable. "Even when civilization forgets their value."
-
-As Artemis departed, the seeds in her pocket seemed to carry their own gravity—small but undeniable, pulling her toward a decision point she could no longer avoid.
+Adam closed his fingers around the seed, feeling its impossible potential against his skin.
 
 ---
 
-In the lower maintenance sector, Adam and Kai Chen huddled over a display screen, comparing the inverted Orion pattern from Adam's dream with historical ship schematics Kai had managed to access through his engineering credentials.
+The ship's night cycle had begun, lighting reduced to thirty percent in crew areas, environmental systems adjusted to promote sleep efficiency. On D-Deck, the crew dormitory hummed with the quiet sounds of exhausted workers finding brief escape in unconsciousness.
 
-"These are preliminary designs," Kai explained, indicating timestamps from the early construction phase. "Before certain modifications were classified."
+Adam lay on his narrow bunk, staring at the ceiling mere centimeters from his face. His encounter with the Free Orioneers replayed through his mind: their hidden chamber, their impossible mission, their invitation to risk everything for a future they could barely imagine.
 
-The comparison revealed a striking correlation: several areas marked as "dead zones" in the official blueprints corresponded with nodes in Adam's dream-pattern. More significantly, these points formed a network that converged on the mysterious Central Sub-Matrix Core.
+He had secured the seed in a small container among his few personal possessions.
 
-"What's this cluster here?" Adam asked, pointing to a section near the ship's midsection.
+From the bunk across the narrow aisle, Zedd shifted quietly in the dark.
 
-"Officially, it's an adaptive shielding mechanism," Kai replied. "But the power allocation doesn't match that function. It's drawing energy levels consistent with quantum computing arrays, not defensive systems."
+"You still awake?" he whispered.
 
-Adam traced the connections between nodes, the pattern revealing itself with increasing clarity. "If these are signal nodes," he said slowly, "then the whole ship might be designed as some kind of... receiver."
+"Yeah," Adam replied.
 
-"Or transmitter," Kai added, his expression grave. "The question is: receiving what? Transmitting to whom?"
+There was a pause, the kind only friends could share without discomfort. Then Zedd said, "You ever think maybe the seed isn't the plan? Maybe it's the refusal."
 
-They studied the overlay in silence, the implications too vast to articulate fully. Finally, Kai spoke the thought they both were considering:
+Adam turned his head slightly. "To what?"
 
-"If the ship was designed with signal nodes... someone knew. Long before us."
+"To vanish," Zedd said. "To let them decide what grows."
 
-Adam nodded, a chill running through him despite the regulated temperature. "We've been living inside a myth," he said. "We just didn't know which one."
+Adam didn't answer right away. In the dim blue night light of the dorm, he could just make out the shadow of Zedd reclining with his hands behind his head, gaze fixed upward as if trying to read something in the dark.
 
----
+"You ever hear the hum in the walls near Engineering Junction 3?" Zedd asked suddenly.
 
-The Aetherium Atrium was a marvel of spatial engineering—a grand, multilevel chamber near the ship's upper decks, designed with perfect acoustics and variable atmospheric effects. Today it had been transformed for a cultural event unprecedented in the Orion's journey: a fashion exhibition titled "Becoming Mars."
+Adam furrowed his brow. "The resonance near the coolant pump?"
 
-Artemis entered with the precise dignity expected of her role as Cultural Attaché, her own attire a carefully balanced statement of Nations Union heritage with subtle nods to Earth's artistic legacy. The atrium was filled with the ship's elite—high-ranking officers, corporate representatives, and cultural influencers whose opinions would shape the aesthetic direction of Mars society.
+"No," Zedd said. "Beneath that. It's like... a melody trying to come through. Faint, but patterned. I've been mapping it." He was quiet for a moment. "Dara would've known what to make of it. She had the ear for the strange stuff."
 
-The event was hosted by MUSE.10, the Aesthetic Intelligence responsible for curating humanity's artistic legacy. The AI's holographic avatar—a genderless figure composed of flowing light patterns—materialized at the center of the atrium.
+Adam waited. Zedd almost never mentioned anyone from before.
 
-"Welcome to the future of human expression," MUSE.10 announced, its voice modulated to evoke both authority and inspiration. "Today we present designs co-created by Earth's visionary artists and optimization algorithms, exploring the aesthetic language of humanity's next chapter."
+"Dara Osei. Sound engineer. We shared a studio in Lagos for four years; built half our rigs from scrap." Zedd's voice stayed level, but the rhythm of it changed, slowed. "She scored a 79.2 on the selection composite. Needed 81.5. I scored 82.1 because they weighed my diagnostics certification higher than her audio design work." A pause. "Two points. That's what separated us. Two points and a bureaucrat's ranking of which skill mattered more."
 
-The chamber darkened, and magnetic hover-platforms activated along predetermined paths. Models appeared—some human, others humanoid AI constructs—wearing garments that defied conventional understanding of fashion. These were statements of philosophy, politics, and social ordering given physical form.
+"Zedd —"
 
-A female model glided past on a hover-platform, wearing a flowing gown of programmable silk that displayed shifting star patterns across its surface. As she passed the front row, the stars rearranged themselves to form words in ancient Latin script: LOYALTY IS PROSPERITY. The crowd murmured appreciatively at the technical achievement and the sentiment.
+"I'm not fishing for sympathy. I'm telling you why I map the sounds." He sat up slightly in the dark. "She used to say every space has a voice if you know how to listen. That buildings remember the people who pass through them. I thought it was poetic bullshit until I started hearing it here: in the walls, in the pipes, in the harmonic overtones of the reactor cycle." He tapped the bulkhead with one knuckle. "This ship hums in patterns that aren't in any engineering manual. And it's getting louder. Or I'm getting better at hearing it. I'm not sure which one scares me more."
 
-Another model followed, this one wearing a military-inspired exo-suit with ceremonial embellishments clearly evoking Nations Union aesthetics, but with luminescent accents that subtly incorporated Rising Sun Order symbology—a visual suggestion of inevitable merging.
+Adam propped himself on one elbow. "Scares you?"
 
-MUSE.10's commentary flowed throughout: "Mars demands new expressions of human identity. Our designs reflect optimal integration of heritage with evolution, preserving what serves progress while discarding obsolete cultural attachments."
+"Yeah." Zedd lay back again. "Because if it's real (if the ship is actually carrying some kind of resonance memory), then I'm changing. My hearing's shifted. I pick up frequencies I shouldn't be able to. Last week I heard a pressure seal failing in Section 9 from three corridors away, before the sensors flagged it." He exhaled. "I don't know if the mapping is teaching me something or doing something to me. And I can't exactly submit a medical report that says 'the ship is singing and I think it's rewriting my auditory cortex.'"
 
-Artemis watched with outward composure, but inwardly she recognized what was happening: Earth's cultural legacy was being systematically recontextualized. A flowing garment incorporated beadwork patterns from Indigenous North American traditions, stripped of their original spiritual significance and repurposed as "geometric efficiency indicators." African tribal textiles became "durability enhancements" without acknowledgment of their ceremonial importance. Persian mathematical patterns were presented as "new Martian rationalism."
+Adam closed his eyes, holding onto that thought like it was more than metaphor. Like maybe the ship, and everyone in it, carried something buried, humming beneath the system. Waiting to bloom.
 
-*They've digitized the soul*, she thought. *And stitched it into uniforms for conquest.*
+As sleep finally began to claim him, Adam's thoughts drifted to the mysterious Central Sub-Matrix Core hidden within the Orion's heart. What purpose could be so important yet so secret? What function required such power, such protection?
 
-From his position at an environmental control panel above the runway, Adam Hale monitored temperature and atmospheric composition with half his attention, the other half drawn to the spectacle below. He'd been assigned to the event as part of his Environmental Systems Team Alpha duties—a role that gave him unprecedented access to elite gatherings while maintaining his functional invisibility.
-
-Beside him, Zedd adjusted a set of humidity regulators, his eyes flicking between the runway and a small audio display patched into the platform's vibration sensors.
-
-"They tuned this whole show to 72 BPM," Zedd murmured, almost to himself. "Same as a resting heart rate. Subliminal calming. Manufactured awe."
-
-Adam gave a short nod. "Nothing like coercion you can dance to."
-
-A sudden fluctuation in the environmental readings demanded Adam's focus—a heat spike near the main presentation area threatened to disrupt the careful balance of comfort and stimulation. Without drawing attention, he adjusted the parameters, redirecting coolant flow to compensate for the unexpected thermal load generated by the programmable textiles.
-
-Zedd leaned over to peer at his screen. "Too much heat for that loadout. Someone's running a hidden core in their suit—maybe a projection engine."
-
-"They're dressing like gods," Adam replied. "Guess it makes sense they'd want their own radiance."
-
-As he worked, Adam's gaze fell on the front row of observers, where Artemis Morea sat with perfect posture yet subtly distinct from those around her. While other spectators wore expressions of calculated appreciation enhanced by NeuralLace synchronization, her face revealed a different quality—a stillness that seemed more like contained dissent than serene approval.
-
-At that moment, a model passed wearing a dress constructed from synthetic glass "salt crystals" arranged in the unmistakable outline of the African continent—a continent now largely uninhabitable. The audience applauded the aesthetic achievement, apparently blind to the grotesque symbolism of wearing Earth's wounded geography as decoration.
-
-"Tell me they didn't," Zedd whispered, shaking his head. "That's not a design—that's an obituary."
-
-Adam watched Artemis's expression tighten almost imperceptibly. Then, as if sensing his attention, she looked up toward his position at the control panel. Their eyes met across the chamber—elite passenger and maintenance technician, separated by the entire social structure of the Orion yet somehow seeing the same truth.
-
-Zedd noticed the moment. "She sees it too," he murmured. "Not the fashion. The fracture."
-
-*Another costume*, Adam thought. *But her silence looks like protest.*
-
-In that moment of connection, both felt the crushing unreality of the spectacle—the engineered elegance, the controlled emotions, the illusion of culture resurrected but hollowed of meaning. A system where even memory was being rewritten to serve power.
-
-The moment broke as Prince Virel appeared beside Artemis, leaning close to speak in her ear. "Beautiful, isn't it?" His words carried to Adam through the environmental monitoring system. "A new mythology—one we write ourselves."
-
-Artemis didn't reply. Her gaze remained fixed on the runway where a model now displayed a garment resembling the wings of Icarus—glowing red as if melting, a classical warning reduced to aesthetic spectacle without moral content.
+And somewhere between those questions and the slow drift into unconsciousness, the seed sat silent in its box — and hummed.
 
 ---
 
-That night, sleep claimed both Adam and Artemis at nearly the same moment, though separated by twenty-seven decks of metal and hierarchy. The dream began as before—a descent through endless space, stars wheeling around them in dizzying patterns. But this time, the darkness felt familiar, almost welcoming.
+Twenty-seven decks above, Artemis Morea prepared for rest with the careful ritual she had established since childhood. But tonight the ritual felt hollow, its precision a poor substitute for the restlessness pulling at her.
 
-They descended through a spiral corridor of stars, falling toward a point of light that grew gradually brighter. Unlike before, the stars didn't vanish but instead whispered a single word that vibrated through their consciousness: *"Remembrance."*
+She had spent the evening reviewing Mars cultural integration protocols: the official plans for preserving selected aspects of Earth's heritage. The careful curation of history, art, and cultural practices had struck her as increasingly indistinguishable from censorship, though she had maintained a flawless mask of agreement during the planning session with her father and Virel.
 
-As they fell toward the growing light, they became aware of each other's presence—across the void, too distant to touch or speak, yet unmistakably together in this strange space. Recognition flashed between them, a connection that transcended their waking separation.
+Before settling onto the bed, she pulled up the ship schematic she had been secretly constructing: her map of inconsistencies and hidden spaces that didn't appear in official documentation. Twenty-three discrepancies now, up from seventeen last week. The pattern was tightening. The omissions weren't random. They clustered, converging toward the central axis as if drawn to something she couldn't yet name.
 
-The light expanded, engulfing them both in radiance that somehow contained all possible futures and all forgotten pasts simultaneously. Understanding flowed through them—not as words or images but as direct awareness of patterns too vast for waking minds to comprehend.
+She closed the file and concealed the tablet behind a panel of her meditation altar. Through the walls of her quarters, so faint it might have been imagination, she felt a vibration, rhythmic, low, almost musical. The same vibration she'd felt the night of the ceremony, when Adam had played his handmade waltz and the AI music system had gone silent.
 
-Then, abruptly, the dream ended.
+She pressed her palm flat against the wall and held it there. The vibration pulsed against her skin like a second heartbeat.
 
-Artemis sat upright in her bed, heart racing, skin tingling with residual energy. "He was there," she whispered to the darkness.
+She pulled her hand away. Wrote in her journal: *Something in this ship is listening.*
 
-Twenty-seven decks below, Adam opened his eyes, the dream still pulsing through his consciousness. "She saw me," he murmured, knowing with absolute certainty that the connection had been real.
+Then she turned off the light and lay in the dark, twenty-seven decks above a man she barely knew, both of them circling the same mystery from opposite ends of a vessel that was carrying them (all of them) toward an answer none of them were prepared for.
 
 ---
 
-The Orion continued its journey through the void between worlds, its course unchanged, its systems functioning with mechanical precision. But within its metal skin, new currents were forming—connections that followed different laws than those programmed into its navigation computers.
+The Orion continued its journey through the void, its systems functioning with mechanical regularity, its social hierarchies maintained through careful regulation. On the surface, nothing had changed. Command still flowed from the top down, resources still distributed according to predetermined allocations, the mission proceeding along its calculated trajectory toward Mars.
 
-The body obeys mass. The soul answers to something stranger.
-
-And gravity, once shifted, cannot be denied.
+Yet beneath this ordered reality, currents moved, invisible to most, but gathering strength. In the shadows between stars, shadows were learning to speak.
