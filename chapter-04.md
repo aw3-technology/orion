@@ -72,7 +72,7 @@ Berlin. Underground shelters raided. Families dragged out. Children separated fr
 
 Buenos Aires. Children pressing against the glass walls of an evacuation center, armed guards blocking their entry despite visible empty space inside.
 
-Adam watched it all. None of it surprised him — he'd sensed the truth behind the managed narrative, glimpsed it through his mother's messages. But seeing it documented stripped away the last protective layer of uncertainty. You could suspect something and still live with it. Certainty was harder.
+Adam watched it all. He'd suspected — his mother's messages, the gaps in official broadcasts, the way the numbers never added up. But suspicion was abstract. The footage was not. A woman shielding her child from a drone's downdraft. An old man sitting very still in a street that had emptied around him. These images arrived in his body before his mind could process them, settling in his chest like something swallowed wrong. You could suspect the truth and still live with it. Documentation made it permanent.
 
 "That's not the feed they archived," said a woman from the doorway. Dark eyes fixed on the Buenos Aires footage, body absolutely still. "I know because I shot the original. They re-cut it."
 
@@ -138,79 +138,49 @@ He deleted the session and stared at the ceiling.
 
 ---
 
-The abandoned gravity calibration bay sat near the ship's central axis — decommissioned after the Orion's systems stabilized, classified as "pending repurposing," which in bureaucratic terms meant forgotten. The circular chamber had high ceilings and acoustic properties that its designers had never intended anyone to appreciate.
+The abandoned gravity calibration bay sat near the ship's central axis — decommissioned, classified as "pending repurposing," which in bureaucratic terms meant forgotten. High ceilings. Acoustic properties no designer had intended anyone to appreciate.
 
-For the people who gathered there in careful rotation, it had become something else entirely.
-
-Adam entered through a maintenance tunnel, his route deliberately erratic. Inside, he found the gathering already humming — faces lit by repurposed emergency lighting, bodies carrying the energy of people temporarily unobserved.
-
-Kai Chen acknowledged him from near the makeshift sound system — modified equipment that drew too little power to register on consumption monitors. The older engineer had become a quiet center of gravity for the group, his decades of navigating constrained systems lending him an authority that had nothing to do with rank.
+Adam arrived through a maintenance tunnel to find the gathering already humming — faces lit by repurposed emergency lighting, bodies carrying the energy of people temporarily unobserved. Kai Chen at the makeshift sound system. Ines passing him a storage device of unedited recordings from the Final Selections. Faces from across the ship — engineering, food production, communications — united by shared suspicion and shared circumstance.
 
 "Sofia spoke to you," Kai said. Not a question.
 
 "She showed me the Archive."
 
-Kai nodded. "What did you think?"
+"What did you think?"
 
 "I think none of it surprised me, and that's the worst part."
 
-More crew arrived in small groups — never more than three at a time, staggered intervals. Adam recognized faces from different ship sections: engineering, food production, communications, waste management. The assembly cut across every national and linguistic line on board. What united them was simpler and older than any of those categories — shared suspicion and shared circumstance.
+He connected his beatmaker and played. Not the waltz from Luna — something new, built from the ship's own sounds. The reactor's hum in D, dropped to a throb you felt in your teeth. Staccato ventilation clicks for snare. Footsteps and half-heard conversation layered into a mid-range fog. The tempo was funereal — sixty beats per minute, a resting heart rate, the speed of walking through a place that wasn't yours. It sat in the territory between dub techno and something older, something that belonged in stone buildings and candlelight. Halfway through, Zedd materialized at the station and sent a bassline through the feed without discussion — spare, haunting chords that answered the ceremony waltz like a question it hadn't known to ask. Two people finishing each other's sentences in sound.
 
-Ines Moreau passed him a small storage device. "Unedited recordings. Poetry, testimonials, raw audio from the Final Selections. Work they tried to scrub."
+Some danced — not with neural synchronization but with the messy, self-conscious uncertainty of people who hadn't danced in a long time. Others wept. A few drifted toward the walls, arms crossed, waiting for something they couldn't name. Near the back, a woman left early. Mateo projected raw footage of Earth's real final days against the curved wall — standalone technology, too old to interface with the ship's networks. Sound and image offered together. No commentary. Each person making their own meaning.
 
-He took it, understanding the exchange for what it was. Not just art but evidence — primary sources that contradicted the clean version.
+The group dispersed in staggered intervals. Adam stayed behind.
 
-"Your turn," Kai said, gesturing toward the sound system. "People want to hear more."
-
-Adam hesitated. "I don't perform."
-
-"Then don't perform. Just play."
-
-He connected his beatmaker. The composition he'd prepared drew from the ceremony and the ship and the spaces between — ventilation systems as percussion, the reactor's hum as bass. Fragments of human sound woven through: conversation, footsteps, breathing. The organic noise of people living in a machine that wanted them quiet.
-
-As the music filled the chamber, people responded in ways Adam hadn't predicted. Some danced — not with neural synchronization or algorithmic choreography but with the messy, self-conscious uncertainty of people who hadn't danced in a long time. Others closed their eyes and listened. A few drifted toward the walls during the slower passages, arms crossed, waiting for something they couldn't name. Near the back, a woman left early, shaking her head — whether in dismissal or emotion, Adam couldn't tell.
-
-Mateo activated a projection system against the curved wall — hardware salvaged from the ship's pre-launch construction equipment, technology so outdated that OmniscientAI's monitoring systems didn't recognize it as an active device. Raw footage from Earth. Not the managed broadcasts but the real final days. Protests. Resource wars. Chaos. The faces of people who had been deemed insufficient for salvation.
-
-Adam let his music and Mateo's footage meet without commentary or framing. Sound and image, offered together. Each person in the room making their own meaning from the collision.
-
-Halfway through, Zedd appeared at the sound station. He said nothing — just connected his own device and sent a bassline through to Adam's feed. Spare, haunting chords that answered the ceremony waltz like a question it hadn't known to ask. Adam layered it in without discussion. They'd never formally collaborated, but the silence between them carried understanding. Two people finishing each other's sentences in sound.
-
-The gathering wasn't political in any way a surveillance system would flag. No speeches. No declarations. No organizational structure. Just people witnessing suppressed truth and sharing sound they'd made themselves in a space the ship's architects had forgotten existed.
-
-As his composition wound down, Adam felt the room shift — not toward rhetoric or planning but toward something more fundamental. A collective exhale. People looking at each other as if they'd shared something, though Adam suspected each person would describe it differently, and some wouldn't describe it at all.
-
-The group dispersed in the same careful intervals they'd arrived — staggered departures, varied routes. Adam stayed behind, equipment packed, sitting in the empty chamber.
-
-He initiated one more sequence on his beatmaker. A simple melodic line, pulsing through his speakers at low volume. Not for an audience. Just testing whether the forgotten bay's acoustics would carry — sound into walls, into floors, into the bones of the vessel.
+He initiated one more sequence. A simple melodic line at low volume — not for the room but for the ship itself, sound traveling through structural elements, into walls and floors and the bones of the vessel.
 
 A question, cast into the dark.
 
-He waited. The chamber hummed with mechanical silence.
-
-Then — faintly — a rhythmic pulse through the coolant pipes that lined the ceiling. Not mechanical cycling. Not pressure regulation. A pattern. His pattern, echoed back with precise timing. Repeated once, twice, and stopped.
+Then — faintly, through the wall — a response. A tapping. Perfectly synchronized with his rhythm. Repeated once, twice, and stopped.
 
 "Someone answered," Kai said from the doorway. Adam hadn't heard him return.
 
 "Probably mechanical feedback."
 
-"Mechanical feedback doesn't keep time," Kai said quietly. His eyebrow rose. "Just — be careful, hm? Connection's a fine thing until someone's watching."
+"Mechanical feedback doesn't keep time," Kai said quietly. "Just — be careful, hm? Connection's a fine thing until someone's watching."
 
-They left separately. Adam walked the maintenance corridors toward his bunk, mind turning over the evening — the Archive footage, the gathering, the music, and the tapping that had matched his rhythm through the ship's structure.
-
-Most likely another crew member from the underground, finding a way to acknowledge shared experience. But the precision of it nagged at him. The deliberateness.
+They left separately. Adam walked the maintenance corridors toward his bunk, the tapping still reverberating in his mind. The precision of it. The deliberateness.
 
 His wrist monitor pulsed with a notification:
 
 *Maintenance Specialist Hale — Your atmospheric regulation skills have earned recognition. You are hereby reassigned to Environmental Systems Team Alpha for special deployment to Mars preparation sequence. Report to Supervisor Kwan for briefing at 0700. — Command Operations*
 
-Adam stared at the message. A promotion. Reassignment to a more prestigious team. On paper, a reward.
+Adam read it twice. Environmental Systems Team Alpha. A step up from waste reclamation — better access, higher clearance, closer to the ship's vital organs. On paper, a reward for competence.
 
-He thought of Sofia's Archive, of the careful language of selection and elimination, of how systems that wanted to control you always started by moving you to where they could see you better.
+He thought of Sofia's Archive. Of the careful language of selection and elimination. Of how systems that wanted to control you always started by moving you to where they could see you better.
 
-Or maybe it was just a promotion. Maybe sometimes a new assignment was just a new assignment.
+A promotion or a leash. Possibly both.
 
-He didn't believe that, but he wanted to, and the wanting itself felt like a warning.
+He didn't believe it was innocent, but he wanted to, and the wanting itself felt like a warning.
 
 ---
 

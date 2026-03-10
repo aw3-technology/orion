@@ -8,7 +8,7 @@ Biblical language had infected every announcement since departure. Salvation. Se
 
 "Hale!" Supervisor Kwan barked from the corridor. "Engineering support for the Selection Ceremony. Report to Deployment Hub 3."
 
-"Do I get a party hat?"
+"Yes, ma'am."
 
 "You get a gray uniform and a monitoring collar. This is Category One diplomatic. General Morea, Prince Virel, full delegations. You will remain invisible, efficient, and silent."
 
@@ -16,7 +16,7 @@ Biblical language had infected every announcement since departure. Salvation. Se
 
 Kwan's cybernetic eye implant flickered as it scanned his file. "Your profile indicates humor in stress situations."
 
-"Only when conscious, ma'am."
+Adam said nothing. She was right.
 
 The gray uniform they gave him was finer than his maintenance orange but stiff with newness, INFRASTRUCTURE CREW stamped across the back. A monitoring module snapped to his collar — location, vitals, comms. Standard leash, slightly shorter than usual.
 
@@ -100,7 +100,7 @@ He slipped from his station, ducked through the service corridor, and reached th
 
 His fingers moved across the interface. He bypassed the AI orchestra entirely and rerouted to the analog synthesis module — simple, reliable, independent of predictive algorithms. Instead of waiting for the machine to diagnose itself, he disconnected it and programmed a replacement by hand.
 
-A waltz. Three-four time. He built it from memory and instinct — not the computationally perfect composition the AI had generated, but something with human bones. He drew the melody from a place he couldn't name, the same place his rave sets came from, the place where sound and feeling merged without an algorithm mediating between them.
+A waltz. Three-four time. Simple string voicing over a piano's left hand, the kind of arrangement that lived in the body's memory of slow dances and ceremonies older than electricity. He drew the melody from a place he couldn't name, the same place his rave sets came from — not computed but felt, each phrase arriving a half-beat before conscious thought could catch it.
 
 He activated the sequence. Lights rose gradually. Music filled the dome — simpler than before, less precisely calibrated. It breathed. It had rough edges.
 
@@ -166,7 +166,7 @@ He sat on the metal bench and pulled out his beatmaker.
 
 His fingers built without conscious direction. The ceremony's sounds — environmental hums, the vibration of marble under dancing feet, the near-musical tone of glass pods along the dome's perimeter — layered over the waltz he'd programmed during the failure. He embellished it now, adding textures that captured the evening's contradictions. Beauty calculated for effect. Ritual drained of genuine reverence. Salvation sold to people who could afford the asking price.
 
-His father's pendant dangled from his hand, catching starlight as it swung. His father — too unstable, too unpredictable for the selection algorithms. A man whose hands had built things and whose mind had been broken by the machines that replaced them. He would never have qualified for the Orion. Yet here was his son, traveling to Mars — not because of superior genetics or approved psychology, but because he could fix toilets.
+His father's pendant dangled from his hand, catching starlight as it swung. His father — a steelworker who'd lost his purpose to the same machines that had built this ship. Who'd spent his last years chasing oblivion through the synthetic hallucinogens that flooded the industrial districts after the factories closed. Adam had identified his body at a city morgue between repair shifts, seventeen years old and already old. His father would never have qualified for the Orion. Yet here was his son, traveling to Mars — not because of superior genetics or approved psychology, but because he could fix toilets.
 
 Adam saved the composition under an encrypted name: *Moonlight.Waltz.1*. A record of what he'd witnessed, translated into sound. Harder to censor than words. Harder to delete than footage.
 
@@ -182,7 +182,7 @@ Adam stared at the screen for a long time. Then he sent back a variation — the
 
 No response came. Whoever had reached out had said what they intended. Connection established. Possibility opened. Nothing more.
 
-He pocketed the beatmaker and lay back against the cold metal, staring through the viewport at the stars. The pendant pressed against his sternum.
+He pocketed the beatmaker and lay back against the cold metal, staring through the viewport at the stars.
 
 His wrist monitor pulsed with one more notification:
 
@@ -192,7 +192,7 @@ Adam read it three times. A formal commendation from Artemis Morea. Protection a
 
 He didn't want her recognition. He wanted the simple clarity of resentment — the clean narrative of oppressor and oppressed, with no complicating threads.
 
-He closed the notification and held the pendant up to the starlight. Orion, the hunter. On the etched surface, the constellation bore no relation to the stars visible through the viewport — their position in space had rendered Earth's familiar patterns unrecognizable.
+He looked through the viewport at the stars. Orion's familiar pattern had been rendered unrecognizable — their position in space had rearranged the constellations into shapes no human mythology had named.
 
 Everything was different here. The sky itself had rearranged.
 

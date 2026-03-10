@@ -38,10 +38,6 @@ The AI interface scanned him with blue light that tingled against his skin. "Tec
 
 A route map materialized on his wrist monitor. Adam memorized the layout in a single sweep — old habit from years of mapping escape routes from patrol drones during unauthorized raves. He'd learned young that knowing how a building's guts connected could save your life when the front door wasn't an option.
 
-"Any chance of a corner unit?" he asked the interface. "I like sunrises."
-
-"Proceed to quarters," it replied.
-
 The corridors narrowed as he moved deeper into D-Deck, aesthetic giving way to function. Ambient lighting became fluorescent. Smooth composite walls became bare metal. The temperature dropped two degrees — energy conserved where worker comfort wasn't a line item. Adam noticed these changes the way a mechanic notices engine sounds: automatically, cataloging each detail for future reference.
 
 Unit 12-17 was a metal box with four bunks stacked in pairs. Two already had personal items marking territory. Adam claimed a lower bunk, stowed his beatmaker in the small lockbox, and slid the family photo inside his comic book case — a memory hidden inside another form of escape.
@@ -58,11 +54,7 @@ Someone else had slept in this bunk and felt the same need to leave a trace of t
 
 ---
 
-Conference Room D-9 was a utility space with metal folding chairs arranged in rows. Adam slipped in as the doors sealed, claiming a seat in the back row next to a woman with intricate braids and callused hands.
-
-"Mind if I join the party?" he whispered.
-
-She glanced at him. "Free cosmos."
+Conference Room D-9 was a utility space with metal folding chairs arranged in rows. Adam slipped in as the doors sealed, claiming a seat in the back row next to a woman with intricate braids and callused hands. She nodded at him without interest.
 
 General Morea's recorded face filled the projection wall, delivering the expected speech about sacred duty and psychological suitability and humanity's great leap. The practical information came sandwiched between the propaganda — shift rotations, emergency protocols, the strict separation between the ship's decks. Maps divided the vessel by letter — A through D, command to operations. The lettering sounded neutral. The allocation of space, air quality, and food made the hierarchy plain.
 
@@ -99,6 +91,12 @@ One shift-end, instead of heading back to quarters, he went looking. Not for any
 The trick to unauthorized exploration wasn't stealth. It was confidence. Walk like you belonged, carry a tool that justified your presence, and most surveillance systems — human and electronic — would assume you were supposed to be there.
 
 Adam carried his diagnostic kit and walked with purpose, taking deliberate wrong turns at six successive intersections. The corridors refined as he moved upward and inward — bare metal giving way to polished composite, then to a translucent material that glowed with faint internal light.
+
+At one turning, his fingers brushed a groove in the wall — too deliberate for damage, too precise for corrosion. He paused, angling his diagnostic kit's light against the metal. A symbol, carved by hand: a tree with ten branches, its trunk rooted in the bulkhead seam. Someone had taken care with it — each line clean, patient, made with a tool meant for other work. No tag, no signature. Just the tree, watching the corridor like a quiet sentinel.
+
+Adam traced it with his thumb. Not maintenance notation. Not vandalism. Something older in spirit, if not in age.
+
+He filed it away and kept moving.
 
 He found a narrow maintenance gallery with a one-way transparent floor. Below it, one of the agricultural domes.
 
@@ -166,19 +164,19 @@ That landed. He saw it hit — a flinch she almost contained. She looked down at
 
 She turned to leave. Adam, against his better judgment, called after her.
 
-"That garden won't make it."
+"Those irrigation feeds won't last."
 
 She stopped. "Excuse me?"
 
-"The apple trees. The soil composition is wrong for extended cultivation in this gravity. The root systems will fail within six months." He shrugged when she turned back, surprise cracking through for the first time. "Waste management connects to everything. Even pretty gardens."
+"The junction couplings on the water lines." He nodded toward the pipes visible along the dome's upper frame. "Standard compression fittings, same as what we use in D-Deck. They'll corrode inside a year in this humidity." He shrugged when she turned back, surprise cracking through for the first time. "Waste management connects to everything. Even pretty gardens."
 
-She stood very still — recalculating. Not just the trees but him. What he was worth. What he might cost.
+She stood very still — recalculating. Not just the pipes but him. What he was worth. What he might cost.
 
-"Six months," she repeated. Not a question. Filing it.
+"A year," she repeated. Not a question. Filing it.
 
 She left without another word. Adam took the maintenance shaft she'd indicated, and it delivered him to D-Deck exactly as promised.
 
-Walking toward the canteen where Chen and Zoe were probably already waiting, he turned the pendant between his fingers. The hunter's constellation, warm against his chest. He thought about the garden below the transparent floor, and the woman who had stood above it with him, and the particular quality of her silence when he'd told her the truth.
+Walking toward the canteen where Chen and Zoe were probably already waiting, he thought about the garden below the transparent floor, and the woman who had stood above it with him, and the particular quality of her silence when he'd told her the truth.
 
 She was the General's daughter. She was the system made flesh. Whatever he'd glimpsed in that gallery meant nothing against the mathematics of who lived and who died.
 
@@ -202,7 +200,7 @@ They ate in comfortable silence for a while. Around them, the canteen hummed wit
 
 Torres dropped his tray beside them. Still pale, but eating methodically — the deliberate intake of someone who'd learned to fuel regardless of appetite.
 
-"Reclamation stats came in," Torres said, pulling up his wrist monitor between bites. "D-Deck's producing thirty percent more organic waste per capita than A-Deck. You know why? Real food generates less processing residue. They feed us synthetics, then we clean up the extra garbage the synthetics create."
+"Reclamation stats came in," Torres said, pulling up his wrist monitor between bites. "Grey Sector's producing thirty percent more organic waste per capita than Gold. You know why? Real food generates less processing residue. They feed us synthetics, then we clean up the extra garbage the synthetics create."
 
 Chen raised an eyebrow. "You ran those numbers yourself?"
 
@@ -210,7 +208,7 @@ Chen raised an eyebrow. "You ran those numbers yourself?"
 
 An older maintenance worker named Miguel settled in without invitation, recognized Chen, and launched into a story about a coolant leak on Level C that had nearly flash-frozen a corridor.
 
-A technician named Dex Halloran drifted over from another table, eating an A-Deck nutrient bar with conspicuous satisfaction. "Found a gap in the waste chute between sectors," he said, grinning. "Amazing what they throw away." When Chen asked if he'd logged the access route for the team, Dex just tapped his nose. "Information's the only currency we've got, old man. I don't give mine away." He wandered off, and Chen watched him go with an expression that wasn't quite disapproval — more like recognition of a type he'd seen before.
+A technician named Dex Halloran drifted over from another table, eating a Gold Sector nutrient bar with conspicuous satisfaction. "Found a gap in the waste chute between sectors," he said, grinning. "Amazing what they throw away." When Chen asked if he'd logged the access route for the team, Dex just tapped his nose. "Information's the only currency we've got, old man. I don't give mine away." He wandered off, and Chen watched him go with an expression that wasn't quite disapproval — more like recognition of a type he'd seen before.
 
 Adam listened to all of it, cataloging. The way information moved through the worker population — laterally, through shared meals and corridor conversations, rather than top-down through official channels. The way trust formed quickly when people recognized shared circumstances — and how some people saw those circumstances as opportunity rather than solidarity.
 
@@ -222,7 +220,7 @@ He pulled out his beatmaker after the meal, fingers moving over the interface wh
 
 "He was a DJ," Zoe said. "Before."
 
-"Not a DJ. I ran raves." Adam's fingers kept moving. "Different thing. A DJ plays music. I built worlds."
+"Not a DJ. I ran raves." Adam's fingers kept moving. "Different thing. A DJ plays music. I built worlds. Salvaged light arrays, speakers wired from scrap. Six hours of forgetting every Friday night for anyone who could find the door."
 
 He said it without bravado, the way a mechanic might mention being good with engines. A fact about himself, offered and left.
 
@@ -240,11 +238,9 @@ Later, alone in his bunk, he stared at the scratched skull on the ceiling and th
 
 He thought about his mother, eight days of breathing remaining, watching painted stars on a ceiling in an apartment on a planet he would never see again.
 
-He put on his headphones and started building. Ventilation hum for bass. The docking clamp's metallic grind, pitch-shifted and looped, for rhythm. Torres's laugh, sliced thin and layered, for texture. And over it all, a simple melody — something he'd been carrying in his head since the shuttle, born from the moment when Earth had shrunk to a point of light in the window and he'd let himself feel it.
+He put on his headphones and started building. Ventilation hum for bass — a low throb around 40Hz, felt more than heard. The docking clamp's metallic grind, pitch-shifted down two octaves and looped, became a slow industrial pulse. Torres's laugh, sliced into bright fragments and scattered across the high end, gave it air. And over it all, a melody in minor key — three notes repeating, each iteration stripped of one layer, until only a single tone remained. The track moved at walking speed, too slow for dancing, too restless for ambient. It sounded like pacing a room you couldn't leave.
 
-The composition didn't have a name yet. It didn't need one. It was just the sound of someone arriving at the place where everything would either begin or end, and not knowing which.
-
-His fingers found the pendant in the dark. The constellation pressed against his chest.
+He saved it without a name. It didn't need one.
 
 Tomorrow, first shift. The real work of survival, beginning.
 
