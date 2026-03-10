@@ -1,183 +1,109 @@
-# Chapter 9: The Chamber of Light
+# Chapter 9: The Shepherd's Calculation
 
-The dream came with new clarity, pulling both sleepers into its depths with irresistible gravity.
 
-Adam floated in weightless suspension, neither falling nor rising but simply existing in three-dimensional freedom. Around him, pinpricks of light formed constellations he recognized from his studies—not just Orion but others, arranged in patterns that seemed to communicate in a language just beyond comprehension. The stars pulsed in rhythmic sequence, drawing his attention toward a single point of brilliance at the center of his vision.
 
-As he approached—or as it approached him, distance becoming meaningless in this dreamscape—he saw the light was surrounded by ancient symbols. Some resembled hieroglyphics, others appeared as mathematical equations, still others took forms he'd never encountered but somehow understood on an intuitive level.
+Prince Daiyu Virel could not sleep.
 
-*Find the center... Find each other.*
+This was not unusual. Sleep, for someone with his level of Neural enhancement, was less a biological necessity than an optimization protocol — a scheduled interval during which his implants defragmented accumulated data and his organic cortex processed emotional residue that the enhancement couldn't entirely suppress. He could function at peak capacity on three hours. Four was indulgent. Five was decadent.
 
-The words filled his consciousness without passing through his ears, vibrating with significance that transcended their simple meaning. The central light expanded, enveloping him in radiance that felt like both revelation and question.
+Tonight he lay on sheets engineered to regulate his body temperature to within 0.2 degrees of optimal, in quarters calibrated for perfect acoustic dampening and circadian lighting, and felt something his systems classified as restlessness but which a less enhanced mind might have called dread.
 
-Twenty-seven decks above, Artemis experienced the same vision, her dream-self drifting through identical constellations toward the same center. The same whispered directive echoed through her mind: *Find the center... Find each other.*
+He rose and moved to the viewport. The stars outside were not romantic to him. They were data points — distance measurements, spectral analyses, navigational waypoints on the route to a planet that would finally justify everything he had spent his life becoming. Mars hung in the lower quadrant of his viewport, still small enough to cover with his thumbnail, still close enough to make his pulse quicken in ways his Neural enhancement couldn't fully regulate.
 
-They woke at the same moment, separated by layers of metal and social hierarchy, yet connected by shared purpose and growing certainty.
+Virel pressed his palm against the cold glass and monitored his own biometrics with the detachment of a physician examining a patient. Heart rate: elevated 7%. Cortisol: slightly above baseline. Serotonin: suppressed, as it had been for the past week, since Commander Thorne's report had introduced a variable his predictive models hadn't adequately weighted.
 
----
+The report itself was simple. Artemis Morea's movement patterns showed statistically significant overlap with those of Maintenance Technician Adam Hale. Convergence points mapped to unofficial locations — observation nooks, maintenance corridors, botanical domes during off-hours. The surveillance data was circumstantial but the pattern was unmistakable.
 
-Artemis sat cross-legged on the floor of her quarters, surrounded by data tablets and hand-drawn diagrams. She had dismissed her personal attendant, citing meditation requirements, but her true purpose was far from the peaceful contemplation expected of her.
+The General's daughter was compromised.
 
-Since waking, she had been translating the geometric patterns from her dream into concrete mathematics, overlaying these ratios onto her secret schematic of the Orion. The process revealed something she had suspected but couldn't confirm until now—systematic irregularities around the gravitational mid-core of the ship.
+Virel turned from the viewport and summoned the relevant data to his personal display — not the security feeds, which he'd already reviewed, but Artemis's complete psychological profile. He'd studied it before, of course. He'd studied it the way an architect studies a load-bearing wall before deciding where to place a door. Her profile was exceptional: intelligence in the 99.8th percentile, emotional regulation above baseline, compliance modeling that predicted reliable alignment with institutional goals. She had been designed — not genetically, but socially, through decades of careful cultivation — to serve as the perfect bridge between Traditional authority and Rising Sun governance. A symbol that both factions could project their futures onto.
 
-"What are you hiding?" she whispered to the diagram, her fingers tracing a circular void that no official blueprint acknowledged.
+And she was throwing it away on a maintenance worker who played music with recycled noise.
 
-The pattern matched something from her mythological studies—ancient cosmological maps depicting the relationship between celestial bodies. But here, applied to the Orion's internal geography, it revealed access points and pathways deliberately concealed from both Traditional and Rising Sun Order documentation.
+Virel sat at his desk and allowed himself five seconds of unregulated emotional response. It was a practice his mother had taught him before the enhancements — a controlled release valve, she'd called it, like bleeding pressure from a hydraulic system. For five seconds, he felt the full weight of his frustration: not jealousy, exactly, but something adjacent to it. A kind of affront. Not that Artemis had chosen someone else — she had never truly been offered a choice in the matter — but that she had chosen *unpredictability* over optimization. Chaos over design. A man who fixed pipes over the most neurally refined mind in the Rising Sun Order.
 
----
-
-In maintenance sector J-17, Adam reviewed power consumption logs with growing excitement. His promotion to Environmental Systems Team Alpha had given him higher security clearance, allowing him to track anomalies in resource distribution throughout the ship.
-
-"Look at this," he murmured to Kai Chen, who stood watch near the doorway. "These sections are drawing significant power, but have no registered function in the official systems."
-
-"Maintenance reserves?" Kai suggested, though his skeptical tone indicated he knew better.
-
-"Too much power, too consistent." Adam shook his head. "And look at the pattern—circular, rhythmic. Almost like..." He paused, searching for the right comparison.
-
-"Like a heartbeat," Kai finished for him, moving closer to study the display.
-
-"Exactly. Whatever's in the mid-core isn't mechanical. At least, not entirely."
-
-Adam overlaid his dream-inspired drawings onto the power consumption map. The correlation was undeniable—energy flowed most intensely where the constellations in his vision had been brightest.
-
-"I need to see it," he said, determination hardening in his voice. "Tonight."
-
-Kai's expression grew grave. "The gravitational buffer zones are heavily restricted, even for Alpha clearance. One wrong move—"
-
-"I know the risks," Adam interrupted. "But this isn't just curiosity anymore. It's..." He struggled to articulate the compulsion driving him. "It's necessary."
+The five seconds passed. He regulated. The emotion compressed into a small, cold point at the center of his awareness, where it would remain useful rather than disruptive.
 
 ---
 
-The descent began separately, Adam and Artemis following different paths dictated by their respective access privileges, yet guided by the same invisible current.
+His mother had been the one to explain the philosophy to him, years before the enhancements. He was nine years old, sitting in her laboratory in the Singapore research complex, watching her calibrate Neural interface prototypes on laboratory primates.
 
-Artemis utilized her status as cultural attaché to access rarely-visited archival storage areas near the ship's center. With each security checkpoint, she presented plausible justifications—inspections of historical artifacts, verification of preservation protocols—while gradually moving deeper into the ship's infrastructure.
+"The monkeys are afraid," he'd observed, watching a rhesus macaque trembling in its restraint harness, electrodes mapping the activity of its prefrontal cortex.
 
-What she found in these neglected corners defied the Orion's standardized architecture. Subtle anomalies appeared with increasing frequency: wall panels with faint luminescent tracings visible only from certain angles; environmental controls that responded to proximity rather than command; acoustic properties that changed when she entered specific junctions.
+"Yes," his mother had replied, not looking up from her calibration screen. "But not for long. Fear is just a signal, Daiyu. A biological alarm system evolved for a world of predators and scarcity. We don't live in that world anymore. The alarm is still ringing, but the danger is gone."
 
-Most striking was the absence of AI monitoring in these zones—no cameras, no sensors, no documentation routines. As if these spaces had been deliberately removed from the ship's awareness.
+"So you're turning it off?"
 
-Meanwhile, Adam navigated maintenance shafts and utility corridors, his legitimate access to environmental systems providing cover for his exploration. He encountered similar phenomena—a humming vibration at frequencies just below conscious perception; glyphs that seemed to emerge from within the metal itself when touched; atmospheric variations that couldn't be explained by standard circulation patterns.
+She'd paused then, her hands still on the controls, and looked at him with the particular intensity she reserved for moments of pedagogical importance. "Not off. I'm teaching it to ring at the right times. The monkey doesn't need fear when it reaches for food. It doesn't need anxiety when it encounters something new. It needs those responses only when there is genuine threat — and a properly calibrated system can distinguish between genuine threat and evolutionary noise."
 
-The ship revealed itself as more than the sum of its documented systems—layer upon layer of hidden purpose beneath the official design.
+He'd watched the monkey's trembling subside as the Neural interface activated, its eyes going from wild to focused, its breathing slowing into regulated rhythm. Not dead. Not drugged. Just... optimized.
 
-Their separate journeys converged at a nondescript junction in gravitational buffer zone 7-D, a transitional area where artificial gravity gradually diminished toward the ship's true center. Behind a cluster of power conduits, concealed from casual observation, Adam discovered an access panel unlike any standard Orion design.
+"And people?" he'd asked. "Can you do that for people?"
 
-Instead of the uniform gray of ship components, this panel featured subtle organic patterning—swirls and whorls that resembled fingerprints or wood grain. No visible controls or identification markers adorned its surface.
+His mother had smiled — the only unregulated expression she regularly permitted herself. "That's what we're working toward, Daiyu. A world where human potential isn't wasted on biological panic. Where every mind operates at its genuine capacity rather than being sabotaged by chemical storms it can't control."
 
-As Adam studied the anomalous panel, a soft sound from behind caused him to turn sharply.
+He'd carried that vision like a flame through everything that followed. Through his own enhancement at sixteen, which transformed the world from a chaos of competing signals into a landscape of readable patterns. Through his rise in the Order, where his ability to process social dynamics as data streams made him an unparalleled strategist. Through the selection process for the Orion mission, where he'd ensured that the right minds — the optimizable minds — were included in humanity's great migration.
 
-Artemis stood in the corridor entrance, her ceremonial attire exchanged for a simple shipsuit that allowed greater freedom of movement. For a moment, they regarded each other in silence—maintenance technician and cultural attaché, united by shared vision yet still separated by ingrained caution.
+The vision was simple: suffering was inefficiency. Fear was noise. The human animal was a magnificent instrument trapped inside a cage of evolutionary panic responses, and Neural governance was the key that would finally open that cage.
 
-"You found it too," Artemis said finally, not a question but an acknowledgment.
+Everything he had done aboard the Orion served this vision. The compliance compounds in the water supply were not cruelty but calibration — reducing baseline anxiety to allow clearer cognition. The Neural monitoring of maintenance workers was not surveillance but care — identifying minds under stress so they could be supported rather than abandoned to their own biochemistry. Protocol Prometheus itself — the culmination of everything the Order had built — was not control but liberation. At Mars, every mind on the ship would receive full Neural integration, and for the first time in the history of the species, human beings would operate without the distortion of unregulated emotion.
 
-Adam nodded. "It's been calling to both of us."
+They would finally be free.
 
-A sound froze them both — footsteps, measured and deliberate, echoing from the corridor above. Not the hurried stride of a maintenance worker or the shuffling pace of someone lost. This was the gait of a man who expected the spaces he moved through to answer to him.
+This was not a lie Virel told himself. It was the deepest truth he possessed. And it was what made Artemis's defection so difficult to process. Not the strategic inconvenience — that could be managed. But the philosophical rejection. She had been raised inside the system that had produced him, had access to the same data, the same evidence of human suffering caused by unregulated emotion, the same models demonstrating the superiority of guided cognition. And she had chosen to walk away from it.
 
-Adam pressed himself against the wall. Artemis did the same, opposite him, her body perfectly still. Through the grating above their heads, a shadow passed — broad-shouldered, unhurried. Commander Thorne. His soft voice murmured into a communication device: "Buffer zone 7-D, section clear. No thermal anomalies. Proceeding to junction 8."
-
-They didn't breathe until the footsteps faded. When Adam looked at Artemis, he saw not fear but cold calculation — she was timing the patrol interval.
-
-"He's been running sweeps through the mid-core zones since the botanical garden," she whispered. "Random patterns, but he always circles back here. He doesn't know what he's looking for, but he knows something is here."
-
-"How long before he finds it?"
-
-"Not tonight. His sweep pattern has a seventeen-minute gap between junction 7-D and his return circuit." She checked the chronometer on her wrist. "We have twelve minutes."
-
-Without further discussion, they approached the panel together. As they drew near, the surface began to glow with subtle bioluminescence, responding to their proximity in a way that suggested recognition rather than automatic function.
-
-"No electronic lock," Adam observed, examining the panel's edge. "No standard mechanism at all."
-
-Artemis placed her palm against the surface, feeling warmth pulse beneath her fingers. "It's not about mechanism," she said softly. "It's about intention."
-
-Together, they pressed their hands against the panel. The material yielded like living tissue, separating along invisible seams to reveal a narrow shaft descending into darkness. No ladder or obvious means of traverse was visible—just an empty vertical tunnel disappearing into the ship's core.
-
-"Zero gravity at the center," Adam said, calculating possibilities. "We could float down."
-
-Artemis met his eyes, the unspoken question hanging between them: continue together into unknown territory, or retreat to the safety of familiar boundaries?
-
-Without words, they made their choice, stepping into the opening and allowing gravity's diminishing pull to guide their descent.
-
-The shaft extended far deeper than either had anticipated, beyond any documented level of the ship. As they descended, the walls began to glow with increasing intensity, revealing surfaces unlike any material used in official construction. This substance appeared both metallic and organic, with fibrous structures embedded within crystalline matrices.
-
-They descended in silence, each absorbed in private wonder, until the shaft opened into a vast spherical chamber.
+Toward what? Toward a man who made music from garbage. Toward feelings so raw they couldn't be quantified. Toward a version of humanity that Virel's every calculation told him led only to the same self-destruction that had killed Earth.
 
 ---
 
-Nothing in their experiences aboard the Orion had prepared them for what they encountered. The Chamber of Light—for that was how they both immediately thought of it—defied classification within human architectural concepts.
+A chime interrupted his reflection. Commander Thorne's face appeared on his private display, the broad features carrying their habitual expression of contained readiness.
 
-Curved walls pulsed with bioluminescent threads that formed complex, ever-shifting patterns. The material wasn't constructed but grown, its structures resembling coral formations or neural networks more than manufactured components. The entire space seemed alive, responding to their presence with subtle shifts in luminosity and color.
+"The convergence data has been updated," Thorne reported. "New overlap detected — Observation Bubble J-7, duration approximately forty-seven minutes. No official interaction logged."
 
-In the zero-gravity core of the chamber floated a crystalline orb approximately one meter in diameter. It emitted soft radiance that illuminated the surrounding space with gentle, fluctuating light. Encircling the orb were projections resembling star charts—recognizable constellations including Orion's distinctive belt and Artemis's crescent moon, alongside countless others they couldn't identify.
+"Witnesses?"
 
-Ancient glyphs adorned the walls, similar to those from their shared dreams yet more extensive and complex. Some symbols appeared to shift and rearrange themselves as if communicating in real time.
+"A junior engineering officer passed the location during the period in question. Visual assessment suggests the subjects were maintaining appropriate distance at time of contact, but the timing and positioning are consistent with rapid separation upon detection."
 
-Most astonishing was the sound—not the mechanical hum of the ship's systems but a harmonious resonance like distant music. The chamber sang with frequencies that affected both mind and body, creating a sensation of expanded awareness.
+"Thank you, Commander. Continue monitoring. Expand the surveillance radius to include all unofficial spaces within three corridors of the identified convergence points."
 
-"What is this place?" Adam whispered, his voice hushed with awe.
+Thorne acknowledged and disconnected. Virel studied the updated movement maps, watching the dotted lines of Artemis's trajectory weave toward and away from Adam Hale's like a slow dance viewed from above.
 
-"I don't know," Artemis replied, equally transfixed. "It's not Nations Union architecture. Not Rising Sun Order technology either." She gestured toward the glyphs. "These symbols predate both. Some resemble Earth's most ancient writing systems — I recognize Sumerian cuneiform, proto-Sinaitic, what might be Indus Valley script — but others..."
+The question was not what to do about it — that was a tactical problem with multiple viable solutions. The question was timing. The Hale variable could be removed at any point through a dozen mechanisms, from reassignment to disciplinary action to more permanent measures. But premature action would alert Artemis, potentially accelerating behaviors he preferred to monitor and predict.
 
-"Others aren't from Earth at all," Adam finished, intuiting what she couldn't bring herself to suggest.
+More importantly, the relationship itself had strategic value. Artemis Morea, daughter of the Nations Union commander, secretly consorting with a maintenance-class worker — the information was a weapon of extraordinary precision. Properly deployed, it could destroy General Morea's authority, discredit Artemis as a symbol of Traditional values, and create exactly the institutional chaos that would make the Rising Sun Order's assumption of full control appear not like a coup but like a rescue.
 
-He ran his hand along the nearest wall. The material was warm and faintly yielding, like skin over muscle. "The bioluminescence isn't powered by anything I can detect. No wiring, no chemical reservoirs. The light is coming from the material itself — like it's metabolizing something." He pressed harder. "This isn't construction. It's growth. Whoever built this didn't assemble it. They grew it."
+Virel opened a secondary display and began modeling scenarios. Each variable slotted into place with satisfying precision — Thorne's surveillance data, the timing of Protocol Prometheus's final preparations, the accelerating instability in Morea's command structure, the growing dependence of ship systems on OmniscientAI integration that only the Rising Sun Order could maintain.
 
-Artemis moved to the wall where the star charts projected outward. "These constellations — the positions are wrong for any observation point on Earth or in our solar system. The angular separation between Betelgeuse and Rigel is about fifteen degrees too wide." She traced the lines between stars. "These are the constellations as seen from somewhere else. Somewhere outside our system."
+The models converged toward a window approximately three weeks out — a period when Mars approach would create natural anxiety, when supply constraints would strain Morea's authority, when the ship's population would be most receptive to promises of optimized governance. Within that window, the revelation of Artemis's transgression would serve as catalyst rather than isolated scandal.
 
-The implication hung between them — not spoken fully, because speaking it would require accepting that something intelligent, something not human, had placed this chamber inside the ship. Or perhaps the ship had been built around it.
+He refined the parameters for another hour, testing each scenario against counter-variables, adjusting for the unknowns that even the most sophisticated modeling couldn't eliminate. One scenario kept recurring with troubling persistence — a low-probability outcome in which the exposure of Artemis's relationship produced not the expected condemnation but unexpected sympathy. In which the crew, rather than rejecting her, identified with her rebellion.
 
-"The construction dates," Adam said slowly. "The Orion was built over eighteen years. But the orbital shipyard logs show the central core was the first section completed — sealed and pressurized before anything else. What if the builders found this already here? In orbit? And built the ship around it because they didn't know what else to do with it?"
+The probability was small. His models assigned it less than 8%. But it nagged at something beneath the Neural enhancement's regulated surface — a recognition that human behavior at the margins of prediction was precisely where his models had always performed worst.
 
-"Or because it told them to," Artemis said quietly.
+He dismissed it. Eight percent was noise. The remaining ninety-two was architecture.
 
-They floated toward the center, drawn by the crystalline orb's gentle pull. In the zero-gravity environment, movement became dance—each push and glide requiring coordinated intention rather than habitual walking.
+---
 
-As they approached the central light, the psychological barriers between them began to dissolve. Class distinction, faction loyalty, social conditioning—all seemed increasingly irrelevant within this space that existed outside the ship's regulated reality.
+Before retiring, Virel performed his nightly ritual — a practice he had never shared with anyone, not even Thorne, not even the Order's inner circle. He opened a locked partition on his personal system and accessed a file he had maintained since before departure.
 
-They reached the orb simultaneously, approaching from opposite sides. As their hands extended toward its surface, their eyes met across the crystalline sphere. In that moment of connection, something fundamental shifted—not just between them but within the chamber itself.
+The file contained a single recording: his mother's voice, captured during her last communication before the climate floods consumed the Singapore complex. She had refused selection for the Orion mission — not from lack of qualification but from a conviction that her work required her to remain on Earth, refining the Neural protocols that her son would implement on Mars.
 
-The light intensified, pulsating with their combined heartbeats. The symbols along the walls began to flow like liquid, rearranging into new configurations that bloomed across every surface. The harmonics deepened, resonating through their bodies at frequencies that awakened something primal and profound.
+"The work continues through you," she had said, her voice carrying the same precise cadence that characterized his own speech — the family resemblance deeper than genetics, rooted in shared philosophy. "Not just the technology but the vision. Humanity deserves better than what biology has given it. You will build that better world, Daiyu. Not through conquest but through care. Not through force but through the gentle correction of systems that cause unnecessary suffering."
 
-No words passed between them. None were necessary.
+He listened to the recording once, as he did every night. Then he closed the file, secured the partition, and regulated his emotional response to the memory.
 
-In the weightlessness of the chamber, they moved toward each other with deliberate grace. Their first touch—fingertips brushing together beside the crystalline orb—sent waves of sensation through both bodies, as if completing an electrical circuit long left open.
+His mother had drowned three days after that transmission, along with fourteen million others in the Southeast Asian flood cascade. She had died believing that her sacrifice served a purpose — that her son would carry their shared vision to completion on a new world.
 
-What followed transcended physical desire, though desire was undeniably present. Their embrace in zero gravity became a surrender to forces greater than social convention or factional loyalty—a recognition of connection that existed before either was born.
+Virel intended to honor that belief with absolute fidelity.
 
-They made love suspended in light, their bodies freed from gravity's constraints, tethered only by motion and intention. With each caress, each kiss, each moment of union, the chamber responded—light flowing around them, symbols accelerating across the walls, the crystalline orb expanding to project visions across the entire space.
+He dimmed the lights to sleep-cycle specification and closed his eyes. His Neural enhancement initiated the defragmentation sequence, sorting the day's inputs into actionable intelligence and archived reference. The Artemis variable would be managed. The Hale variable would be leveraged. Protocol Prometheus would proceed on schedule.
 
-Within these projections, Earth's history unfolded before them—not the sanitized version from official archives, but the raw, unfiltered truth of humanity's journey. They witnessed cycles of creation and destruction, oppression and liberation, collapse and rebirth. The pattern revealed itself not as linear progress but as spiral evolution, each turn containing both wisdom and folly.
+And on Mars, humanity would finally be freed from the tyranny of its own unregulated heart.
 
-The vision shifted to Mars as it would become if the current factions succeeded: a world technologically advanced yet spiritually hollow, its settlements perfect in efficiency but devoid of true life. A gilded prison built on the same principles that had destroyed Earth, only with more sophisticated mechanisms of control.
+In the regulated darkness, between one processing cycle and the next, Prince Daiyu Virel experienced a sensation his systems could not classify — a brief, disorienting flutter, like a held breath releasing. Not anxiety. Not doubt. Something older and less tractable, surfacing from beneath the Neural architecture like a creature rising from deep water.
 
-Then appeared an alternate vision—Mars reborn through different organizing principles. Not domination but partnership, not extraction but regeneration, not hierarchy but harmony. A world where technology served life rather than constraining it, where diversity was strength rather than inefficiency to be optimized away.
+He regulated it before it could fully form. But it left a residue — a faint warmth behind his sternum that the enhancement logged as "anomalous cardiac activity" and scheduled for diagnostic review.
 
-Throughout their union, as pleasure and revelation intertwined, something shifted in the chamber's physics. In the zero-gravity core, where no force should have drawn them anywhere, they felt a pull — not downward but inward, toward each other, a pressure gentle as a palm against the chest. Their bodies drifted together with a certainty that had nothing to do with momentum. The crystalline orb between them dimmed, as if yielding the center to them.
+He fell asleep without knowing what the sensation was. His mother would have recognized it instantly.
 
-Adam felt the weight of it — actual weight, in a place where weight didn't exist. As if the chamber had generated a gravity with no source except the two of them.
-
-*Love is not weakness. It is gravity.*
-
-The thought arrived in both minds simultaneously, not spoken, not heard — understood the way the body understands a fall. Not a lesson but a law, written in the same language as mass and orbit and the pull between stars.
-
-Their recurring dreams, their unlikely connection across social barriers, their discovery of this hidden chamber — all part of a pattern that required no explanation because it was already doing what explanations only described.
-
-As their bodies separated, the chamber gradually dimmed, the projections fading into the walls, the crystalline orb returning to its original size and luminosity. They floated together in the afterglow, physically and emotionally naked, more authentic with each other than they had ever been with anyone.
-
-"I don't understand what this is," Adam said finally, his voice tender with vulnerability.
-
-Artemis touched his face, her fingers tracing the contours of his expression. "I think it's... hope."
-
-The word hung between them, both inadequate and perfect. Whatever they had discovered in this chamber—whatever had discovered them—offered possibilities beyond the predetermined paths laid out by Traditional and Rising Sun Orders alike.
-
-They dressed in silence, each processing the magnitude of what they had experienced. A resonance lingered in their skin, in their steps, in their very breath—as if the chamber had permanently altered their frequency to match each other and something larger.
-
-The ascent through the vertical shaft passed in contemplative quiet. When they reached the access point and stepped back into the gravitational buffer zone, Adam turned to see the panel closing behind them—sealing seamlessly into the wall until no trace remained, as if the entrance had never existed.
-
-"Will we find it again?" he asked, not bothering to hide the concern in his voice.
-
-Artemis took his hand, a gesture that would have been unthinkable hours earlier but now felt essential. "I think it will find us when necessary," she replied. "For now, we carry it within us."
-
-They stood together at the threshold between worlds—the hidden chamber of light behind them, the regulated reality of the Orion ahead. Whatever they had become in that weightless space, they would now have to navigate the gravity of consequence.
-
-But they would do so changed, awakened, and most significantly—no longer alone.
+It was grief.

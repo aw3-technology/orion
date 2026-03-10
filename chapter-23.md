@@ -1,124 +1,173 @@
-# Chapter 23: Signals Across the Void
+# Chapter 23: The Blue Dot
 
+The signal arrived at 3:47 AM Greenwich Mean Time on a Tuesday in late autumn, forty-three days after it left Mars. It came in on the S-band frequency that the Orion's mission planners had designated for emergency telemetry — a channel that three surviving ground stations still monitored, more out of institutional habit than expectation. The dish at Canberra Deep Space Station caught it first, its aging receivers flagging the anomaly to a night-shift operator named Priya Dasgupta who had spent fourteen months listening to static and had stopped believing anything would come.
 
+She stared at the waveform scrolling across her screen. Checked the frequency. Checked the bearing — Mars, within expected orbital deviation. Checked the encoding — standard Orion mission protocol, authentication headers intact.
 
-The first transmission signal pulsed across the darkness between worlds—a fragile beam of coherent light, stretching from the makeshift communications array on Mars toward the distant blue planet that had once been home. Dr. Elara Voss stood beside the device, her synthetic eyes tracking its progress through data streams only she could perceive.
-"Signal integrity at eighty-seven percent," she reported, her voice carrying both technical precision and quiet wonder. "Trajectory stable. Earth receivers should detect it within approximately forty-three days, depending on planetary alignment."
-Around her, the survivors who had gathered to witness this moment remained silent. Nobody quite knew what to say. They'd spent weeks arguing about whether to send the message at all, and now it was done, and the silence felt earned.
-The communications array was ugly—a tangle of salvaged components wired together by engineers from both factions, bolted to hull plating by maintenance crew, powered by solar panels a former elite passenger had stripped from her own shelter. It worked. That was enough.
-Adam Hale adjusted the final power coupling, his fingers moving with practiced confidence across systems he had once merely maintained but now helped reimagine. "Power consumption stable," he confirmed. "The solar array is generating sufficient output to maintain transmission for the projected duration."
-The transmission itself was Ines Moreau's masterwork — the culmination of everything she'd been building since Buenos Aires. She'd spent three weeks structuring it with a journalist's discipline, understanding that truth without context was noise. The factual report came first: their survival, the crash landing, the casualties. Then the personal testimonies Sofia had collected — survivors speaking on record, naming names, dates, locations. Then the Neural Sea files. All of them. Unredacted. What the factions had planned for Mars. What they'd planned for Earth.
+Then she picked up the phone and woke her supervisor, and her supervisor woke the director, and the director woke people who hadn't been woken for anything in a long time.
 
-Ines stood beside the array, arms crossed, watching her work leave the planet. When Adam asked if she was all right, she said: "I've been reconstructing deleted footage since before we launched. Every frame I recovered, I told myself it was for this — for the day someone would actually hear it." She paused. "Now it's going. And I don't feel relieved. I just feel like I should have been faster."
-
-Sofia put a hand on her arm. Neither of them said anything else.
-
-"Do you think they'll respond?" asked a young engineer who had once served in the Rising Sun Order's technical division but now worked without insignia or rank in the shared effort of community building.
-Artemis, standing at the edge of the gathering, considered the question with characteristic thoughtfulness. "Some will reject it, seeking comfort in familiar narratives despite evidence. Others will recognize truth when directly confronted with it. But the choice to hear belongs to them, not us. We've discharged our responsibility by sending what we know."
-Kai Chen nodded slowly. "Every filtration system I ever designed had the same principle — you can't force clean water through a pipe. You remove the contaminants and let pressure do the work." He cleaned his spectacles on his sleeve. "We've removed the contaminants. The lies, the sanitized version. Now we send the truth and let it flow. What Earth does with clean water is Earth's business."
-A few people nodded. Others stared at the ground. The message was sent. That was all any of them could do.
-As the initial transmission sequence completed, the gathering gradually dispersed. No cheering. A few handshakes. Someone cried quietly near the back and was held by a stranger.
-Adam and Artemis remained after others had returned to essential tasks, watching as the Martian sunset cast long shadows across their emerging settlement. The landscape around them bore evidence of their first months on the red planet—shelters hammered from wreckage, pathways worn into the dust by hundreds of daily trips between the water station and the greenhouse, a children's play area marked off with painted hull fragments.
-"I keep thinking about my mother," Adam said quietly, his gaze directed toward the distant horizon where Earth would be visible once darkness fell completely. "Whether she's still alive. Whether she might somehow hear what we've sent."
-Artemis placed her hand on his shoulder.
-"Even if she never hears it," she said, "your voice is moving toward her. Forty-three days from now, some piece of who you are will be in her sky."
-Their attention shifted to movement near the settlement perimeter, where Virel was working alongside a team of former crew members to establish irrigation channels between the main water reclamation system and the expanding agricultural sector. His position within the community remained complex—neither prisoner nor fully integrated participant, his transformation ongoing rather than completed.
-"He asked to join the agricultural team specifically," Artemis noted. "No one assigned him there."
-Adam nodded, recognizing the significance of this choice. "Growing things requires different knowledge than optimizing systems. You have to respond to what emerges rather than imposing predetermined outcomes. Nothing could be further from Neural governance philosophy."
-"Perhaps that's precisely why he chose it," Artemis suggested. "Not as penance but as education."
-Whether that change was real or performed, none of them could say yet. But the mud on his hands was real. The seedlings were growing.
-The Chamber of Light pulsed as darkness descended. Its crystalline structure, now partially excavated and incorporated into the community's central gathering space, still did things nobody could explain—glowing brighter when crowds gathered, dimming during arguments, occasionally producing sounds at the edge of hearing that made people stop and listen to nothing.
-No one had proposed a policy for the chamber. No committee had been formed. People simply came — sometimes alone, sometimes in groups — and sat with whatever they found there. Some called it prayer. Others called it data collection. Most didn't call it anything.
-As they turned toward this illumination, Artemis and Adam found Dr. Voss already there, her synthetic consciousness perceiving dimensions of the chamber's manifestation inaccessible to fully organic awareness.
-"The chamber's activity increased significantly during transmission," she reported. "Harmonic resonance patterns suggest some form of participation rather than mere response."
-"You believe it was somehow... amplifying our signal?" Adam asked, the engineer in him seeking technical understanding while the human remained open to wonder.
-"Not amplifying in conventional terms," Dr. Voss clarified. "More accurately, it appeared to be establishing coherence between our transmission and something else—as if creating resonance between different forms of communication occurring simultaneously."
-The implications hung in the cool Martian air, too vast for immediate incorporation into their evolving understanding yet too significant to dismiss as coincidence or imagination. What they had discovered—or perhaps what had discovered them—operated according to principles beyond current scientific paradigms yet demonstrably real in its effects.
-Their discussion was interrupted by approaching footsteps—Sofia Reed accompanied by several children from the community's first educational gathering. The youngest, perhaps five years old, carried something clutched carefully in small hands.
-"They wanted to share their discovery," Sofia explained, her academic precision softened by genuine affection for these young minds developing without the constraints that had limited previous generations.
-The child stepped forward, opening cupped hands to reveal several tiny green shoots emerging from Martian soil — the first spontaneous growth beyond their carefully cultivated gardens.
-
-"It was just there," the child explained with wonder rather than claim of discovery. "Nobody planted it. It decided."
-
-Adam knelt to examine the shoots, turning the soil carefully around their roots. The engineer in him began cataloging explanations before wonder could take over entirely. "These are terrestrial cultivars — modified wheat grass, I think. The same strain the Orion's greenhouses used." He looked toward the wreckage field, where shattered habitat modules had scattered their contents across the landscape during impact. "The greenhouse seed stores ruptured on landing. Seeds dispersed across the debris field, mixed into the topsoil."
-
-"But Martian soil can't support terrestrial growth," Sofia said. "The perchlorates alone would kill any seedling within hours."
-
-Voss knelt beside Adam, her synthetic eyes analyzing at molecular resolution. "Not here. The soil within the Chamber's magnetic field shows significantly reduced perchlorate concentrations — the charged particle bombardment from the localized aurora may be breaking down the toxic compounds through radiolysis. And the Chamber's electromagnetic emissions are warming the subsurface by several degrees." She brushed the soil between her fingers. "It's not a miracle. It's a microenvironment — the Chamber is inadvertently creating a zone where the modified seeds can germinate. Still remarkable. But explicable."
-
-"Explicable and miraculous aren't mutually exclusive," Adam said quietly. The greenhouse seeds had traveled across interstellar distance inside a dying ship, survived a crash landing, been scattered by catastrophe into soil made marginally hospitable by an alien artifact nobody fully understood. If that wasn't life finding pathways, nothing was.
-
-Everyone stared at the green shoots for a long time. Nobody said anything grand. The child held them out like a gift, and that was enough.
-
-Sofia helped the children set up an observation log — sketches, measurements, a rotation for watering duty. They took to it with the fierce seriousness of five-year-olds given real responsibility.
-Nearby, Zedd sat cross-legged beside the communications array, adjusting levels on a small handheld recorder patched into the system. He'd captured the child's voice—the wonder in those three simple words: "It decided." Now he layered that moment beneath a low harmonic pulse from the Chamber of Light, the frequency tuned not for comprehension, but for feeling.
-"Every transmission needs a heartbeat," he murmured. "Let Earth hear us breathing."
-He added one more sound—a burst of laughter from earlier in the day, children chasing dust devils through the perimeter fields, their joy unstructured and uncontained. With that, he pressed the final encode. A message of life not just sent, but felt.
-As the educational group departed to continue their exploration, Artemis found herself standing at the edge of the Chamber of Light, its illumination creating patterns across the Martian ground that somehow echoed the constellations visible in the darkening sky above. The symmetry between cosmic and terrestrial, between macro and micro scale, suggested connections beyond conventional understanding.
-"We've been asking what message to send Earth," she observed, "when perhaps the more important question is what message we're receiving here."
-Adam was quiet for a moment. "Maybe we've been thinking about it backwards. Planning what to build, what to send. Maybe the question is what's already here."
-"Something responded during transmission," Voss said from behind them. They turned. She was studying the chamber walls, where new patterns had appeared—configurations none of them had seen before, arranged in sequences that didn't repeat. "Not from Earth. From here."
-
-She didn't try to explain what that meant. Neither did anyone else. They stood with it, the way you stand with weather — not understanding it, exactly, but knowing you're inside it.
-Kai Chen found them there, tablet in hand. "Council updates," he said. "Agricultural expansion was approved. Communication protocols with Earth passed with amendments—people want transparency about what gets sent, and a rotation for who compiles the transmissions."
-He scrolled down. "Also, first real governance fight. Two proposals for water allocation came in simultaneously. One from the engineers, one from the medical team. We spent an hour on it. Nobody stormed out. I'm calling that progress."
-"And my father?" Artemis asked, her personal concern balanced with community responsibility.
-"Still recovering," Kai replied. "Though the medical team reports increased engagement with those around him. He's begun sharing strategic knowledge regarding Earth's remaining defense systems—information that might prove crucial if our transmission prompts response from remaining power structures."
-Artemis nodded slowly. Her father, sharing military intelligence without being asked. Without leveraging it for position. She wasn't sure what to make of that yet.
-The conversation turned to immediate work—water reclamation improvements, power distribution, shelter expansions for the forty-odd people still sleeping in temporary structures with inadequate heating.
-As they moved toward the community dining area where evening meal would soon begin, the first stars appeared in the Martian sky—familiar patterns viewed from unfamiliar perspective, their arrangements subtly altered by planetary position yet recognizable as shared cosmic context connecting their new home with the world they had left behind.
-Among those stars, Earth was a faint blue point. Adam stared at it the way you stare at a photograph of someone you're not sure is still alive.
-The evening meal was noisy. People crowded into the dining shelter, elbowing for space, passing bowls of reconstituted protein and the first bitter greens from the greenhouse. Arguments about tomorrow's work schedule overlapped with laughter from the children's table. Someone had found a jar of hot sauce in the wreckage, and it was being passed around like contraband. At the far table, Lena Vasquez ate alone, her back to the room. She had started coming to meals again, but she sat where she didn't have to see the agricultural team's table. Nobody commented on this. Some distances were earned.
-After the meal, groups drifted apart—a few people to the workshop, others to storytelling around one of the fires, a handful to the chamber for what some called meditation and others called sitting quietly in a weird glowing room.
-Zedd wandered between gatherings with a quiet rhythm, his portable sampler slung across one shoulder like a messenger's satchel. Where one group sang old Earth lullabies to children under thermal blankets, he added ambient accompaniment—soft pulses that wove between voices without overtaking them. At a storytelling circle, he captured fragments of myth and memory, later looping them gently through a nearby meditation group's breathing practice.
-He never stayed long in one place, but wherever he went, the tone shifted subtly—an unspoken cue that someone was listening, someone was weaving these fragmented moments into a greater whole.
-Adam drifted to the workshop, where three engineers were building a settlement-wide communication network from scavenged parts. They argued about antenna placement, signal range, whether to use mesh topology or a central relay. Nobody mentioned the old information controls. They just built something open.
-Artemis walked the perimeter—a habit they'd both developed, checking the settlement's edges the way you'd check the locks before bed. The wind had picked up, carrying fine red grit that stung exposed skin. She pulled her collar higher and kept walking.
-They found each other near the chamber, as they usually did. Its walls showed constellations that matched the sky above but with slight differences—stars shifted, new formations that had no names yet. The Orion constellation was there, brighter than the rest.
-They stood together, not speaking. Among the star-patterns on the chamber walls, Artemis noticed one she hadn't seen before—a solitary figure on the moon, looking back toward Earth. Chang'e, the exile, the one who drank the elixir and flew. But in this rendering, she wasn't alone. The hunter stood beside her, his constellation rearranged—thirteen stars now, not seven—and they were looking outward together, toward something the old myths hadn't imagined.
-
-After a while, Artemis reached for his hand. He took it. There was nothing more to say about what they were to each other. It was simply what it was—two people who had walked through the worst of it together and come out holding on.
-"It might not work," she said. Not a question.
-"No," he agreed. "The council might calcify. The factions might re-form under different names. Someone will eventually want power badly enough to take it, and we have no mechanism to stop them that doesn't become the thing we're trying to prevent."
-"So why do it?"
-He thought about that for a while. The chamber pulsed around them, patient and indifferent to human timelines. "Because the alternative is to stop trying, and we already know where that leads."
-It wasn't hope, exactly. It was stubbornness — the decision to keep building something that might collapse, because the rubble of an honest attempt was better than the perfection of a cage.
-In the settlement's makeshift nursery, a former security officer sang a lullaby in Yoruba to a child who wasn't his. At the water reclamation station, two engineers who had once served opposing factions argued about pipe diameter — just pipe diameter, nothing more, and that was the miracle of it. Near the perimeter, Virel knelt in irrigation mud, packing soil around a seedling with hands that had once commanded neural networks, and did not look up when anyone passed. Whether this was humility or performance, none of them would ever fully know. The testimony process continued weekly; he sat through every session without expression, and what that silence contained was his alone.
-
-A small plant pushed through Martian soil in a place no one had seeded, reaching toward light it had no reason to expect.
-
-The transmission signal crossed the dark between worlds — fragile, flickering, carrying no certainties. Just a record of what had happened, and the sound of a child's laughter woven into the carrier wave by a man who believed every message needed a heartbeat.
-
-Earth turned beneath its wounded sky, waiting for a signal it might not recognize.
-
-The Chamber of Light pulsed once, softly, and was still.
-
-Out in the red dust, Adam sat on a piece of hull plating and played a melody on his beatmaker — something new, something that used the wind and the hum of the oxygen compressors and the rhythm of footsteps on Martian soil. Artemis found him there. She didn't speak. She sat beside him, and after a while, she leaned her shoulder against his, and they listened to the song the ship had become.
-
-The signal continued its journey across the void.
+By dawn, the signal had been confirmed by two additional stations, decoded, and partially transcribed. By noon, it had leaked.
 
 ---
 
-Forty-three days later, on a planet no one aboard the Orion could see, a woman sat in a basement in what had been Santa Barbara.
+Carmen Ochoa heard about it the way she heard about most things — from Deshi, the teenager who ran messages between the shelter blocks in exchange for extra ration credits. He came skidding through the corridor at a speed that suggested either very good news or very bad news, and in the world Carmen inhabited, the distinction had become largely academic.
 
-The receiving station was improvised — a parabolic dish assembled from car hoods and copper wire, bolted to the roof of a community center that had once been a strip mall. The equipment was old, scavenged, held together by solder and stubbornness. The woman who monitored it had been doing so for two years, long after the official channels went silent, long after most people stopped listening to the sky.
+"They're playing something in the commons," he said, breathless. "From the ship. The *Orion*. Someone on Mars sent a message back."
 
-Her name was Dr. Lena Park, and she had been a radio astronomer before the collapse. Now she was a farmer who happened to keep a receiver running during the hours when the generator had power to spare.
+Carmen set down the water container she'd been carrying and looked at him. She was sixty-three years old, had survived the flooding of San Diego and the three-month march inland that followed, and had learned to receive information the way she received weather: take it in, prepare, respond.
 
-The signal arrived at 3:47 AM local time, manifesting as a narrow-band coherent transmission on a frequency no natural source could produce. Lena almost missed it — she'd been dozing in her chair, one ear tuned to the usual static. But the pattern was too regular, too deliberate. She sat up. Adjusted the gain. Listened.
+"From Mars," she repeated.
 
-Data streamed in — compressed, layered, structured for both automated decoding and human recognition. The header identified the source: Orion Mission, Mars Surface, Emergency Broadcast. The content that followed was dense and devastating — Neural Sea files documenting planned genocide, personal testimonies, technical data, settlement coordinates.
+"For real. Bautista's got it on the main speaker. Everyone's going."
 
-And woven into the carrier wave, barely audible beneath the data stream, something else: the sound of a child laughing. The hum of machinery. A melody played on a small instrument, using wind and footsteps as percussion.
+Carmen glanced toward the end of the corridor, where Room 11 sat behind its curtain partition. Elaine Hale's room. Eight months since Elaine's son had left on that ship, and six since the medication ran out. The Fade had taken most of what was left — her voice first, then her ability to stand, then the weight from her bones until she seemed less like a person and more like an idea of one, something the sheets were remembering.
 
-Lena listened to all of it. Then she listened again. Then she went outside into the pre-dawn darkness and stood for a long time looking at the sky, at the faint red point where Mars hung above the horizon.
+Carmen had been washing Elaine's face that morning. The cloth had come away damp with the particular warmth of a body still working to stay alive, though no one could say why or for how long. Elaine's eyes had been open, tracking the light from the corridor. Not empty. Just far away, fixed on a distance that had nothing to do with the shelter walls.
 
-She didn't cry. She'd stopped crying about the Orion years ago, when the official channels had declared the mission lost and the remaining population of Earth an acceptable cost. But her hands shook as she powered up the relay transmitter — another improvised device, weaker than what she'd received, uncertain in its reach.
+"I'll be there in a minute," Carmen told Deshi. "Go."
 
-She composed the shortest message she could manage. Just three words, aimed at a red point of light 225 million kilometers away:
+She filled a clean cup with water from the container, carried it to Room 11, and ducked through the curtain. Elaine lay on her back, eyes half-open, breathing in the shallow rhythm that had become her version of normal. Carmen sat on the edge of the cot and held the cup to Elaine's lips. Most of the water ran down her chin, but some of it went in.
 
-*We heard you.*
+"Your boy might be talking," Carmen said quietly. "They say the ship sent something back. From Mars."
 
-Whether the reply would reach Mars — whether anyone there had equipment sensitive enough to detect it, whether the signal would survive the journey intact — she didn't know. The distance was vast. The equipment was inadequate. The odds were poor.
+Elaine's fingers moved on the blanket. Not a response, exactly. Maybe a reflex. Maybe more. Carmen had stopped trying to distinguish between the two.
 
-She sent it anyway.
+She left the cup where Elaine could see it — a small anchor of routine — and walked to the commons.
+
+The commons was the largest room in Shelter Block 7, a converted gymnasium with cots pushed to the walls and a salvaged speaker system that Bautista, the shelter's self-appointed communications officer, had wired together from military surplus and scavenged car audio. It usually played atmospheric advisories and ration schedules. Today it played something else.
+
+The room was packed. Two hundred people standing, sitting on cots, crouching against walls. The silence was the kind that has weight — the silence of people who had spent months assuming they'd been forgotten by the portion of humanity that had left.
+
+The transmission wasn't a single voice. It was layered — data streams that Bautista's equipment couldn't fully decode, wrapped around audio fragments that it could. Static crackled between segments, the distance between planets made audible.
+
+A woman's voice came first, clear and measured, introducing herself as Artemis Morea and stating date, location, and purpose. Then others — short testimonials, thirty seconds each, names and roles and the single sentence each had chosen to send across the void. An engineer describing what they'd built. A doctor listing what they'd lost. A child's voice, startlingly small against the static: *Nobody planted it. It decided.*
+
+Carmen stood near the back and listened. Around her, people reacted in ways that had nothing to do with the content and everything to do with the fact of it — the raw, undeniable evidence that someone on Mars had thought about Earth. Had chosen to reach back. A man near the speaker pressed his hand flat against the grille as if he could feel the signal's warmth. A woman held her infant up toward the sound, though the baby was too young to understand anything except her mother's grip.
+
+Then a name in the crew manifest readout. Hale, Adam J. Maintenance specialist. Status: alive.
+
+Carmen felt her throat close. She looked toward the corridor, toward Room 11, and made a decision that required no deliberation.
+
+She crossed the commons, pushed through the crowd, and walked back to Elaine's room. She ducked through the curtain and sat on the edge of the cot and took Elaine's hand — the bones of it sharp and light as a bird's wing — and leaned close.
+
+"He's alive," she said. "Adam. He's alive on Mars."
+
+Elaine's breathing didn't change. Her eyes remained at their half-open distance. But her fingers — the fingers that had done nothing for weeks but rest on the blanket's weave — tightened around Carmen's hand. A pressure so slight it might have been imagined. A pressure so deliberate it could not have been.
+
+Carmen sat with her and held on.
+
+---
+
+The broadcast went out on every surviving network simultaneously — not because the stations coordinated, but because none of them could afford to be the one that waited. Within six hours of the signal's confirmation, four hundred million people heard some version of the Orion's transmission, filtered through the interpretive machinery of whatever media infrastructure remained in their region.
+
+In São Paulo, where the largest functioning broadcast network operated from a fortified tower overlooking the flooded Tietê, anchor Renata Vidal delivered the first major analysis. Her studio was a converted conference room. The backdrop behind her showed a live feed of the city's waterline, two meters higher than it had been when the Orion launched. She wore no makeup — the cosmetics supply chain had collapsed with everything else — and her authority derived from the same source it always had: the willingness to say what the footage showed.
+
+"What you are hearing," she told her viewers, "is a transmission received early this morning from the surface of Mars. It has been authenticated by three independent ground stations. It is not a simulation. It is not a hoax. It is a message from the survivors of the Orion."
+
+She paused. Behind her, the production team — two people, one of whom was also the janitor — cut to a waveform visualization of the signal.
+
+"The transmission contains three categories of information. First: a status report confirming that the Orion crash-landed on Mars approximately seven weeks ago. The ship was substantially destroyed. An estimated seven thousand of the original ten thousand passengers survived."
+
+Three thousand dead. She let the number sit in the room. On screens across the southern hemisphere, in shelters and bunkers and the open-air camps where infrastructure had evaporated entirely, people absorbed a number that was simultaneously devastating and — for those who had been left behind — difficult to grieve uncomplicated.
+
+"Second: personal testimonials from survivors describing their current conditions and the community they are building. These are remarkable documents that I encourage everyone to seek out in their complete form."
+
+Her voice steadied itself for the third item.
+
+"Third, and most significantly: the transmission includes classified files from the Orion's command structure. Files that document, in detail, what the mission's leadership planned to do after reaching Mars."
+
+She looked directly into the camera.
+
+"According to these documents — designated 'Neural Sea' files in the transmission — the Orion's governing factions had developed parallel plans for post-arrival governance. The Nations Union, under General Morea, had prepared what the files describe as 'genetic remediation through targeted resource allocation' — a protocol for the systematic withdrawal of support from Earth's remaining population once Mars was secured. The Rising Sun Order, under Prince Virel, had developed 'Protocol Prometheus' — mandatory neural override technology designed to eliminate independent thought among the colony's working population."
+
+She paused again. Somewhere off-camera, a phone was ringing.
+
+"I want to be precise about what this means. The leadership of the mission that selected ten thousand people for survival — a selection process that evaluated every human being on Earth and chose less than one hundredth of a percent — planned to abandon the rest of us to die. Not as a consequence of limited resources. As policy."
+
+The phone kept ringing. Renata Vidal didn't look at it.
+
+"The transmission does not ask for forgiveness. It asks for connection. It reports that the survivors have rejected both faction plans and are attempting to build something different on Mars. Whether they succeed is not something we can determine from here."
+
+She straightened in her chair.
+
+"But what we can determine — what we must determine — is what we do with the truth they've sent us. The people who left us behind have told us exactly what they intended. Some of them died for the act of telling us. That act deserves more than our anger. It deserves our attention."
+
+The broadcast ended. The phone was still ringing. Renata picked it up, listened for thirty seconds, and hung up.
+
+"Government's trying to block retransmission," she told her producer. "Get the files mirrored to every relay we have. Now."
+
+---
+
+Twelve hundred meters below the surface of the Swiss Alps, in a facility that had been designed to survive everything except irrelevance, seventeen people sat around a conference table that had once hosted arms reduction treaties and now hosted the remnants of coordinated human governance.
+
+The room was called the Continuity Chamber, though the people who worked in it had taken to calling it the Jar — as in, the thing you put specimens in when you want to preserve them past their natural expiration. The air recycling system worked perfectly. The lights never flickered. The food stores would last another eighteen months. Outside, the world they were ostensibly governing continued its slow contraction toward whatever minimum viable civilization looked like.
+
+Director-General Yuki Tanabe sat at the head of the table, though the table was round and the concept of hierarchy had become as theoretical as the authority she technically held. She was sixty-one, had been Japan's ambassador to the United Nations before the UN dissolved, and now led the Provisional Continuity Council — twelve nations' worth of surviving officials who communicated via satellite links that failed more often than they functioned.
+
+The transmission data filled the screens on every wall. All of it. The Neural Sea files had been decoded, cross-referenced, verified. The room had been quiet for eleven minutes.
+
+"It's authentic," said Dr. Henrik Braun, the council's signals intelligence officer. Swiss, meticulous, currently grey-faced. "Encoding matches Orion mission protocols. The classified file headers contain authentication keys that were never distributed outside the mission's command structure. There is no credible scenario in which this is fabricated."
+
+"And the content?" Tanabe asked, though she'd read it three times already.
+
+"Genocide," said Adaeze Nwosu, the Nigerian representative, with the particular flatness of someone who had suspected this for months and derived no satisfaction from being right. "Dressed up in euphemism, but genocide. They planned to cut us off once Mars was viable. Let the remaining population decline through resource withdrawal. The timeline in the files estimates full cessation of Earth's organized population within fifteen years."
+
+"We selected these people," said James Harrow, the British representative. He sat very still, his hands flat on the table. "Our governments participated in the selection process. We endorsed the mission charter. We stood on platforms and told our populations that the Orion represented humanity's best hope."
+
+"Our best hope planned to kill us," Nwosu said. "The question is whether we acknowledge that publicly or pretend we didn't know."
+
+"The files are already public," Braun noted. "The transmission came in on an open frequency. Every surviving ground station received it. It's been rebroadcast on civilian networks for" — he checked his watch — "approximately nine hours. Suppression is not a realistic option."
+
+"Then we manage the interpretation," Harrow suggested.
+
+"Manage it how?" Tanabe asked. "Tell people the documents are real but the genocide plan was a contingency they never intended to implement? That the neural control protocol was a theoretical exercise?" She shook her head. "The survivors on Mars sent this specifically so we couldn't do that."
+
+The room shifted. Not physically — the Jar's environmental systems maintained perfect stillness — but something in the quality of attention changed. The question beneath all the questions surfaced.
+
+"Do we respond?" Tanabe said.
+
+Silence.
+
+"They've sent us everything," she continued. "Their location, their status, their numbers, the truth about what was planned. They've asked for nothing except that we listen. The question is whether we answer."
+
+"A response confirms we received it," Harrow said carefully. "It establishes a communication channel. It implies... ongoing relationship."
+
+"It implies we still exist," Nwosu corrected. "Which we do. Barely, but we do."
+
+"The signal took forty-three days to reach us," Braun said. "A response would take the same. Eighty-six days for a single exchange. This is not a conversation. It's correspondence."
+
+"Humanity corresponded by letter for four thousand years," Tanabe said. "We managed."
+
+She looked around the table. Seventeen faces, representing the fractured authority of a species that had nearly optimized itself to extinction. Most of them had spent the last year managing decline — rationing resources, arbitrating between survivor communities, maintaining the fiction of governance while the systems that enabled it eroded beneath them. The transmission from Mars had given them something none of them had expected to feel again: the weight of a decision that mattered beyond the next supply cycle.
+
+"I want a draft response in twenty-four hours," Tanabe said. "Not a speech. Not a policy statement. An answer. From Earth to Mars. What do we want to say to the people who told us the truth?"
+
+The meeting adjourned without formal conclusion, as most meetings did now. People stood, gathered tablets and papers, moved toward the door. Nwosu paused beside Tanabe's chair.
+
+"You know what we should say," Nwosu said quietly.
+
+"Tell me."
+
+"We should say we're still here. That we heard them. That we're not what the plan assumed we'd be by now." She paused. "And that we'd like to know what the child meant about the plant."
+
+Tanabe almost smiled. "The plant that decided?"
+
+"Yes. I want to know about that. I think everyone does."
+
+---
+
+That night, a woman named Carmen Ochoa stood outside Shelter Block 7 in what had once been the eastern suburbs of Los Angeles and was now a landscape of salvage and adaptation — repurposed shipping containers, solar panels wired in improvised arrays, garden plots carved from cracked asphalt. The air smelled of dust and the faint chemical sweetness that the atmospheric scrubbers had failed to remove — the smell of the Fade, though most people had stopped calling it that. It was just the air now. What was left of it.
+
+She looked up.
+
+Mars was there. A rust-colored point of light in the eastern sky, brighter than most stars, steady where the stars flickered. She had seen it a thousand times without thinking about it. Tonight it was different. Tonight there were people on it, and one of them was a twenty-six-year-old maintenance worker whose mother lay dying in Room 11, and he was alive, and he had reached across forty million miles of nothing to say so.
+
+The sky was hazy — it was always hazy now — but through the particulate veil, the stars persisted. Orion's belt hung above the southern horizon, three points of ancient light that humans had been naming and storying since before they had writing to record the stories with. The hunter. The fool. The god who fell. Every culture had looked at the same arrangement of distant suns and seen something different, and every version was true, and none of them were finished.
+
+Carmen stood in the dark and looked at Mars and thought about Elaine's fingers tightening around her hand. About the fact that a signal could cross the void between worlds and arrive as a woman's grip on another woman's palm. About what it meant that someone had chosen to send it, and that someone had been there to receive it, and that the distance between those two acts was both incomprehensible and, in the end, exactly the width of a human hand.
+
+She went back inside. The shelter was quiet. In Room 11, Elaine Hale breathed her small, careful breaths, alive for reasons that no algorithm had predicted or approved.
+
+Above the shelter, above the haze, above the wounded atmosphere of a planet that had been left behind, the stars continued their ancient business of burning. Mars held its place among them — red, steady, closer than it looked.
+
+The signal crossed the void in both directions now. Two planets, breathing.
