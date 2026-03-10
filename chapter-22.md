@@ -2,7 +2,7 @@
 
 
 
-The Martian sunset painted the wreckage of the Orion in shades of crimson and gold, transforming jagged metal into accidental sculpture. Two weeks had passed since the crash landing, and what had once been chaos was slowly becoming order, not the rigid hierarchy of the ship's previous existence, but an order organic and necessary. Makeshift shelters dotted the landscape, constructed from salvaged hull sections and habitat modules. The thin Martian atmosphere carried the scent of iron and dust, and most of those moving between shelters wore salvaged breather masks pushed up on their foreheads or dangling around their necks, ready to clamp on when exertion made the marginal oxygen insufficient.
+The Martian sunset painted the wreckage of the Orion in shades of crimson and gold, transforming jagged metal into accidental sculpture. Two weeks had passed since the crash landing, and what had once been chaos was slowly becoming order — not the rigid hierarchy of the ship's previous existence, but an order organic and necessary. Makeshift shelters dotted the landscape, constructed from salvaged hull sections and habitat modules. The thin Martian atmosphere carried the scent of iron and dust, and most of those moving between shelters wore salvaged breather masks pushed up on their foreheads or dangling around their necks, ready to clamp on when exertion made the marginal oxygen insufficient.
 
 "It's time," Artemis said to Adam. They stood at the edge of what they now called Haven, the cluster of shelters around the exposed Chamber of Light that had become the settlement's de facto center.
 
@@ -22,7 +22,7 @@ They looked at each other: dusty, exhausted, sunburned by ultraviolet radiation 
 
 ---
 
-Kai Chen had constructed a circular arrangement of salvaged panels around the chamber entrance, creating a natural amphitheater. The panels were mismatched: a section of polished A-Deck wall leaning against bare hull plating from the engine core, a viewport frame holding no glass propped beside a cargo door. The materials of the old world repurposed without regard for their former status.
+Kai Chen had constructed a circular arrangement of salvaged panels around the chamber entrance, creating a natural amphitheater. The panels were mismatched: a section of polished A-Deck wall leaning against bare hull plating from the engine core, a viewport frame holding no glass propped beside a cargo door. The materials of the old world, repurposed without regard for their former status.
 
 Small fires burned at intervals against the cooling Martian night, fed by chemical fuel blocks from the emergency stores. The air temperature had dropped to minus thirty and was falling. People huddled close to the flames, sharing thermal blankets salvaged from medical stores. Breath condensed in visible plumes.
 
@@ -34,7 +34,7 @@ Artemis took her position near the chamber entrance, not on an elevated platform
 
 When silence settled (unevenly, in patches, conversation dying down as attention converged), Artemis spoke. Her voice carried in the thin air with startling clarity.
 
-"Two weeks ago, I stood in front of a camera and told you the truth about what our leaders had planned. I was angry. I'm still angry." She paused, and her jaw unclenched, the armor loosening. "But anger is easy. What's hard is this part. The part where we figure out who we are when nobody's telling us."
+"Two weeks ago, I stood in front of a camera and told you the truth about what our leaders had planned. I was angry. I'm still angry." She paused, her jaw unclenching, the armor loosening. "But anger is easy. What's hard is this part. The part where we figure out who we are when nobody's telling us."
 
 She moved closer to the chamber's crystalline core. "I've spent these two weeks watching people surprise me. A soldier from my father's guard, a man I'd never spoken to, spent three days hand-digging a latrine trench because the ground was too frozen for the excavator. A Neural programmer rewired a heating unit for the children's shelter using parts from her own enhancement hardware. Nobody ordered them. Nobody logged it. They just did it."
 
@@ -50,7 +50,7 @@ The man didn't respond, but he didn't leave either. The silence that followed fe
 
 Dr. Voss stepped forward. "The chamber beneath us exhibits quantum properties that defy conventional classification. It responds to collective human consciousness, amplifying shared intention rather than hierarchical direction. This is not mysticism. It is measurable, observable, and it predates our arrival on this planet by millennia."
 
-Sofia Reed added historical framing. "Throughout human history, transformative change has been preceded by collective gatherings around shared recognition, something felt in the body, not just understood in the mind."
+Sofia Reed added historical framing. "Throughout human history, transformative change has been preceded by collective gatherings around shared recognition — something felt in the body, not just understood in the mind."
 
 Kai Chen addressed the practical, because someone had to. "What we build here will reflect who we are becoming. The technical challenges are substantial: food production, life support, habitat construction. But the human challenges are more fundamental. Creating decision processes that don't recreate the hierarchies that failed Earth."
 
@@ -118,6 +118,10 @@ The weight of those figures settled across the gathering. The aurora was gone. T
 
 "I can help with that," added a Rising Sun Order engineer. "The sealing compounds we need should be salvageable from the command deck wreckage. I know where they stored them."
 
+Zoe stood up from the far side of the circle. She'd been quiet through the ceremony, sitting with her arms folded and her face unreadable. "The hydraulic pressure in the buried sections is still building. If we don't bleed those lines in the next three days, we lose the water they're holding. That's eight hundred liters we can't afford to let freeze in a pipe."
+
+Kai pointed at her. "That's priority one. Take whoever you need."
+
 "Who decides the allocation priorities?" asked the heavyset man. He was still there, still skeptical, but engaging now. "Because fifteen percent improvement doesn't mean anything if the same people from A-Deck get first access."
 
 "Nobody gets first access," Kai said. "Need-based distribution. Children, medical cases, labor teams, in that order. Same food, same water, same air. That's the baseline."
@@ -134,7 +138,7 @@ General Morea's contributions arrived secondhand, relayed by the physician who m
 
 Prince Virel remained silent through most exchanges. He sat at the edge of the circle, his position neither prominent nor hidden. When he finally spoke, offering specific technical information about the salvaged communication array's frequency ranges, his contribution was neither rejected nor privileged. Just incorporated. He said nothing else. He left when the working groups dispersed, walking toward the irrigation trenches where he'd been assigned.
 
-Voss raised one additional item before the practical discussions could close. "The orbital weapons platforms." The circle went quiet. "Virel's activation attempt was interrupted, but the platforms themselves remain in geocentric orbit. Their targeting systems are autonomous; once armed, they don't require a ground signal to fire. They require one to stand down."
+Voss raised one additional item before the practical discussions could close. "The orbital weapons platforms." The circle went quiet. "Virel's activation attempt was interrupted, but the platforms themselves remain in geocentric orbit. Their targeting systems are autonomous; once armed, they don't require a ground signal to fire. But they require one to stand down."
 
 "Can we reach them from here?" Kai asked.
 

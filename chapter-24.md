@@ -68,7 +68,7 @@ She paused. Behind her, the production team (two people, one of whom was also th
 
 "The transmission contains three categories of information. First: a status report confirming that the Orion crash-landed on Mars approximately seven weeks ago. The ship was substantially destroyed. An estimated seven thousand of the original ten thousand passengers survived."
 
-Three thousand dead. She let the number sit in the room. On screens across the southern hemisphere, in shelters and bunkers and the open-air camps where infrastructure had evaporated entirely, people absorbed a number that was simultaneously devastating and — for those who had been left behind — difficult to grieve uncomplicated.
+Three thousand dead. She let the number sit in the room. On screens across the southern hemisphere, in shelters and bunkers and the open-air camps where infrastructure had evaporated entirely, people absorbed a number that was simultaneously devastating and — for those who had been left behind — difficult to grieve without complication.
 
 "Second: personal testimonials from survivors describing their current conditions and the community they are building. These are remarkable documents that I encourage everyone to seek out in their complete form."
 
@@ -122,7 +122,7 @@ The transmission data filled the screens on every wall. All of it. The Neural Se
 
 "Manage it how?" Tanabe asked. "Tell people the documents are real but the genocide plan was a contingency they never intended to implement? That the neural control protocol was a theoretical exercise?" She shook her head. "The survivors on Mars sent this specifically so we couldn't do that."
 
-The room shifted. Not physically (the Jar's environmental systems maintained absolute stillness) but the quality of attention in the room changed. The question beneath all the questions surfaced.
+The room shifted. Not physically — the Jar's environmental systems maintained absolute stillness — but the quality of attention changed. The question beneath all the questions surfaced.
 
 "Do we respond?" Tanabe said.
 

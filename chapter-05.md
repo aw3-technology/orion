@@ -40,7 +40,7 @@ Adam Hale had been in the middle of recalibrating a waste recycling junction in 
 
 Priority maintenance request: Environmental system malfunction in A-Deck residential quarters, Section 3, Unit A-7.
 
-A-Deck. Of course. Heaven forbid some elite passenger experience a two-degree temperature fluctuation in their climate-controlled paradise while half the crew quarters on D-Deck struggled with humidity regulation issues he'd been reporting for weeks without response.
+A-Deck. Of course. Heaven forbid some elite passenger experience a two-degree temperature fluctuation in their climate-controlled paradise while half the crew quarters on D-Deck struggle with humidity regulation issues he'd been reporting for weeks without response.
 
 "You're being summoned to the promised land," Huang Wei observed from his position at a nearby control panel, noticing Adam's expression. "Some diplomat's shower not producing the perfect water pressure?"
 
@@ -102,7 +102,7 @@ The silence that followed was sharp enough to cut. When Artemis finally spoke, h
 
 Adam's hands stilled on the control panel. She had noted his name without him providing it. He turned to face her again, reassessing.
 
-"Must be tough," he said, unable to entirely suppress his ingrained resentment, "breathing rarified air while the rest of us fix the pipes."
+"Must be tough," he said, unable to entirely suppress his ingrained resentment, "breathing rarefied air while the rest of us fix the pipes."
 
 "Must be easy," she countered without missing a beat, "pretending cynicism is clarity."
 
@@ -152,6 +152,6 @@ Inside the private quarters, Virel approached Artemis. "A system failure?" he in
 
 "A minor malfunction," Artemis confirmed, her diplomatic mask firmly back in place. "Resolved now."
 
-"Good," Virel nodded. "I've come to discuss the cultural integration protocols for the Mars settlement. The Rising Order has some suggestions regarding optimal preservation methodologies."
+"Good." Virel nodded. "I've come to discuss the cultural integration protocols for the Mars settlement. The Rising Order has some suggestions regarding optimal preservation methodologies."
 
-Artemis responded with appropriate interest, engaging in the discussion with practiced expertise. The lights flickered once more, then stabilized. But something in her hadn't. Not since he looked at her like she was a person rather than a post.
+Artemis responded with appropriate interest, engaging in the discussion with practiced expertise. The lights flickered once more, then stabilized. But something in her hadn't. Not since Adam looked at her like she was a person rather than a post.

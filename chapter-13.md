@@ -10,7 +10,7 @@ Today, however, she entered as something new: a potential adversary.
 
 "Cultural Attaché Morea reporting as requested, sir," she announced formally, standing at appropriate attention rather than taking the seat that would have placed her at deliberate disadvantage.
 
-General Morea looked up from his tactical display, his face a mask of controlled displeasure. He made no immediate response, allowing silence to establish dominance, a technique she recognized from countless diplomatic encounters she had witnessed throughout her life.
+General Morea looked up from his tactical display, his face a mask of controlled displeasure. He made no immediate response, allowing silence to establish dominance—a technique she recognized from countless diplomatic encounters she had witnessed throughout her life.
 
 "Your actions during the tribunal were disgraceful," he said finally, deactivating the display with a sharp gesture. "Naïve at best. Dangerous at worst."
 
@@ -24,7 +24,7 @@ Artemis remained still, her expression revealing nothing as her father circled h
 
 "Contamination?" Artemis echoed, allowing a hint of question into her voice.
 
-"Hale represents exactly what we left Earth to escape: chaos masquerading as creativity, impulse disguised as intuition, dissent pretending to be dialogue." Morea's face hardened. "He was a calculated risk from the beginning, his technical skills barely outweighing his psychological profile flags. A mistake we're now correcting."
+"Hale represents exactly what we left Earth to escape: chaos masquerading as creativity, impulse disguised as intuition, dissent pretending to be dialogue." Morea's face hardened. "He was a calculated risk from the beginning; his technical skills barely outweighed his psychological profile flags. A mistake we're now correcting."
 
 "A correction that requires manufactured evidence?" The words left Artemis's mouth before she could fully consider their implications.
 
@@ -108,7 +108,7 @@ The attendant hesitated, clearly torn between protocol and genuine attachment. "
 
 Once alone, Artemis activated her suite's internal diagnostics, confirming what she had suspected: additional surveillance had been implemented, and her NeuralLace interface had been partially disabled, limiting her access to ship-wide systems and public channels. Her gilded cage had become more explicitly a prison, though still draped in luxury and protocol.
 
-She moved methodically through her private spaces, assessing new limitations while revealing nothing through expression or body language that might alert watchers to her intentions. The suite that had once represented privilege now revealed itself as battleground, each object a potential resource or liability, each corner a strategic position to be evaluated.
+She moved methodically through her private spaces, assessing new limitations while revealing nothing through expression or body language that might alert watchers to her intentions. The suite that had once represented privilege now revealed itself as a battleground, each object a potential resource or liability, each corner a strategic position to be evaluated.
 
 "You've got a condensation problem behind your port-side vent," said a voice from the corner of the room. "Seal's degrading. Give it another month and you'll have mold."
 
@@ -146,9 +146,9 @@ After completing her survey, Artemis seated herself at her meditation altar, the
 
 Behind closed eyelids, her mind worked with sharp calculation. Options were limited but not exhausted. Communication channels were restricted but not eliminated. Most importantly, her father had revealed far more than he realized: not just about Earth's planned fate, but about the political mechanics behind Adam's framing.
 
-When sufficient time had passed to establish the appearance of genuine meditation, Artemis reached for the small statuette that formed the centerpiece of her altar, a replica of ancient sculpture depicting her divine namesake, the goddess Artemis as huntress. The piece had been her mother's final gift before her convenient "vascular condition" had removed her from the Nations Union's leadership equations.
+When sufficient time had passed to establish the appearance of genuine meditation, Artemis reached for the small statuette that formed the centerpiece of her altar, a replica of an ancient sculpture depicting her divine namesake, the goddess Artemis as huntress. The piece had been her mother's final gift before her convenient "vascular condition" had removed her from the Nations Union's leadership equations.
 
-What neither her father nor ship security knew was that the seemingly decorative artifact contained a transmitter far more valuable than symbolic resonance. With practiced movements that would appear devotional to any observer, Artemis manipulated specific points on the statuette in precise sequence.
+What neither her father nor ship security knew was that the seemingly decorative artifact contained a transmitter of far more value than its symbolic resonance. With practiced movements that would appear devotional to any observer, Artemis manipulated specific points on the statuette in precise sequence.
 
 A soft click, imperceptible to surveillance, confirmed activation. The base of the statue housed an active quantum transmitter, technology so old it was effectively invisible. The ship's security sweeps scanned for electromagnetic signatures, encrypted data bursts, anomalous power draws. Quantum entanglement produced none of these. The paired particles had been configured before departure, hardwired into a crystalline substrate that registered on scanners as inert decorative ceramic, indistinguishable from the dozen other keepsakes the elite had been permitted to bring aboard. Helena Morea had designed the concealment herself, exploiting the simple fact that security protocols were built to detect the technology of their era, not the abandoned principles of the one before it. The channel operated through forgotten pathways in the ship's infrastructure, routed along maintenance frequencies too archaic for current monitoring systems to flag.
 

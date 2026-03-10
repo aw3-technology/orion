@@ -62,7 +62,7 @@ They moved in single file through the narrow passage: first Kai, then Adam, with
 
 The journey through the Orion's hidden infrastructure revealed a ship Adam had never known existed. They passed through cramped utility corridors, narrow access tunnels, and forgotten maintenance chambers; spaces that appeared on no official schematic, yet had clearly been used and modified over the years since departure.
 
-They crawled through regions choked with conduit bundles, navigated around massive power distribution nodes, and slipped through gaps in bulkheads that shouldn't have existed according to safety protocols. With each level they descended, the air grew warmer, denser with the mingled scents of machinery and humanity. And the air itself changed. A difference Adam almost didn't register until its absence hit him like a cleared ear. The faint sweetness was gone. The chemical fog he'd been breathing since Luna, the compliance compounds threaded through every ventilation duct on the upper decks. Down here, the air was clean. His thoughts sharpened. His chest loosened. He hadn't realized how dulled he'd been until the dulling stopped.
+They crawled through regions choked with conduit bundles, navigated around massive power distribution nodes, and slipped through gaps in bulkheads that shouldn't have existed according to safety protocols. With each level they descended, the air grew warmer, denser with the mingled scents of machinery and humanity. And the air itself changed. A difference Adam almost didn't register until it hit him like a cleared ear. The faint sweetness was gone. The chemical fog he'd been breathing since Luna, the compliance compounds threaded through every ventilation duct on the upper decks. Down here, the air was clean. His thoughts sharpened. His chest loosened. He hadn't realized how dulled he'd been until the dulling stopped.
 
 "You feel it," Sofia said, watching his face. "The clarity."
 
@@ -148,7 +148,7 @@ Word had already begun spreading through the nearby stalls. People gathered, reg
 
 Adam looked at the woman, then at the small crowd forming behind her. These were people who had kept themselves alive in the gaps of a system designed to forget them, and they were telling him his sounds had mattered. He didn't know what to do with that. So he did the only thing he knew how to do: he turned back to the equipment and played the new piece again, and this time Zedd joined him, adding harmonics Adam hadn't thought of, frequencies that shouldn't have worked but did, the two of them building something neither could have made alone.
 
-Zedd's hands were steadier than Adam remembered, but his eyes had a new quality, darker and more focused, as if he were listening to something behind the sounds he was making. He turned back to his equipment, adjusting a frequency with two fingers. His hands were steadier than Adam remembered, but his eyes had a new quality, darker and more focused, as if he were listening to something behind the sounds he was making.
+Zedd turned back to his equipment, adjusting a frequency with two fingers. His hands were steadier than Adam remembered, but his eyes had a new quality, darker and more focused, as if he were listening to something behind the sounds he was making.
 
 "The hearing thing," Adam said quietly. "Still getting worse?"
 
@@ -164,7 +164,7 @@ Adam studied his friend's face, the humor still there but stretched thinner now,
 
 They had just begun to move on when a commotion at the far end of the marketplace caught everyone's attention. The crowd parted to reveal a figure in a utility suit similar to those worn by Adam and his rescuers, but moving with a grace that seemed at odds with the industrial surroundings.
 
-Adam recognized her instantly, despite the practical gear that replaced her customary attire. Artemis Morea had found her way to the lower depths through paths of her own discovering.
+Adam recognized her instantly, despite the practical gear that replaced her customary attire. Artemis Morea had found her way to the lower depths through paths of her own discovery.
 
 The reaction from the underground community was immediate and hostile. Several people moved to block her path, improvised weapons appearing from hidden pockets. The daughter of General Morea represented everything this hidden society had organized against: authority, selection, the system that had deemed them necessary but disposable.
 
@@ -216,7 +216,7 @@ Artemis met his gaze directly. "Because survival without purpose is just another
 
 Her eyes found Adam's across the crowded space. He held her gaze and nodded once, a small, deliberate motion that needed no translation.
 
-The marketplace gradually emptied as word spread of an emergency gathering being convened deeper in the lower levels. Sofia and Kai led Adam and Artemis through increasingly complex passages, eventually arriving at what appeared to be a repurposed water purification chamber converted into a meeting space.
+The marketplace gradually emptied as word spread of an emergency gathering being convened deeper in the lower levels. Sofia and Kai led Adam and Artemis through increasingly complex passages, eventually arriving at what appeared to be a water purification chamber converted into a meeting space.
 
 People filled the circular room, seated on salvaged crates and modified equipment parts arranged in rough concentric circles. The gathering represented astounding diversity: faces from across Earth's abandoned regions, speaking in accents that carried the memory of cities now drowning or burning or simply left to decay.
 

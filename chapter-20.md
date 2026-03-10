@@ -6,9 +6,9 @@ Dawn broke over the Martian landscape, a pale copper light filtering through dus
 
 The air itself was a scientific miracle, the result of unmanned terraforming missions sent decades before the Orion's departure. Automated factories had labored for years to release oxygen, build rudimentary bacterial ecosystems, and create the foundation for eventual human habitation. Their work remained incomplete; the atmosphere was thin, oxygen levels barely sufficient. Survival outside required supplemental breathing equipment and thermal protection against temperature extremes that fluctuated with brutal efficiency as the sun climbed higher.
 
-Yet life was possible. What would have been instant death just decades earlier was now merely harsh challenge: a marginal environment where human existence could continue, if precariously.
+Yet life was possible. What would have been instant death just decades earlier was now merely a harsh challenge: a marginal environment where human existence could continue, if precariously.
 
-Across the impact zone, survivors emerged from whatever shelter had protected them during the crash. Some came from intact habitat pods that had separated cleanly during descent, others from twisted corridors where structural reinforcement had created survivable pockets amid catastrophic damage. The lucky ones walked upright, carrying salvaged supplies and calling out to locate companions. The less fortunate were carried on improvised stretchers or supported between companions, injuries ranging from minor trauma to life-threatening wounds that would have been easily treated aboard the intact Orion but now represented desperate medical challenges.
+Across the impact zone, survivors emerged from whatever shelter had protected them during the crash. Some came from intact habitat pods that had separated cleanly during descent; others from twisted corridors where structural reinforcement had created survivable pockets amid catastrophic damage. The lucky ones walked upright, carrying salvaged supplies and calling out to locate companions. The less fortunate were carried on improvised stretchers or supported between companions, injuries ranging from minor trauma to life-threatening wounds that would have been easily treated aboard the intact Orion but now represented desperate medical challenges.
 
 Naomi Chen, a hydroponics technician who had maintained food production systems on C-Deck, stood atop a fragment of hull plating, surveying the surreal landscape that had replaced the orderly environment she had known since departure. Around her, fellow survivors moved with the disoriented caution of those straddling a threshold between absolute disaster and uncertain continuation. Their expressions conveyed the particular shock of those who had survived beyond expectation, who had mentally prepared for death only to find themselves confronting an entirely unanticipated reality.
 
@@ -24,7 +24,7 @@ Humans who had lived for years in carefully regulated environments now confronte
 
 By midday, however, the initial cooperative shock began giving way to more familiar patterns as surviving leadership elements attempted to reimpose structure on the chaos.
 
-Near the fallen command deck, a relatively intact section that had separated early in the descent and landed with less damage than many habitation zones, Nations Union military personnel established a defensive perimeter. Combat-trained security officers who had survived the crash now deployed according to contingency protocols, establishing clear boundaries around what they deemed strategic resources.
+Near the fallen command deck—a relatively intact section that had separated early in the descent and landed with less damage than many habitation zones—Nations Union military personnel established a defensive perimeter. Combat-trained security officers who had survived the crash now deployed according to contingency protocols, establishing clear boundaries around what they deemed strategic resources.
 
 Commander Ellis, a mid-level Nations Union officer who had assumed authority in the absence of higher command, addressed the growing assembly of both military personnel and civilians who had gravitated toward the apparent stability offered by uniformed organization.
 
@@ -48,7 +48,7 @@ Their appeal targeted the surviving technical elite and higher-tier passengers w
 
 "We can restore essential guidance systems if we consolidate remaining power resources," promised a Neural engineer, demonstrating a partially functioning OmniscientAI terminal. "Prioritize technical personnel and we can rebuild functional governance architecture within days."
 
-Between these emerging power centers, the majority of survivors found themselves increasingly marginalized despite representing the numerical majority. Crew members, lower-tier passengers, civilians with no loyalty to either camp, injured, disoriented, and largely unarmed, scrambled for basic necessities among wreckage increasingly claimed by armed men.
+Between these emerging power centers, the majority of survivors found themselves increasingly marginalized despite representing the numerical majority. Crew members, lower-tier passengers, civilians with no loyalty to either camp—injured, disoriented, and largely unarmed—scrambled for basic necessities among wreckage increasingly claimed by armed men.
 
 Tensions escalated as the day progressed, particularly around salvageable resources with immediate survival value. A hydrothermal power node, part of the ship's auxiliary energy systems that had survived relatively intact, became the focal point for the first violent confrontation when teams from both the Nations Union and the Rising Sun Order arrived simultaneously to claim it.
 
@@ -62,7 +62,7 @@ Fists had turned to firearms. The old orders were resurrecting themselves in new
 
 In a partially intact terraforming dome located between the two rival camps, a different gathering had formed. The transparent structure, designed to house atmospheric processing equipment for the planned settlement, had survived impact with minimal damage due to its reinforced design. Now it served as both shelter and meeting place for those who had been part of the resistance movement aboard the Orion.
 
-Adam surveyed the assembled group with guarded hope. Many familiar faces had survived: Dr. Voss, whose synthetic consciousness had proven surprisingly resilient during impact; Sofia Reed, already documenting the crash and its aftermath with academic rigor; Kai Chen, whose engineering expertise had helped establish their functional shelter; Rosa, whose acoustic sensitivity had proven invaluable in locating survivors trapped in wreckage; Malik, working to salvage communication equipment despite injuries sustained during landing.
+Adam surveyed the assembled group with guarded hope. Many familiar faces had survived: Dr. Voss, whose synthetic consciousness had proven surprisingly resilient during impact; Sofia Reed, already documenting the crash and its aftermath with academic rigor; Kai Chen, whose engineering expertise had helped establish their functional shelter; Rosa, whose acoustic sensitivity had proven invaluable in locating survivors trapped in wreckage; Malik, working to salvage communication equipment despite injuries sustained during landing. And Zoe, who'd walked in that morning with hydraulic fluid caked to her forearms. The system had tried to disappear her; she'd sealed three hull breaches during the crash from the flooded section where they'd buried her and hadn't stopped working since.
 
 Others had joined them: crew members who had supported the resistance covertly aboard the Orion, passengers who rejected both power blocs, and new allies who had witnessed the emerging power struggles with growing concern.
 
@@ -72,9 +72,7 @@ Others had joined them: crew members who had supported the resistance covertly a
 
 Voss read the numbers without inflection, the way a surgeon reads vitals. "Oxygen generation: thirty-seven percent of minimum. Power: twenty-three percent. Food reserves at equitable distribution: forty-two days."
 
-"And that's if we cooperate," Sofia emphasized. "If resources are hoarded or destroyed in conflict, those timelines collapse dramatically."
-
-The reality settled heavily over the gathering. Mars could kill them, yes. But the commanders who had controlled the Orion were already recreating the same structures that had led to Earth's final crisis, and this time the margin for error was thinner than the atmosphere outside.
+"And that's if we cooperate," Sofia said.
 
 "We move now, before they dig in," Adam said, his jaw tight. "But we can't fight them head-on. They've got weapons, trained soldiers, and they've already staked their ground."
 
@@ -84,33 +82,25 @@ Artemis, who had been quietly processing the various reports, stood. She didn't 
 
 She moved to a salvaged display unit where Malik had been attempting to restore functionality. "But we have something they don't expect. Comprehensive evidence of what that designed order actually intended. The complete record, extracted from the Neural Sea. Every file. Every order."
 
-The reference sparked recognition throughout the gathering. Before the Orion's descent had been disrupted by General Morea, they had succeeded in extracting the ship's most closely guarded secrets: the true Mars colonization plans, the intended fate of Earth's remaining population, the calculated elimination of "non-essential" crew once the settlement was established.
+Adam moved to the communication equipment Malik had been salvaging. "Can we push enough power to hit the entire impact zone?"
 
-"Show every survivor the actual plans. The real ones, not the recruitment brochure," Sofia said, grasping the strategy immediately. "It changes everything. Most Nations Union security personnel have no idea what their own commanders actually intended for them."
-
-"And most Rising Sun Order technicians still believe they're building enhanced freedom," Voss added. "Virel compartmentalized everything. Even their own engineers never saw the full design."
-
-Adam moved to examine the communication equipment Malik had been working with, a salvaged emergency array designed for broad-spectrum transmission in crisis situations. "Can we push enough power to hit the entire impact zone? And what happens when Ellis or Virel tries to jam us?"
-
-Dr. Voss joined him at the equipment, her synthetic interface capabilities immediately expanding their technical options. "With modifications to the transmission protocols and proper power allocation, yes. The emergency systems are designed to override standard communication blocks. If we can access a sufficient power source..."
-
-"Auxiliary reactor, section seven. Still hot," Kai said, pulling up a hand-drawn map on salvaged plastic. "Neither side has claimed it yet, and it was built to run standalone. Get me there with two people and a toolkit, and I'll have it feeding the broadcast array inside an hour."
+"Auxiliary reactor, section seven," Kai said, pulling up a hand-drawn map on salvaged plastic. "Still hot. Neither side has claimed it yet. Get me there with two people and a toolkit, and I'll have it feeding the broadcast array inside an hour."
 
 As their planning accelerated, the dome's transparent walls flickered with anomalous light. Faint green and violet bands rippled across the Martian sky directly above the wreckage field, visible for perhaps thirty seconds before fading.
 
 "That's the second time," Artemis said quietly. She'd seen the first shimmer days ago, through a viewport, and dismissed it. This was harder to dismiss.
 
-Voss looked up from her equipment. "The emission spectrum is consistent with ionized atmospheric particles, oxygen and carbon dioxide excited by charged particle bombardment. Similar to terrestrial aurora, but Mars lacks the magnetosphere to channel solar wind into coherent patterns."
+Voss looked up from her equipment. "The emission spectrum is consistent with ionized atmospheric particles, oxygen and carbon dioxide excited by charged particle bombardment. The effect is similar to terrestrial aurora, but Mars lacks the magnetosphere to channel solar wind into coherent patterns."
 
 "So what's generating the field?" Adam asked.
 
-"The Chamber." Voss's voice was careful, precise. "Since the crash its electromagnetic output has been increasing steadily. The crystalline structure appears to be generating a localized magnetic field, weak by planetary standards, but sufficient to funnel solar wind particles into the thin atmosphere directly above us. The emissions we're seeing are the atmosphere fluorescing in response."
+"The Chamber." Voss's voice was careful, precise. "Since the crash, its electromagnetic output has been increasing steadily. The crystalline structure appears to be generating a localized magnetic field, weak by planetary standards, but sufficient to funnel solar wind particles into the thin atmosphere directly above us. The emissions we're seeing are the atmosphere fluorescing in response."
 
 "It's building its own magnetosphere," Kai said, disbelief and fascination competing in his voice.
 
 "A very small one," Voss confirmed. "Perhaps a few kilometers in radius. But yes."
 
-Nobody asked why. The Chamber had been defying their expectations since they first found it. But Adam filed the observation alongside everything else they didn't understand, one more datum suggesting that the artifact buried in their wreckage was acting with purpose, purpose tied to this specific location on this specific planet.
+Nobody asked why. The Chamber had been defying their expectations since they first found it. But Adam filed the observation alongside everything else they didn't understand, one more datum suggesting that the artifact buried in their wreckage was acting with purpose—purpose tied to this specific location on this specific planet.
 
 Artemis withdrew slightly from the remaining discussions, moving to the dome wall where the Martian landscape stretched before her. Red and implacable. The planet did not care what they wanted from it.
 
@@ -142,7 +132,7 @@ Artemis agreed, selecting key segments that laid bare the fundamental deception 
 
 As afternoon faded toward Martian evening, their preparations reached completion. The auxiliary reactor provided stable power, the transmission system showed green status indicators across all channels, and the assembled data awaited only final activation to reach every survivor across the impact zone.
 
-Before initiating the broadcast, Artemis recorded a brief introduction. No rehearsal. Standing before an improvised camera, dust-covered and visibly exhausted, blood dried on her sleeve from a wound she hadn't bothered to clean.
+Before initiating the broadcast, Artemis recorded a brief introduction. No rehearsal. She stood before an improvised camera, dust-covered and visibly exhausted, blood dried on her sleeve from a wound she hadn't bothered to clean.
 
 "My name is Artemis Morea. My father is General Morea. I grew up in the house that built this lie and I am done carrying it."
 
@@ -158,7 +148,7 @@ Then came the footage from closed-door leadership meetings discussing "necessary
 
 Most damning were the Earth management protocols. Detailed plans for orbital weapons platforms designed to eliminate resistance centers on the abandoned planet once Mars settlement was secure. The documents called it "planetary sterilization": genocide on an unprecedented scale, presented as a necessary security measure.
 
-Throughout the impact zone, the broadcast shattered the authority both camps were struggling to rebuild. In the Nations Union compound, security personnel stared in stunned silence as their commanders' actual words echoed through salvaged speakers. Specific plans for elimination of "non-essential personnel," including many of those now attempting to reestablish military authority.
+Throughout the impact zone, the broadcast shattered the authority both camps were struggling to rebuild. In the Nations Union compound, security personnel stared in stunned silence as their commanders' actual words echoed through salvaged speakers—specific plans for elimination of "non-essential personnel," including many of those now attempting to reestablish military authority.
 
 A squad leader removed his insignia patch, dropping it to the dust as the implications fully registered. Around him, other officers and enlisted personnel stood frozen between indoctrinated loyalty and undeniable evidence of betrayal by the command structure they had served.
 

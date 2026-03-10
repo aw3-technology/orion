@@ -68,7 +68,7 @@ As the crowd dispersed, returning to the urgent tasks of settlement construction
 
 "Wanting it isn't the problem," Artemis replied. "The question is whether giving in to it helps us build what comes next, or poisons it from day one."
 
-By afternoon, representatives had been selected through an improvised but functional process that ensured diverse perspective within the tribunal. The selection method itself signaled emerging values: volunteers from various survivor groups chose delegates based on demonstrated judgment, not previous authority, with open discussion of each candidate's capacity for impartiality despite personal experiences under the old power structures.
+By afternoon, representatives had been selected through an improvised but functional process that ensured diverse perspectives within the tribunal. The selection method itself signaled emerging values: volunteers from various survivor groups chose delegates based on demonstrated judgment, not previous authority, with open discussion of each candidate's capacity for impartiality despite personal experiences under the old power structures.
 
 The tribunal that assembled within the partially excavated Chamber of Light reflected this deliberate diversity: Imani Okafor, formerly a Rising Sun Order technician who had worked directly with Neural implementation protocols; Commander Ellis, a Nations Union officer who had attempted to re-establish military authority immediately after the crash but subsequently recognized the need for new approaches; Javier Mendoza, a maintenance worker from the lower decks who had organized survival cooperation among crew sections on his own initiative; Dr. Elara Voss and Artemis Morea, whose positions between the old power blocs provided intermediate perspective.
 
@@ -90,7 +90,7 @@ He paced deliberately before the tribunal, hands gesturing with studied emphasis
 
 His gaze swept across the assembled observers, Neural analysis presumably calculating responses despite his diminished status. "Humanity needs shepherds. Individual sentimentality produces collective tragedy when applied to species-level challenges. You cannot build paradise with the luxury of personal attachment obscuring necessary calculation."
 
-The chamber remained silent as his defense concluded. No one had been persuaded. They were processing the fundamental worldview it represented. Here, stripped of euphemism and institutional protection, the core philosophy of the old order revealed itself: human life reduced to resource equation, abstract optimization elevated above individual experience, compassion classified as inefficiency.
+The chamber remained silent as his defense concluded. No one had been persuaded. They were processing the fundamental worldview it represented. Here, stripped of euphemism and institutional protection, the core philosophy of the old order revealed itself: human life reduced to a resource equation, abstract optimization elevated above individual experience, compassion classified as inefficiency.
 
 When response came, it was Artemis who rose to address not just Virel but the underlying assumptions his defense had articulated.
 
@@ -108,13 +108,13 @@ The exchange continued, reaching past Virel's specific actions into the underlyi
 
 When deliberation concluded, the tribunal turned unexpectedly to Adam, who had observed proceedings without direct participation. "You've experienced both the lowest levels of the command structure and the direct consequences of its control systems," said Commander Ellis, apparently speaking for the assembled representatives. "Your perspective spans the full spectrum of experiences aboard the Orion. What would you recommend as appropriate judgment?"
 
-The request created momentary silence throughout the chamber. Some observers had clearly expected simple execution as inevitably appropriate response to attempted genocide. Others anticipated exile, meaning permanent removal from the emerging community without direct violence. Adam's unexpected inclusion in the judgment process introduced genuine uncertainty regarding outcome.
+The request created momentary silence throughout the chamber. Some observers had clearly expected simple execution as the inevitably appropriate response to attempted genocide. Others anticipated exile, meaning permanent removal from the emerging community without direct violence. Adam's unexpected inclusion in the judgment process introduced genuine uncertainty regarding outcome.
 
 He moved forward slowly, the physical and psychological exhaustion of recent days evident in his movements yet accompanied by a clarity of purpose that transformed weariness into gravitas. Standing before the tribunal, he surveyed not just its members but the larger assembly of survivors who would live with whatever precedent this moment established.
 
 "I came aboard the Orion filled with rage," he began, his voice carrying the honesty that had characterized his resistance from the beginning. "Rage at the people who decided my mother wasn't worth saving. Rage at a system that valued my technical skills over her life. Rage at the rank systems that sorted us into chosen and abandoned."
 
-He paused, and the silence that followed was heavy with shared recognition. The selected who carried survivor's guilt alongside gratitude. The divided families whose separation had been justified through clinical calculation, never compassionate necessity.
+He paused, and the silence that followed was heavy with shared recognition. The selected who carried survivor's guilt alongside gratitude. The divided families whose separation had been justified through clinical calculation, never through compassionate necessity.
 
 "That rage kept me going through years of compliance," he continued. "It fueled my resistance. It drove me to dig for the truth behind every official story. It was necessary. It was justified. But if we let it decide this judgment, we become exactly what we're trying to leave behind."
 
@@ -132,7 +132,7 @@ Before the tribunal could respond, a woman stood from the observers' section. Le
 
 "My daughter is four years old," Lena said. Her voice was flat, factual. "During Protocol Chimera, the ventilation shutdown in crew deck nine lasted eleven minutes. Mara's lungs were still developing. She breathes through a tube now. She will breathe through a tube for the rest of her life."
 
-The chamber went silent. Not the reflective silence the Crystal structure encouraged, but the airless silence of a wound being shown.
+The chamber went silent. Not the reflective silence the crystalline structure encouraged, but the airless silence of a wound being shown.
 
 "He designed Protocol Chimera." Lena pointed at Virel without looking at him. "Not in the abstract. Not as philosophy. He sat in a room and decided which decks lost air and for how long. My daughter's deck was on his list."
 
@@ -166,7 +166,7 @@ The assembly received this judgment with heavy silence, not enthusiastic endorse
 
 Lena did not return to community gatherings for eleven days. When she finally appeared at a distribution meal, she sat at the far end, said nothing, and left before the plates were cleared. No one pressed her. Her silence was its own permanent testimony, and the settlement was learning, painfully and imperfectly, that some wounds don't resolve into lessons. They just stay wounds.
 
-As afternoon faded toward evening, Artemis made her way to a secluded section of the settlement where a low-gravity shelter had been established for those whose injuries made Mars' partial gravity challenging despite being lighter than Earth's. The structure, assembled from salvaged gravity regulation equipment and habitat components, housed those requiring specialized care beyond what standard medical facilities could provide.
+As afternoon faded toward evening, Artemis made her way to a secluded section of the settlement where a low-gravity shelter had been established for those whose injuries made even Mars' partial gravity, lighter though it was than Earth's, challenging. The structure, assembled from salvaged gravity regulation equipment and habitat components, housed those requiring specialized care beyond what standard medical facilities could provide.
 
 Among these patients was General Christopher Morea, recovered from the auxiliary bridge wreckage with multiple serious injuries sustained during the crash landing he had guided. His physical condition remained precarious: broken bones, internal trauma, neural disruption from impact forces. He had been stabilized through the combined expertise of medical personnel from both the Nations Union and Rising Sun Order camps.
 

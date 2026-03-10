@@ -131,7 +131,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 **Torres** — Water reclamation specialist. Adam's seatmate on the shuttle. Anxious during launch but analytically sharp — maps waste signatures by sector and reads systemic inequality through data patterns. More than a nervous foil.
 
-**Zoe** — Hydraulic systems specialist. Early ally (Chs 2-3), fades from story. Needs reintegration or intentional departure.
+**Zoe** — Hydraulic systems specialist. Early ally (Chs 2-3), scattered by crackdown (Ch 12), resurfaces during crash (Ch 19: seals hull breaches from flooded section), reintegrated into settlement (Chs 20, 22).
 
 **Supervisor Kwan** — Adam's direct supervisor. Cybernetic eye implant. By-the-book but fair.
 
@@ -227,7 +227,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 ### Chapter 8: Gravity's Pull
 - **POV**: Adam and Artemis (parallel)
-- Adam's dream: inverted Orion with 13 stars — but stranger, more architectural. A corridor of breathing walls, a fractal constellation, dust in his mouth. Voice: "He hunts. She remembers. You awaken." Zedd confirms he heard it in the harmonic map.
+- Adam's dream: inverted Orion with 13 stars — but stranger, more architectural. A corridor of breathing walls, a fractal constellation, a vast attention pressing against his chest. Red dust. Zedd confirms he heard it in the harmonic map.
 - Neuro-monitoring: Dr. Voss personally scans Adam. Increased parahippocampal activity. She slips him a paper note: "Look up: Cosmic Resonance." Parting words: "Orion has always been a hunter... but also a warning."
 - Artemis studies Orion myths — all sanitized in the ship's database. Writes in journal: "Edited gods are no gods at all."
 - Adam researches Cosmic Resonance through Free Orioneer back-channels. Finds Voss's pre-collapse papers. **Search triggers a monitoring alert** — proxy compromise detected. Adam has to abort and evade.

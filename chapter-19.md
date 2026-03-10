@@ -48,7 +48,7 @@ In a repurposed maintenance bay six decks below the command bridge, Adam coordin
 
 "Already on it," came Zedd's voice from beneath a sparking conduit. He slid out on his back, goggles askew and half his face smeared with sealant. "Also rewired the vent fans in Junction 8 to sing like a monk choir when they spin up. Thought we could use the ambiance."
 
-Adam gave him a look, part exasperation, part gratitude. "You better not have blown out the heat syncs."
+Adam gave him a look, part exasperation, part gratitude. "You better not have blown out the heat sinks."
 
 "Only the redundant ones," Zedd replied with a wink. "I left the good ones for the rich people. You know, priorities."
 
@@ -136,7 +136,7 @@ Eli nodded. "The Chamber wasn't my creation. I found it during construction, a m
 
 The passages seemed to anticipate structural failures, routes shifting subtly to bypass sections that collapsed moments after they passed.
 
-"The failure pattern isn't random," Eli said, noting Adam's observation. "The ship is breaking along the fault lines I built into it; the weak points are channeling the stress away from the habitable sections. It's working the way I designed it to." His voice cracked slightly. "First time it's been tested, of course."
+"The failure pattern isn't random," Eli said, catching Adam's expression. "The ship is breaking along the fault lines I built into it; the weak points are channeling the stress away from the habitable sections. It's working the way I designed it to." His voice cracked slightly. "First time it's been tested, of course."
 
 They reached the Chamber to find several resistance members already gathered: Dr. Voss, Kai Chen, Sofia Reed. And then Zedd, crawling through a collapsed waste chute, grime-covered and grinning.
 
@@ -150,7 +150,7 @@ A contained field of altered physical properties extended outward from the core.
 
 "It's creating a zero-gravity life-preservation field," Voss explained. "Ancient technology responding to critical threat conditions."
 
-Eli moved to stand beside her, one hand braced against the wall for balance, his knees having gotten worse for months. He studied the field with narrowed eyes, the look of an engineer encountering a structural principle he couldn't reverse-engineer. "I've been crawling through this ship's guts for twenty years," he said. "Never seen anything like this. Whatever built this chamber, it wasn't thinking in alloy grades and load tolerances."
+Eli moved to stand beside her, one hand braced against the wall for balance, his knees bad for months now. He studied the field with narrowed eyes, the look of an engineer encountering a structural principle he couldn't reverse-engineer. "I've been crawling through this ship's guts for twenty years," he said. "Never seen anything like this. Whatever built this chamber, it wasn't thinking in alloy grades and load tolerances."
 
 Artemis approached the chamber walls, where patterns had resolved into a nascent written language, symbols combining Earth's oldest writing systems with configurations no linguist had documented. She traced the markings with her fingers.
 
@@ -174,7 +174,7 @@ And the noise was everything. Not sound as the human ear was designed to process
 
 The habitat rings separated from the central spine at their coupling points. The first ring, D-Deck, the workers' quarters, struck the Martian surface broadside and began to roll, the centrifugal motion flinging loose objects and unsecured bodies through corridors that had become tumbling cylinders. Emergency bulkheads activated and failed in the same second, their hydraulics overwhelmed by forces no engineer had stress-tested against. Inside the rolling ring, a man's scream was cut short by a wall that had been a ceiling. A child was caught by hands she could not see, passed through a hole that had been a window, received by more hands on the other side of a hull breach that opened and closed like a breathing wound.
 
-The second ring sheered its coupling bolts and skipped across the surface like a stone on water: two impacts, three, each one shedding exterior plating that spiraled away trailing fire. It came to rest four kilometers from the primary impact site, half-buried in a dune of red soil that had been thrown up by the initial collision. Its interior lights still flickered, emergency power cycling on and off, on and off, illuminating scenes of wreckage in stroboscopic fragments.
+The second ring sheared its coupling bolts and skipped across the surface like a stone on water: two impacts, three, each one shedding exterior plating that spiraled away trailing fire. It came to rest four kilometers from the primary impact site, half-buried in a dune of red soil that had been thrown up by the initial collision. Its interior lights still flickered, emergency power cycling on and off, on and off, illuminating scenes of wreckage in stroboscopic fragments.
 
 The engines, still carrying residual antimatter containment charge, plowed into the ground and detonated. Not explosively, but in a sustained thermal event that melted the Martian regolith into glass. The blast wave, thin and fast in the low-pressure atmosphere, raced outward from the impact site, flattening habitat sections that had survived the initial collision, scattering debris across a field that would eventually measure eleven kilometers at its widest point.
 

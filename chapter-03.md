@@ -26,7 +26,7 @@ His assignment: atmospheric regulation beneath the main ceremonial dome. Keep th
 
 The shuttle from Orion carried maintenance crews through a utilitarian airlock into Lunar Base Alpha's service corridors: exposed pipes, emergency diagrams, the particular aesthetic of spaces built for function and forgotten. While elite passengers glided through the Grand Terminal with its vaulted ceilings and honor guards, workers filed through passages that smelled of recycled air and industrial sealant.
 
-Huang Wei fell into step beside him, equally uncomfortable in gray. The Chinese life support specialist had become a fixture in Adam's daily orbit, quiet, observant, carrying the weight of a farming family that had scored too low on selection algorithms to merit evacuation.
+Huang Wei fell into step beside him, equally uncomfortable in gray. The Chinese life support specialist had become a fixture in Adam's daily orbit — quiet, observant, carrying the weight of a farming family that had scored too low on selection algorithms to merit evacuation.
 
 "Heard anything about this ceremony?" Adam asked as they moved through security checkpoints.
 
@@ -52,7 +52,7 @@ He adjusted his controls and watched through the slits as the elite arrived.
 
 ---
 
-The ceremony unfolded with the efficiency of a military operation. Delegates filed to assigned quadrants: Nations Union east, Rising Sun Order west, corporate leaders and scientists filling the buffer zones. Neural circlets glinted on most guests, silver filaments connecting to cortical implants that synchronized their emotional responses. The circlets were technically optional, the language in the mission charter reading "strongly recommended for optimal cognitive integration." But the ship's wellness protocols logged disconnection intervals, and anyone who left theirs off for more than twelve continuous hours would find a medical officer at their door with questions designed to determine whether they'd become a problem. Most people wore them. Gasps of delight arrived simultaneously across the room.
+The ceremony unfolded with the efficiency of a military operation. Delegates filed to assigned quadrants: Nations Union east, Rising Sun Order west, corporate leaders and scientists filling the buffer zones. Neural circlets glinted on most guests, silver filaments connecting to cortical implants that synchronized their emotional responses. The circlets were technically optional; the language in the mission charter read "strongly recommended for optimal cognitive integration." But the ship's wellness protocols logged disconnection intervals, and anyone who left theirs off for more than twelve continuous hours would find a medical officer at their door with questions designed to determine whether they'd become a problem. Most people wore them. Gasps of delight arrived simultaneously across the room.
 
 An AI-generated spectacle filled the dome: human history compressed into visual narrative, building toward its obvious climax: Earth drowning while humanity's essence ascended to Mars. Noah's Ark with a production budget.
 
@@ -90,7 +90,7 @@ Emergency lighting kicked in, a soft blue glow casting long shadows across the m
 
 Adam recognized the failure pattern immediately: cascading error in the central composition algorithm. The AI had encountered an input its training hadn't predicted. Possibly Artemis's unenhanced movement disrupting its modeling. Possibly something else. Didn't matter. He knew how to fix it.
 
-He slipped from his station, ducked through the service corridor, and reached the central control node in thirty seconds. A technician was attempting a standard reboot, a process that would take ten minutes and crash the peripheral systems in the process.
+He slipped from his station, ducked through the service corridor, and reached the central control node in thirty seconds. A technician was attempting a standard reboot, a process that would take ten minutes and crash the peripheral systems along the way.
 
 "Move," Adam said, shouldering past.
 
@@ -132,7 +132,7 @@ Then she turned back to her partner, and the moment broke.
 
 ---
 
-The waltz continued with Adam's music. Guests murmured to each other that the composition sounded "unusual but oddly moving," though none seemed able to say why. Without AI orchestration guiding them, dancers relied on physical cues and actual skill. The room breathed differently. The room's character had changed in a way Adam's instruments couldn't measure.
+The waltz continued with Adam's music. Guests murmured to each other that the composition sounded "unusual but oddly moving," though none seemed able to say why. Without AI orchestration guiding them, dancers relied on physical cues and actual skill. The room breathed differently. Its character had changed in a way Adam's instruments couldn't measure.
 
 He returned to his environmental station and waited for the reprimand that never came. Either his intervention had been categorized as acceptable emergency response, or something else was shielding him. He didn't know which, and that uncertainty felt worse than punishment.
 
@@ -142,7 +142,7 @@ On the shuttle back to the Orion, fellow crew members surrounded him, their expr
 
 "Just did my job," Adam said. "Faster than waiting for the AI."
 
-"The music was better after your fix," Sofia said from his other side, with the air of someone granting a grade. "Less manipulative. People actually felt something for once. Though standing there fully visible. That was reckless. You could have cost us more than you gained."
+"The music was better after your fix," Sofia said from his other side, with the air of someone granting a grade. "Less manipulative. People actually felt something for once. Though standing there fully visible — that was reckless. You could have cost us more than you gained."
 
 She said *us* as if Adam had already been inducted into something he hadn't agreed to join.
 

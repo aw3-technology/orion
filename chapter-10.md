@@ -62,7 +62,7 @@ A chime interrupted his reflection. Commander Thorne's face appeared on his priv
 
 "Witnesses?"
 
-"A junior engineering officer passed the location during the period in question. Visual assessment suggests the subjects were maintaining appropriate distance at time of contact, but the timing and positioning are consistent with rapid separation upon detection."
+"A junior engineering officer passed the location during the period in question. Visual assessment suggests the subjects were maintaining appropriate distance at the time of contact, but the timing and positioning are consistent with rapid separation upon detection."
 
 "Thank you, Commander. Continue monitoring. Expand the surveillance radius to include all unofficial spaces within three corridors of the identified convergence points."
 
@@ -74,7 +74,7 @@ More importantly, the relationship itself had strategic value. Artemis Morea, da
 
 Virel opened a secondary display and began modeling scenarios. Each variable slotted into place with satisfying clarity: Thorne's surveillance data, the timing of Protocol Prometheus's final preparations, the accelerating instability in Morea's command structure, the growing dependence of ship systems on OmniscientAI integration that only the Rising Sun Order could maintain.
 
-The models converged toward a window approximately three weeks out, a period when Mars approach would create natural anxiety, when supply constraints would strain Morea's authority, when the ship's population would be most receptive to promises of optimized governance. Within that window, the revelation of Artemis's transgression would serve as catalyst rather than isolated scandal.
+The models converged toward a window approximately three weeks out, a period when the Mars approach would create natural anxiety, when supply constraints would strain Morea's authority, when the ship's population would be most receptive to promises of optimized governance. Within that window, the revelation of Artemis's transgression would serve as catalyst rather than isolated scandal.
 
 He refined the parameters for another hour, testing each scenario against counter-variables, adjusting for the unknowns that even the most sophisticated modeling couldn't eliminate. One scenario kept recurring with troubling persistence: a low-probability outcome in which the exposure of Artemis's relationship produced not the expected condemnation but unexpected sympathy. In which the crew, rather than rejecting her, identified with her rebellion.
 

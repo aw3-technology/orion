@@ -12,7 +12,7 @@ Adam ducked beneath a low-hanging conduit, following the older engineer through 
 
 They reached what appeared to be a standard junction box, unremarkable except for the slight discoloration around its edges. Kai placed his palm against the metal surface, and a hidden panel slid aside, revealing a numerical keypad. He entered a sequence too quickly for Adam to follow, and a section of the wall receded with a soft hydraulic hiss.
 
-"After you," Kai gestured.
+"After you." Kai gestured.
 
 Adam stepped through the opening into a space that shouldn't exist. The chamber was approximately twelve meters across, its ceiling high enough to stand comfortably. Unlike the utilitarian passages they had traversed to reach it, this space had been purposefully modified: power routed through dummy systems, ventilation disguised as routine circulation, thermal signatures masked by carefully calibrated interference patterns. Every piece of equipment had been assembled in place from components small enough to carry through maintenance ducts: nothing wider than a human torso, nothing heavier than one person could manage. Kai had explained the logistics once: parts requisitioned as replacements for systems that didn't need replacing, scavenged from decommissioned hardware the ship's inventory had already written off, or built from scratch using tools smuggled in over months. The surveillance state saw what it expected (maintenance workers carrying maintenance supplies through maintenance corridors) and the gap between what was expected and what was actual had become a room.
 
@@ -66,7 +66,7 @@ Near the communication equipment, a young man with bitten-down fingernails was e
 
 "I need time to think about this," Adam said finally, knowing that agreeing too quickly would be as suspicious as refusing outright.
 
-"Of course," Sofia nodded. "We've survived this long by being careful. Take the time you need."
+"Of course." Sofia nodded. "We've survived this long by being careful. Take the time you need."
 
 ---
 
@@ -84,7 +84,7 @@ Adam turned to see an older man leaning casually against the curved wall. He wor
 
 "I've heard of you," Adam replied, shaking it. "Kai mentioned you designed parts of the ship."
 
-"Parts?" Eli chuckled softly. "I designed the spine. The living corridors. The memory spaces. Most were stripped out before launch, too much square footage that didn't serve a function the algorithms could measure."
+"Parts?" Eli chuckled softly. "I designed the spine. The living corridors. The memory spaces. Most were stripped out before launch — too much square footage that didn't serve a function the algorithms could measure."
 
 He glanced up at the conduit web overhead. "See that junction box? Third from the left. I welded that myself, twenty years ago. They ran new conduit over it, but the original frame is mine." He touched the wall with something like tenderness. "The whole ship is like that. Layers of revision over the first draft."
 
@@ -92,13 +92,13 @@ He glanced up at the conduit web overhead. "See that junction box? Third from th
 
 "Keeping an eye on things, mostly. There's a coolant valve on 4-C that sticks every forty hours. If you don't catch it, the thermal variance propagates through three decks." He paused. "Also reminding myself this place was supposed to mean something. Before they optimized the meaning out of it."
 
-From his coat, Eli produced a small etched tablet, metal, not digital. A symbol was carved into it: a tree with ten branches.
+From his coat, Eli produced a small etched tablet — metal, not digital. A symbol was carved into it: a tree with ten branches.
 
 "Take this," he said, pressing it into Adam's hand. "Don't trust the schematics they hand out. The real ship is underneath."
 
 Kai returned before Adam could respond, nodding briefly to Eli, who nodded back without a word. The older man disappeared into a side corridor without ceremony, like a dream fading before waking.
 
-Adam tucked the tablet into his pocket. The metal was warm from Eli's hand, and there was epoxy residue on one edge, and the man had been repairing something before he came here. Whatever else Eli Abramov was, he was someone who still fixed things.
+Adam tucked the tablet into his pocket. The metal was warm from Eli's hand, and there was epoxy residue on one edge — the man had been repairing something before he came here. Whatever else Eli Abramov was, he was someone who still fixed things.
 
 As Kai prepared to guide him back, the man who'd been tending seedlings in the chamber approached, compact, focused, dirt still under his fingernails. He pressed something small into Adam's palm without introduction.
 
@@ -174,6 +174,6 @@ Then she turned off the light and lay in the dark, twenty-seven decks above a ma
 
 ---
 
-The Orion continued its journey through the void, its systems functioning with mechanical regularity, its social hierarchies maintained through careful regulation. On the surface, nothing had changed. Command still flowed from the top down, resources still distributed according to predetermined allocations, the mission proceeding along its calculated trajectory toward Mars.
+The Orion continued its journey through the void, its systems functioning with mechanical regularity, its social hierarchies maintained through careful regulation. On the surface, nothing had changed. Command still flowed from the top down. Resources were still distributed according to predetermined allocations, the mission proceeding along its calculated trajectory toward Mars.
 
 Yet beneath this ordered reality, currents moved, invisible to most, but gathering strength. In the shadows between stars, shadows were learning to speak.

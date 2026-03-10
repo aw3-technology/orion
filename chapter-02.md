@@ -38,7 +38,7 @@ The AI interface scanned him with blue light that tingled against his skin. "Tec
 
 A route map materialized on his wrist monitor. Adam memorized the layout in a single sweep, an old habit from years of mapping escape routes from patrol drones during unauthorized raves. He'd learned young that knowing how a building's guts connected could save your life when the front door wasn't an option.
 
-The corridors narrowed as he moved deeper into D-Deck, aesthetic giving way to function. Ambient lighting became fluorescent. Smooth composite walls became bare metal. The temperature dropped two degrees; energy conserved where worker comfort wasn't a line item. Adam noticed these changes the way a mechanic notices engine sounds: automatically, cataloging each detail for future reference.
+The corridors narrowed as he moved deeper into D-Deck, aesthetics giving way to function. Ambient lighting became fluorescent. Smooth composite walls became bare metal. The temperature dropped two degrees; energy conserved where worker comfort wasn't a line item. Adam noticed these changes the way a mechanic notices engine sounds: automatically, cataloging each detail for future reference.
 
 Unit 12-17 was a metal box with four bunks stacked in pairs. Two already had personal items marking territory. Adam claimed a lower bunk, stowed his beatmaker in the small lockbox, and slid the family photo inside his comic book case, a memory hidden inside another form of escape.
 
@@ -82,7 +82,7 @@ They reached a corridor junction and parted ways, Chen mentioning the D-Deck can
 
 ---
 
-His first real shift started at 0600 with a tone that vibrated through the bunk frame like a dentist's drill. Adam dressed in maintenance orange, stiff fabric that smelled of industrial detergent and someone else's sweat, clipped his diagnostic kit to his belt, and reported to Supervisor Kwan at the D-Deck staging area.
+His first real shift started at 0600 with a tone that vibrated through the bunk frame like a dentist's drill. Adam dressed in maintenance orange — stiff fabric that smelled of industrial detergent and someone else's sweat — clipped his diagnostic kit to his belt, and reported to Supervisor Kwan at the D-Deck staging area.
 
 "Sector 7, filtration bank three," Kwan said without looking up from her tablet. Her cybernetic eye tracked him anyway. "Membranes are running thirty percent above replacement threshold. Swap all twelve and recalibrate the flow regulators before second shift."
 
@@ -132,7 +132,7 @@ The trick to unauthorized exploration wasn't stealth. It was confidence. Walk li
 
 Adam carried his diagnostic kit and walked with purpose, taking deliberate wrong turns at six successive intersections. The corridors refined as he moved upward and inward, bare metal giving way to polished composite, then to a translucent material that glowed with faint internal light.
 
-At one turning, his fingers brushed a groove in the wall, too deliberate for damage, too deliberate for corrosion. He paused, angling his diagnostic kit's light against the metal. A symbol, carved by hand: a tree with ten branches, its trunk rooted in the bulkhead seam. Someone had taken care with it, each line clean, patient, made with a tool meant for other work. No tag, no signature. Just the tree, watching the corridor like a quiet sentinel.
+At one turning, his fingers brushed a groove in the wall, too deliberate for damage, too clean for corrosion. He paused, angling his diagnostic kit's light against the metal. A symbol, carved by hand: a tree with ten branches, its trunk rooted in the bulkhead seam. Someone had taken care with it, each line clean, patient, made with a tool meant for other work. No tag, no signature. Just the tree, watching the corridor like a quiet sentinel.
 
 Adam traced it with his thumb. Not maintenance notation. Not vandalism. A ritual impulse, older in spirit if not in age.
 
@@ -150,7 +150,7 @@ He pressed his palm against the transparent floor and felt the faint warmth of g
 
 Adam turned slowly.
 
-Artemis Morea stood at the far end of the gallery, her blue uniform sharp against the metal walls. In person, she was taller than the hologram had suggested. Her posture was military-straight but lacked her father's aggression, more like a spine held carefully upright than a body braced for impact.
+Artemis Morea stood at the far end of the gallery, her blue uniform sharp against the metal walls. In person, she was taller than the hologram had suggested. Her posture was military-straight but lacked her father's aggression — more like a spine held carefully upright than a body braced for impact.
 
 "Must have taken a wrong turn," Adam said, producing his most innocent expression. "First day. Confusing maps."
 
@@ -164,7 +164,7 @@ She didn't move to apprehend him. Instead she walked to the railing and looked d
 
 Adam considered lying. Decided against it. "Wanted to see what we're protecting. What's so important that we left everyone else behind."
 
-Her eyes were pale, almost silver in the dim light, and they assessed him with a directness that had nothing to do with protocol. Not warmth. Not curiosity exactly. The kind of looking that weighed what a person was actually worth.
+Her eyes were pale, almost silver in the dim light, and they assessed him with a directness that had nothing to do with protocol. Not warmth. Not curiosity, exactly. The kind of looking that weighed what a person was actually worth.
 
 "What's your name?"
 
@@ -208,7 +208,7 @@ She turned to leave. Adam, against his better judgment, called after her.
 
 She stopped. "Excuse me?"
 
-"The junction couplings on the water lines." He nodded toward the pipes visible along the dome's upper frame. "Standard compression fittings, same as what we use in D-Deck. They'll corrode inside a year in this humidity." He shrugged when she turned back, surprise cracking through for the first time. "Waste management connects to everything. Even pretty gardens."
+"The junction couplings on the water lines." He nodded toward the pipes visible along the dome's upper frame. "Standard compression fittings, same as what we use in D-Deck. They'll corrode inside a year in this humidity." He shrugged when she turned back, surprise cracking through her composure for the first time. "Waste management connects to everything. Even pretty gardens."
 
 She stood very still, recalculating. Not just the pipes but him. What he was worth. What he might cost.
 
@@ -248,7 +248,7 @@ Chen raised an eyebrow. "You ran those numbers yourself?"
 
 An older maintenance worker named Miguel settled in without invitation, recognized Chen, and launched into a story about a coolant leak on Level C that had nearly flash-frozen a corridor.
 
-A technician named Dex Halloran drifted over from another table, eating a Gold Sector nutrient bar with conspicuous satisfaction. "Found a gap in the waste chute between sectors," he said, grinning. "Amazing what they throw away." When Chen asked if he'd logged the access route for the team, Dex just tapped his nose. "Information's the only currency we've got, old man. I don't give mine away." He wandered off, and Chen watched him go with an expression that wasn't quite disapproval, more like recognition of a type he'd seen before.
+A technician named Dex Halloran drifted over from another table, eating a Gold Sector nutrient bar with conspicuous satisfaction. "Found a gap in the waste chute between sectors," he said, grinning. "Amazing what they throw away." When Chen asked if he'd logged the access route for the team, Dex just tapped his nose. "Information's the only currency we've got, old man. I don't give mine away." He wandered off, and Chen watched him go with an expression that wasn't quite disapproval — more like recognition of a type he'd seen before.
 
 Adam listened to all of it, cataloging. The way information moved through the worker population laterally, through shared meals and corridor conversations, rather than top-down through official channels. The way trust formed quickly when people recognized shared circumstances, and how some people saw those circumstances as opportunity rather than solidarity.
 
@@ -276,9 +276,9 @@ Adam looked up from his beatmaker. Chen held his gaze, and an understanding pass
 
 Later, alone in his bunk, he stared at the scratched skull on the ceiling and thought about the evening. The garden below the transparent floor. Artemis Morea's silver eyes, and the way she'd helped him without being asked.
 
-He thought about his mother, fewer days of breathing left each time he counted, watching painted stars on a ceiling in an apartment on a planet he would never see again.
+He thought about his mother — fewer days of breathing left each time he counted — watching painted stars on a ceiling in an apartment on a planet he would never see again.
 
-He put on his headphones and started building. Ventilation hum for bass, a low throb around 40Hz, felt more than heard. The docking clamp's metallic grind, pitch-shifted down two octaves and looped, became a slow industrial pulse. Torres's laugh, sliced into bright fragments and scattered across the high end, gave it air. And over it all, a melody in minor key: three notes repeating, each iteration stripped of one layer, until only a single tone remained. The track moved at walking speed, too slow for dancing, too restless for ambient. It sounded like pacing a room you couldn't leave.
+He put on his headphones and started building. Ventilation hum for bass, a low throb around 40Hz, felt more than heard. The docking clamp's metallic grind, pitch-shifted down two octaves and looped, became a slow industrial pulse. Torres's laugh, sliced into bright fragments and scattered across the high end, gave it air. And over it all, a melody in a minor key: three notes repeating, each iteration stripped of one layer, until only a single tone remained. The track moved at walking speed, too slow for dancing, too restless for ambient. It sounded like pacing a room you couldn't leave.
 
 He saved it without a name. It didn't need one.
 

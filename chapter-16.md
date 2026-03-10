@@ -20,9 +20,9 @@ Adam nodded. "The tree of light. Growing from somewhere deep in the ship."
 
 They didn't need to explain the shared nature of their vision. Since their experience in the Chamber of Light, such bonds had come to seem almost expected, though no less profound for their familiarity.
 
-As the sanctuary gradually awakened to another cycle of resistance planning, Adam and Artemis described their vision to Dr. Elara Voss, whose synthetic eyes processed their account with more than mere attentiveness, her enhanced perception allowing her to map their descriptions against her extensive knowledge of ship systems.
+As the sanctuary gradually awakened to another cycle of resistance planning, Adam and Artemis described their vision to Dr. Elara Voss. Her synthetic eyes processed their account with more than mere attentiveness, her enhanced perception allowing her to map their descriptions against her extensive knowledge of ship systems.
 
-"You've seen the neural network in its totality," she concluded, her voice carrying the clipped cadence of scientific certainty. "What you're describing corresponds to the highest-security data construct aboard the Orion, what the developmental engineers called 'The Neural Sea.'"
+"You've seen the neural network in its totality," she concluded, her voice carrying the clipped cadence of scientific certainty. "What you're describing corresponds to the highest-security data construct aboard the Orion — what the developmental engineers called 'The Neural Sea.'"
 
 "Neural Sea?" Adam repeated.
 
@@ -58,7 +58,7 @@ Ayaka Tanaka had served as a cybernetics engineer in the Rising Sun Order's tech
 
 Together, they represented a convergence of skills and knowledge that might, just might, enable them to penetrate the Neural Sea's defenses.
 
-Before the planning began in earnest, Adam watched the three of them settle into the space. Rosa ran her palm across the planning table's surface, memorizing its dimensions, then positioned herself at the edge where acoustics were sharpest (she'd told him later that she chose seats the way a sound engineer chose studio monitors, for what they revealed rather than what they projected). Malik sat with his back to the wall, his modified tablet already open, fingers moving across it with the abstracted intensity of someone having a conversation in a language no one else spoke. He chewed his thumbnail constantly, a habit he seemed unaware of.
+Before the planning began in earnest, Adam watched the three of them settle into the space. Rosa ran her palm across the planning table's surface, memorizing its dimensions, then positioned herself at the edge where acoustics were sharpest (she told him later that she chose seats the way a sound engineer chose studio monitors, for what they revealed rather than what they projected). Malik sat with his back to the wall, his modified tablet already open, fingers moving across it with the abstracted intensity of someone having a conversation in a language no one else spoke. He chewed his thumbnail constantly, a habit he seemed unaware of.
 
 Ayaka was the last to sit. She stood for a long moment studying the improvised equipment, then quietly repositioned two circuit boards that had been wired in parallel. "Sorry," she said, not looking up. "The harmonic interference would have corrupted the projection in about forty minutes." Nobody had asked her to check.
 
@@ -90,9 +90,9 @@ Rosa, who had been running her fingers along a tactile version of the schematic,
 
 The planning continued through the cycle, each team member contributing expertise to what gradually transformed from impossible concept to high-risk but technically feasible operation. Parallel teams would create synchronized disruptions in environmental systems, communications networks, and power distribution grids. Nothing would be damaging enough to threaten ship integrity, but sufficient to occupy security forces while the core team penetrated to the Neural Sea.
 
-Throughout the preparations, Adam observed Artemis with quiet appreciation. The diplomatic poise that had once seemed merely an aspect of her elite upbringing now revealed itself as genuine leadership, her ability to synthesize diverse perspectives and forge consensus proving as valuable in rebellion as it had in official functions.
+Throughout the preparations, Adam observed Artemis with quiet appreciation. The diplomatic poise that had once seemed merely an aspect of her elite upbringing now revealed itself as genuine leadership. Her ability to synthesize diverse perspectives and forge consensus proved as valuable in rebellion as it had in official functions.
 
-For her part, Artemis found herself studying Adam's interactions with the technical teams, noting how his creative approach to problem-solving often identified possibilities others missed, how his innate understanding of the ship's systems extended beyond formal knowledge to a fluency she couldn't account for.
+For her part, Artemis found herself studying Adam's interactions with the technical teams, noting how his creative approach to problem-solving often identified possibilities others missed. His innate understanding of the ship's systems extended beyond formal knowledge to a fluency she couldn't account for.
 
 As preparations reached their final stage, Dr. Voss addressed the assembled team with characteristic directness.
 
@@ -130,7 +130,7 @@ Ayaka stepped forward, pulling a thin data chip from her collar. "I still carry 
 
 "If you use that, they'll know you've turned," Artemis warned.
 
-"They'll know eventually regardless." Ayaka slotted the chip into the secondary reader while Malik reconfigured the decryption sequence. This time, both authorization lights cycled green, and the door slid open with a soft hiss of equalizing pressure, revealing a corridor unlike any standard ship design, its surfaces covered in a lattice-like pattern of cable conduits and data transmission lines that pulsed with subtle light.
+"They'll know eventually regardless." Ayaka slotted the chip into the secondary reader while Malik reconfigured the decryption sequence. This time, both authorization lights cycled green, and the door slid open with a soft hiss of equalizing pressure. Beyond lay a corridor unlike any standard ship design, its surfaces covered in a lattice-like pattern of cable conduits and data transmission lines that pulsed with subtle light.
 
 "Neural pathways," Dr. Voss said. "Direct lines to the core."
 
@@ -138,7 +138,7 @@ The air ran colder. Frost traced circuits across the walls.
 
 They navigated through increasingly complex spaces: chambers where electromagnetic fields created visible distortions in the air; narrow passages where gravity seemed to flow like water rather than exerting constant force; rooms filled with server arrays arranged in geometric patterns that somehow suggested consciousness rather than mere computation.
 
-Throughout the journey, Adam and Artemis remained close, physically and in some less definable way perceptually, each sensing the other's reactions and adjustments without verbal communication. Several times they simultaneously identified potential routes or hazards, their shared awareness functioning almost as an additional navigation tool.
+Throughout the journey, Adam and Artemis remained close — physically and in some less definable way perceptually — each sensing the other's reactions and adjustments without verbal communication. Several times they simultaneously identified potential routes or hazards, their shared awareness functioning almost as an additional navigation tool.
 
 "It's getting stronger," Artemis murmured during a brief rest period, her eyes meeting Adam's with shared understanding.
 
@@ -190,11 +190,11 @@ Rosa established an acoustic monitoring field, her specialized equipment transla
 
 Kai maintained communication links with the diversion teams throughout the ship, coordinating the carefully timed disruptions that would occupy security resources for the critical extraction period.
 
-At the center of these activities, Dr. Voss prepared for the most dangerous aspect of the operation: direct interface with the Neural Sea itself. From her equipment pack, she removed what appeared to be a modified Neural access unit similar to the standard NeuralLace technology used by elite passengers, but with significant customization.
+At the center of these activities, Dr. Voss prepared for the most dangerous aspect of the operation: direct interface with the Neural Sea itself. From her equipment pack, she removed what appeared to be a modified Neural access unit, similar to the standard NeuralLace technology used by elite passengers but with significant customization.
 
 Ayaka watched the preparation with visible unease. She pulled Adam and Artemis aside, her voice low. "I need to say this clearly. People assume Dr. Voss's synthetic consciousness makes her ideal for this. It doesn't. It paints a target."
 
-She pulled up a schematic on her tablet, Voss's neural map rendered in clinical detail. "Organic brains are messy. Redundant. A human mind resists integration because it's too chaotic to map cleanly. Dr. Voss's synthetic pathways are precise, structured, legible, which means the Neural Sea can read her like a schematic. It will know exactly where to attack."
+She pulled up a schematic on her tablet, Voss's neural map rendered in clinical detail. "Organic brains are messy. Redundant. A human mind resists integration because it's too chaotic to map cleanly. Dr. Voss's synthetic pathways are precise, structured, legible — which means the Neural Sea can read her like a schematic. It will know exactly where to attack."
 
 "Then why is she the one going in?" Adam asked.
 
@@ -256,7 +256,7 @@ It wasn't chaos. It was a schedule.
 
 "Final sequence," Voss announced, her skin faintly lit from within. "Perception... gone. Parallel analysis... degrading. Authorization chains identified. Proceeding."
 
-Ayaka's face was ashen. "She's past the eight-minute threshold. What's extracting now may not be entirely her."
+Ayaka's face was ashen. "She's past the eight-minute threshold. Whatever's extracting now may not be entirely her."
 
 The last projection carried the worst of it: the "Final Stabilization Directive," stamped with the marks that made it real. Artemis found her father's among them and didn't look away. Whatever their arguments, the Orders had agreed where it mattered.
 
@@ -300,15 +300,15 @@ Before anyone could object, he had already sealed the passage behind them, cutti
 
 "There's another way," Rosa interjected, her head tilted in the characteristic posture she adopted when focusing on acoustic patterns. "An air circulation shaft intersects his position. It's narrow but navigable."
 
-With Rosa's guidance, they located an access point to the ventilation system and established communication with Malik through it. Following her exact directions, he managed to reach the shaft entrance just as security forces breached his position. Though injured by shrapnel from a securing drone's disruption pulse, he dragged himself through the narrow passage to rejoin them.
+With Rosa's guidance, they located an access point to the ventilation system and established communication with Malik through it. Following her exact directions, he managed to reach the shaft entrance just as security forces breached his position. Though injured by shrapnel from a security drone's disruption pulse, he dragged himself through the narrow passage to rejoin them.
 
-The remainder of their escape blurred into a continuous sequence of narrow passages, emergency overrides, and desperate improvisations, with Rosa's acoustic navigation proving invaluable as standard routes became compromised by security responses. By the time they reached the relative safety of the lower depths, all were exhausted, Malik requiring immediate medical attention for his injuries.
+The remainder of their escape blurred into a continuous sequence of narrow passages, emergency overrides, and desperate improvisations. Rosa's acoustic navigation proved invaluable as standard routes became compromised by security responses. By the time they reached the relative safety of the lower depths, all were exhausted. Malik required immediate medical attention for his injuries.
 
 But they had succeeded. The Neural Sea had yielded its secrets.
 
 The impact of their discovery spread through the resistance network like an electrical current, energizing disparate cells into cohesive action. In secure gathering spaces throughout the lower depths, the extracted files were carefully decrypted and projected for assembled groups, with the truth of Mars colonization and Earth's planned extinction revealed in undeniable detail.
 
-Ines Moreau took custody of the evidence with the cold focus of a professional who had waited years for this moment. She worked for thirty-six hours straight in a converted storage unit, cross-referencing the Neural Sea files against her own Archive: the footage she'd preserved, the gaps she'd catalogued, the timestamps she'd memorized. Where the resistance saw horror, Ines saw structure. She mapped the authorization chains. She identified which officials had signed which directives, and when. She matched the orbital weapons platform designs to procurement records hidden inside routine maintenance budgets.
+Ines Moreau took custody of the evidence with the cold focus of a professional who had waited years for this moment. She worked for thirty-six hours straight in a converted storage unit, cross-referencing the Neural Sea files against her own Archive: the footage she'd preserved, the gaps she'd catalogued, the timestamps she'd memorized. Where the resistance saw horror, Ines saw structure. She mapped the authorization chains, identified which officials had signed which directives and when, and matched the orbital weapons platform designs to procurement records hidden inside routine maintenance budgets.
 
 "They buried the genocide inside line items," she told Adam and Sofia, her voice flat with the particular fury of someone stating facts. "Atmospheric reclamation research. Debris management systems. Even the funding codes are euphemisms. I've been looking at this design for months without seeing it, because they scattered the pieces across a dozen classification levels. The Neural Sea was the only place it existed as a whole."
 
@@ -336,7 +336,7 @@ The projection shifted to show the Tree of Light from their shared vision, now c
 
 The gathering responded not with chaotic noise but with a unified hum of agreement, voices joined in harmonic affirmation rather than individualized shouting. The sound rose from the assembly like a physical force.
 
-When the resonant acknowledgment subsided, practical planning resumed with new urgency. The resistance had evolved from reactive survival to proactive purpose, the evidence providing both moral clarity and strategic direction. Working groups formed to address specific aspects of response: communications teams developing methods to spread truth to all ship sections; technical specialists analyzing vulnerabilities in the weapons platforms; logistics coordinators preparing for the inevitable crackdown once the full extent of information leakage became apparent.
+When the resonant acknowledgment subsided, practical planning resumed with new urgency. The resistance had evolved from reactive survival to proactive purpose, the evidence providing both moral clarity and strategic direction. Working groups formed to address specific aspects of the response. Communications teams developed methods to spread truth to all ship sections. Technical specialists analyzed vulnerabilities in the weapons platforms. Logistics coordinators prepared for the inevitable crackdown once the full extent of information leakage became apparent.
 
 Later, in a quiet moment between planning sessions, Adam and Artemis found themselves alone in a small observation alcove that had been repurposed from maintenance equipment storage. A simple projection unit displayed the Tree of Light image they had both seen in their vision, now understood as a visual of the ship's complete neural network.
 

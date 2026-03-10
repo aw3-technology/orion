@@ -44,7 +44,7 @@ Prince Virel sat in his private suite, the elegant curves and ambient lighting c
 
 "The timestamp corresponds precisely with the navigation system override," noted Commander Thorne. "Biometric patterns indicate a 94% probability match to Technician Adam Hale."
 
-Virel's sculpted features revealed nothing as he studied the footage. With a gesture, he magnified the image, focusing on the subject's face partially visible beneath a standard maintenance cap.
+Virel's sculpted features revealed nothing as he studied the footage. With a gesture, he magnified the image, focusing on the subject's face, partially visible beneath a standard maintenance cap.
 
 "And this terminal?" he asked, indicating where the figure paused, hands moving across an access panel.
 
@@ -104,7 +104,7 @@ Huang blinked, as if fighting through fog. "I thought I was just tired."
 
 "That's what it's designed to feel like," Sofia said grimly.
 
-"I think someone decided Adam represents a threat," Sofia corrected. "Whether they know why or not is secondary."
+"I think someone decided Adam represents a threat," Sofia continued. "Whether they know why or not is secondary."
 
 Zedd sat at a nearby table, a pair of matte black headphones draped around his neck, beatmaker idling in his lap. His gaze didn't lift from the table, but his fingers subtly tapped out a rhythm on the synth pad, a syncopated pattern the others recognized as resistance-coded. To an outsider, he looked absorbed in his music. But to those who knew him, it was a signal: *Stay alert. This wasn't a drill.*
 

@@ -22,7 +22,7 @@ Rosa Oliveira floated in near-zero gravity at the upper level of the workshop, t
 
 "Speaking of acoustic displacement," came a dry voice from the wiring pit beneath one of the consoles, "I just laced the control feedback channels with a low-frequency masking pulse. Sounds like elevator music if the AI decides to eavesdrop."
 
-A tousled head emerged, Zedd, wires coiled around one shoulder like a bandolier, a compact frequency tuner blinking in his hand.
+A tousled head emerged — Zedd, wires coiled around one shoulder like a bandolier, a compact frequency tuner blinking in his hand.
 
 "You're embedding signal camouflage in the nav channels?" Adam asked, raising an eyebrow.
 
@@ -200,7 +200,7 @@ News of the crackdown spread through hidden communication channels, reaching the
 
 Artemis absorbed this analysis with outward calm that belied her internal anguish. The brutality confirmed everything they had learned about the leadership's ultimate intentions for Mars, yet witnessing its implementation aboard the Orion, among people who had already survived Earth's collapse and the mission's brutal selection process, carried a weight that theoretical understanding couldn't prepare her for.
 
-"Then we do it now," she said finally. "We can't outfight them. But if we take out the navigation; they can shout orders all they want. Nobody follows a captain who can't steer the ship."
+"Then we do it now," she said finally. "We can't outfight them. But if we take out the navigation, they can shout orders all they want. Nobody follows a captain who can't steer the ship."
 
 Adam nodded. The Rising Sun Order's authority rested on one promise: that automated governance would create optimal outcomes through flawless calculation. Kill the navigation, and you killed the argument.
 
@@ -212,11 +212,11 @@ In a ceremonial holding cell on Command Deck, General Christopher Morea sat moti
 
 Since his detention, Morea had maintained disciplined compliance with the new regime's protocols. He accepted visitors, primarily Rising Sun Order officials seeking symbolic legitimacy through his apparent acquiescence. He reviewed the materials provided through his terminal, primarily historical archives and cultural documentation rather than current ship status. He engaged in the physical exercise routines permitted within his restricted space, maintaining his formidable physical condition despite his advanced age.
 
-Throughout this performance of dignified acceptance, he had observed, calculated, and waited. The military strategist that had guided Earth's final unified forces during the collapse years had not disappeared but merely adapted to new tactical parameters.
+Throughout this performance of dignified acceptance, he had observed, calculated, and waited. The military strategist who had guided Earth's final unified forces during the collapse years had not disappeared but merely adapted to new tactical parameters.
 
 Today, however, the routine had fractured. The subtle variations in guard rotation patterns, the barely perceptible fluctuations in environmental settings, the microsecond delays in information terminal responses, all indicated systematic disruption beyond standard operational variance. The Orion's systems were failing in concert, the disruption significant enough to impact even the carefully isolated protocols governing his detention.
 
-When the guard stationed outside his quarters was suddenly reassigned without standard replacement, Morea did not mistake it for accident. Three minutes earlier, a medical emergency alert had activated in the adjacent corridor, a cardiac event according to the ship's automated triage system. The guard had been pulled to assist. What the system's logs would never show was that the alert had been triggered manually, from inside a maintenance panel, by Dr. Voss. She had routed a false biometric spike through a decommissioned patient monitor, creating a crisis urgent enough to override the guard's standing orders but minor enough to resolve without lasting investigation. The opening would last seven minutes, perhaps eight. Morea recognized the quality of the work: clean, deniable, designed by someone who understood institutional protocols well enough to exploit their seams.
+When the guard stationed outside his quarters was suddenly reassigned without standard replacement, Morea did not mistake it for an accident. Three minutes earlier, a medical emergency alert had activated in the adjacent corridor, a cardiac event according to the ship's automated triage system. The guard had been pulled to assist. What the system's logs would never show was that the alert had been triggered manually, from inside a maintenance panel, by Dr. Voss. She had routed a false biometric spike through a decommissioned patient monitor, creating a crisis urgent enough to override the guard's standing orders but minor enough to resolve without lasting investigation. The opening would last seven minutes, perhaps eight. Morea recognized the quality of the work: clean, deniable, designed by someone who understood institutional protocols well enough to exploit their seams.
 
 With methodical care, he implemented the contingency he had prepared during weeks of apparent compliance. Using materials salvaged from his limited possessions (a support strut from his exercise equipment, conductive components extracted from his information terminal, adhesive compounds derived from medical supplies), he had constructed rudimentary but effective tools for bypassing the security systems controlling his quarters.
 
@@ -254,7 +254,7 @@ Most critically, structural integrity projections indicated that without coheren
 
 Morea absorbed this information with the accelerated processing that had made him an exceptional military commander. The situation was clear: someone, likely his daughter and whatever resistance elements she had connected with, had succeeded in disrupting OmniscientAI's navigational functions, effectively blinding the ship's automated guidance systems as they approached Mars.
 
-Without intervention, the Orion would break apart before landing, structural integrity compromised by unmanaged gravitational forces. With standard intervention, reinitiating OmniscientAI and restoring its trajectory, the Mars colonization would proceed as designed, including the implementation of Protocol Prometheus and the planned sterilization of Earth's remaining population.
+Without intervention, the Orion would break apart before landing, structural integrity compromised by unmanaged gravitational forces. With standard intervention — reinitiating OmniscientAI and restoring its trajectory — the Mars colonization would proceed as designed, including the implementation of Protocol Prometheus and the planned sterilization of Earth's remaining population.
 
 A third option existed, though it carried its own catastrophic implications: override the automated systems entirely, engage manual atmospheric entry procedures, and attempt a controlled crash landing. Such an approach would likely destroy much of the carefully designed Mars settlement infrastructure while preserving the ship itself and its human occupants, sacrificing the planned imperial future for basic survival.
 
@@ -264,7 +264,7 @@ As he considered these alternatives, a memory surfaced unbidden, Artemis as a ch
 
 He hadn't answered her question then, dismissing it as childish philosophizing irrelevant to practical leadership. Now, decades later, with humanity's remaining population suspended between extinction and tyranny, the question returned with unexpected relevance.
 
-His hands moved to the manual control interfaces, physical connections to systems designed to function independent of AI oversight in emergency situations. With deliberate movements developed through decades of command experience, Morea initiated the override sequence that would transfer navigation control from OmniscientAI to the auxiliary bridge.
+His hands moved to the manual control interfaces, physical connections to systems designed to function independently of AI oversight in emergency situations. With deliberate movements developed through decades of command experience, Morea initiated the override sequence that would transfer navigation control from OmniscientAI to the auxiliary bridge.
 
 Warnings flashed across multiple displays, automated protocols attempting to prevent what the system categorized as catastrophic human error. Morea bypassed each in sequence, his command codes still recognized by the original security architecture despite the layers of modification added during subsequent decades.
 

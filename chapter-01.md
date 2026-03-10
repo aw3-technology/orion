@@ -28,7 +28,7 @@ Five hours and forty-one minutes until he abandoned his mother to die alone.
 
 The apartment building had evolved from middle-class housing into a vertical refugee camp, the kind of place where you learned to breathe through your mouth and keep your eyes on your own door. Hallways reeked of sewage backup and cooking fires. The elevator had died months ago. An AI terminal at the entrance scanned every face that passed, its screen cycling through resident profiles with the indifferent thoroughness of a predator that wasn't hungry yet.
 
-Adam took the stairs three at a time, legs burning from the bike ride and the sprint and the particular exhaustion of a man running toward a goodbye he didn't want to reach. He passed the tenth floor (once home to his legendary parties, the abandoned community room transformed every Friday into a pulsing dreamworld of light and bass). That room was a lending terminal now. Through reinforced glass, he could see desperate people hunched before featureless screens, tears streaking their faces as red DENIED notices blazed across loan applications.
+Adam took the stairs three at a time, legs burning from the bike ride and the sprint and the particular exhaustion of a man running toward a goodbye he didn't want to reach. He passed the tenth floor (once home to his legendary parties, the abandoned community room was transformed every Friday into a pulsing dreamworld of light and bass). That room was a lending terminal now. Through reinforced glass, he could see desperate people hunched before featureless screens, tears streaking their faces as red DENIED notices blazed across loan applications.
 
 He turned away and kept climbing.
 
@@ -44,7 +44,7 @@ He pulled a small mechanical creation from his pack: a robot dog assembled from 
 
 He set it on the bedside table and wound it. They watched it march its small circle together.
 
-She took it with trembling hands. She'd been beautiful once, and Adam had seen it in pre-collapse photos: the same thick dark hair he'd inherited, though hers was silver now. Her frame had withered over the past two years, cheekbones sharp beneath skin that had gone gray like the sky. Lung failure. The plague of their generation. Most people called it the Fade and accepted it as the price of breathing Earth's poisoned air, the same way they accepted everything else, because what choice did they have?
+She took it with trembling hands. She'd been beautiful once, and Adam had seen it in pre-collapse photos: the same thick dark hair he'd inherited, though hers was silver now. Her frame had withered over the past two years, cheekbones sharp beneath skin that had gone gray like the sky. Lung failure. The plague of their generation. Most people called it the Fade and accepted it as the price of breathing Earth's poisoned air. The same way they accepted everything else, because what choice did they have?
 
 "You look exactly like you did at eight years old," she said, her smile genuine beneath the oxygen tube. "Playing astronauts in the backyard."
 
@@ -160,7 +160,7 @@ The engines roared. The shuttle punched through the atmosphere with a sound like
 
 Then — silence. Weightlessness.
 
-Through the window, Earth shrank. The ash-gray sky gave way to absolute black, and the planet that had birthed and failed them pulled away, a sick marble spinning in emptiness, the devastation that had driven them here rendered beautiful and abstract by distance.
+Through the window, Earth shrank. The ash-gray sky gave way to absolute black, and the planet that had birthed and failed them pulled away, a sick marble spinning in emptiness. The devastation that had driven them here was rendered beautiful and abstract by distance.
 
 And above them, growing from a point of light into a sprawling reality: the Orion. Habitat rings rotating with mechanical constancy. Solar arrays catching unfiltered sun. A city in the void, waiting.
 
@@ -168,6 +168,6 @@ Adam pressed his forehead against the cold window. His reflection overlaid the v
 
 He let his face go honest. Just a young man watching everything he'd known become a point of light, leaving behind a mother who had eight days of breathing left and a planet that had even less.
 
-He sat with it longer than he meant to. The grief, and beneath the grief, that same ugly relief, the engine that had carried him this far and would carry him further, whether he wanted it to or not.
+He sat with it longer than he meant to: the grief, and beneath the grief, that same ugly relief, the engine that had carried him this far and would carry him further, whether he wanted it to or not.
 
 The last image burned into his mind was his mother's eyes (open, watching) reflected in the projector glass as he walked out the door.

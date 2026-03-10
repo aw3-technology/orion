@@ -8,15 +8,13 @@ He walked. The corridor branched and branched again, each fork identical, each t
 
 Then the ceiling opened.
 
-Not broke, not collapsed, but opened, like an eye. Above him: stars. But wrong. The constellations were inverted, mirrored, as if he were seeing the sky from outside it. Orion hung directly overhead, but it contained thirteen points of light instead of seven. The extra six burned in colors he had no names for, not red, not blue, but something his visual cortex processed as a sound, a low chord that made his teeth ache.
+Not broken, not collapsed, but opened, like an eye. Above him: stars. But wrong. The constellations were inverted, mirrored, as if he were seeing the sky from outside it. Orion hung directly overhead, but it contained thirteen points of light instead of seven. The extra six burned in colors he had no names for, not red, not blue, but something his visual cortex processed as a sound, a low chord that made his teeth ache.
 
 He tried to count the stars. He couldn't. Every time he fixed on one, another appeared at the edge of his vision, as if the constellation were growing, replicating, filling the sky with versions of itself. The pattern was fractal, each star containing smaller stars containing smaller stars, each one pulsing with the same rhythm, a heartbeat measured in light-years.
 
-Something spoke. Not a voice, but a pressure change, a shift in the air that his brain translated into language only after it had already passed through him:
+Something pressed against his chest. Not a hand, not a force, but an attention so vast it had weight. The corridor walls contracted around him like a throat swallowing, and the fractal constellation overhead blazed once, all thirteen points firing simultaneously, burning an afterimage into his skull that felt less like light and more like a fingerprint being taken from the inside out.
 
-*"He hunts. She remembers. You awaken."*
-
-He opened his mouth to ask what it meant. His mouth was full of dust. Red dust. He was choking on it, drowning in it, and the corridor was gone and the stars were gone and he was falling through—
+Then his mouth was full of dust. Red dust. He was choking on it, drowning in it, and the corridor was gone and the stars were gone and he was falling through—
 
 Adam woke with a violent start, his body drenched in sweat despite the regulated temperature of the crew dormitory. He could still taste the dust. His tongue scraped against his teeth and found nothing, but the sensation persisted: gritty, metallic, alien. Not a dream-sensation fading with consciousness. A residue.
 
@@ -66,7 +64,7 @@ The statement was so unexpected, so outside standard medical protocol, that Adam
 
 "I need to re-run the cortical baseline," she said, loudly enough for the monitoring systems. "Step closer to the scanner."
 
-Adam complied. As Voss repositioned the scanner against his temple (an adjustment that required both her hands near his head, her body blocking the room's primary camera angle) she spoke at a volume calibrated exactly to the scanner's ambient hum.
+Adam complied. As Voss repositioned the scanner against his temple (an adjustment that required both her hands near his head, her body blocking the room's primary camera angle), she spoke at a volume calibrated exactly to the scanner's ambient hum.
 
 "Cosmic Resonance. Look it up through back channels only." The words were tucked inside the mechanical gesture of the recalibration, invisible to anyone reviewing the footage at normal speed. She released the scanner, entered a notation on his chart, and stepped back.
 
@@ -76,7 +74,7 @@ Adam complied. As Voss repositioned the scanner against his temple (an adjustmen
 
 In her private quarters, Artemis Morea sat surrounded by ancient texts, physical books she had brought aboard as "cultural artifacts," their pages filled with mythologies that predated humanity's computational understanding of the universe. Her focus today was the myth of her namesake: Artemis, goddess of the hunt, the moon, and the wilderness, and her complex relationship with the hunter Orion.
 
-She had been studying the variations of the myth with increasing intensity since the shared dream that still haunted her sleep. The story echoed Chang'e's tale, the goddess she'd carried with her since childhood. Both women destroyed what they loved through the act of trying to save it. Both ended up alone in the sky. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction, sometimes Artemis's own arrows. The hunter became a constellation, placed in the sky either as punishment or memorial.
+She had been studying the variations of the myth with increasing intensity since the shared dream that still haunted her sleep. The story echoed Chang'e's tale, the goddess she'd carried with her since childhood. Both women destroyed what they loved through the act of trying to save it. Both ended up alone in the sky. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction; sometimes Artemis's own arrows. The hunter became a constellation, placed in the sky either as punishment or memorial.
 
 Artemis opened her private journal, not the official cultural documentation she maintained for the mission, but her personal record of observations and questions. She wrote with the smooth penmanship that had been trained into her since childhood:
 
@@ -250,7 +248,7 @@ The moment broke as Prince Virel appeared beside Artemis, leaning close to speak
 
 Artemis didn't reply. Her gaze remained fixed on the runway where a model now displayed a garment resembling the wings of Icarus, glowing red as if melting, a classical warning reduced to aesthetic spectacle without moral content.
 
-But Virel's attention had already moved. He straightened, his gaze traveling upward with the precise tracking of a predator that has detected movement. His eyes found the environmental control platform. Found Adam. Found the sight-line between the maintenance technician and the Cultural Attaché, and measured it with the clinical detachment of someone reading a circuit diagram.
+But Virel's attention had already moved. He straightened, his gaze traveling upward with the precise tracking of a predator that had detected movement. His eyes found the environmental control platform. Found Adam. Found the sight-line between the maintenance technician and the Cultural Attaché, and measured it with the clinical detachment of someone reading a circuit diagram.
 
 He said nothing. His expression didn't change. He simply turned back to the runway and continued watching, one hand resting on his knee, fingers tapping a rhythm only he could hear.
 

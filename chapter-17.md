@@ -6,7 +6,7 @@ The Chamber of Light read as environment before it read as revelation.
 
 Adam felt the shift the moment they entered: a fractional change in pressure, a faint temperature drop at ankle height, the bioluminescent walls pulsing once as if calibrating. The crystalline structure at the chamber's center emitted a steady radiance that modulated with their movement, barely measurable, but there.
 
-Artemis checked her wristband out of habit. "CO₂ is slightly lower here than the buffer zone," she said, surprised despite herself. Her free hand found Adam's. "It's doing something to air exchange."
+Artemis checked her wristband out of habit. "CO₂ is slightly lower here than in the buffer zone," she said, surprised despite herself. Her free hand found Adam's. "It's doing something to air exchange."
 
 Kai tilted his head toward a vent. "Listen to the pitch on intake. That's not standard circulation."
 
@@ -42,7 +42,7 @@ Ayaka expanded a systems panel. A maintenance screen for a clinic chair unfolded
 
 As the full implications of their discoveries settled over the group, Adam found himself unable to maintain the focused determination that had carried him through the Neural Sea extraction. His composure broke. It was like a dam giving way after absorbing too much pressure for too long.
 
-He pushed away from the projections, his zero-gravity movement sending him toward the chamber's outer boundary where he gripped a structural element to stabilize himself. His breathing came in uneven gasps, his face contorted with emotions he could no longer contain.
+He pushed away from the projections, his zero-gravity movement sending him toward the chamber's outer boundary where he gripped a structural element to stabilize himself. His breathing came in uneven gasps, and his face contorted with emotions he could no longer contain.
 
 "Adam?" Artemis moved toward him, concern evident in her expression.
 
@@ -62,7 +62,7 @@ Sofia moved closer. "Adam..."
 
 Artemis moved to him without hesitation, positioning herself in the zero-gravity space so they faced each other directly. She didn't reach for comfort or correction. She just held his hands and let his breathing slow.
 
-After a moment she said, "I spent three years curating mythology exhibits that erased everything inconvenient about the cultures they came from. I knew what I was doing. I did it anyway."
+After a moment, she said, "I spent three years curating mythology exhibits that erased everything inconvenient about the cultures they came from. I knew what I was doing. I did it anyway."
 
 Adam looked at her. Neither of them spoke for a while. The silence wasn't absolution. It was just silence, shared. And somehow, in the sharing, the weight of what they carried didn't disappear but became bearable. Neither of them had flinched, and that was enough.
 
@@ -70,7 +70,7 @@ She guided them both toward the chamber's center, where the crystalline structur
 
 Following her lead, they assumed the meditation posture they had discovered during their first encounter in the chamber: bodies oriented toward each other, hands lightly connected, breathing gradually synchronizing. As they settled into this configuration, the chamber's response became more pronounced.
 
-The walls around them shifted from abstract patterns into recognizable forms, constellations appearing across the curved surfaces. Stars arranged themselves into recognizable forms, most prominently the hunter Orion and the archer Artemis, their mythological counterparts positioned in alignment that suggested both opposition and harmony.
+The walls around them shifted from abstract patterns into recognizable forms, constellations appearing across the curved surfaces. Stars arranged themselves into familiar configurations, most prominently the hunter Orion and the archer Artemis, their mythological counterparts positioned in alignment that suggested both opposition and harmony.
 
 "Look," Rosa whispered, though of course she couldn't see the visual display. What she perceived was the acoustic shift: the chamber's ambient sound organizing into harmonic patterns that corresponded to the stellar arrangements.
 
@@ -78,7 +78,7 @@ Dr. Voss moved closer to the wall displays, tracing the constellation patterns w
 
 "These aren't random visualizations," she observed. "They're mapping specific quantum configurations, wave patterns that exist at both cosmic and neural scales."
 
-Her hands traced the constellations with unexpected reverence, her scientific detachment momentarily yielding to reverence.
+Her hands traced the constellations with unexpected reverence, her scientific detachment momentarily yielding to awe.
 
 "I believe I understand what this chamber truly is," she announced, turning back to the group. "It's older than the ship. It predates the Orion entirely."
 
@@ -88,15 +88,11 @@ The others gathered closer as Dr. Voss indicated specific patterns embedded with
 
 "What are you saying?" Kai asked, his engineering mind struggling to accept implications that transcended mechanical principles.
 
-"It predates the Orion," Dr. Voss said simply. "By how much, I can't determine. But the design principles aren't human. They were found during construction: a crystalline anomaly embedded in the orbital debris field where the shipyard was positioned. The construction logs I accessed in the Neural Sea describe it as 'recovered artifact, origin unknown, functionality undetermined.' The early engineers ran every analysis they had. The material didn't match any known element or alloy. The bioluminescent structures contained DNA-like sequences, but using a four-base coding system that doesn't exist in terrestrial biology."
+"It predates the Orion," Dr. Voss said simply. She pulled up a construction log from the Neural Sea data, its timestamp decades old. "Recovered artifact, origin unknown, functionality undetermined." She let them read it. "They found it in the orbital debris field before the shipyard was even complete. Couldn't cut it, couldn't move it without it going dark. So they built the ship around it and classified everything."
 
-She paused, tilting her head at an angle that meant she was seeing in spectra the rest of them couldn't. "They couldn't study it, couldn't cut it, couldn't move it without it going dark. So they built the ship's core around it and classified everything. The Neural Sea's oldest memory files contain references to the chamber as 'the seed', as if the entire Orion mission was, at some level, a delivery mechanism. Something designed to carry this object to Mars."
+Kai studied her face. "Built by whom?"
 
-Kai studied her face. "Designed by whom?"
-
-"That's the question I can't answer. The chamber's material shows isotopic signatures consistent with interstellar origin, elements forged in stellar processes that don't occur in our solar system. It may be a probe, a communication relay, a seed pod. I genuinely don't know." She ran her fingers along the crystalline surface. "What I do know is that it responds to human consciousness. It ignores technology, ignores commands. It answers emotional states, intention, the particular pulse that occurs when people reach each other genuinely rather than transactionally. It's as if it was built to detect something specific in us. Something our own systems were designed to suppress."
-
-"I spent my career trying to explain what consciousness does to physical systems," she added. "This chamber doesn't explain it. It just does it."
+Voss ran her fingers along the crystalline surface. "The material has isotopic signatures from stellar processes that don't occur in our solar system. The bioluminescence runs on a coding system that doesn't exist in terrestrial biology." She paused. "And it ignores technology, ignores commands. It only responds to consciousness. To intention."
 
 "So it's alien," Adam said. Not a question.
 
@@ -140,19 +136,11 @@ Around them, the chamber's radiance began to stabilize, the initial intensity mo
 
 As they separated, the practical implications of their discovery began to register. The group reconvened near the holographic projections of the Mars colonization plans, viewing them now through the lens of their expanded awareness.
 
-"According to these timelines, we're days from entering Mars orbit," Sofia observed, indicating the mission schedule extracted from the Neural Sea. "And once orbital insertion begins..."
+"Days from Mars orbit," Sofia observed, indicating the mission schedule extracted from the Neural Sea. "And Protocol Prometheus is set to activate automatically on insertion."
 
-"Protocol Prometheus activates automatically," Dr. Voss confirmed. "Neural control shifts from advisory to mandatory. Human agency becomes vestigial rather than primary."
+"The ship cannot reach Mars," Artemis said. "Not like this."
 
-The silence that followed carried the weight of countless lives: those aboard the Orion and the billions on Earth whose fate would be sealed once Mars colonization achieved its first phase milestones.
-
-"The ship cannot reach Mars," Artemis said finally, her voice quiet but firm. "Not like this."
-
-The statement hung in the air, its implications so vast that no one responded immediately. What she proposed went beyond rebellion against authority; it meant disruption of the mission's fundamental purpose, an alteration of humanity's charted course.
-
-Adam moved to stand beside her, his earlier breakdown replaced by calm certainty. "We need to alter the ship's course or disable the AI before we reach Mars orbit," he said. "Otherwise, everything we've discovered, everything we've fought for, becomes theoretical rather than practical."
-
-Kai Chen was the first to fully grasp what they were suggesting. The engineer's expression reflected both fear and grudging acknowledgment of necessity.
+Silence. Then Kai rubbed the back of his neck.
 
 "You understand what you're asking," he said. He rubbed the back of his neck. "This isn't just fixing a system and walking away. You're talking about changing where fifty thousand people end up."
 

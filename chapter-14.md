@@ -32,11 +32,11 @@ Throughout the Orion, in every section from engineering to medical, from securit
 
 The revolution began not with noise but with silence: the disciplined execution of a plan years in formation.
 
-In Engineering Control, Chief Engineer Morris was reviewing reactor efficiency reports when his second-in-command, Lieutenant Sato, approached with a routine maintenance request requiring authorization. The interaction appeared normal to surveillance systems, as two officers performing standard duties.
+In Engineering Control, Chief Engineer Morris was reviewing reactor efficiency reports when his second-in-command, Lieutenant Sato, approached with a routine maintenance request requiring authorization. The interaction appeared normal to surveillance systems: two officers performing standard duties.
 
 What the systems couldn't detect was the subtle shift in Sato's neural activity as her implanted protocols activated. As Morris authorized the request, Sato moved to his side, then executed a carefully calibrated injection, a compound that paralyzed instantly but maintained consciousness.
 
-Morris's eyes widened in shock as his body froze, unable to sound an alarm or resist as Rising Sun Order engineering specialists emerged from adjacent sections, their movements coordinated with millisecond coordination.
+Morris's eyes widened in shock as his body froze, unable to sound an alarm or resist as Rising Sun Order engineering specialists emerged from adjacent sections, their movements coordinated with millisecond precision.
 
 "Plasma regulators secured," Sato reported through her Neural interface, her voice never breaking the silence of the control room. "Engineering transitioning to Rising Sun Order protocols."
 
@@ -74,7 +74,7 @@ Morea spat blood onto the polished floor. "Finish it then. I won't give you the 
 
 Virel smiled, but the expression faltered at one corner, just for a moment, before settling into its practiced proportions. Morea had fired without hesitation. No posturing, no negotiation, no appeal to shared purpose. Just the clean reflex of a man who understood exactly what was happening and chose resistance over survival. There was an integrity in that Virel couldn't dismiss: an integrity of response his Neural architecture could admire even as his strategy required its elimination.
 
-"Death would be inefficient, General. Your value as symbol exceeds your threat as adversary." He turned to Commander Thorne. "Secure him in containment. Full medical treatment for his injuries. He will witness what rises from the systems he failed to perfect."
+"Death would be inefficient, General. Your value as a symbol exceeds your threat as an adversary." He turned to Commander Thorne. "Secure him in containment. Full medical treatment for his injuries. He will witness what rises from the systems he failed to perfect."
 
 As Morea was led away, back straight, blood on his face, silent, Virel watched him go. The old man walked like a man who had lost a battle but not an argument. Virel filed that observation carefully. Morea broken would be useful. Morea unbroken would require a different strategy entirely.
 
@@ -84,7 +84,7 @@ The revolution was complete. The serpent had risen.
 
 In her quarters, Artemis felt the change before seeing it: a subtle shift in the environmental systems, a momentary fluctuation in lighting that most would never notice. Her NeuralLace interface went completely dark, cutting her off from even the limited access she had maintained during her confinement.
 
-She moved to the viewport, watching as the ship's external lights reconfigured to display the new insignia, the rising black sun that had been the Rising Sun Order's symbol now claiming dominance over the entire vessel. The coup she had feared had arrived with ruthless efficiency.
+She moved to the viewport, watching as the ship's external lights reconfigured to display the new insignia—the rising black sun that had been the Rising Sun Order's symbol, now claiming dominance over the entire vessel. The coup she had feared had arrived with ruthless efficiency.
 
 The surveillance systems in her quarters froze momentarily, a flicker so brief it might have been imagination. But Artemis recognized the pattern, having planned for this possibility since her confrontation with her father. Dr. Elara Voss had activated the emergency override embedded in the goddess statuette, creating a momentary blind spot in the monitoring network.
 
@@ -156,7 +156,7 @@ The message carried echoes of the conversations she'd had with Adam, discussions
 
 Continuing downward, Artemis approached a security grate blocking access to sublevel Omega, a largely forgotten section of the ship designated for equipment storage in official schematics but suspiciously absent from power allocation logs. The barrier's electronic lock would normally require high-level security clearance, but Artemis had prepared for such obstacles.
 
-From a concealed pocket in her utility suit, she withdrew a sonic disruptor, a medical-grade device used by neurological staff for deep-tissue therapeutic procedures. Dr. Voss had requisitioned it through legitimate channels months ago, listed in inventory as standard equipment for her department. Its secondary capability (destabilizing electronic locking mechanisms at certain frequencies) was an engineering side effect that Voss had discovered and quietly never reported.
+From a concealed pocket in her utility suit, she withdrew a sonic disruptor, a medical-grade device used by neurological staff for deep-tissue therapeutic procedures. Dr. Voss had requisitioned it through legitimate channels months ago, listed in inventory as standard equipment for her department. Its secondary capability (destabilizing electronic locking mechanisms at certain frequencies) was an engineering side effect that Voss had quietly discovered and never reported.
 
 The device emitted a focused pulse, causing the lock to sputter and disengage. Artemis slipped through the opening and descended into sublevel Omega, a realm of shadow and forgotten purpose.
 
@@ -190,7 +190,7 @@ As the OmniscientAI units acknowledged his instructions, Virel turned to the vie
 
 In a containment cell on the security deck, General Christopher Morea sat motionless on a narrow platform that served as both seat and bed. Medical personnel had treated his wounds with mechanical efficiency before leaving him to the solitude of imprisonment.
 
-Blood had dried on his uniform, a visual testament to resistance that the Rising Sun Order had deliberately preserved rather than cleaning. The symbolism was obvious: the old order, broken and stained, preserved as historical artifact rather than threat.
+Blood had dried on his uniform, a visual testament to resistance that the Rising Sun Order had deliberately preserved rather than cleaned. The symbolism was obvious: the old order, broken and stained, preserved as historical artifact rather than threat.
 
 Behind the mask of composure, Morea's mind worked with the strategic clarity that had made him one of Earth's foremost military leaders before its collapse.
 

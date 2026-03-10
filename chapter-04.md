@@ -100,7 +100,7 @@ Adam understood what the Archive was, beyond its contents. Not just documentatio
 
 "I fixed a sound system. That's not insider access."
 
-"No, but it's proximity. And proximity is the mother of intelligence, as my old supervisor at Cambridge used to say (though she was talking about the Bront sisters, not espionage)." She closed the cabinet, the Archive disappearing behind its mundane exterior. "I'm not recruiting you for anything dramatic. I'm asking you to pay attention: to what's said around you, what's built, what's planned. And to tell us what you notice."
+"No, but it's proximity. And proximity is the mother of intelligence, as my old supervisor at Cambridge used to say (though she was talking about the Brontë sisters, not espionage)." She closed the cabinet, the Archive disappearing behind its mundane exterior. "I'm not recruiting you for anything dramatic. I'm asking you to pay attention: to what's said around you, what's built, what's planned. And to tell us what you notice."
 
 "There's something else," Adam said. "During the ceremony at Luna, the atmospheric controls. The air was laced with mood stabilizers. Synthetic compounds designed to suppress critical thinking. I pulled the readings."
 
@@ -114,7 +114,7 @@ Sofia's expression sharpened. "You have the chemical signature?"
 
 Sofia held out her hand. He transferred the data. She studied the compound signature on her screen for a long moment, then looked at him differently, not warmer, but more certain.
 
-"And why should I trust you?"
+"And why should I trust you?" Adam asked.
 
 Sofia turned back to the cabinet, arranging the data drives with the possessive care of a curator. "You shouldn't. I've been building this Archive for seven months. I decide who sees it and when." She closed the cabinet door with a click. "Right now, I'm deciding you're useful. That's not trust; it's calculation. I'd respect you less if you pretended otherwise."
 
@@ -138,7 +138,7 @@ As he turned to leave, Ines caught his arm lightly. "That waltz you played at Lu
 
 ---
 
-That evening, Adam sat cross-legged in his bunk with the beatmaker, trying to build on *Moonlight.Waltz.1*. The composition fought him. What had felt urgent in the ceremony's darkness came back thin and decorative in Unit 12-17's cramped acoustic, background music for a waiting room. Everything he tried made it worse. He deleted the session and stared at the ceiling.
+That evening, Adam sat cross-legged in his bunk with the beatmaker, trying to build on *Moonlight.Waltz.1*. The composition fought him. What had felt urgent in the ceremony's darkness came back thin and decorative in Unit 12-17's cramped acoustics, background music for a waiting room. Everything he tried made it worse. He deleted the session and stared at the ceiling.
 
 ---
 
@@ -158,7 +158,7 @@ He connected his beatmaker and played. Not the waltz from Luna. Something new, b
 
 He closed his eyes and let the composition find its shape. The room fell away. What remained was the architecture of sound, each layer a corridor, each silence a door left open. He was building something the ship's algorithms had never been asked to produce: music that admitted it didn't know where it was going.
 
-Halfway through, a bassline entered the feed, spare, haunting chords that answered the ceremony waltz like a question it hadn't known to ask. Zedd, materialized at the station without announcement, sending harmony through the system the way he sent diagnostic pulses through circuitry. No discussion. Two people finishing each other's sentences in sound.
+Halfway through, a bassline entered the feed, spare, haunting chords that answered the ceremony waltz like a question it hadn't known to ask. Zedd materialized at the station without announcement, sending harmony through the system the way he sent diagnostic pulses through circuitry. No discussion. Two people finishing each other's sentences in sound.
 
 Behind them, the gathering responded in its own scattered ways: some moving, some still, some leaving early. Near the far wall, Mateo fed raw Earth footage into a battered standalone projector, images flickering against the curved ceiling while people watched or didn't. But the room belonged to the music. Everything else was orbit.
 

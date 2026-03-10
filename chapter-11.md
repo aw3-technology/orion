@@ -36,7 +36,7 @@ In maintenance sector J-17, Adam reviewed power consumption logs with growing ex
 
 "Maintenance reserves?" Kai suggested, though his skeptical tone indicated he knew better.
 
-"Too much power, too consistent." Adam shook his head. "And look at the pattern, circular, rhythmic. Almost like..." He paused, searching for the right comparison.
+"Too much power, too consistent." Adam shook his head. "And look at the pattern: circular, rhythmic. Almost like..." He paused, searching for the right comparison.
 
 "Like a heartbeat," Kai finished for him, moving closer to study the display.
 
@@ -54,7 +54,7 @@ Kai's expression grew grave. "The gravitational buffer zones are heavily restric
 
 The descent began separately, Adam and Artemis following different paths dictated by their respective access privileges, yet guided by the same invisible current.
 
-Artemis utilized her status as cultural attaché to access rarely-visited archival storage areas near the ship's center. With each security checkpoint, she presented plausible justifications, inspections of historical artifacts, verification of preservation protocols, while gradually moving deeper into the ship's infrastructure.
+Artemis utilized her status as cultural attaché to access rarely-visited archival storage areas near the ship's center. With each security checkpoint, she presented plausible justifications—inspections of historical artifacts, verification of preservation protocols—while gradually moving deeper into the ship's infrastructure.
 
 What she found in these neglected corners defied the Orion's standardized architecture. Subtle anomalies appeared with increasing frequency: wall panels with faint luminescent tracings visible only from certain angles; environmental controls that responded to proximity rather than command; acoustic properties that changed when she entered specific junctions. She noted the changes the way a field engineer would, scribbling temperatures and pressure variances in the margin of her map, marking where airflow slowed, where a vibration she could feel in her molars dropped by a half-tone.
 
@@ -94,7 +94,7 @@ Without further discussion, they approached the panel together. As they drew nea
 
 Artemis placed her palm against the surface, feeling warmth pulse beneath her fingers. "It's not about mechanism," she said softly. "It's about intention."
 
-Together, they pressed their hands against the panel. The material yielded like living tissue, separating along invisible seams to reveal a narrow shaft descending into darkness. No ladder or obvious means of traverse was visible, just an empty vertical tunnel disappearing into the ship's core.
+Together, they pressed their hands against the panel. The material yielded like living tissue, separating along invisible seams to reveal a narrow shaft descending into darkness. No ladder or obvious means of descent was visible, just an empty vertical tunnel disappearing into the ship's core.
 
 "Zero gravity at the center," Adam said, calculating possibilities. "We could float down."
 
@@ -126,7 +126,7 @@ Most astonishing was the sound, not the mechanical hum of the ship's systems but
 
 He ran his hand along the nearest wall. The material was warm and faintly yielding, like skin over muscle. "The bioluminescence isn't powered by anything I can detect. No wiring, no chemical reservoirs. The light is coming from the material itself, like it's metabolizing something." He pressed harder. "This isn't construction. It's growth. Whoever built this didn't assemble it. They grew it."
 
-Artemis moved to the wall where the star charts projected outward. "These constellations: the positions are wrong for any observation point on Earth or in our solar system. The angular separation between Betelgeuse and Rigel is about fifteen degrees too wide." She traced the lines between stars. "These are the constellations as seen from somewhere else. Somewhere outside our system."
+Artemis moved to the wall where the star charts projected outward. "These constellations—the positions are wrong for any observation point on Earth or in our solar system. The angular separation between Betelgeuse and Rigel is about fifteen degrees too wide." She traced the lines between stars. "These are the constellations as seen from somewhere else. Somewhere outside our system."
 
 The implication hung between them, not spoken fully, because speaking it would require accepting that something intelligent, something not human, had placed this chamber inside the ship. Or perhaps the ship had been built around it.
 
@@ -150,7 +150,7 @@ Their first touch was clumsy. Adam's fingers reached for hers beside the crystal
 
 "Neither do I," she said, and pulled him closer.
 
-They learned the physics of it together: that every push created separation, that holding on was the only way to stay. His fingers found the zipper at the back of her shipsuit and she flinched, not from reluctance but from the shock of being touched somewhere no one had touched her in years. The fabric peeled away and her skin raised in goosebumps despite the chamber's warmth, and he kissed the ridge of her collarbone where the bone pressed closest to the surface, tasting salt and the faint chemical residue of recycled ship air.
+They learned the physics of it together: that every push created separation, that holding on was the only way to stay. His fingers found the zipper at the back of her shipsuit and she flinched, not from reluctance but from the shock of being touched somewhere no one had touched her in years. The fabric peeled away and her skin rose in goosebumps despite the chamber's warmth, and he kissed the ridge of her collarbone where the bone pressed closest to the surface, tasting salt and the faint chemical residue of recycled ship air.
 
 She pulled his shirt over his head and it drifted away from them, rotating slowly in the chamber's glow. Her hands moved across his back, finding the knots of tension along his spine, the scar on his left shoulder blade from a maintenance accident he'd told her about in the observation alcove. She pressed her mouth against it, a gesture so specific, so deliberate, that he understood she'd been thinking about it.
 

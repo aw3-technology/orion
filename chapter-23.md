@@ -38,11 +38,11 @@ It was one of the children who made the discovery. A girl named Lina, barely fiv
 
 "They wanted to share their discovery," Sofia explained, a rare unguarded smile breaking through her usual academic reserve.
 
-Lina opened her hands to reveal several tiny green shoots emerging from a clump of Martian soil: the first spontaneous growth beyond their cultivated gardens. Life adapting to alien environment without human direction.
+Lina opened her hands to reveal several tiny green shoots emerging from a clump of Martian soil: the first spontaneous growth beyond their cultivated gardens. Life adapting to an alien environment without human direction.
 
 "It was just there," Lina explained. "Nobody planted it. It decided."
 
-Adam knelt to examine it, and his breath caught. The leaves were narrow, dark-veined: the same engineered variety Jun-Ho had bred in the hidden chambers of the Orion. The seed Adam had carried in his pocket through mutiny and crash landing, planted in Martian soil more out of ritual than expectation. He'd forgotten about it.
+Adam knelt to examine it, and his breath caught. The leaves were narrow, dark-veined: the same engineered variety Jun-Ho had bred in the hidden chambers of the Orion. It had grown from the seed Adam had carried in his pocket through mutiny and crash landing, planted in Martian soil more out of ritual than expectation. He'd forgotten about it.
 
 "Life always finds pathways," he said quietly. "Even in places we thought couldn't support it."
 
@@ -112,6 +112,6 @@ Adam spotted Nneka at the southern perimeter, where she always sat after the day
 
 The transmission signal continued its journey through interplanetary void, fragile yet persistent. Forty-three days of silence, and then either an answer or the knowledge that they had spoken into the dark regardless.
 
-The jasmine cutting trembled in the thin wind. The Chamber pulsed. The stars above were not the stars of Earth, the constellations subtly wrong, shifted by a perspective no human eye had seen before this generation. Among them, Earth itself was visible, a small blue point above the copper horizon.
+The jasmine cutting trembled in the thin wind. The Chamber pulsed. The stars above were not the stars of Earth; the constellations were subtly wrong, shifted by a perspective no human eye had seen before this generation. Among them, Earth itself was visible, a small blue point above the copper horizon.
 
 Still there. Still turning. Waiting for a relationship that had nothing to do with conquest or escape.

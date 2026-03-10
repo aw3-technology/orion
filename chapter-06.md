@@ -42,7 +42,7 @@ The chamber fell silent, the other council members carefully avoiding eye contac
 
 ---
 
-As the council chamber emptied in practiced silence, elsewhere, beneath the polished circuitry of command and the sterile pulse of hierarchy, a different kind of figure moved through the ship's forgotten veins.
+As the council chamber emptied in practiced silence, beneath the polished circuitry of command and the sterile pulse of hierarchy, a different kind of figure moved through the ship's forgotten veins.
 
 Eli Abramov crouched inside a narrow crawlspace once designated for a redundant life-support bypass. Official schematics had erased it years ago, dismissed by optimization protocols as excess. But Eli remembered. He had built this place, not for function, but for memory.
 
@@ -100,7 +100,7 @@ Mombasa. 2061. He'd been a colonel then, overseeing the East African Coastal Eva
 
 The analyst had been right about the data. Every number verified. It didn't matter. Truth without structure was just a match thrown into dry brush.
 
-Morea set the tablet down and pressed his fingers against his temples. Flores was the same, incisive, principled, and utterly blind to what transparency cost when fifty thousand lives balanced on the edge of collective confidence.
+Morea set the tablet down and pressed his fingers against his temples. Flores was the same — incisive, principled, and utterly blind to what transparency cost when fifty thousand lives balanced on the edge of collective confidence.
 
 *And yet.* His wife had used the same arguments. Not Flores's words exactly, but the same spine beneath them: the insistence that people deserved to know, that control purchased through ignorance was a debt that always came due. Helena had been brilliant in that way, and stubborn, and she had died for it. Or been killed. He had never permitted himself to determine which.
 
@@ -116,7 +116,7 @@ Virel himself embodied the Rising Sun Order's philosophy: his appearance meticul
 
 He stood before a curved wall of polished chrome, his reflection fragmenting and multiplying across its surface. With a subtle gesture, he activated the suite's private communication system, not the standard ship network but a separate channel established for Rising Sun Order operations.
 
-The chrome surface rippled, and holographic projections materialized in a circle around him: eight faces representing key operatives positioned throughout the Orion's hierarchy. Their appearances varied widely (different ethnicities, ages, genders) but all shared the subtle neural enhancement indicators visible only to those who knew to look for them.
+The chrome surface rippled, and holographic projections materialized in a circle around him: eight faces representing key operatives positioned throughout the Orion's hierarchy. Their appearances varied widely (different ethnicities, ages, genders), but all shared the subtle neural enhancement indicators visible only to those who knew to look for them.
 
 "Report status," Virel instructed, his voice modulated to convey calm authority.
 
@@ -152,7 +152,7 @@ The holographic faces showed no reaction, not from lack of emotion but from abso
 
 The holograms nodded in synchronized understanding before fading, leaving Virel alone with his multiplied reflections. In the chrome surface, his expression remained flawlessly composed, the face of progress draped in charm, of control wrapped in the language of harmony.
 
-A chime indicated his next appointment. Dr. Lena Okoye, formerly a pediatric trauma surgeon at Lagos University Teaching Hospital, now a Rising Sun Order recruit completing her second month of voluntary Neural enhancement. She entered his quarters with the hesitant grace of someone still adjusting to augmented proprioception.
+A chime indicated his next appointment. Dr. Lena Okoye, formerly a pediatric trauma surgeon at Lagos University Teaching Hospital, now a Rising Sun Order recruit completing her second month of voluntary neural enhancement. She entered his quarters with the hesitant grace of someone still adjusting to augmented proprioception.
 
 "How are you finding the integration?" Virel asked, gesturing to a chair that adjusted automatically to her posture.
 

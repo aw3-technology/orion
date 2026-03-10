@@ -52,7 +52,7 @@ Behind her, Adam watched her departure for a moment before gathering his tools. 
 
 The next day found Artemis returning to the botanical dome, ostensibly to document rare flowering specimens for the cultural archive. She told herself the timing was coincidental, that she had no expectation of encountering Adam Hale again. Yet as she rounded the corner into the Mediterranean section, she felt no surprise at seeing him seated on a recycled-wood bench near an olive tree grove.
 
-He was adjusting a small atmospheric sensor, his presence plausibly part of his maintenance duties. When he looked up at her approach, neither acknowledged the deliberate nature of their meeting, a silent agreement to maintain the fiction of chance.
+He was adjusting a small atmospheric sensor, his presence plausibly part of his maintenance duties. When he looked up at her approach, neither acknowledged the deliberate nature of their meeting—a silent agreement to maintain the fiction of chance.
 
 "Technician Hale," she greeted him. "More valve malfunctions?"
 
@@ -84,7 +84,7 @@ Artemis looked at him. Most people, when she hinted at this, retreated into tact
 
 "I don't know if he gave the order," she said. "I know he knew it was coming. I know he didn't stop it." She pulled a leaf from the olive branch above them, turning it between her fingers. "I was eleven. I spent years constructing reasons it couldn't be true. Misunderstanding. Coincidence. I ran out of reasons around fifteen."
 
-"I'm sorry," Adam said. The words were plain and he didn't try to improve on them.
+"I'm sorry," Adam said. The words were plain, and he didn't try to improve on them.
 
 "After that," Artemis continued, "my father accelerated my training as the Order's symbolic representative. The 'goddess-in-waiting,' as some called it behind closed doors. A lifetime of diplomatic pageantry designed to make oppression feel like destiny."
 
@@ -92,7 +92,7 @@ They sat in silence.
 
 "What do you think Mars will really be like?" Adam asked eventually, his voice low enough that only she could hear.
 
-Artemis considered the question, not the sanitized response she would give in official capacity, but her actual thoughts.
+Artemis considered the question, not the sanitized response she would give in an official capacity, but her actual thoughts.
 
 "I fear it will be Earth's mistakes amplified and refined," she said. "The same divisions, the same exploitation, just with more sophisticated justifications."
 
@@ -120,7 +120,7 @@ During one meeting in the desert biome, Adam brought a small data crystal contai
 
 Adam stared at her. "You have a dead-drop protocol."
 
-"I have several. You've been improvising. It's charming but it's going to get you arrested."
+"I have several. You've been improvising. It's charming, but it's going to get you arrested."
 
 He laughed, a real laugh, surprised out of him. She looked momentarily startled by the sound, as if laughter were a foreign object in the spaces she inhabited. Then the corner of her mouth turned up, and for a moment the composed mask cracked into something younger and less defended.
 
@@ -182,7 +182,7 @@ Virel approached, standing closer than protocol strictly required. "Indeed. Harm
 
 Though her expression didn't change, Virel noted the almost imperceptible pause in her work. "The Earth biome preservation falls under cultural assets," she replied evenly. "Proper documentation is essential."
 
-"Of course," Virel smiled with practiced charm. "Your dedication is admirable."
+"Of course." Virel smiled with practiced charm. "Your dedication is admirable."
 
 After she departed, Virel activated his secure communication channel. Commander Thorne appeared on the display, broad-shouldered, his Rising Sun Order uniform modified with subtle combat enhancements. His face had the blunt architecture of someone built for violence, but his hands were another story: long-fingered, deft, moving across his console with the delicacy of a man who repaired watches or played piano. Virel had once found him in the security office at 0300, rebuilding a malfunctioning micro-drone with tweezers and a jeweler's loupe, the tiny components arranged on a cloth with the care of a surgeon laying out instruments. It was the only time Virel had seen Thorne look content.
 
@@ -268,7 +268,7 @@ The moment stretched, filled with possibility—
 
 A soft buzz from the corridor outside shattered the silence. Motion detectors activating, someone approaching.
 
-They moved apart instantly, years of conditioning reasserting itself in seconds. Artemis slipped the book back into her pocket as Adam quickly gathered his maintenance tools, creating the appearance of a routine inspection.
+They moved apart instantly, years of conditioning reasserting themselves in seconds. Artemis slipped the book back into her pocket as Adam quickly gathered his maintenance tools, creating the appearance of a routine inspection.
 
 By the time a junior engineering officer passed the observation bubble, they were standing at a proper distance, discussing environmental stabilization metrics with formal detachment.
 
@@ -286,7 +286,7 @@ In the security monitoring hub on B-Deck, Commander Thorne reviewed the surveill
 
 But there were anomalies. Brief periods where her path diverted from official assignments, locations where she lingered without documented purpose.
 
-Thorne cross-referenced these deviations with maintenance schedules, looking for correlations that might explain the pattern. When he input Adam Hale' service routes, the system highlighted multiple instances of proximity, moments when the Cultural Attaché and the maintenance technician occupied the same sectors without official interaction logged.
+Thorne cross-referenced these deviations with maintenance schedules, looking for correlations that might explain the pattern. When he input Adam Hale's service routes, the system highlighted multiple instances of proximity, moments when the Cultural Attaché and the maintenance technician occupied the same sectors without official interaction logged.
 
 Too many to be coincidental. Too patterned to be random.
 
