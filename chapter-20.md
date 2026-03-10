@@ -162,11 +162,7 @@ Throughout the civilian camps, the reaction combined shock with grim vindication
 
 A lone voice shouted from a gathering near a makeshift medical center: "This is what they left Earth for. To erase it."
 
-The simple statement crystallized the fundamental moral failure revealed in the broadcast. The leaders had lied about the Mars plans, yes. But they had also calculated the abandonment and eventual elimination of Earth's remaining population, turning evacuation into an extinction event by deliberate design.
-
-As the broadcast continued, attempts to counter or suppress it failed against Dr. Voss's carefully designed override protocols. In his protected chamber within the Rising Sun Order compound, Prince Virel himself attempted to initiate emergency shutdown procedures, only to discover that the Neural architecture he had helped create now carried truth he had never intended to reveal.
-
-The technical systems designed to ensure compliance and control had been repurposed to expose the very people who built them. The specialists who had implemented these systems with unquestioning faith now watched their own handiwork turned inside out.
+As the broadcast continued, attempts to counter or suppress it failed against Voss's override protocols. In the Rising Sun Order compound, Virel himself attempted emergency shutdown procedures, only to discover that the Neural architecture he had helped create now carried truth he had never intended to reveal.
 
 When the broadcast finally concluded, the last damning document fading from screens across the impact zone, a profound silence descended over the entire survivor community. It was the quiet of people recalculating everything they had believed, measuring the distance between the world they had been promised and the one they actually inhabited.
 
@@ -174,13 +170,9 @@ Then, from somewhere near the eastern debris field, a sound rose—low and rhyth
 
 The pattern was picked up. First by one cluster of survivors, then another. Not music exactly, just rhythm, tapped on metal and stone and the palms of hands. Former crew members who had heard the track in the lower depths. Former passengers who had encountered fragments embedded in Artemis's subliminal broadcast. Even former security personnel who had confiscated the instruments that played it. All of them recognizing a rhythm the system had tried to delete and couldn't.
 
-The rhythm grew wider, spreading through the impact zone like a pulse through a body. No words. No melody. Just the beat, the human heartbeat translated into communal act, the first sound the survivors made together that was neither a cry for help nor an order to be followed.
+The rhythm grew wider, spreading through the impact zone. No words. No melody. Just the beat, tapped on metal and stone and the palms of hands.
 
-In this momentary stillness turned tentative music, movement began from multiple directions toward a central point in the impact zone: survivors from various camps drawn toward the partially buried Chamber of Light, its crystalline structure still visible among the wreckage, glowing with the same steady light it had maintained since the crash.
-
-Adam and Artemis, having confirmed the broadcast's successful completion, made their way to this emerging gathering point. As they approached, they found hundreds of survivors converging on the chamber. Nations Union soldiers who had torn off their insignia patches. Rising Sun Order technicians with compliance directives now overwritten by raw truth. Civilians who had endured selection and crash and had nothing left to lose.
-
-The gathering had no formal organization or announced purpose, yet its significance was unmistakable. The old stories had collapsed under the weight of what everyone had just seen, and a new story would have to take their place.
+People began moving toward the Chamber of Light, its crystalline structure still visible among the wreckage, glowing with the same steady light it had maintained since the crash. Adam and Artemis made their way there too. Hundreds had already gathered. Nations Union soldiers who had torn off their insignia patches. Rising Sun Order technicians. Civilians who had endured selection and crash and had nothing left to lose.
 
 Artemis moved through the assembly, recognizing faces from every level of the Orion's former command structure, all of them equally dust-covered now, all of them carrying the same stunned knowledge. When she reached a slight elevation near the chamber's exposed crystalline structure, she turned to speak. No one had appointed her. No one needed to.
 

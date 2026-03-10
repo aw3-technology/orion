@@ -166,9 +166,9 @@ The silence that followed was the most honest moment they'd shared. Their moral 
 
 The compromise held, barely, and with visible strain. But it forced them to confront what Rosa had named: the difference between opposing tyranny and replacing it.
 
-"No," Dr. Voss said quietly. "This is evolution refusing extinction. The system Virel and the leadership have designed would effectively end human potential, replacing organic adaptation with algorithmic control. What we're discussing isn't destruction but preservation of possibility. But Rosa is correct that the means of our resistance will shape whatever follows it."
+"Rosa is right," Voss said quietly. "But we're out of clean options."
 
-The debate continued. The technical challenges alone seemed insurmountable: altering the course of a vessel as massive as the Orion, or disrupting AI systems designed specifically to resist human override. Add to that the security forces that would mobilize the moment any plan was detected, and success appeared impossible.
+Nobody disagreed. Nobody was comfortable with that, either.
 
 As they deliberated, a subtle change in the chamber's ambient sound alerted them to external developments. Rosa, most sensitive to acoustic variations, was first to notice.
 
@@ -184,6 +184,6 @@ Inside the Chamber of Light, the illumination held steady, unchanged by the cris
 
 Adam and Artemis stood at its center, hands intertwined. Around them, their unlikely allies (scientists, engineers, hackers, navigators) prepared for whatever would come next.
 
-"Let's rewrite the trajectory," Adam said.
+"How long do we have?" Adam asked.
 
-Artemis nodded. "All of it. The course, the plan, everything. We start over. We figure out what this ship could actually be."
+"Not long enough," Artemis said. "Let's start."

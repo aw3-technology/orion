@@ -68,7 +68,7 @@ He paused. The firelight caught his face, throwing sharp shadows.
 
 He looked across the gathering: faces he knew, faces he didn't, faces marked by grief and exhaustion and the particular stubbornness of people who refuse to die on schedule.
 
-"We are collaborative, creative, contradictory, complex. We don't need perfection. We need honest participation. We need each other."
+"I don't have a program for what comes next. I don't think anyone should. I just know the work gets done when people show up for each other. That's enough to start with."
 
 As he spoke, something unexpected began above the gathering. Adam saw it first in the upturned faces: mouths falling open, eyes widening, the particular stillness that precedes awe. He looked up.
 

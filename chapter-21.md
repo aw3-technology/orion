@@ -38,9 +38,13 @@ Sofia considered this question with the respect it deserved. "We're humans who l
 
 The relative calm of this emerging organization was shattered mid-morning by shouts from the eastern perimeter of the settlement area. A scout team led by Kai Chen returned with a struggling figure restrained between them. The man had dressed in worker's clothing, but nothing could conceal the unmistakable bearing of Prince Virel, former leader of the Rising Sun Order and architect of the Neural compliance systems that had nearly subjugated the entire mission.
 
-"Found him attempting to access a partially intact communications array near the secondary engine impact site," Kai reported as a crowd quickly gathered. "He was implementing override protocols for the orbital weapons platforms, attempting to reactivate the Earth sterilization sequence."
+"Found him at a partially intact communications array near the secondary engine impact site," Kai reported as a crowd quickly gathered. "He was implementing override protocols for the orbital weapons platforms." Kai's voice was steady, but the skin around his eyes was tight. "He got partway through the activation sequence before we pulled him off the console. We don't know how far."
 
-A murmur of shock and rage rippled through the assembled survivors. The broadcast of Neural Sea files had revealed the existence of these orbital platforms designed to eliminate Earth's remaining population, but most had assumed the threat had ended with the Orion's crash landing. That this genocidal capability remained operational, that Virel had attempted to trigger it even after everything that had transpired, ignited immediate fury.
+That last sentence landed like a stone in still water. Voss was already moving toward a salvaged diagnostic terminal, her fingers working the interface with urgent precision. The silence lasted ninety seconds. Then she looked up.
+
+"Two of the six platforms received a partial arming signal. Their autonomous targeting may have initialized. I can't confirm from here whether the sequence completed or failed." She spoke without inflection, the way she delivered all catastrophic information. "If it completed, those platforms will begin selecting targets within their orbital window. If it failed, they'll stay in standby. We won't know which until we can build a transmitter powerful enough to query them."
+
+The crowd processed this. The threat wasn't past tense. It was conditional, ongoing, dependent on equipment they hadn't built yet and cooperation from the man who'd created the problem.
 
 "Murderer!" shouted someone from the crowd as Virel was dragged through the gathering toward the central plaza. "Billions of lives! Our families left behind!"
 
@@ -160,7 +164,9 @@ The tribunal members exchanged glances, evidently assessing both Adam's proposal
 
 Commander Ellis added: "And Lena Vasquez's objection is entered into the record. Not overruled. Entered. If she cannot participate in a council that includes him, that is her right, and her absence will be its own testimony."
 
-When final decision was reached, it came quietly, with the solemn weight of unprecedented territory. Prince Virel would be stripped of title and authority, required to contribute directly to community construction projects under supervision, subjected to the testimony process, and evaluated regularly for genuine participation. He would be something the old world had no word for: a community member with specialized restrictions reflecting both past actions and potential capacity.
+What nobody said, but everyone understood, was the uglier arithmetic beneath the principle: Virel's biometric signature was the only key to the orbital weapons platforms. If his partial activation sequence had armed them, billions of lives depended on his continued cooperation. The mercy wasn't clean. It was threaded through with necessity, and Virel almost certainly knew it.
+
+When final decision was reached, it came quietly, with the solemn weight of unprecedented territory. Prince Virel would be stripped of title and authority, required to contribute directly to community construction projects under supervision, subjected to the testimony process, and evaluated regularly for genuine participation.
 
 The assembly received this judgment with heavy silence, not enthusiastic endorsement but something more fractured and honest than consensus. Lena's empty seat spoke as loudly as any verdict. As former waste management workers escorted Virel toward the construction camp where irrigation trenches were being excavated, he walked with the careful compliance of a man who understood the terms of his continued existence. Whether that compliance would deepen into something real or calcify into performance was a question that could not be answered by tribunal or principle. Only by time.
 
@@ -246,15 +252,15 @@ Their conversation turned to practical matters: water recycling improvements, po
 
 As night deepened, conversation across the settlement gradually diminished as survivors sought rest. The Martian sky revealed itself with unprecedented clarity, atmospheric conditions and distance from solar glare combining to create stellar visibility beyond anything experienced from Earth. Constellations appeared both familiar and altered, their arrangements subtly different when viewed from a world that was not home.
 
-Among these stars, Earth remained visible, a small blue point amid countless others. From their position on Mars, the planet they had abandoned looked different than it had from the Orion's viewpoint. Wounded but persistent. A distant possibility, waiting for a relationship that had nothing to do with conquest or exploitation.
+Among these stars, Earth remained visible, a small blue point amid countless others.
 
-"For the first time since departure," Artemis said quietly, "Earth looks like a world waiting to be saved. Not escaped from. Saved."
+Artemis was looking at it. "We owe them more than silence," she said.
 
-Adam nodded. He understood what she meant: Earth had stopped being the place they had failed and become the place they might still reach.
+"First we have to survive long enough to send it," Adam said. "Sustainable water. Sustainable food. Build something real before the old power blocs have a chance to grow back."
 
-"First we have to survive here," he said. "Sustainable water. Sustainable food. Sustainable power. Build something real before the old power blocs have a chance to grow back."
+"Yes." She was quiet for a while. "But I keep thinking about the orbital platforms. Whether Virel armed them. Whether we'll know in time."
 
-"Yes," Artemis agreed. "But we can't lose sight of why. We're here to learn how to go back differently. To take care of something instead of consuming it."
+Adam didn't answer. Some problems couldn't be solved by wanting them solved. They sat with it, the way they'd learned to sit with most things now: without resolution, without comfort, with the stubborn intention to keep working anyway.
 
 Around them, the settlement quieted as survivors sought rest against tomorrow's continuing challenges.
 
