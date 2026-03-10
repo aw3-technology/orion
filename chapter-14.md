@@ -118,13 +118,28 @@ The team moved carefully into position, each focusing on their assigned responsi
 Rosa established an acoustic monitoring field, her specialized equipment translating the subtle sounds of the Neural Sea into early warning patterns that would alert them to security response.
 Kai maintained communication links with the diversion teams throughout the ship, coordinating the precisely timed disruptions that would occupy security resources for the critical extraction period.
 At the center of these activities, Dr. Voss prepared for the most dangerous aspect of the operation—direct interface with the Neural Sea itself. From her equipment pack, she removed what appeared to be a modified Neural access unit similar to the standard NeuralLace technology used by elite passengers, but with significant customization.
-"This interface will allow temporary connection to the data matrix," she explained to Adam and Artemis. "But the connection works both ways—the system will perceive my consciousness while I access its information structures."
-"Is that safe?" Adam asked, concern evident in his voice.
-Dr. Voss's expression remained analytical rather than fearful. "Safe? No. Necessary? Yes. The Neural Sea doesn't merely store information—it actively processes and protects it. Direct consciousness engagement is the only way to navigate its architecture quickly enough to extract what we need."
-"And the risks?" Artemis pressed.
-"Neural absorption is possible," Voss acknowledged. "My consciousness could be incorporated into the system's processing matrix. A sacrificial interface, essentially."
-Neither Adam nor Artemis could formulate an immediate response to this clinical description of potential self-sacrifice. Before they could object, Voss had already positioned herself on a platform extending into the data visualization and attached the interface unit to her Neural access points.
-"I've programmed target parameters focusing on Mars colonization architecture, Earth management protocols, and factional authorization chains," she said, her voice already taking on a distant quality as the connection initialized. "The extraction will proceed regardless of my individual status."
+
+Ayaka watched the preparation with visible unease. She pulled Adam and Artemis aside, her voice low. "I need to say this clearly. People assume Dr. Voss's synthetic consciousness makes her uniquely suited for this. It doesn't. It makes her uniquely vulnerable."
+
+She pulled up a schematic on her tablet—Voss's neural architecture, rendered in clinical detail. "Organic brains are messy. Redundant. A human mind resists integration because it's too chaotic to map cleanly. Dr. Voss's synthetic pathways are precise, structured, legible—which means the Neural Sea can read her like a schematic. It will know exactly where to attack."
+
+"Then why is she the one going in?" Adam asked.
+
+"Because an organic mind would drown. The data volume would cause immediate neural cascade failure—seizure, brain death, minutes at most. Her synthetic architecture can handle the throughput. But handling it and surviving it aren't the same thing." Ayaka tapped a cluster of nodes on the schematic. "These are her higher cognitive pathways—personality, memory, analytical judgment. They're not backed up. They can't be. Synthetic consciousness doesn't copy like data on a drive. Each pathway is a living circuit. Destroy it, and it's gone."
+
+Dr. Voss approached, having overheard. Her expression remained analytical. "Ayaka is correct. I should be precise about my limitations." She held up the interface unit. "I can maintain full immersion for approximately eight minutes before my synthetic architecture begins irreversible degradation. Each extraction sequence will burn pathways I cannot regenerate. I will emerge from this diminished—how much depends on what the system demands."
+
+"You're talking about permanent brain damage," Adam said flatly.
+
+"I'm talking about permanent capability loss," Voss corrected. "My spatial processing. My multi-spectrum perception. My ability to run parallel analyses. Some of these I will lose. I don't know which ones until it's over." She attached the interface unit to her Neural access points. "The Neural Sea doesn't merely store information—it actively processes and protects it. Direct consciousness engagement is the only way to navigate its architecture quickly enough to extract what we need."
+
+"And if it takes longer than eight minutes?" Artemis pressed.
+
+"Then what remains of me will be insufficient to be called a person. The system will have overwritten enough of my cognitive architecture that what disconnects will be a shell running on the Sea's logic, not mine." She positioned herself on the platform extending into the data visualization. "I've programmed target parameters focusing on Mars colonization architecture, Earth management protocols, and factional authorization chains. Three extraction sequences. If degradation reaches critical threshold during the second, I will still attempt the third."
+
+"That's not your decision to make alone," Artemis said.
+
+"It is precisely my decision," Voss replied, her voice already taking on a distant quality as the connection initialized. "Because I'm the only one who will feel the threshold."
 Her eyes—the synthetic implants that had replaced her original organs years before—began to pulse with the same rhythmic patterns visible in the data matrix. Her body remained physically present, but her consciousness clearly extended into the neural construct before them.
 "Beginning primary extraction sequence," she announced, her voice now carrying harmonics that seemed to resonate with the ambient sounds of the chamber. "Mars colonization architecture identified."
 
@@ -144,6 +159,12 @@ Voss's convulsions subsided into rigid stillness. When she spoke again, her voic
 
 Minutes passed. Voss's breathing stabilized. The data streams around her shifted from aggressive red patterns back to flowing blues and greens. She had found her way in — not through force but through surrender.
 
+Ayaka checked her neural metrics. "She's lost her spatial processing cluster," she reported, her voice tight. "The counter-intrusion burned through it completely. That's permanent."
+
+"How much can she lose?" Adam asked.
+
+"Before she stops being her?" Ayaka didn't look up from her readings. "We're about to find out."
+
 "Mars colonization architecture re-acquired," she said, her voice steadier now but carrying undertones that weren't entirely her own. The data visualization shifted in response, streams reorganizing to bring certain patterns into prominence. Holographic projections began to materialize around them, rendered from the extracted data—detailed schematics of the planned Mars settlement in far greater detail than anything previously revealed to the crew.
 What they saw was not the harmonious scientific outpost described in official briefings, nor even the stratified but functional society Artemis had glimpsed in her father's restricted files. Instead, the true Mars plan revealed itself as the infrastructure for empire—a militarized, hierarchically governed metropolis designed to serve as the capital of a new interplanetary dominion.
 The settlement architecture featured concentric rings of control, with command structures centralized in a fortress-like complex surrounded by technological research facilities, then production zones, and finally maintenance sectors at the periphery. The entire design emphasized security, surveillance, and power projection rather than scientific discovery or sustainable habitation.
@@ -153,7 +174,9 @@ The implications were clear. Most of the Orion's crew—even those who had survi
 New projections materialized—orbital maps showing a fleet of satellites positioned at strategic points around Earth, their designs clearly weaponized despite classification as "observation platforms." Technical specifications scrolled alongside the visuals, detailing capabilities far beyond monitoring:
 Targeted electromagnetic pulse systems capable of disabling remaining technology in specific regions. Delivery mechanisms for viral nanotechnology programmed to incapacitate human neural function without damaging physical infrastructure. Kinetic strike capabilities disguised as debris management systems.
 The complete architecture for Earth's methodical sterilization displayed itself with terrible precision—not chaotic destruction but carefully calculated elimination of remaining population centers, particularly those showing signs of recovery or resistance.
-"Final extraction sequence initiated," Voss announced, her physical form now visibly affected by the neural connection—subtle luminescence visible beneath her skin as if her body itself were becoming part of the data architecture. "Factional authorization chains identified."
+"Final extraction sequence initiated," Voss announced, her physical form now visibly affected by the neural connection—subtle luminescence visible beneath her skin as if her body itself were becoming part of the data architecture. Her voice had changed—flattened, stripped of the precise cadence that had been distinctly hers. "Multi-spectrum perception... gone. Parallel analysis capacity... degrading. Factional authorization chains identified. Proceeding."
+
+Ayaka's face was ashen. "She's past the eight-minute threshold. What's extracting now may not be entirely her."
 The most damning evidence appeared in the final projection—authorization protocols for what was clinically designated as the "Final Stabilization Directive." The document bore multiple biometric signatures, including those of General Morea, Prince Virel, and the heads of both Traditional and Rising Sun Orders.
 Artemis stared at her father's authorization mark, its authenticity undeniable. Whatever philosophical differences might have existed between factions, they had agreed on this fundamental strategy—Earth's remaining population represented an unacceptable variable in humanity's future, to be eliminated rather than preserved.
 "Full data package secured," Voss reported, her voice now barely recognizable as human, the neural merger approaching critical threshold. "Initiating extraction and disconnection protocols."

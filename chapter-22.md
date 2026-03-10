@@ -17,7 +17,16 @@ He didn't say it aloud. Some meanings arrived too quietly for speech. But he fel
 
 Dr. Voss arrived with her tablet, its screen displaying the inventory of critical supplies and resources she had been meticulously compiling since impact. Her synthetic eyes processed the gathering with analytical precision, yet her expression held something new—a quality of engagement that transcended mere data collection.
 "We have three essential challenges to address immediately," she announced as the circle completed its formation. "Water reclamation efficiency is at sixty-four percent of minimum requirements. Power generation from salvaged cells will sustain basic life support for approximately twenty-six days at current usage rates. And our medical supplies, particularly antibiotics and surgical equipment, require strict conservation protocols."
-The numbers settled over the gathering like cold water. Twenty-six days. Everyone did the same quiet arithmetic.
+
+She paused, then laid out the math none of them could afford to ignore.
+
+"Let me be precise about what sixty-four percent means. The surviving population is approximately eight thousand people. At minimum hydration — two liters per person per day for drinking alone — we need sixteen thousand liters daily. The reclamation system is producing roughly ten thousand. That's a deficit of six thousand liters every day, which we're currently covering by draining the Orion's emergency reserves."
+
+"How long do the reserves last?" Adam asked.
+
+"At current draw rates, eleven days. After that, we're rationing below survival thresholds — chronic dehydration leading to organ failure within two weeks." Voss's synthetic eyes swept the circle. "To put it plainly: if we cannot reach at least eighty-five percent reclamation efficiency within eleven days, we will begin losing people to thirst. Not the injured. Everyone."
+
+The numbers settled over the gathering like cold water. Eleven days. Not twenty-six. Everyone did the same quiet arithmetic, and the arithmetic was worse than they'd imagined.
 "The reclamation system from Habitat Section 4 is mostly intact," offered a former maintenance worker, his voice gaining confidence as he spoke. "With modifications to the filtration components, we could increase efficiency by at least fifteen percent."
 "I can help with that," added a Rising Sun Order engineer who had once designed neural compliance systems. "The materials we need might be salvageable from the command deck wreckage."
 More hands went up. A chemist who knew how to purify water with UV light from salvaged panels. A former cook who'd mapped every intact food storage unit in the eastern debris field. Suggestions came fast, practical, stripped of posturing. Nobody pulled rank because rank no longer bought anything.

@@ -353,6 +353,15 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - The Chamber pulses in resonance. The future is unwritten.
 - *Establishes*: Connection between worlds, open-ended possibility, thematic resolution.
 
+### Chapter 24: The Blue Dot
+- **POV**: Earth (Multiple — Carmen Ochoa, Renata Vidal, Director-General Tanabe)
+- Earth receives the Mars transmission 43 days after it's sent.
+- **Carmen Ochoa**: Elaine Hale's caretaker in a Los Angeles shelter. Hears Adam's name in the crew manifest. Carries the news to Elaine's bedside. Elaine's fingers tighten around her hand.
+- **Renata Vidal**: São Paulo news anchor. First major broadcast analysis of the transmission. Reports the Neural Sea files — genocide plans, Protocol Prometheus. Defies government suppression.
+- **Director-General Tanabe**: Provisional Continuity Council in a Swiss bunker. Officials process the Neural Sea revelations. Debate whether to respond. Tanabe orders a draft response within 24 hours.
+- Carmen stands outside the shelter at night, looking at Mars. Connection across the void, measured in the width of a human hand.
+- *Establishes*: Earth's perspective, the transmission's impact, the beginning of reconnection between worlds. Expands the book's scope beyond Mars.
+
 ---
 
 ## THEMATIC ARCHITECTURE
@@ -472,3 +481,4 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 | 21 | The Gathering Light | Written | — |
 | 22 | The Circle Forms | Written | — |
 | 23 | Signals Across the Void | Written | — |
+| 24 | The Blue Dot | Written | Earth (Multiple) |

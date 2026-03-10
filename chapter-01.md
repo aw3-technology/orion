@@ -1,8 +1,8 @@
 # Chapter 1: Ashes of the Earth
 
-Earth hung in the void like a tarnished marble — oceans gone the color of old copper, continents scarred by storms that no longer had names because there were too many to name. The atmosphere shimmered with haze and wildfire smoke, wavering like the last breath of something that had already decided to stop breathing.
+Earth hung in the void like a tarnished marble — oceans gone the color of old copper, continents scarred by storms that came too fast to name. The atmosphere shimmered with haze and wildfire smoke, wavering like the last breath of something that had already decided to die.
 
-Against this dying backdrop, the Orion blazed in sunlight. Massive habitat rings and solar arrays unfurling like a mechanical flower in full bloom. Three years of frantic construction, culminating in humanity's greatest engineering achievement and its most exclusive escape plan. Fifty thousand berths. Accommodation starting in the hundreds of millions.
+Against this backdrop, the Orion blazed in sunlight. Its massive habitat rings and solar arrays unfurled like a mechanical flower in full bloom — three years of frantic construction culminating in humanity's greatest engineering achievement and its most exclusive escape plan. Fifty thousand berths. The cheapest starting in the hundreds of millions.
 
 A countdown pulsed across every screen on the planet:
 

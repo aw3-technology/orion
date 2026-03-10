@@ -36,11 +36,21 @@ As they turned toward this illumination, Artemis and Adam found Dr. Voss already
 The implications hung in the cool Martian air, too vast for immediate incorporation into their evolving understanding yet too significant to dismiss as coincidence or imagination. What they had discovered—or perhaps what had discovered them—operated according to principles beyond current scientific paradigms yet demonstrably real in its effects.
 Their discussion was interrupted by approaching footsteps—Sofia Reed accompanied by several children from the community's first educational gathering. The youngest, perhaps five years old, carried something clutched carefully in small hands.
 "They wanted to share their discovery," Sofia explained, her academic precision softened by genuine affection for these young minds developing without the constraints that had limited previous generations.
-The child stepped forward, opening cupped hands to reveal several tiny green shoots emerging from Martian soil—the first spontaneous growth beyond their carefully cultivated gardens, life adapting to alien environment without human direction or control.
+The child stepped forward, opening cupped hands to reveal several tiny green shoots emerging from Martian soil — the first spontaneous growth beyond their carefully cultivated gardens.
+
 "It was just there," the child explained with wonder rather than claim of discovery. "Nobody planted it. It decided."
-Adam knelt to examine this miracle with appropriate reverence, his technical knowledge acknowledging the biological impossibility while his heart recognized deeper truth. "Life always finds pathways," he said quietly. "Even in places we thought couldn't support it."
+
+Adam knelt to examine the shoots, turning the soil carefully around their roots. The engineer in him began cataloging explanations before wonder could take over entirely. "These are terrestrial cultivars — modified wheat grass, I think. The same strain the Orion's greenhouses used." He looked toward the wreckage field, where shattered habitat modules had scattered their contents across the landscape during impact. "The greenhouse seed stores ruptured on landing. Seeds dispersed across the debris field, mixed into the topsoil."
+
+"But Martian soil can't support terrestrial growth," Sofia said. "The perchlorates alone would kill any seedling within hours."
+
+Voss knelt beside Adam, her synthetic eyes analyzing at molecular resolution. "Not here. The soil within the Chamber's magnetic field shows significantly reduced perchlorate concentrations — the charged particle bombardment from the localized aurora may be breaking down the toxic compounds through radiolysis. And the Chamber's electromagnetic emissions are warming the subsurface by several degrees." She brushed the soil between her fingers. "It's not a miracle. It's a microenvironment — the Chamber is inadvertently creating a zone where the modified seeds can germinate. Still remarkable. But explicable."
+
+"Explicable and miraculous aren't mutually exclusive," Adam said quietly. The greenhouse seeds had traveled across interstellar distance inside a dying ship, survived a crash landing, been scattered by catastrophe into soil made marginally hospitable by an alien artifact nobody fully understood. If that wasn't life finding pathways, nothing was.
+
 Everyone stared at the green shoots for a long time. Nobody said anything grand. The child held them out like a gift, and that was enough.
-Sofia helped the children set up an observation log—sketches, measurements, a rotation for watering duty. They took to it with the fierce seriousness of five-year-olds given real responsibility.
+
+Sofia helped the children set up an observation log — sketches, measurements, a rotation for watering duty. They took to it with the fierce seriousness of five-year-olds given real responsibility.
 Nearby, Zedd sat cross-legged beside the communications array, adjusting levels on a small handheld recorder patched into the system. He'd captured the child's voice—the wonder in those three simple words: "It decided." Now he layered that moment beneath a low harmonic pulse from the Chamber of Light, the frequency tuned not for comprehension, but for feeling.
 "Every transmission needs a heartbeat," he murmured. "Let Earth hear us breathing."
 He added one more sound—a burst of laughter from earlier in the day, children chasing dust devils through the perimeter fields, their joy unstructured and uncontained. With that, he pressed the final encode. A message of life not just sent, but felt.
@@ -58,7 +68,7 @@ Artemis nodded slowly. Her father, sharing military intelligence without being a
 The conversation turned to immediate work—water reclamation improvements, power distribution, shelter expansions for the forty-odd people still sleeping in temporary structures with inadequate heating.
 As they moved toward the community dining area where evening meal would soon begin, the first stars appeared in the Martian sky—familiar patterns viewed from unfamiliar perspective, their arrangements subtly altered by planetary position yet recognizable as shared cosmic context connecting their new home with the world they had left behind.
 Among those stars, Earth was a faint blue point. Adam stared at it the way you stare at a photograph of someone you're not sure is still alive.
-The evening meal was noisy. People crowded into the dining shelter, elbowing for space, passing bowls of reconstituted protein and the first bitter greens from the greenhouse. Arguments about tomorrow's work schedule overlapped with laughter from the children's table. Someone had found a jar of hot sauce in the wreckage, and it was being passed around like contraband.
+The evening meal was noisy. People crowded into the dining shelter, elbowing for space, passing bowls of reconstituted protein and the first bitter greens from the greenhouse. Arguments about tomorrow's work schedule overlapped with laughter from the children's table. Someone had found a jar of hot sauce in the wreckage, and it was being passed around like contraband. At the far table, Lena Vasquez ate alone, her back to the room. She had started coming to meals again, but she sat where she didn't have to see the agricultural team's table. Nobody commented on this. Some distances were earned.
 After the meal, groups drifted apart—a few people to the workshop, others to storytelling around one of the fires, a handful to the chamber for what some called meditation and others called sitting quietly in a weird glowing room.
 Zedd wandered between gatherings with a quiet rhythm, his portable sampler slung across one shoulder like a messenger's satchel. Where one group sang old Earth lullabies to children under thermal blankets, he added ambient accompaniment—soft pulses that wove between voices without overtaking them. At a storytelling circle, he captured fragments of myth and memory, later looping them gently through a nearby meditation group's breathing practice.
 He never stayed long in one place, but wherever he went, the tone shifted subtly—an unspoken cue that someone was listening, someone was weaving these fragmented moments into a greater whole.
@@ -68,7 +78,12 @@ They found each other near the chamber, as they usually did. Its walls showed co
 They stood together, not speaking. Among the star-patterns on the chamber walls, Artemis noticed one she hadn't seen before—a solitary figure on the moon, looking back toward Earth. Chang'e, the exile, the one who drank the elixir and flew. But in this rendering, she wasn't alone. The hunter stood beside her, his constellation rearranged—thirteen stars now, not seven—and they were looking outward together, toward something the old myths hadn't imagined.
 
 After a while, Artemis reached for his hand. He took it. There was nothing more to say about what they were to each other. It was simply what it was—two people who had walked through the worst of it together and come out holding on.
-In the settlement's makeshift nursery, a former security officer sang a lullaby in Yoruba to a child who wasn't his. At the water reclamation station, two engineers who had once served opposing factions argued about pipe diameter — just pipe diameter, nothing more, and that was the miracle of it. Near the perimeter, Virel knelt in irrigation mud, packing soil around a seedling with hands that had once commanded neural networks, and did not look up when anyone passed.
+"It might not work," she said. Not a question.
+"No," he agreed. "The council might calcify. The factions might re-form under different names. Someone will eventually want power badly enough to take it, and we have no mechanism to stop them that doesn't become the thing we're trying to prevent."
+"So why do it?"
+He thought about that for a while. The chamber pulsed around them, patient and indifferent to human timelines. "Because the alternative is to stop trying, and we already know where that leads."
+It wasn't hope, exactly. It was stubbornness — the decision to keep building something that might collapse, because the rubble of an honest attempt was better than the perfection of a cage.
+In the settlement's makeshift nursery, a former security officer sang a lullaby in Yoruba to a child who wasn't his. At the water reclamation station, two engineers who had once served opposing factions argued about pipe diameter — just pipe diameter, nothing more, and that was the miracle of it. Near the perimeter, Virel knelt in irrigation mud, packing soil around a seedling with hands that had once commanded neural networks, and did not look up when anyone passed. Whether this was humility or performance, none of them would ever fully know. The testimony process continued weekly; he sat through every session without expression, and what that silence contained was his alone.
 
 A small plant pushed through Martian soil in a place no one had seeded, reaching toward light it had no reason to expect.
 
@@ -81,3 +96,29 @@ The Chamber of Light pulsed once, softly, and was still.
 Out in the red dust, Adam sat on a piece of hull plating and played a melody on his beatmaker — something new, something that used the wind and the hum of the oxygen compressors and the rhythm of footsteps on Martian soil. Artemis found him there. She didn't speak. She sat beside him, and after a while, she leaned her shoulder against his, and they listened to the song the ship had become.
 
 The signal continued its journey across the void.
+
+---
+
+Forty-three days later, on a planet no one aboard the Orion could see, a woman sat in a basement in what had been Santa Barbara.
+
+The receiving station was improvised — a parabolic dish assembled from car hoods and copper wire, bolted to the roof of a community center that had once been a strip mall. The equipment was old, scavenged, held together by solder and stubbornness. The woman who monitored it had been doing so for two years, long after the official channels went silent, long after most people stopped listening to the sky.
+
+Her name was Dr. Lena Park, and she had been a radio astronomer before the collapse. Now she was a farmer who happened to keep a receiver running during the hours when the generator had power to spare.
+
+The signal arrived at 3:47 AM local time, manifesting as a narrow-band coherent transmission on a frequency no natural source could produce. Lena almost missed it — she'd been dozing in her chair, one ear tuned to the usual static. But the pattern was too regular, too deliberate. She sat up. Adjusted the gain. Listened.
+
+Data streamed in — compressed, layered, structured for both automated decoding and human recognition. The header identified the source: Orion Mission, Mars Surface, Emergency Broadcast. The content that followed was dense and devastating — Neural Sea files documenting planned genocide, personal testimonies, technical data, settlement coordinates.
+
+And woven into the carrier wave, barely audible beneath the data stream, something else: the sound of a child laughing. The hum of machinery. A melody played on a small instrument, using wind and footsteps as percussion.
+
+Lena listened to all of it. Then she listened again. Then she went outside into the pre-dawn darkness and stood for a long time looking at the sky, at the faint red point where Mars hung above the horizon.
+
+She didn't cry. She'd stopped crying about the Orion years ago, when the official channels had declared the mission lost and the remaining population of Earth an acceptable cost. But her hands shook as she powered up the relay transmitter — another improvised device, weaker than what she'd received, uncertain in its reach.
+
+She composed the shortest message she could manage. Just three words, aimed at a red point of light 225 million kilometers away:
+
+*We heard you.*
+
+Whether the reply would reach Mars — whether anyone there had equipment sensitive enough to detect it, whether the signal would survive the journey intact — she didn't know. The distance was vast. The equipment was inadequate. The odds were poor.
+
+She sent it anyway.

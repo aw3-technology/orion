@@ -91,6 +91,14 @@ Adam watched as her words registered with those gathered—sparking not blind op
 "We don't fight on their terms," Adam responded, understanding Artemis's approach without need for explanation. "We create alternatives that make their control less relevant. Parallel systems rather than direct opposition."
 As the discussion evolved into specific planning, allocating responsibilities and establishing priorities, Artemis stepped away briefly, moving to a viewport that had somehow survived the impact intact. Through its cracked but functional surface, she could see the Martian landscape for the first time—red soil and ancient rock stretching toward a horizon closer than Earth's yet unmistakably alien.
 She placed her hand against the transparent surface, feeling the cold that penetrated despite environmental controls. Whatever came next would unfold not according to algorithmic prediction or factional design but through the messy, unpredictable process of human adaptation to unprecedented circumstance.
+
+As she watched, something caught her eye — a faint shimmer in the Martian sky, directly above the section of wreckage where the Chamber of Light lay buried. A pale luminescence, barely visible against the darkening copper atmosphere, flickering at the edge of perception. She blinked and it was gone. Dust refraction, probably. The thin atmosphere playing tricks with the last of the daylight.
+
+But Artemis had spent enough time with the Chamber to recognize its particular quality of light. And what she'd just seen, however briefly, had carried that same quality — not reflected light but generated light, as if the atmosphere itself were responding to something beneath it.
+
+She said nothing to the others. Not yet. There wasn't enough to say.
+
 "Thank you, Father," she whispered, the words meant for no one but perhaps carried nonetheless across whatever distance now separated them. "For choosing the fall."
-Beyond the viewport, the Martian day continued its progression—sunlight shifting across the landscape as the planet that had been humanity's distant goal for generations became, finally and irreversibly, its present reality. Not as carefully prepared salvation but as challenging opportunity. Not as algorithmic certainty but as unpredictable possibility.
+
+Beyond the viewport, the Martian day continued its progression — sunlight shifting across the landscape as the planet that had been humanity's distant goal for generations became, finally and irreversibly, its present reality. Not as carefully prepared salvation but as challenging opportunity. Not as algorithmic certainty but as unpredictable possibility.
 The calculated fall had ended. Whatever rose from its impact would be built not by factions or algorithms but by human hands—imperfect, determined, free.
