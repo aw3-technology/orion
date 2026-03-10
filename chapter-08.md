@@ -1,10 +1,10 @@
 # Chapter 8: Touchpoints
 
-The botanical garden dome on A-Deck stood in stark contrast to the sterile efficiency that characterized most of the Orion. Here, Earth's biomes had been recreated in miniature—a curated wildness for the ship's elite passengers. Light filtered through transparent panels designed to mimic morning sunshine, illuminating precisely arranged foliage and algorithmically optimized flower beds.
+The botanical garden dome on A-Deck stood in stark contrast to the sterile efficiency that characterized most of the Orion. Here, Earth's biomes had been recreated in miniature—a curated wildness for the ship's elite passengers. Light filtered through transparent panels designed to mimic morning sunshine, illuminating precisely arranged foliage and precisely engineered flower beds.
 
 Artemis followed a winding path through the temperate forest section, grateful for the rare solitude. After the fashion show and the increasingly vivid dreams, she needed space to think without the constant observation that accompanied her official duties. The garden was officially part of her cultural preservation responsibilities, giving her legitimate reason to visit without arousing suspicion.
 
-She paused beside a small Japanese maple, its red leaves too perfect in their symmetry, too vibrant in their color. Like everything aboard the Orion, even wilderness had been engineered for optimal aesthetic impact rather than authentic growth.
+She paused beside a small Japanese maple, its red leaves too perfect in their symmetry, too vibrant in their color. Like everything aboard the Orion, even wilderness had been engineered for optimal aesthetic impact rather than natural growth.
 
 A soft metallic sound from behind a dense cluster of bamboo drew her attention. Artemis hesitated, then moved toward the noise with deliberate steps.
 
@@ -48,7 +48,7 @@ As she continued along the garden path, Artemis felt an unfamiliar tension—not
 
 Behind her, Adam watched her departure for a moment before gathering his tools. The moisture valve had indeed shown irregularities, but he could have assigned the task to any technician on his team. His presence in the garden had been deliberate—a calculated risk based on observation of Artemis's movement patterns following their shared dreams.
 
-What he hadn't calculated was the effect of their direct interaction—the strange resonance that made their brief conversation feel more substantial than the official narratives that structured life aboard the Orion.
+What he hadn't calculated was the effect of their direct interaction—the strange charge that made their brief conversation feel more substantial than the official narratives that structured life aboard the Orion.
 
 ---
 
@@ -84,7 +84,7 @@ Adam's expression remained neutral, but his eyes revealed recognition of what sh
 
 "After that," Artemis continued, "my father accelerated my training as the Order's symbolic representative. The 'goddess-in-waiting,' as some called it behind closed doors. A lifetime of diplomatic pageantry designed to make oppression feel like destiny."
 
-They sat in silence, the weight of their shared confidences creating a different kind of space between them—no longer defined by hierarchy but by mutual recognition.
+They sat in silence, the weight of their shared confidences creating a different kind of space between them—defined now by mutual recognition rather than rank.
 
 "What do you think Mars will really be like?" Adam asked eventually, his voice low enough that only she could hear.
 
@@ -144,7 +144,7 @@ They stood in the tension of genuine disagreement — not the manufactured frict
 
 "Okay," Adam said finally. "Teach me. How do they think?"
 
-She studied him, weighing whether the offer was real. Then she sat down on the narrow ledge, tucking her legs beneath her, and began to explain — not in abstractions but in specifics. How Virel tested loyalty through small requests before large ones. How her father's council meetings were structured to produce the appearance of debate while eliminating actual dissent. How the selection algorithms had been calibrated not for genetic fitness but for psychological compliance, because a Mars colony of obedient mediocrities was more useful than a colony of brilliant dissenters.
+She studied him, weighing whether the offer was real. Then she sat down on the narrow ledge, tucking her legs beneath her, and began to explain — not in abstractions but in specifics. How Virel tested loyalty through small requests before large ones. How her father's council meetings were structured to produce the appearance of debate while eliminating actual dissent. How the selection criteria had been calibrated for psychological compliance over genetic fitness, because a Mars colony of obedient mediocrities was more useful than a colony of brilliant dissenters.
 
 Adam listened with the focus he usually reserved for mechanical systems. At some point he sat down beside her, close enough that their knees touched. Neither moved away.
 
@@ -224,7 +224,7 @@ As the operatives departed through staggered exits designed to avoid pattern det
 
 Yet something had changed. The data no longer seemed to match the reality.
 
-"Even gods must bend to new gravity," he murmured to the glowing image. In the dimmed light of the chamber, his perfect features revealed a cold calculation that never appeared in public interactions—the face behind the face, the algorithm behind the charm.
+"Even gods must bend to new gravity," he murmured to the glowing image. In the dimmed light of the chamber, his perfect features revealed a cold calculation that never appeared in public interactions—the face behind the face, the calculation behind the charm.
 
 ---
 
@@ -244,7 +244,7 @@ The words hung in the air between them, bridging millennia and light-years.
 
 Adam reached into his pocket and withdrew a small device. "I brought something too," he said, activating the player. "A composition I've been working on."
 
-Soft sounds emerged—not the algorithmically optimized music of official ship channels, but something organic and imperfect. Pressure-music, he called it, created from the ship's own vibrations, its mechanical rhythms transformed into something haunting and human.
+Soft sounds emerged—not the machine-calibrated music of official ship channels, but something organic and imperfect. Pressure-music, he called it, created from the ship's own vibrations, its mechanical rhythms transformed into something haunting and human.
 
 They listened together in silence, shoulders now touching, the boundary between them dissolving with each shared breath. When the music ended, neither moved immediately, the closeness having become its own form of communication.
 
@@ -256,7 +256,7 @@ Adam turned toward her, their faces now inches apart. "I'd start by unwriting th
 
 "Then I'd want to build something real. Not perfect, not optimized, but honest. Where people could be messy and contradictory and fully human."
 
-Their eyes held, a current passing between them that had nothing to do with Neural interfaces or optimization algorithms. Artemis leaned forward slightly, the movement so subtle it might have been imagined. Adam remained perfectly still, aware that they were approaching a threshold beyond which nothing would be the same.
+Their eyes held, a current passing between them that had nothing to do with Neural interfaces or computational systems. Artemis leaned forward slightly, the movement so subtle it might have been imagined. Adam remained perfectly still, aware that they were approaching a threshold beyond which nothing would be the same.
 
 The moment stretched, filled with possibility—
 

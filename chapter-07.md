@@ -10,7 +10,7 @@ The stars pulsed in unison, a visual rhythm like a heartbeat made of light. Thou
 
 A voice, neither male nor female, whispered from everywhere and nowhere: *"He hunts. She remembers. You awaken."*
 
-The words carried a weight beyond their meaning, a resonance that triggered recognition of something ancient and vital. The inverted Orion continued to pulse, as if transmitting a code he was meant to understand.
+The words carried a weight beyond their meaning, a vibration that triggered recognition of something ancient and vital. The inverted Orion continued to pulse, as if transmitting a code he was meant to understand.
 
 Adam woke with a violent start, his body drenched in sweat despite the precisely controlled temperature of the crew dormitory. Disorientation swept through him—the solid bunk beneath him felt wrong after the weightless suspension of the dream. His inner ear struggled to reconcile the abrupt transition, sending waves of vertigo through his consciousness.
 
@@ -22,7 +22,7 @@ Adam paused, pencil hovering mid-arc. Zedd lay on his side, half-shadowed, one h
 
 Adam turned slightly. "The constellation?"
 
-Zedd nodded, barely visible in the low light. "Thirteen points. Inverted. Been hearing it in the resonance map for a week. I didn't understand the pattern until now." He tapped his fingers against the edge of the bunk frame—twelve light beats, then a pause. The thirteenth hung in the silence like a question.
+Zedd nodded, barely visible in the low light. "Thirteen points. Inverted. Been hearing it in the harmonic map for a week. I didn't understand the pattern until now." He tapped his fingers against the edge of the bunk frame—twelve light beats, then a pause. The thirteenth hung in the silence like a question.
 
 Adam looked back at the sketch. The lines felt alive beneath his hand.
 
@@ -152,13 +152,13 @@ The comparison revealed a striking correlation: several areas marked as "dead zo
 
 "Officially, it's an adaptive shielding mechanism," Kai replied. "But the power allocation doesn't match that function. It's drawing energy levels consistent with quantum computing arrays, not defensive systems."
 
-Adam traced the connections between nodes, the pattern revealing itself with increasing clarity. "If these are resonance points," he said slowly, "then the whole ship might be designed as some kind of... receiver."
+Adam traced the connections between nodes, the pattern revealing itself with increasing clarity. "If these are signal nodes," he said slowly, "then the whole ship might be designed as some kind of... receiver."
 
 "Or transmitter," Kai added, his expression grave. "The question is: receiving what? Transmitting to whom?"
 
 They studied the overlay in silence, the implications too vast to articulate fully. Finally, Kai spoke the thought they both were considering:
 
-"If the ship was designed with resonance nodes... someone knew. Long before us."
+"If the ship was designed with signal nodes... someone knew. Long before us."
 
 Adam nodded, a chill running through him despite the regulated temperature. "We've been living inside a myth," he said. "We just didn't know which one."
 
@@ -172,7 +172,7 @@ The event was hosted by MUSE.10, the Aesthetic Intelligence responsible for cura
 
 "Welcome to the future of human expression," MUSE.10 announced, its voice modulated to evoke both authority and inspiration. "Today we present designs co-created by Earth's visionary artists and optimization algorithms, exploring the aesthetic language of humanity's next chapter."
 
-The chamber darkened, and magnetic hover-platforms activated along predetermined paths. Models appeared—some human, others humanoid AI constructs—wearing garments that defied conventional understanding of fashion. These were not merely clothes but statements of philosophy, politics, and social ordering.
+The chamber darkened, and magnetic hover-platforms activated along predetermined paths. Models appeared—some human, others humanoid AI constructs—wearing garments that defied conventional understanding of fashion. These were statements of philosophy, politics, and social ordering given physical form.
 
 A female model glided past on a hover-platform, wearing a flowing gown of programmable silk that displayed shifting star patterns across its surface. As she passed the front row, the stars rearranged themselves to form words in ancient Latin script: LOYALTY IS PROSPERITY. The crowd murmured appreciatively at the technical achievement and the sentiment.
 

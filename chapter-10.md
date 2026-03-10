@@ -132,7 +132,7 @@ The implication hung between them — not spoken fully, because speaking it woul
 
 They floated toward the center, drawn by the crystalline orb's gentle pull. In the zero-gravity environment, movement became dance—each push and glide requiring coordinated intention rather than habitual walking.
 
-As they approached the central light, the psychological barriers between them began to dissolve. Class distinction, faction loyalty, social conditioning—all seemed increasingly irrelevant within this space that existed outside the ship's regulated reality.
+As they approached the central light, the psychological barriers between them began to dissolve. Class distinction, political loyalty, social conditioning—all seemed increasingly irrelevant within this space that existed outside the ship's regulated reality.
 
 They reached the orb simultaneously, approaching from opposite sides. As their hands extended toward its surface, their eyes met across the crystalline sphere. In that moment of connection, something fundamental shifted—not just between them but within the chamber itself.
 
@@ -142,15 +142,15 @@ No words passed between them. None were necessary.
 
 In the weightlessness of the chamber, they moved toward each other with deliberate grace. Their first touch—fingertips brushing together beside the crystalline orb—sent waves of sensation through both bodies, as if completing an electrical circuit long left open.
 
-What followed transcended physical desire, though desire was undeniably present. Their embrace in zero gravity became a surrender to forces greater than social convention or factional loyalty—a recognition of connection that existed before either was born.
+What followed transcended physical desire, though desire was undeniably present. Their embrace in zero gravity became a surrender to forces greater than social convention or tribal loyalty—a recognition of connection that existed before either was born.
 
 They made love suspended in light, their bodies freed from gravity's constraints, tethered only by motion and intention. With each caress, each kiss, each moment of union, the chamber responded—light flowing around them, symbols accelerating across the walls, the crystalline orb expanding to project visions across the entire space.
 
 Within these projections, Earth's history unfolded before them—not the sanitized version from official archives, but the raw, unfiltered truth of humanity's journey. They witnessed cycles of creation and destruction, oppression and liberation, collapse and rebirth. The pattern revealed itself not as linear progress but as spiral evolution, each turn containing both wisdom and folly.
 
-The vision shifted to Mars as it would become if the current factions succeeded: a world technologically advanced yet spiritually hollow, its settlements perfect in efficiency but devoid of true life. A gilded prison built on the same principles that had destroyed Earth, only with more sophisticated mechanisms of control.
+The vision shifted to Mars as it would become if the current powers succeeded: a world technologically advanced yet spiritually hollow, its settlements perfect in efficiency but devoid of true life. A gilded prison built on the same principles that had destroyed Earth, only with more sophisticated mechanisms of control.
 
-Then appeared an alternate vision—Mars reborn through different organizing principles. Not domination but partnership, not extraction but regeneration, not hierarchy but harmony. A world where technology served life rather than constraining it, where diversity was strength rather than inefficiency to be optimized away.
+Then appeared an alternate vision—Mars reborn through different organizing principles. Partnership instead of domination. Regeneration instead of extraction. A world that didn't need a caste system to function. A world where technology served life rather than constraining it, where diversity was strength rather than inefficiency to be optimized away.
 
 Throughout their union, as pleasure and revelation intertwined, something shifted in the chamber's physics. In the zero-gravity core, where no force should have drawn them anywhere, they felt a pull — not downward but inward, toward each other, a pressure gentle as a palm against the chest. Their bodies drifted together with a certainty that had nothing to do with momentum. The crystalline orb between them dimmed, as if yielding the center to them.
 
@@ -166,7 +166,7 @@ Artemis touched his face, her fingers tracing the contours of his expression. "I
 
 Whatever they had discovered in this chamber—whatever had discovered them—offered possibilities beyond the predetermined paths laid out by Traditional and Rising Sun Orders alike.
 
-They dressed in silence, each processing the magnitude of what they had experienced. A resonance lingered in their skin, in their steps, in their very breath—as if the chamber had permanently altered their frequency to match each other and something larger.
+They dressed in silence, each processing the magnitude of what they had experienced. Something lingered in their skin, in their steps, in their very breath—as if the chamber had permanently altered their frequency to match each other and something larger.
 
 The ascent through the vertical shaft passed in contemplative quiet. When they reached the access point and stepped back into the gravitational buffer zone, Adam turned to see the panel closing behind them—sealing seamlessly into the wall until no trace remained, as if the entrance had never existed.
 

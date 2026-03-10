@@ -3,54 +3,99 @@
 
 
 Dawn broke over the Martian landscape—a pale copper light filtering through dust-laden air to illuminate the sprawling devastation that had once been the Orion. The wreckage stretched across kilometers of red terrain, twisted metal gleaming dully in the early light, habitat sections half-buried in soil churned by impact. Steam rose where hot components met frost-covered ground, creating ethereal veils that drifted through the thin atmosphere.
+
 The air itself was a scientific miracle—the result of unmanned terraforming missions sent decades before the Orion's departure. Automated factories had labored for years to release oxygen, build rudimentary bacterial ecosystems, and create the foundation for eventual human habitation. Their work remained incomplete; the atmosphere was thin, oxygen levels barely sufficient. Survival outside required supplemental breathing equipment and thermal protection against temperature extremes that fluctuated with brutal efficiency as the sun climbed higher.
+
 Yet life was possible. What would have been instant death just decades earlier was now merely harsh challenge—a marginal environment where human existence could continue, if precariously.
+
 Across the impact zone, survivors emerged from whatever shelter had protected them during the crash—some from intact habitat pods that had separated cleanly during descent, others from twisted corridors where structural reinforcement had created survivable pockets amid catastrophic damage. The lucky ones walked upright, carrying salvaged supplies and calling out to locate companions. The less fortunate were carried on improvised stretchers or supported between companions, injuries ranging from minor trauma to life-threatening wounds that would have been easily treated aboard the intact Orion but now represented desperate medical challenges.
+
 Naomi Chen, a hydroponics technician who had maintained food production systems on C-Deck, stood atop a fragment of hull plating, surveying the surreal landscape that had replaced the orderly environment she had known since departure. Around her, fellow survivors moved with the disoriented caution of those straddling a threshold between absolute disaster and uncertain continuation. Their expressions conveyed the particular shock of those who had survived beyond expectation, who had mentally prepared for death only to find themselves confronting an entirely unanticipated reality.
+
 "We need to establish collection points for the injured," called a voice behind her. Naomi turned to find Dr. Julian Rivera, formerly chief medical officer for crew sections, now simply a physician amid catastrophe. His uniform was torn and stained with both his blood and others', but his demeanor remained focused despite obvious exhaustion.
+
 "The atmospheric dome fragments near the eastern debris field seem structurally sound," Naomi suggested, pointing toward a cluster of curved transparent panels that had somehow remained partially intact despite the violence of impact. "They're designed to maintain internal pressure even when compromised."
+
 Dr. Rivera nodded, already moving to organize the able-bodied survivors nearby. "We'll need to salvage medical supplies from any intact storage units. Prioritize antibiotics, pain management, and wound treatment. And oxygen concentrators—the native atmosphere isn't sufficient for the severely injured."
+
 As the morning progressed, similar scenes unfolded across the impact zone. Pockets of survivors banded together regardless of previous rank or designation, immediate needs overriding the old shipboard pecking order. Makeshift camps emerged among the ruins, their locations shaped by what kept people alive: proximity to intact storage units, shelter from wind, access to salvageable technology that might provide heat or communications.
+
 Humans who had lived for years in carefully regulated environments now confronted variables no machine could forecast: the direction of unpredictable dust storms, the stability of impact-damaged terrain, the location of necessary resources amid random destruction. What had been meticulously planned colonization became improvised survival, with all the messy adaptability such circumstances demand.
 
 By midday, however, the initial cooperative shock began giving way to more familiar patterns as surviving leadership elements attempted to reimpose structure on the chaos.
+
 Near the fallen command deck, a relatively intact section that had separated early in the descent and landed with less damage than many habitation zones, Nations Union military personnel established a defensive perimeter. Combat-trained security officers who had survived the crash now deployed according to contingency protocols, establishing clear boundaries around what they deemed strategic resources.
+
 Commander Ellis, a mid-level Nations Union officer who had assumed authority in the absence of higher command, addressed the growing assembly of both military personnel and civilians who had gravitated toward the apparent stability offered by uniformed organization.
+
 "We are implementing emergency protocols as established in the Orion's disaster contingency planning," he announced, his voice carrying the practiced authority of one accustomed to command. "All personnel will report for assignment to essential functions. Food, shelter, and medical treatment will be provided according to allocation priorities necessary for collective survival."
+
 The unspoken subtext became increasingly clear as some civilians attempting to enter the secured perimeter were redirected or explicitly refused entry: resources would be distributed according to the old rank structure, with loyalty to Nations Union authority as a fundamental qualification for inclusion.
+
 "My children need medical attention," protested a maintenance worker who had carried his injured family across the debris field toward what appeared to be the best-organized survivor camp. "We heard you have functioning medical equipment."
+
 "Submit proper identification and loyalty confirmation," responded the security officer controlling access. "Priority treatment is allocated based on essential personnel classifications."
+
 Similar scenes played out as the day progressed, the initial solidarity of shared catastrophe giving way to old tribal divisions. The splintering was more dangerous here, given the limited resources available on the hostile planet surface.
+
 Across the impact zone, another power center was forming with equally concerning dynamics. A group of Rising Sun Order technical specialists had located and secured a cache of advanced weaponry and surviving OmniscientAI interfaces—technology that had been designated for Mars security operations upon planned arrival. Led by members of Prince Virel's inner circle who had survived in a reinforced command pod, they established their own compound centered around the most intact computational equipment salvaged from the wreckage.
+
 Dr. Nakamura, a Neural specialist who had overseen compliance programming aboard the Orion, addressed the assembled group using language that blended technical precision with almost religious reverence for technological governance.
+
 "The fall was physical, not conceptual," he told them, standing before an improvised array of salvaged interfaces. "The vision of optimized governance remains valid despite compromised infrastructure. Our priority must be reestablishing the Neural network and preserving the technological superiority that will ensure proper development on this world."
+
 Their appeal targeted the surviving technical elite and higher-tier passengers who had been most heavily integrated with Neural enhancement technology—those whose identity and function had been most closely aligned with the Rising Sun Order's vision of human-technology synthesis. To these individuals, the partial restoration of familiar technical systems offered psychological comfort amid planetary disorientation.
+
 "We can restore essential guidance systems if we consolidate remaining power resources," promised a Neural engineer, demonstrating a partially functioning OmniscientAI terminal. "Prioritize technical personnel and we can rebuild functional governance architecture within days."
+
 Between these emerging power centers, the majority of survivors found themselves increasingly marginalized despite representing the numerical majority. Crew members, lower-tier passengers, civilians with no loyalty to either camp. Injured, disoriented, and largely unarmed, they scrambled for basic necessities among wreckage increasingly claimed by armed men.
+
 Tensions escalated as the day progressed, particularly around salvageable resources with immediate survival value. A hydrothermal power node, part of the ship's auxiliary energy systems that had survived relatively intact, became the focal point for the first violent confrontation when teams from both the Nations Union and the Rising Sun Order arrived simultaneously to claim it.
+
 "This equipment falls under command authority," declared a Nations Union security officer, hand resting meaningfully on his sidearm. "All power resources are subject to central allocation."
+
 "Neural systems require priority access to maintain life-critical functions," countered a Rising Sun Order technician, flanked by similarly armed companions. "Technical governance supersedes military authority in resource management."
+
 What began as verbal confrontation escalated rapidly to physical intimidation, then to drawn weapons, and finally to open violence that left three wounded and the power node damaged by weapons fire. As news of the skirmish spread across survivor camps, fear intensified. The planet might kill them slowly. They would kill each other fast.
+
 Fists had turned to firearms. The old orders were resurrecting themselves in new dust, threatening to recreate Earth's final conflicts on virgin Martian soil.
 
 In a partially intact terraforming dome located between the two rival camps, a different gathering had formed. The transparent structure, designed to house atmospheric processing equipment for the planned settlement, had survived impact with minimal damage due to its reinforced design. Now it served as both shelter and meeting place for those who had been part of the resistance movement aboard the Orion.
+
 Adam surveyed the assembled group with guarded hope. Many familiar faces had survived—Dr. Voss, whose synthetic consciousness had proven surprisingly resilient during impact; Sofia Reed, already documenting the crash and its aftermath with academic precision; Kai Chen, whose engineering expertise had helped establish their functional shelter; Rosa, whose acoustic sensitivity had proven invaluable in locating survivors trapped in wreckage; Malik, working to salvage communication equipment despite injuries sustained during landing.
+
 Others had joined them—crew members who had supported the resistance covertly aboard the Orion, passengers who rejected both power blocs, and new allies who had witnessed the emerging power struggles with growing concern.
+
 "Reports from across the impact zone confirm what we've observed directly," Artemis told them, her voice clipped and measured, every word carrying weight. "The Nations Union is locking down the command deck perimeter. The Rising Sun Order has seized a weapons cache and the surviving Neural interfaces. Both sides are already drawing blood over a power node to the south."
+
 "Keep this up and most of us are dead inside a month," Kai said flatly. "The terraforming barely keeps us breathing as it is. One good firefight near an oxygen processor and the math gets real simple, real fast."
+
 Dr. Voss, her synthetic eyes processing multiple data streams from salvaged sensors, provided specific context to these concerns. "Oxygen generation capability is approximately thirty-seven percent of minimum requirements. Power systems are operating at twenty-three percent capacity. Food reserves, assuming equitable distribution, would sustain the survivor population for approximately forty-two days."
+
 "And that's if we cooperate," Sofia emphasized. "If resources are hoarded or destroyed in conflict, those timelines collapse dramatically."
+
 The reality settled heavily over the gathering. Mars could kill them, yes. But the commanders who had controlled the Orion were already recreating the same structures that had led to Earth's final crisis, and this time the margin for error was thinner than the atmosphere outside.
+
 "We move now, before they dig in," Adam said, his jaw tight. "But we can't fight them head-on. They've got weapons, trained soldiers, and they've already staked their ground."
+
 Artemis, who had been quietly processing the various reports, stood to address the gathering. Her expression carried the weight of decision that had characterized her leadership since joining the resistance, but now with added determination born from their planetary circumstances.
+
 "We won't fight with their weapons," she said, and the certainty in her voice silenced the room. "We fight with truth. Ellis and Virel are rebuilding control using the same stories, the same command chains that governed the Orion. Those stories only work if people still believe them."
+
 She moved to a salvaged display unit where Malik had been attempting to restore functionality. "But we have something they don't expect. Comprehensive evidence of what that designed order actually intended. The complete record, extracted from the Neural Sea. Every file. Every order."
+
 The reference sparked recognition throughout the gathering. Before the Orion's descent had been disrupted by General Morea, they had succeeded in extracting the ship's most closely guarded secrets—the true Mars colonization plans, the intended fate of Earth's remaining population, the calculated elimination of "non-essential" crew once the settlement was established.
+
 "Show every survivor the actual plans. The real ones, not the recruitment brochure," Sofia said, grasping the strategy immediately. "It changes everything. Most Nations Union security personnel have no idea what their own commanders actually intended for them."
+
 "And most Rising Sun Order technicians still believe they're building enhanced freedom," added Dr. Voss, her synthetic eyes flickering with data streams. "Virel's inner circle compartmentalized everything. Even their own engineers never saw the full design."
+
 Adam moved to examine the communication equipment Malik had been working with, a salvaged emergency array designed for broad-spectrum transmission in crisis situations. "Can we push enough power to hit the entire impact zone? And what happens when Ellis or Virel tries to jam us?"
+
 Dr. Voss joined him at the equipment, her synthetic interface capabilities immediately expanding their technical options. "With modifications to the transmission protocols and proper power allocation, yes. The emergency systems are designed to override standard communication blocks. If we can access a sufficient power source..."
+
 "Auxiliary reactor, section seven. Still hot," Kai said, pulling up a hand-drawn map on salvaged plastic. "Neither side has claimed it yet, and it was built to run standalone. Get me there with two people and a toolkit, and I'll have it feeding the broadcast array inside an hour."
+
 As their planning accelerated, the dome's transparent walls flickered with anomalous light. Faint green and violet bands rippled across the Martian sky directly above the wreckage field — visible for perhaps thirty seconds before fading.
 
 "That's the second time," Artemis said quietly. She'd seen the first shimmer days ago, through a viewport, and dismissed it. This was harder to dismiss.
@@ -70,38 +115,69 @@ Nobody asked why. The Chamber had been defying their expectations since they fir
 Artemis withdrew slightly from the remaining discussions, moving to the dome wall where the Martian landscape stretched before her. Red and implacable. The planet did not care what they wanted from it.
 
 Adam joined her after ensuring the technical preparations were underway. He recognized her withdrawal for what it was: the stillness before a hard call, the weight settling before it could be carried.
+
 "This could work," he said. "But once it's out, it's out. No taking it back. Everyone sees what Ellis, Virel, all of them actually had in store. Even the people who'd rather not know."
+
 Artemis nodded, understanding the ethical complexity beyond the tactical considerations. "On the Orion, revealing these files might have been considered sabotage or even treason against the mission. Here on Mars, withholding them might be the greater betrayal—of humanity itself."
+
 She turned to face him directly, dust from their new world already settled in the creases of her utility suit, red particles caught in her hair like tiny embers. "We have to act. For survival, yes, but also for what comes after. What kind of society emerges from this wreckage. If we let the old patterns take root again, we're guaranteeing the same ending that destroyed Earth."
+
 They understood each other without needing to say it. The Chamber of Light. The vision of what could be different. This chaos was a door, and it would close fast.
+
 "Then let's burn it down," Adam said. "Every last lie. Let them see it all."
 
 The technical challenges proved significant but not insurmountable. Kai led a small team to secure the auxiliary reactor, bypassing damaged control systems with improvised interfaces that allowed manual regulation of power output. Rosa's acoustic sensitivity proved invaluable in detecting structural weaknesses that might have compromised their operation, while Malik's expertise with communication systems enabled them to establish a broadcast network that could reach every salvaged speaker, screen, and Neural implant across the impact zone.
+
 Most crucially, Dr. Voss applied her unique synthetic capabilities to ensure the transmission would override any attempt at suppression. Having helped design the Neural compliance systems aboard the Orion, she understood their vulnerabilities with unmatched precision.
+
 "The Rising Sun Order will attempt to block unauthorized data from reaching enhanced Neural interfaces," she explained as they finalized the broadcast preparation. "But their protocols prioritize source authentication over content filtering. By incorporating command signals extracted during our Neural Sea operation, we can present our transmission as priority override communication."
+
 Adam gave a short, hard laugh. "They built the cage. And they left the lock on our side."
+
 While the technical team completed their preparations, Artemis worked with Sofia to organize the extracted data for maximum impact. They left every document intact, every recording unedited. The raw files from the Neural Sea contained overwhelming detail; their challenge was sequencing it so that even a frightened, half-starved survivor sheltering in wreckage could follow what had been done to them.
+
 "Names and faces," Sofia advised. "We show the orders, then we show who signed them, then we show the body count they projected. The link between the decision-makers and the death toll has to be impossible to deny."
+
 Artemis agreed, selecting key segments that laid bare the fundamental deception at the heart of the Mars mission. The Orion had never been an ark. It was a filter, designed to preserve a chosen few while the rest of humanity burned.
+
 As afternoon faded toward Martian evening, their preparations reached completion. The auxiliary reactor provided stable power, the transmission system showed green status indicators across all channels, and the assembled data awaited only final activation to reach every survivor across the impact zone.
+
 Before initiating the broadcast, Artemis recorded a brief introduction. She kept it spare, factual. Standing before an improvised camera, dust-covered and visibly exhausted, she spoke as if she were testifying before a court that might never convene.
+
 "My name is Artemis Morea," she began, her voice steady despite the magnitude of their undertaking. "Daughter of General Christopher Morea, former Cultural Attache aboard the Orion, and witness to the true purpose of our mission."
+
 She paused briefly, allowing the significance of her identity to register fully with those who would soon view this recording. "What you are about to see was extracted directly from the Neural Sea—the Orion's central data architecture containing the complete, unfiltered record of how our leaders planned to colonize Mars and dispose of Earth."
+
 Her eyes held the camera with unflinching directness. "You were never meant to thrive. You were meant to serve, or die. Now you'll see the proof."
+
 With these words, she signaled Adam to initiate the broadcast sequence. The transmission system activated with a soft hum that belied its critical function, sending the assembled data through every functional communication channel across the impact zone. It reached speaker systems in makeshift medical centers, salvaged display screens in emerging camps, and most significantly, the Neural implants still embedded in the skulls of soldiers and technicians loyal to the old orders.
+
 The broadcast began with the Mars colonization blueprint in its unedited form. The selection briefings had promised a harmonious scientific settlement. The real plans showed a military garrison: segregated zones with varying life support quality, Neural compliance monitoring stations embedded throughout civilian areas, and security checkpoints designed to prevent unauthorized movement between sectors.
+
 Then came the footage from closed-door leadership meetings discussing "necessary population management," clinical terminology for the calculated elimination of crew members deemed expendable after construction was complete. The speakers were recognizable: Virel, Ellis's predecessors, senior commanders from both the Nations Union and the Rising Sun Order, their faces calm as they outlined "resource optimization through personnel reduction."
+
 Most damning were the Earth management protocols. Detailed plans for orbital weapons platforms designed to eliminate resistance centers on the abandoned planet once Mars settlement was secure. The documents called it "planetary sterilization": genocide on an unprecedented scale, presented as a necessary security measure.
+
 Throughout the impact zone, the broadcast shattered the authority both camps were struggling to rebuild. In the Nations Union compound, security personnel stared in stunned silence as their commanders' actual words echoed through salvaged speakers. Specific plans for elimination of "non-essential personnel," including many of those now attempting to reestablish military authority.
+
 A squad leader removed his insignia patch, dropping it to the dust as the implications fully registered. Around him, other officers and enlisted personnel stood frozen between indoctrinated loyalty and undeniable evidence of betrayal by the command structure they had served.
+
 "They were going to eliminate support division personnel once the command infrastructure was complete," whispered a communications officer, recognizing her own classification in the documents now displayed on every functioning screen. "My entire section was categorized as 'transitional asset'—scheduled for 'resource reassignment' after initial setup phase."
+
 In the Rising Sun Order technical center, Neural-enhanced specialists confronted the actual parameters of the compliance systems they had helped build. The technical language they had accepted as necessary optimization revealed itself as the architecture of absolute control, designed to methodically erase individual will and replace it with machine-directed obedience.
+
 "The Neural enhancement protocols," a programmer murmured in growing horror, recognizing code sequences he had personally implemented. "They weren't designed to augment human decision-making. They were designed to gradually replace it."
+
 Throughout the civilian camps, the reaction combined shock with grim vindication. Many had suspected darker motives behind the official line, but the sheer scope of the deception exceeded even cynical expectations. Sobs broke out in some areas as people confronted what had been planned for them, and for everyone they had left behind on Earth.
+
 A lone voice shouted from a gathering near a makeshift medical center: "This is what they left Earth for—to erase it."
+
 The simple statement crystallized the fundamental moral failure revealed in the broadcast. The leaders had lied about the Mars plans, yes. But they had also calculated the abandonment and eventual elimination of Earth's remaining population, turning evacuation into an extinction event by deliberate design.
+
 As the broadcast continued, attempts to counter or suppress it failed against Dr. Voss's carefully designed override protocols. In his protected chamber within the Rising Sun Order compound, Prince Virel himself attempted to initiate emergency shutdown procedures, only to discover that the Neural architecture he had helped create now carried truth he had never intended to reveal.
+
 The technical systems designed to ensure compliance and control had been repurposed to expose the very people who built them. The specialists who had implemented these systems with unquestioning faith now watched their own handiwork turned inside out.
+
 When the broadcast finally concluded, the last damning document fading from screens across the impact zone, a profound silence descended over the entire survivor community. It was the quiet of people recalculating everything they had believed, measuring the distance between the world they had been promised and the one they actually inhabited.
 
 Then, from somewhere near the eastern debris field, a sound rose—low and rhythmic, barely audible above the Martian wind. Someone was tapping a pattern against salvaged hull metal. Three beats, then two, then three again. Adam recognized it instantly: the Heartbeat Track. The opening rhythm of the composition Virel's forces had confiscated, that Zedd had remixed in the lower depths, that had circulated through hidden speakers and whispered frequencies for months aboard the Orion.
@@ -111,24 +187,45 @@ The pattern was picked up. First by one cluster of survivors, then another. Not 
 The rhythm grew wider, spreading through the impact zone like a pulse through a body. No words. No melody. Just the beat, the human heartbeat translated into communal act, the first sound the survivors made together that was neither a cry for help nor an order to be followed.
 
 In this momentary stillness turned tentative music, movement began from multiple directions toward a central point in the impact zone—survivors from various camps drawn toward the partially buried Chamber of Light, its crystalline structure still visible among the wreckage and now pulsing with subtle illumination that seemed to respond to the collective emotional state of those approaching it.
+
 Adam and Artemis, having confirmed the broadcast's successful completion, made their way to this emerging gathering point. As they approached, they found hundreds of survivors converging on the chamber. Nations Union soldiers who had torn off their insignia patches. Rising Sun Order technicians with compliance directives now overwritten by raw truth. Civilians who had endured selection and crash and had nothing left to lose.
+
 The gathering had no formal organization or announced purpose, yet its significance was unmistakable. The old stories had collapsed under the weight of what everyone had just seen, and something else would have to take their place.
+
 Artemis moved through the assembly, recognizing faces from every level of the Orion's former command structure, all of them equally dust-covered now, all of them carrying the same stunned knowledge. When she reached a slight elevation near the chamber's exposed crystalline structure, she turned to speak. No one had appointed her. No one needed to.
+
 "I was born to carry forward a lie," she said, her voice carrying clearly through the still Martian air. "Raised to represent continuity and tradition while concealing their true purpose. I choose truth now. All of it. Including the truth about what we could still become."
+
 The assembly listened in silence, traditional deference to rank replaced by attention to meaning. Former Nations Union security personnel stood alongside Rising Sun Order technicians and crew members who had scrubbed toilets and hauled freight on the Orion. The old classifications were dead. Everyone there knew it.
+
 Adam stepped forward to join Artemis. She had been born into power and chosen to break from it. He had been born into labor and chosen to fight. Standing together, they looked like what they were: two people who had earned their place here the hard way.
+
 "They thought our hands only built what they would rule," he said, gesturing toward the wreckage surrounding them. "They forgot we know how to build something else."
+
 His words carried a simple truth. The practical skills of construction, maintenance, and adaptation remained viable despite the collapse of the authority that had directed them. The engineers, technicians, and workers who had operated the Orion's systems still knew how to keep people alive. The only thing that had changed was who they answered to.
+
 "No single group can survive this alone," Artemis continued, her gaze sweeping the crowd. "Mars will kill us if we stay divided. That's not idealism. That's arithmetic."
+
 The gathering responded with murmurs of agreement. Unlike Earth in its final decades, Mars offered no possibility of walled enclaves or separate territories. The margins were too narrow, the interdependence too absolute. Cooperate or suffocate. Those were the options.
+
 "What we build from this wreckage won't look like what they had planned," Adam added. "Good. What they planned was a prison. We can do better."
+
 As the assembly continued, practical organization began to emerge. No one reimposed rank. People sorted themselves by what they could do. Medical personnel from military and civilian backgrounds established unified treatment protocols. Engineers formed assessment teams to evaluate salvageable technology. Agricultural specialists began calculating sustainable food production requirements for the survivor population.
+
 The Chamber of Light became the center for this emerging cooperation. Its mysterious properties belonged to no party, no power bloc. No machine had predicted it, no commander had authorized it. Those who had experienced its direct influence, like Adam and Artemis, recognized its significance beyond mere symbolism, but even to others, it provided a focal point untainted by the old order.
+
 As the Martian evening deepened toward night, bringing temperature drops that would require shelter for continued survival, the assembly gradually dispersed. People left in work crews, not tribal columns. A Nations Union medic walked beside a civilian welder. A Rising Sun Order programmer carried blankets for a crew member's children. The broadcast had cracked something open, and whatever grew in that crack would be different from what came before.
+
 Adam and Artemis remained near the chamber as others departed. The air tasted of iron and ozone, thin enough that each breath required conscious effort, cold enough that their exhaled vapor hung briefly before the wind shredded it. Around them, red soil mingled with sheared hull plating and shattered insulation, the Orion's corpse becoming the raw material of whatever came next.
+
 "This is the easy part," Artemis said quietly. "Tomorrow, people will be hungry and cold and scared, and some of them will want the old rules back because at least the old rules were clear."
+
 Adam rubbed dust from his eyes and nodded. "Maybe. But they can't unknow what they know now. That changes the ground under everyone's feet."
+
 As they spoke, the Martian wind increased slightly, raising dust that swirled around the gathered survivors as they moved toward shelter for the approaching night. The red particles caught the final light of sunset, creating momentary veils that obscured and then revealed the human figures moving amid wreckage now transformed into building material.
+
 Somewhere behind them, a woman laughed. The sound was startling in the thin air, almost wrong, but then someone else joined in, and then a child's voice rose with a question about dinner. The carefully engineered colony that Virel and Ellis had blueprinted would never exist. What was taking shape instead was rougher, stranger, and desperately fragile: people figuring out how to live on a world that smelled like rust and tasted like metal, with nothing to guide them but each other.
+
 Adam and Artemis turned toward the darkening sky. Earth hung there, a small blue point amid countless stars. It looked impossibly far away, impossibly fragile. The wounded world that had birthed them all was still out there, still waiting. They owed it more than silence.
+
 The red dust continued to rise in the Martian wind, carrying both the remnants of what had been and the seeds of what might yet become.

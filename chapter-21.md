@@ -14,7 +14,7 @@ Kai Chen had constructed a circular arrangement of salvaged panels around the ch
 
 Artemis took her position near the chamber entrance — not on an elevated platform but simply standing where all could see her. Adam remained nearby but slightly apart. Dr. Voss, Sofia, and Kai positioned themselves at different points around the circle.
 
-When silence settled, Artemis spoke with simple authenticity.
+When silence settled, Artemis spoke with simple directness.
 
 "We gather today not as survivors only, but as witnesses to possibility. Two weeks ago, we crashed on this world — not according to plan, not as conquerors, but as broken fragments of a broken system. From that breakage, we have begun to create something new."
 
@@ -22,13 +22,13 @@ She moved closer to the chamber's crystalline core. "Aboard the Orion, we were d
 
 Dr. Voss stepped forward to provide technical context. "The chamber exhibits quantum properties that defy conventional classification. It responds to collective human consciousness, amplifying shared intention rather than hierarchical direction."
 
-Sofia Reed added historical framing. "Throughout human history, transformative change has been preceded by collective gatherings around shared recognition — not merely intellectual understanding but embodied realization of connection."
+Sofia Reed added historical framing. "Throughout human history, transformative change has been preceded by collective gatherings around shared recognition — something felt in the body, not just understood in the mind."
 
 Kai Chen addressed the practical. "What we build here will reflect who we are becoming. The technical challenges are substantial — food production, life support, habitat construction. But the human challenges are more fundamental — creating decision processes that don't recreate the hierarchies that failed Earth."
 
 Then Adam stepped forward. "I joined the Orion filled with rage. Rage at those who selected me while abandoning my mother. Rage at the hierarchies that divided us. That rage was necessary — it fueled resistance when compliance would have been easier. But it's not sufficient for what comes next."
 
-He looked across the gathering. "We are collaborative, creative, contradictory, complex — not in need of perfection but in need of authentic participation."
+He looked across the gathering. "We are collaborative, creative, contradictory, complex — not in need of perfection but in need of honest participation."
 
 As he spoke, something unexpected began above the gathering. The thin Martian atmosphere revealed subtle illumination patterns — not mechanical or technological, but resembling Earth's aurora borealis with configurations that suggested intention. The patterns formed recognizable shapes — first the Orion constellation, then structures resembling the symbols on the chamber walls.
 
@@ -40,7 +40,7 @@ A Rising Sun Order technician joined him, adding her neural enhancement componen
 
 Then Zedd stepped forward, scratching the back of his neck. "I don't have a badge to give. No rank. No enhancement. Just this." He pulled out his battered sound sampler — surface scorched, display cracked, still glowing faintly. "This thing helped me survive the ship. Not because it did anything useful. But because it reminded me we could make beauty out of broken loops." He placed it among the discarded artifacts. "It's not a confession. Just a reminder that not all systems are designed. Some we improvise."
 
-A quiet ripple passed through the crowd. Others added contributions — not in formulaic confession but in authentic recognition.
+A quiet ripple passed through the crowd. Others added contributions — not in formulaic confession but in honest recognition.
 
 ---
 

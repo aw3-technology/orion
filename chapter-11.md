@@ -244,7 +244,7 @@ The voice cut through the chamber with unexpected authority. Heads turned, seeki
 
 "Nevertheless, I wish to speak," Artemis replied, moving toward the central platform with deliberate grace. "As the mission's Cultural Attaché and historical documentation officer, I have a duty to ensure our proceedings reflect our highest principles rather than our expedient needs."
 
-A ripple of murmurs spread through the audience. General Morea's expression darkened, but protocol prevented him from silencing his daughter without cause—particularly before the assembled elite whose respect both factions required.
+A ripple of murmurs spread through the audience. General Morea's expression darkened, but protocol prevented him from silencing his daughter without cause—particularly before the assembled elite whose respect both Orders required.
 
 Artemis took position at the edge of the central platform, her poise transforming what might have been an interruption into a formal address.
 

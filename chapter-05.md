@@ -72,7 +72,7 @@ He followed the guidance markers on his workband to Unit A-7, noting with raised
 
 The security panel beside the door scanned his credentials before announcing his presence to the occupant. After a brief pause, the door slid open with a nearly silent hydraulic sigh.
 
-Adam stepped into luxury unlike anything available on the lower decks—a space designed not merely for function but for psychological comfort and aesthetic pleasure. The room was minimalist yet undeniably opulent, with actual physical books on shelves, hand-woven textiles from Earth's dwindling artisan communities, and a viewport that offered an unobstructed view of the stars—a privilege denied to most aboard the Orion.
+Adam stepped into luxury unlike anything available on the lower decks—a space designed for psychological comfort and aesthetic pleasure as much as function. The room was minimalist yet undeniably opulent, with actual physical books on shelves, hand-woven textiles from Earth's dwindling artisan communities, and a viewport that offered an unobstructed view of the stars—a privilege denied to most aboard the Orion.
 
 In the center of this carefully curated environment sat Artemis Morea, daughter of General Christopher Morea and cultural attaché of the mission. Adam had glimpsed her during official broadcasts but never expected to encounter her directly. She was seated on a meditation platform, her posture perfect, her expression composed despite the environmental alert still pulsing softly throughout the quarters.
 
