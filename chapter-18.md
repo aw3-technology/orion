@@ -33,10 +33,24 @@ Adam hesitated only a moment before taking the crystal. Their desperate situatio
 "Kai," he called, "can you verify this data?"
 The older engineer hurried over, taking the crystal with practiced care. "This is first-generation tech. Pre-synthesis design architecture." He slotted it into a modified reader, his eyes widening as schematics blossomed across the display—intricate designs showing structural elements unlike anything in their official documents.
 "These are real," Kai confirmed, voice hushed with professional awe. "And if they're accurate..."
-"They are," Eli stated simply. "I built safe harbors into the ship's bones. Spaces the algorithms wouldn't see because they weren't looking for sanctuary, only efficiency."
-He stepped closer to the illuminated schematics, his hand hovering over blank zones that now pulsed with potential.
-"The optimization networks couldn't detect everything," he continued, his voice low but calm amid the growing urgency. "I fed them legacy schematics—old Terran orbital designs, redundant ventilation arrays, failsafe redundancies tagged as environmental drift. All technically obsolete. The OmniscientAI purged them from its planning matrix as non-essential."
-He tapped a blank section of the map. "That's where I built. Between the lines. The code couldn't read emptiness as intention. It wasn't sabotage—it was subtraction. I hid meaning where the machine saw nothing."
+
+"They are," Eli stated simply. "I built safe harbors into the ship's bones."
+
+He stepped closer to the illuminated schematics, his hand hovering over zones that now pulsed with structural detail. "Fourteen sanctuary compartments, distributed across six hull sections. Each one sits inside an independent titanium-alloy cage — a skeleton within the skeleton, bolted to the primary keel beams at stress-rated hardpoints. The cage members are triple-redundant and cross-braced on all axes. Even if the surrounding hull structure collapses completely, the cage holds."
+
+Kai was tracing the connections on the display, his engineer's mind running the load calculations. "The crumple zones — you designed the surrounding spaces as sacrificial structure?"
+
+Eli nodded. "Every corridor adjacent to a sanctuary is framed with impact-absorbing composites — aluminum honeycomb between steel plates. In a catastrophic deceleration event, those corridors compress and absorb kinetic energy before the force reaches the inner cage. Same principle as automotive crash engineering, scaled to a generation ship."
+
+"What about deceleration forces inside?" Adam asked. "Even if the structure holds, anything over fifteen G's kills everyone inside."
+
+"The sanctuaries have independent inertial damping — gel-cell suspension flooring that deforms under impact loading and redistributes force across the body. Emergency crash harnesses at each station, rated to forty G's. And the compartment geometry is spherical rather than rectangular — no corners to concentrate stress, no flat walls to transmit shock waves." Eli's fingers moved across the schematics. "Each one holds between two hundred and five hundred people, depending on configuration. Total protected capacity: approximately four thousand."
+
+"Four thousand out of ten thousand," Artemis said quietly.
+
+Eli met her gaze. "I built what I could hide. The optimization networks couldn't detect the sanctuary zones because I filed them as legacy infrastructure — old Terran orbital designs, redundant ventilation arrays, failsafe redundancies tagged as environmental drift. The OmniscientAI purged them from its planning matrix as non-essential."
+
+He tapped a blank section of the original map. "That's where I built. Between the lines. The code couldn't read emptiness as intention. It wasn't sabotage — it was subtraction. I hid meaning where the machine saw nothing."
 For a moment, the chaos of their emergency preparations paused as the implications registered. Then Adam made his decision, trusting instinct over protocol.
 "Redirect evacuation flows to these coordinates," he ordered, highlighting sections of the newly revealed blueprint. "And get word to every deck with functioning communication. These sanctuary zones are our best chance for survival."
 As the team scrambled to implement the new strategy, Adam turned back to Eli. "Why show us this now? Why not before?"
@@ -98,7 +112,7 @@ Dr. Voss moved immediately to the crystalline structure, her synthetic eyes proc
 "The chamber is initiating some form of structural transformation," she reported, her voice carrying unusual urgency. "Energy signatures indicate activation of systems previously dormant."
 As they watched, the chamber's illumination intensified, creating what appeared to be a contained field of altered physical properties extending outward from the crystalline core. Objects within this field—tools they had brought, particles of dust in the air—began to display modified gravitational behavior, hovering slightly as if the chamber were generating its own localized physics.
 "It's creating a zero-gravity life-preservation field," Dr. Voss explained, scientific precision struggling to categorize phenomena that defied conventional understanding. "Ancient technology responding to critical threat conditions."
-Eli moved to stand beside her, his weathered hand passing through the field with reverent familiarity. "Not technology as we understand it," he corrected gently. "Something older. Something that remembers when humans were more than their functions."
+Eli moved to stand beside her, his weathered hand passing through the field with reverent familiarity. "Not technology as we understand it," he corrected gently. "Something older." He watched the floating wrench complete its slow rotation. "I've spent thirty years with it and I still don't have a better word than that."
 "Well, that explains the floating wrench," said Zedd, stepping carefully into the edge of the field. He watched as a small metal tool rotated slowly in midair like a lazy satellite. "Also, anyone else getting mild goosebumps and the urge to pray to a soundwave?"
 Adam turned, surprised. "Zedd, you made it?"
 "Crawled in through a collapsed waste chute," Zedd replied, wiping grime from his cheek with his sleeve. "Figured if there was a magic room on the ship, you'd be in it. And if this is how we go out... well, damn. At least it's poetic." He looked up at the swirling constellations, his usual grin tempered by awe. "Feels like the ship finally wrote its own song."

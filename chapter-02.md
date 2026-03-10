@@ -82,7 +82,47 @@ They reached a corridor junction and parted ways, Chen mentioning the D-Deck can
 
 ---
 
-Three weeks in, Adam knew his maintenance routes cold — every junction, every service hatch, every patrol rotation on D-Deck. The work was monotonous but honest: replacing filtration membranes, recalibrating waste processors, keeping the ship's least glamorous systems running so the people above never had to think about what happened to their refuse. Evenings he spent in the canteen with Chen and Zoe, learning the ship's social geography through their overlapping expertise.
+His first real shift started at 0600 with a tone that vibrated through the bunk frame like a dentist's drill. Adam dressed in maintenance orange — stiff fabric that smelled of industrial detergent and someone else's sweat — clipped his diagnostic kit to his belt, and reported to Supervisor Kwan at the D-Deck staging area.
+
+"Sector 7, filtration bank three," Kwan said without looking up from her tablet. Her cybernetic eye tracked him anyway. "Membranes are running thirty percent above replacement threshold. Swap all twelve and recalibrate the flow regulators before second shift."
+
+Twelve membranes. Each one a meter-long cylinder of layered polymer and activated carbon that filtered the ship's grey water — shower runoff, condensation reclaim, the liquid remnants of ten thousand digestive systems. The cylinders weighed eight kilos each and had to be extracted from housings designed by someone who had never personally crawled inside a filtration bay.
+
+Adam crawled inside the filtration bay.
+
+The access hatch was shoulder-width, opening into a crawlspace between the outer hull and the filtration wall. He hauled his tool roll behind him — membrane wrench, torque driver, flow calibrator, sealant gun, headlamp. The air tasted of chloramine and something organic he chose not to identify. Condensation beaded on every surface, soaking through his sleeves as he army-crawled to the first housing.
+
+The membrane wrench was a beautiful piece of engineering — triple-jointed, self-ratcheting, with a torque limiter that clicked when you hit spec. Whoever had designed it understood that the person using it would be lying on their back in a space too small to fully extend their arms. Adam loved it the way a guitarist loves a well-set neck: for the way it turned difficulty into something almost graceful.
+
+He unseated the first membrane. Grey water sluiced out — warm, faintly sulfurous, carrying a film of bioprocessed residue that coated his gloves and forearms. The old membrane came free with a wet sucking sound. Its polymer layers had turned from white to a yellowish brown, clogged with the metabolic output of several thousand bodies. He slid it into the disposal chute and fitted the replacement, torquing each of the eight fasteners in the star pattern printed on the housing — not because he needed the reminder, but because skipping a step in a space where a seal failure meant flooding the corridor above was the kind of shortcut that killed people slowly.
+
+Membrane two. Then three. His shoulders burned from the confined angle. Sweat ran into his eyes and mixed with the chloramine mist, stinging until he blinked it clear. The headlamp threw hard shadows that made every junction look identical — he navigated by touch, by the spacing of pipe runs his fingers had already memorized.
+
+By membrane six, he'd found his rhythm. Unseat, drain, extract, inspect housing, clean gasket surface, insert replacement, torque sequence, flow check. His hands moved through the procedure while his mind drifted to the hull vibration he could feel through his spine — a low harmonic that changed pitch when the ship adjusted its orientation. The Orion was always adjusting. Always compensating. A ten-thousand-person organism that breathed and sweated and consumed, and Adam was the man in its kidneys making sure the filters held.
+
+He finished all twelve in four hours — thirty minutes under Kwan's estimate. The flow calibration took another hour, matching pressure differentials across the bank until the readings settled into the green band. He backed out of the crawlspace streaked with grey water and biofilm, diagnostic kit dragging behind him, and stood in the corridor blinking under fluorescent lights like something born from the ship's own plumbing.
+
+A passing crew member — Huang Wei, heading to his own shift in life support — handed him a cloth without comment. Adam wiped his face, his hands, the back of his neck where something had been slowly dripping for the last two hours.
+
+"Glamorous work," Huang said.
+
+"Somebody's got to be the kidneys."
+
+Three weeks of shifts like that, and Adam knew his maintenance routes cold — every junction, every service hatch, every patrol rotation on D-Deck. The work was honest if brutal: membrane swaps, pump rebuilds, recalibrating waste processors that drifted out of spec every seventy-two hours like clockwork. His hands developed new calluses over old ones — the soft-tissue pads at the base of each finger hardening into the particular leather of someone who spent hours gripping tools in tight spaces. The chemical smell of the filtration bays stopped registering after the first week. He learned which tools he could trust — the membrane wrench that never slipped, the flow calibrator whose readings matched reality — and which ones needed watching: the torque driver that gave way at high settings, the sealant gun with the slow leak, the headlamp that flickered when the ship's power grid cycled through its load-balancing routine.
+
+He was keeping the ship's least glamorous systems running so the people above never had to think about what happened to their refuse. And evenings he spent in the canteen with Chen and Zoe, learning the ship's social geography through their overlapping expertise.
+
+One evening, Zoe mentioned a name Adam didn't recognize — Petrov, a hydraulics tech who'd been on her shift rotation during the first week.
+
+"Dropped off the roster," she said, not quite casually. "Quarters cleared out. No disciplinary record, no transfer notice. Just... gone."
+
+"How many is that now?" Chen asked, adjusting his spectacles.
+
+"Three that I know of from our intake group alone. Probably more from earlier rotations." Zoe shrugged, but her eyes didn't. "People say they went below. Below D-Deck. But there's nothing below D-Deck."
+
+"According to the schematics," Chen said carefully.
+
+They let the silence do the rest.
 
 But the routes he was authorized to walk only showed him the skeleton of the place. And Adam had never been good at staying where he was told.
 

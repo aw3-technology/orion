@@ -26,6 +26,14 @@ Huang glanced at him. "You reported it?"
 
 They ate in a silence shaped by the gap between what the screens showed and what they knew. Around them, the mess hall hummed with the low conversations of people calibrating their new reality — comparing shift assignments, sharing first impressions, processing the magnitude of departure.
 
+Adam's gaze drifted to an empty seat at the far end of the bench — the spot where a water systems tech named Dara used to sit. She'd stopped showing up to meals six days ago. Her quarters were clean, her tools returned, her shift covered without explanation. When Adam had asked their floor supervisor, the response was a flat look and a subject change.
+
+"Another ghost," Huang said, following his gaze. "That's four from this sector."
+
+Ayo set down his spoon. "I hear things, in the deep utility corridors. Sounds that aren't machinery. Footsteps where there shouldn't be crew. The ship is bigger than the schematics say — I'm sure of it."
+
+"Careful," Huang murmured. "Curiosity's the one luxury they'll punish you for."
+
 After the meal, as workers scattered toward their stations, Huang paused beside Adam in the corridor.
 
 "Sofia wants to see you. Waste processing, Section 17. After your shift."
@@ -130,11 +138,7 @@ As he turned to leave, Ines caught his arm lightly. "That waltz you played at Lu
 
 ---
 
-That evening, Adam sat cross-legged in his bunk with the beatmaker, trying to build on *Moonlight.Waltz.1*. The composition fought him. What had felt urgent in the ceremony's darkness came back thin and decorative in Unit 12-17's cramped acoustic — background music for a waiting room. He played the melody back and couldn't find what others claimed to hear in it.
-
-He tried layering ship sounds over the waltz, the way he'd done with rave sets back home. The ventilation hum fought the melody instead of supporting it. The reactor's bass swallowed the mid-range. Everything he added made it worse, and stripping it back down left him where he'd started — a simple waltz that sounded like nothing special.
-
-He deleted the session and stared at the ceiling.
+That evening, Adam sat cross-legged in his bunk with the beatmaker, trying to build on *Moonlight.Waltz.1*. The composition fought him. What had felt urgent in the ceremony's darkness came back thin and decorative in Unit 12-17's cramped acoustic — background music for a waiting room. Everything he tried made it worse. He deleted the session and stared at the ceiling.
 
 ---
 
@@ -152,7 +156,11 @@ Adam arrived through a maintenance tunnel to find the gathering already humming 
 
 He connected his beatmaker and played. Not the waltz from Luna — something new, built from the ship's own sounds. The reactor's hum in D, dropped to a throb you felt in your teeth. Staccato ventilation clicks for snare. Footsteps and half-heard conversation layered into a mid-range fog. The tempo was funereal — sixty beats per minute, a resting heart rate, the speed of walking through a place that wasn't yours. It sat in the territory between dub techno and something older, something that belonged in stone buildings and candlelight. Halfway through, Zedd materialized at the station and sent a bassline through the feed without discussion — spare, haunting chords that answered the ceremony waltz like a question it hadn't known to ask. Two people finishing each other's sentences in sound.
 
-Some danced — not with neural synchronization but with the messy, self-conscious uncertainty of people who hadn't danced in a long time. Others wept. A few drifted toward the walls, arms crossed, waiting for something they couldn't name. Near the back, a woman left early. Mateo projected raw footage of Earth's real final days against the curved wall — standalone technology, too old to interface with the ship's networks. Sound and image offered together. No commentary. Each person making their own meaning.
+Some danced — not with neural synchronization but with the messy, self-conscious uncertainty of people who hadn't danced in a long time. Others wept. A few drifted toward the walls, arms crossed, waiting for something they couldn't name. Near the back, a woman left early. At the far wall, a young man with dark circles and steady hands worked a battered standalone projector — Mateo, the data processing specialist Sofia had mentioned. He crouched beside the device, adjusting focus with the delicacy of someone handling evidence. His fingernails were bitten to the quick.
+
+"Buenos Aires again," he said to no one in particular, his accent faintly Chilean. "I keep going back to this one. Forty-three seconds of footage the official archive doesn't know exists." He fed the file into the projector. "My sister was in that crowd. I can see her coat in frame nine. Blue, with the broken zipper." He said it flatly, as fact, then stepped back and let the footage play.
+
+Raw images of Earth's real final days filled the curved wall — standalone technology, too old to interface with the ship's networks. Sound and image offered together. No commentary. Each person making their own meaning.
 
 The group dispersed in staggered intervals. Adam stayed behind.
 
@@ -166,7 +174,7 @@ Then — faintly, through the wall — a response. A tapping. Perfectly synchron
 
 "Probably mechanical feedback."
 
-"Mechanical feedback doesn't keep time," Kai said quietly. "Just — be careful, hm? Connection's a fine thing until someone's watching."
+"Mechanical feedback doesn't keep time," Kai said quietly. He leaned against the doorframe, arms crossed. "I've watched three resistance networks get burned in my career. Not by infiltrators. By people who mistook a feeling of connection for actual security." He tapped the wall. "Whoever's on the other end of that — they're real. Which means the risk is real too. Don't let the beauty of it make you careless."
 
 They left separately. Adam walked the maintenance corridors toward his bunk, the tapping still reverberating in his mind. The precision of it. The deliberateness.
 

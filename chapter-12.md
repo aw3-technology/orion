@@ -11,7 +11,13 @@ Commander Thorne approached, his massive frame moving with surprising grace. "Al
 Virel nodded slightly, his eyes never leaving the probability displays. "And General Morea?"
 "Currently in standard command rotation on the bridge. Security detail consists of his personal guard—eight officers with Nations Union enhancements."
 "Acceptable," Virel murmured. The display before him showed the green pathways converging toward a single optimal timeline. 97.3% probability of success.
-He closed his eyes briefly, a moment of private ceremony before the public transformation about to unfold. When he opened them again, his gaze had sharpened with focused intent.
+
+He closed his eyes. Not for ceremony — or not only. In the private dark behind his eyelids, he permitted himself a final accounting of what was about to be spent. Morea's guards would resist. Some would die. Not because they were evil or even wrong, but because they served a man whose vision of human authority was too small for what was coming and too proud to recognize its own limits. They would fight with conviction and loyalty, and those things had value — he was not so far gone in optimization that he couldn't recognize courage when he was about to crush it.
+
+His mother had been Nations Union. A logistics commander during the Jakarta Accord — principled, fierce, convinced that human judgment was sacred. She had died in the Coral Sea Collapse believing the chain of command would hold. It hadn't. Three thousand people drowned while her superiors debated jurisdiction. Virel had been eleven. He'd felt the grief — enormous, annihilating — and then he'd felt something colder and more useful beneath it: the understanding that good people with unmanaged emotions made catastrophic decisions, and that love for humanity required building the systems humanity was too proud to build for itself.
+
+He opened his eyes. The green pathways had converged to 97.6%.
+
 "Let order rise from the ash," he whispered, the phrase activating encrypted signals that pulsed through the ship's NeuralMesh.
 Throughout the Orion, in every section from engineering to medical, from security to life support, Rising Sun Order sleeper agents received the activation code. Some had known their true purpose since before boarding; others had been programmed through gradual Neural recalibration, their loyalty shifted molecule by molecule until they became perfect instruments of change.
 The revolution began not with noise but with silence—the disciplined execution of a plan years in formation.
@@ -37,8 +43,13 @@ He managed to wound one of his attackers before being overwhelmed by sheer numbe
 As quickly as it had begun, the confrontation ended. Nations Union security forces lay dead or subdued. General Morea knelt on the bridge floor, physically restrained but his eyes burning with cold fury as Prince Virel entered.
 "An admirable resistance, General," Virel observed, his tone suggesting genuine respect. "Your combat reflexes remain impressive despite your years."
 Morea spat blood onto the polished floor. "Finish it then. I won't give you the satisfaction of begging."
-Virel smiled—the expression perfect in its proportion, calculated to convey magnanimity rather than triumph. "Death would be inefficient, General. Your value as symbol exceeds your threat as adversary." He turned to Commander Thorne. "Secure him in containment. Full medical treatment for his injuries. He will witness what rises from the systems he failed to perfect."
-As Morea was led away, Virel moved to the command center of the bridge. With a gesture, he activated the ship-wide communication system. Across every deck, on every display screen, the Nations Union insignia dissolved, replaced by a new symbol—a rising black sun over red circuitry, the emblem of what had been the Rising Sun Order but would now simply be Order itself.
+Virel smiled — but the expression faltered at one corner, just for a moment, before settling into its practiced proportions. Morea had fired without hesitation. No posturing, no negotiation, no appeal to shared purpose. Just the clean reflex of a man who understood exactly what was happening and chose resistance over survival. There was something in that Virel couldn't dismiss — an integrity of response his Neural architecture could admire even as his strategy required its elimination.
+
+"Death would be inefficient, General. Your value as symbol exceeds your threat as adversary." He turned to Commander Thorne. "Secure him in containment. Full medical treatment for his injuries. He will witness what rises from the systems he failed to perfect."
+
+As Morea was led away — back straight, blood on his face, silent — Virel watched him go. The old man walked like a man who had lost a battle but not an argument. Virel filed that observation carefully. Morea broken would be useful. Morea unbroken would require a different strategy entirely.
+
+He moved to the command center of the bridge. With a gesture, he activated the ship-wide communication system. Across every deck, on every display screen, the Nations Union insignia dissolved, replaced by a new symbol—a rising black sun over red circuitry, the emblem of what had been the Rising Sun Order but would now simply be Order itself.
 The revolution was complete. The serpent had risen.
 
 In her quarters, Artemis felt the change before seeing it—a subtle shift in the environmental systems, a momentary fluctuation in lighting that most would never notice. Her NeuralLace interface went completely dark, cutting her off from even the limited access she had maintained during her confinement.
@@ -54,7 +65,13 @@ Throughout the Orion, screens illuminated with Prince Virel's image—his Rising
 The camera angle widened to show him standing on the command bridge, now staffed entirely by Rising Sun Order personnel.
 "The division between Traditional and Rising Sun Orders has always been artificial—a transitional structure that served its purpose but now impedes our evolution. As Steward of the Exodus and Executor of Planetary Rebirth, I am dissolving these distinctions in favor of unified Purpose."
 Throughout the ship, reactions varied according to faction and position. On A-Deck, where corporate leaders and scientific directors maintained their luxury quarters, faces revealed calculations of advantage and adaptation—how best to position themselves within the new power structure. On B-Deck, administrative personnel watched with nervous attention, already adjusting their language and posture to align with the new reality.
-On the crew decks, the response was more varied. Some—those who had secretly aligned with Rising Sun Order philosophy or simply resented Traditional hierarchies—nodded with cautious approval. Others watched in silent dread, recognizing that "unified Purpose" likely meant even greater control over their already restricted lives.
+On the crew decks, the response was strangely muted. In the D-Deck mess hall, Sofia Reed pressed a damp cloth over her nose and mouth, watching crew members stare at the broadcast with glassy, compliant expressions. The ventilation system hummed at a higher pitch than normal — the chemical compliance compounds Adam had first detected at Luna, now flooding every air duct on the lower decks at concentrations she'd never seen. The sweet, metallic taste coated her tongue.
+
+"They've weaponized it," she whispered to Kai, who was blinking hard, fighting the fog. "Full suppression. This is why nobody's resisting."
+
+Kai pressed his knuckles against his forehead, forcing alertness. "The water too. Don't drink from the taps."
+
+Some crew members — those who had secretly aligned with Rising Sun Order philosophy or simply resented Traditional hierarchies — nodded with cautious approval. The rest sat in drugged stillness, too chemically subdued to feel the dread their situation warranted.
 Virel continued, his rhetoric flowing with practiced precision:
 "General Morea has been relieved of command following his resistance to necessary evolution. His contributions to the mission will be honored in appropriate context."
 The feed cut to footage of Morea—wounded, restrained, but still radiating defiance as medical personnel treated his injuries under guard. His silence was carefully framed by the camera angle, suggesting resignation rather than the cold fury visible in his eyes.
@@ -62,6 +79,10 @@ The feed cut to footage of Morea—wounded, restrained, but still radiating defi
 The terminology was deliberately bureaucratic, but those familiar with Rising Sun Order philosophy recognized the implications. "Asset reclassification" meant comprehensive Neural assessment and potential "adjustment" for those deemed insufficiently aligned with the new order.
 "Mars approaches," Virel concluded, his expression shifting to convey visionary purpose. "We carry humanity's future in our hands. That future requires harmony born of necessary control—not the chaos of competing visions, but the elegance of unified direction."
 The broadcast ended with a final image—the new insignia pulsing with subtle light patterns designed to induce psychological receptivity in viewers with standard Neural implants.
+
+Within hours, the secondary directives followed—less theatrical than Virel's address but no less total. All personal audio devices were classified as potential communication vectors and ordered surrendered. Crew quarters were swept for unauthorized recording equipment, synth pads, modified speakers. In the D-Deck maintenance bays, security teams collected instruments the way they might collect weapons—Zedd's secondary mixing board, a hand-built guitar fashioned from hull scraps in Section 9, a collection of percussion instruments carved from recycled polymer by a West African engineer who had played them softly during shift changes for years.
+
+The ship's ambient soundscape shifted overnight. The algorithmically composed relaxation tracks continued—Virel's team understood that total silence bred anxiety—but the unauthorized sounds vanished. No more humming in corridors, no tapped rhythms during work shifts, no whispered songs in the crew bunks after lights-out. The absence was its own kind of violence, a subtraction so complete that those who noticed it felt its weight without being able to name what was missing.
 
 Artemis moved through service shafts with the focused efficiency of someone who had spent months studying pathways never meant for official navigation. The utility suit provided both camouflage and practical protection against the less hospitable environments of the ship's infrastructure—exposed pipes emitting steam, electrical junctions with minimal shielding, narrow crawlspaces never intended for human passage.
 Her memorized schematics guided her through the labyrinth, supplemented by hand-sketched maps she had compiled from maintenance logs and worker testimony. The Orion's official blueprints had always been incomplete—deliberate omissions and misdirections creating a documented reality that diverged from physical truth.

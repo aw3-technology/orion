@@ -25,8 +25,13 @@ A heavy silence filled the space between them. Artemis watched her father's face
 "Do you know why Earth failed, Artemis?" he asked, moving to the viewport that dominated one wall of his suite. "Not the climate collapse or resource depletion—those were symptoms. Earth failed because it refused to acknowledge biological reality. It pretended all human variations were equally viable, that quantity could substitute for quality, that civilization could expand indefinitely without evolutionary consequence."
 He gestured toward the stars visible through the viewport. "We cannot afford such delusions on Mars. The harsh truth is that Earth's remaining population represents hostile biomass shaped by generational dysfunction and evolutionary decay. Their genetic signatures, social adaptations, and cognitive biases would poison any new world we attempt to build."
 Artemis felt cold despite the regulated temperature of the suite. "You're planning genocide."
-"I'm planning species salvation," Morea countered without hesitation. "Sometimes, you must cauterize to prevent the rot from spreading."
-The casual way he justified planetary-scale murder struck Artemis with physical force. This was not polemic or rhetoric—this was calculation, policy, intention. Millions of lives reduced to contamination requiring elimination.
+"I'm planning species salvation," Morea countered without hesitation. But something in the way he said it — the rehearsed precision, the absence of pause — told Artemis he had spoken these words before. Not to councils or subordinates. To himself. In the dark hours when the ship was quiet and the certainty needed reinforcing.
+
+He turned from the viewport and she saw it — the cost written in the architecture of his face. Not doubt. Morea didn't doubt. But the effort of not doubting had carved lines that hadn't been there a year ago. He looked, for a moment, like a man holding a door shut against something that never stopped pushing.
+
+"Sometimes, you must cauterize to prevent the rot from spreading."
+
+The casual way he justified planetary-scale murder struck Artemis with physical force. This was not polemic or rhetoric — this was calculation, policy, intention. Millions of lives reduced to contamination requiring elimination.
 "Mars needs to begin clean," Morea continued, his voice taking on the cadence of profound conviction. "Without the flaws that doomed Earth. Without the chaotic elements that prevented true progress. The remaining Earth population will be managed humanely but definitively—resource redirection rather than active termination. The outcome is the same, but the method allows us to maintain moral continuity."
 "Moral continuity?" Artemis echoed, disbelief coloring her voice. "You're describing the calculated extinction of billions of human beings and calling it moral?"
 "I'm describing necessary evolution," Morea corrected. "The strong survive. The weak perish. Nature has always operated on these principles. We're simply directing the process with intelligence rather than leaving it to random chance."
@@ -34,11 +39,20 @@ Something broke inside Artemis—a final thread connecting her to the identity s
 "I renounce you," she said, the words emerging with quiet intensity rather than emotional drama. "I renounce what you stand for. I renounce my role as instrument of your political ambition."
 Morea's expression didn't change, but something shifted in his eyes—a momentary flash of emotion quickly suppressed. "You speak from ignorance and sentimentality."
 "I speak from humanity," Artemis countered. "What you're describing isn't cleansing but cowardice in imperial disguise. You're not saving our species—you're amputating everything that makes it worth preserving."
-For a moment—brief but unmistakable—Artemis glimpsed something beneath her father's military precision. A flicker of sadness, perhaps even regret. A shadow of the man who might once have believed in something better before ambition and ideology hardened him into the weapon he had become.
+For a moment — brief but unmistakable — Artemis glimpsed something beneath her father's military precision. Not just sadness. Recognition. She was standing the way her mother used to stand when she argued with him — shoulders square, chin level, voice quiet with the kind of conviction that doesn't need volume. Artemis knew because she'd watched Helena do it from doorways as a child, not understanding the words but reading the geometry of two people who loved each other and couldn't agree on what love required.
+
+Morea saw it too. His jaw worked once, the only muscle in his body that ever betrayed him.
+
+"Your mother said something very similar," he said, and the words seemed to surprise even him — dragged out from somewhere below the rank and the ideology and the decades of learning not to flinch. "She was wrong then. You are wrong now. But I recognize —" He stopped. Swallowed whatever came next.
+
 Then it vanished, replaced by cold command.
 "You are confined to quarters effective immediately," he stated, activating his communication panel. "Your emotional instability constitutes a security risk that cannot be tolerated at this juncture."
 "Because I refuse to accept genocide as policy?" Artemis challenged.
-"Because you've demonstrated compromised judgment and potential subversive tendencies." Morea's voice carried the weight of absolute authority. "Furthermore, your union with Prince Virel will be formalized within the week. We'll make this binding before your spirit breaks entirely."
+"Because you've demonstrated compromised judgment and potential subversive tendencies." Morea's voice carried the weight of absolute authority. "Furthermore, your union with Prince Virel will be formalized within the week."
+
+He paused — and for the first time in the conversation, she heard something in the silence that wasn't strategy. It was the sound of a man who had already lost a wife to this machinery and was now feeding his daughter into it because the alternative — admitting the machinery was wrong — would collapse everything he'd built in its place.
+
+"We'll make this binding before your spirit breaks entirely."
 The door to the command suite slid open, revealing security officers waiting with formal precision. The casual efficiency with which they had been summoned suggested Morea had anticipated this outcome before the conversation began.
 "You're making a mistake," Artemis said quietly as the guards moved to flank her.
 "No, daughter," Morea replied, turning back to his tactical display. "I'm preventing one."
@@ -66,6 +80,12 @@ She studied the drawing. "Why are you showing me this?"
 Eli smiled faintly. "Pharaohs build with stone. But Exodus begins with memory."
 And before she could ask anything more, he was gone—through a maintenance port so discreet it might as well have been myth.
 
+Artemis stood alone with his schematic. As she unfolded it, a line of text caught her eye—handwritten in the margin, in a script she didn't recognize as Eli's: *Chang'e drank the elixir and flew to the moon. She did not fall. She chose.*
+
+The words returned her to the myth she'd found in Sofia's Archive months ago—the Chinese goddess who swallowed the elixir of immortality and was exiled to the moon, trapped in eternal separation from the world she'd loved. Artemis had read it then as tragedy. Now, confined to quarters by her own father, stripped of access and allies, the myth rearranged itself. Chang'e hadn't been banished. She'd chosen knowledge over comfort, truth over belonging. The exile was the price of the elixir, and the elixir was the price of seeing clearly.
+
+*What do you do when you've swallowed the elixir and the exile is already underway?* The question she'd asked herself in the archive bunk now had an answer she hadn't expected: you stop calling it exile. You call it position.
+
 After completing her survey, Artemis seated herself at her meditation altar—the one space where extended stillness would appear consistent with established patterns. She assumed the formal posture expected of Nations Union spiritual practice, her breathing settling into the rhythm of deep contemplation.
 Behind closed eyelids, her mind worked with precise calculation. Options were limited but not exhausted. Communication channels were restricted but not eliminated. Most importantly, her father had revealed far more than he realized—not just about Earth's planned fate, but about the factional mechanics behind Adam's framing.
 When sufficient time had passed to establish the appearance of genuine meditation, Artemis reached for the small statuette that formed the centerpiece of her altar—a replica of ancient sculpture depicting her divine namesake, the goddess Artemis as huntress. The piece had been her mother's final gift before her convenient "vascular condition" had removed her from the Nations Union's leadership equations.
@@ -90,9 +110,30 @@ The final and most crucial transmission was directed to the small fleet of maint
 Each component of the response was small, seemingly insignificant. But together, they represented the activation of something the mission's architects had never anticipated: a distributed consciousness that could operate within the Orion's systems while remaining invisible to centralized control.
 As Dr. Voss completed the sequence of alerts, she permitted herself a moment of genuine emotion—something her colleagues would have found surprising in her typically reserved demeanor. The daughter of the empire had indeed chosen the flame. Now they would see how far that fire could spread, and what it might ultimately consume or illuminate.
 
-In his detention cell, Adam sat in perfect stillness, eyes closed, breath regulated. To the security monitors, he appeared to be sleeping or perhaps meditating—a prisoner accepting his circumstances with appropriate resignation.
-In reality, he was reaching—stretching his consciousness toward the connection he had experienced in the Chamber of Light. The memory of that illumination remained vivid, but the direct experience seemed to have been severed by physical distance and emotional trauma.
+In his detention cell, Adam was losing track of the days.
+
+The lights never changed. Meals arrived through a slot at irregular intervals — deliberately irregular, he suspected, to prevent him from constructing any internal clock. The ventilation carried the same sweet chemical taint he'd identified at Luna, heavier now, concentrated. They were dosing him directly. He could feel it in the sluggishness of his thoughts, the way anger kept dissolving into apathy before he could hold onto it long enough to think clearly.
+
+He exercised when he could — push-ups, pacing, anything to keep blood moving faster than the compounds could settle. Sometimes it worked. Sometimes he found himself sitting on the cot with no memory of having stopped moving, minutes or hours lost to chemical fog.
+
+On what he estimated was the third day, a guard he didn't recognize slid a tablet through the meal slot. The screen showed a single message from the ship's administrative system: his maintenance credentials had been revoked. His tool access had been terminated. His quarters had been reassigned to a new crew member whose name he didn't recognize.
+
+They weren't just holding him. They were erasing him from the ship's functional reality, one system at a time.
+
+On the fourth day — or the fifth — Kai's voice came through the ventilation grate, barely audible over the air circulation. Just three words: "Still here. Patience."
+
+Adam pressed his forehead against the grate and breathed clean air from the duct for as long as he dared.
+
+On another day, silence. No voice in the grate. Had Kai been caught? Had he decided the risk was too great? Adam couldn't know, and not knowing carved a hollow space behind his ribs that the compliance compounds couldn't fill.
+
+He sat in perfect stillness, eyes closed, breath regulated. To the security monitors, he appeared to be sleeping or perhaps meditating — a prisoner accepting his circumstances with appropriate resignation.
+
+In reality, he was reaching — stretching his consciousness toward the connection he had experienced in the Chamber of Light. The memory of that illumination remained vivid, but the direct experience seemed to have been severed by physical distance and emotional trauma.
+
 Still, he persisted, believing that what had awakened within that hidden space couldn't be constrained by mere walls or institutional narrative.
-Find the center. Find each other.
+
+*Find the center. Find each other.*
+
 The words from their shared vision echoed in his mind, a mantra against despair, a focus point for consciousness seeking resonance beyond immediate circumstances.
+
 Somewhere, twenty-seven decks above, Artemis was reaching too.

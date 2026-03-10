@@ -62,9 +62,21 @@ As Thorne departed to coordinate with Nations Union security teams, Virel remain
 
 "Such a predictable variable," he murmured to the empty room.
 
+But his hand lingered on the frozen image longer than efficiency required. He had reviewed the audio from the gravity calibration bay — the music Hale had played for the workers. Raw, imperfect, textured with the particular ache of people mourning something they hadn't finished losing. Virel had listened to the full recording twice, which was once more than analysis demanded.
+
+The music had moved him. He was honest enough with himself to admit that. The Neural architecture didn't eliminate response — it contextualized it. He could feel the pull of Hale's compositions, the way they bypassed rational assessment and spoke directly to the limbic system, and he could simultaneously recognize that pull as precisely the mechanism that had kept humanity chained to its worst impulses for two hundred millennia. Beauty without structure. Feeling without framework. The intoxication of unmanaged experience — the same intoxication that had built every civilization and burned every one of them down.
+
+Hale wasn't dangerous because he was clever. He was dangerous because he made people feel things they couldn't optimize, and they loved him for it.
+
+Virel released the image and straightened. Sentiment observed, catalogued, filed. Not suppressed — that was the old way, the Nations Union way, Morea's blunt refusal to feel. Virel's way was more honest and more ruthless: feel everything, use what serves, release what doesn't.
+
 He activated his private communications channel, connecting to Dr. Nakamura in the psychiatric division.
 
-"Proceed with the secondary protocol," he instructed. "The maintenance sectors will be... unsettled by what's coming. A perfect opportunity to test our more advanced stabilization compounds."
+"Proceed with the secondary protocol," he instructed. "The maintenance sectors will be... unsettled by what's coming. Increase the atmospheric compliance compounds to full suppression dosage across D-Deck ventilation. And extend distribution to the water supply in Sections 7 through 12. I want them docile before the arrest, not after."
+
+"The broader population may notice mood effects at that concentration," Nakamura cautioned.
+
+"Then they'll notice feeling calm during a crisis. Frame it as environmental stabilization if anyone asks."
 
 ---
 
@@ -85,6 +97,12 @@ Ayo Balewa joined them, sitting down with deliberate calm that contradicted the 
 Sofia's expression hardened. "This isn't coincidence. Adam has been asking questions, accessing systems beyond his clearance level."
 
 "You think they found out about the Free Orioneers?" Huang asked, his voice barely audible.
+
+Sofia paused, sniffing the air. Her eyes narrowed. "Do you smell that? The ventilation — the sweetness. It's the same compound signature Adam identified at Luna." She looked around the mess hall, where crew members sat with slack expressions, unnervingly calm for people who'd just heard a sabotage announcement. "They've increased the dosage. They're sedating the whole deck."
+
+Huang blinked, as if fighting through fog. "I thought I was just tired."
+
+"That's what it's designed to feel like," Sofia said grimly.
 
 "I think someone decided Adam represents a threat," Sofia corrected. "Whether they know why or not is secondary."
 
@@ -144,7 +162,11 @@ Kai fell silent, though his eyes conveyed a message to Adam: *Stay calm. Don't r
 
 The security team moved with practiced efficiency, ransacking the small space Adam shared with his bunkmates. They overturned his meager possessions, scanned every surface, and methodically dismantled his personal storage unit.
 
-Adam stood in disbelieving silence as his world collapsed around him. The crew watched, equally stunned by the swift transition from routine to nightmare. Some averted their eyes, whether from fear of association or inability to witness such a public humiliation. Others, like Sofia, Huang, and Ayo, observed with calculating intensity, memorizing details that might prove useful later.
+One officer emerged carrying Adam's beatmaker—the compact synthesizer he'd used to build the Moonlight Waltz, to sample ship vibrations and recycled water into something that felt like truth. The officer held it at arm's length, like evidence of contamination, and dropped it into a confiscation bag.
+
+Adam's jaw tightened. He could endure the restraints, the accusations, the public theater of it. But watching his instrument disappear into that bag felt like watching them confiscate his voice. The beatmaker wasn't valuable by any official metric—a battered synth pad with jury-rigged inputs, worth less than the bag they put it in. But it was the only thing aboard the Orion that had ever been entirely his.
+
+The crew watched in stunned silence. Some averted their eyes, whether from fear of association or inability to witness such a public humiliation. Others, like Sofia, Huang, and Ayo, observed with calculating intensity, memorizing details that might prove useful later. Zedd, at his nearby table, had gone completely still—his fingers frozen on his own synth pad, his eyes tracking the confiscation bag as if calculating whether his equipment would be next.
 
 "Sir!" One of the security officers emerged from the dormitory, carrying several items in sealed evidence containers. "We found these hidden in his mattress."
 
@@ -262,6 +284,24 @@ Only Artemis, watching from her position among the elite, could see the shadow t
 
 ---
 
+The trial's aftermath spread through D-Deck like contamination. Within hours, the social architecture of Adam's world had been dismantled.
+
+Huang Wei was pulled from his shift and subjected to four hours of interrogation about his association with the accused. He returned to the mess hall gray-faced and would not meet anyone's eyes. When Sofia approached him the next morning, he shook his head once and moved to a different table.
+
+Ayo Balewa's engineering reports were flagged for secondary review. His transfer request to a different maintenance sector appeared in the system before he'd submitted one — someone had filed it on his behalf. He took the hint and relocated without protest.
+
+Zoe's hydraulic team was reshuffled. The three crew members who'd been seen speaking with Adam in the canteen were scattered across different shifts and sectors, their informal knowledge network severed with bureaucratic precision.
+
+Sofia's archive remained undiscovered, but only because she spent a sleepless night relocating its most sensitive components to a secondary cache deeper in the waste processing labyrinth. She encrypted the data crystals with voice-activated codes and buried the hardware inside a defunct thermal coupling unit.
+
+Kai Chen, as Adam's direct supervisor, bore the heaviest scrutiny. His quarters were searched twice. His maintenance logs were audited for the full duration of the voyage. Security placed a rotating observer on his shift — not hidden, but visible, a reminder that his every action was being cataloged.
+
+"They don't need to convict him," Sofia said to Kai during a brief, careful meeting in the noise-cover of the waste processors. "The trial itself is the punishment. Not for Adam — for everyone who might have stood beside him."
+
+Kai adjusted his spectacles and said nothing. But his hands, resting on the vibrating console, were shaking.
+
+---
+
 "Your behavior was inexcusable." General Morea's voice filled his private office with cold fury as he faced his daughter across his desk. "Publicly contradicting the tribunal, undermining security protocols, suggesting impropriety in the investigation—"
 
 "I suggested procedural concerns," Artemis corrected, her tone respectful but unyielding. "Concerns that Chief Justice Vega herself acknowledged by ordering continued investigation rather than immediate conviction."
@@ -344,7 +384,11 @@ Had they discovered the chamber? Did they know about his connection with Artemis
 
 Adam closed his eyes, seeking the clarity he had found in the Chamber of Light—the expanded awareness that had transcended physical limitations and social barriers. But where that space had offered illumination, he now found only darkness. The connection that had seemed so transformative felt distant, inaccessible, as if his imprisonment had severed more than just physical freedom.
 
-In that isolation, older instincts resurfaced—the anger that had defined his early life aboard the Orion, the resentment toward the power structures that had abandoned Earth and selected their chosen few for salvation. Emotions he thought he had transcended returned with renewed intensity, filling the void left by the chamber's fading light.
+His fingers twitched against the sleeping platform, muscle memory seeking keys that weren't there. For years, the beatmaker had been his way of metabolizing the ship—turning its mechanical rhythms into something that belonged to him. Without it, the silence of the cell didn't just surround him; it colonized him. He caught himself tapping out the opening pattern of the Moonlight Waltz against the metal frame, then stopped. The sound was too small and too loud at the same time.
+
+This was the real confiscation. Not the instrument but the capacity. They'd taken the one thing that let him transform pain into something other than rage.
+
+In that creative silence, older instincts resurfaced—the anger that had defined his early life aboard the Orion, the resentment toward the power structures that had abandoned Earth and selected their chosen few for salvation. Emotions he thought he had transcended returned with renewed intensity, filling the void left by both the chamber's fading light and the music's stolen voice.
 
 His hand rose to his neck, fingers finding the Orion pendant his mother had given him before departure. The metal felt cold against his skin, the constellation pattern a bitter reminder of how symbols could be twisted—freedom becoming imprisonment, connection becoming isolation, truth becoming propaganda.
 

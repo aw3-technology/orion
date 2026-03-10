@@ -1,5 +1,27 @@
 # Chapter 5: Fire in the Circuit
 
+The first week on Environmental Systems Team Alpha taught Adam that promotion was just surveillance with better lighting.
+
+His new station sat at the junction of three atmospheric regulation nodes — a glass-walled booth on C-Deck where real-time environmental data scrolled across four separate displays. Temperature gradients, humidity curves, CO₂ ratios, pressure differentials for every habitable section of the ship. It was a significant step up from waste reclamation: cleaner air, wider corridors, a meal allowance that included actual protein once a day rather than the nutrient slurry D-Deck served as sustenance. His workband now opened transit lifts to B-Deck and C-Deck without authorization delays, and his maintenance credentials carried a clearance suffix that made security officers glance at his uniform instead of through him.
+
+But the booth had a window that faced the main C-Deck concourse, and Supervisor Kwan's office sat thirty meters away with a direct sightline. Adam's shift reports now routed to two oversight committees instead of one. His atmospheric readings were cross-referenced against OmniscientAI baselines every four hours. And his workband logged location data at intervals he was fairly sure hadn't been in the original employment contract.
+
+The leash was longer. It was still a leash.
+
+He'd mentioned as much to Zedd during a late-night session in Unit 12-17, the two of them hunched over Adam's beatmaker with a blanket draped over the speaker to muffle the sound.
+
+"They promote you to watch you better," Zedd said, adjusting a low-frequency filter with the concentration of a man defusing ordnance. "Standard playbook. More access means more exposure. More exposure means more data points for whoever's tracking you."
+
+"You're tracking me too, technically."
+
+"Yeah, but I like your music." Zedd glanced up, dead serious beneath the joke. "The admin log ping I told you about — it's gone quiet. Could mean they lost interest. Could mean they're watching from further back." He handed the beatmaker back. "Either way: boring shifts, clean reports, no improvisation above your clearance. For now."
+
+Adam had followed the advice. Seven days of exemplary routine — calibrating sensors, filing reports, eating protein in the C-Deck canteen where the lighting was softer and the conversations more careful. He smiled at colleagues, answered questions about his work history with the practiced vagueness of someone used to editing his own biography. At night he lay in his bunk and listened to the ship breathe — the deep, tidal rhythm of ten thousand lives suspended in metal and vacuum — and tried not to think about the tapping through the walls that had answered his music and then gone silent.
+
+He tried not to think about who had been on the other end.
+
+---
+
 The Orion's artificial evening had settled across all decks, lighting dimmed to the soft amber glow designed to maintain proper circadian rhythms among the passengers and crew. In the silent corridors of A-Deck, where the mission's highest-ranking members resided, the carefully engineered tranquility was rarely disturbed by mechanical failures or system anomalies. The elite slept secure in the knowledge that their comfort was the ship's highest priority.
 
 Which made the sudden, insistent alarm in Artemis Morea's private quarters all the more unusual.

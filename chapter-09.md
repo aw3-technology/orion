@@ -72,6 +72,18 @@ Artemis stood in the corridor entrance, her ceremonial attire exchanged for a si
 
 Adam nodded. "It's been calling to both of us."
 
+A sound froze them both — footsteps, measured and deliberate, echoing from the corridor above. Not the hurried stride of a maintenance worker or the shuffling pace of someone lost. This was the gait of a man who expected the spaces he moved through to answer to him.
+
+Adam pressed himself against the wall. Artemis did the same, opposite him, her body perfectly still. Through the grating above their heads, a shadow passed — broad-shouldered, unhurried. Commander Thorne. His soft voice murmured into a communication device: "Buffer zone 7-D, section clear. No thermal anomalies. Proceeding to junction 8."
+
+They didn't breathe until the footsteps faded. When Adam looked at Artemis, he saw not fear but cold calculation — she was timing the patrol interval.
+
+"He's been running sweeps through the mid-core zones since the botanical garden," she whispered. "Random patterns, but he always circles back here. He doesn't know what he's looking for, but he knows something is here."
+
+"How long before he finds it?"
+
+"Not tonight. His sweep pattern has a seventeen-minute gap between junction 7-D and his return circuit." She checked the chronometer on her wrist. "We have twelve minutes."
+
 Without further discussion, they approached the panel together. As they drew near, the surface began to glow with subtle bioluminescence, responding to their proximity in a way that suggested recognition rather than automatic function.
 
 "No electronic lock," Adam observed, examining the panel's edge. "No standard mechanism at all."
@@ -104,9 +116,19 @@ Most astonishing was the sound—not the mechanical hum of the ship's systems bu
 
 "What is this place?" Adam whispered, his voice hushed with awe.
 
-"I don't know," Artemis replied, equally transfixed. "It's not Nations Union architecture. Not Rising Sun Order technology either." She gestured toward the glyphs. "These symbols predate both. Some resemble Earth's most ancient writing systems, but others..."
+"I don't know," Artemis replied, equally transfixed. "It's not Nations Union architecture. Not Rising Sun Order technology either." She gestured toward the glyphs. "These symbols predate both. Some resemble Earth's most ancient writing systems — I recognize Sumerian cuneiform, proto-Sinaitic, what might be Indus Valley script — but others..."
 
 "Others aren't from Earth at all," Adam finished, intuiting what she couldn't bring herself to suggest.
+
+He ran his hand along the nearest wall. The material was warm and faintly yielding, like skin over muscle. "The bioluminescence isn't powered by anything I can detect. No wiring, no chemical reservoirs. The light is coming from the material itself — like it's metabolizing something." He pressed harder. "This isn't construction. It's growth. Whoever built this didn't assemble it. They grew it."
+
+Artemis moved to the wall where the star charts projected outward. "These constellations — the positions are wrong for any observation point on Earth or in our solar system. The angular separation between Betelgeuse and Rigel is about fifteen degrees too wide." She traced the lines between stars. "These are the constellations as seen from somewhere else. Somewhere outside our system."
+
+The implication hung between them — not spoken fully, because speaking it would require accepting that something intelligent, something not human, had placed this chamber inside the ship. Or perhaps the ship had been built around it.
+
+"The construction dates," Adam said slowly. "The Orion was built over eighteen years. But the orbital shipyard logs show the central core was the first section completed — sealed and pressurized before anything else. What if the builders found this already here? In orbit? And built the ship around it because they didn't know what else to do with it?"
+
+"Or because it told them to," Artemis said quietly.
 
 They floated toward the center, drawn by the crystalline orb's gentle pull. In the zero-gravity environment, movement became dance—each push and glide requiring coordinated intention rather than habitual walking.
 

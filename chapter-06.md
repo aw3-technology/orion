@@ -60,6 +60,10 @@ Not rebellion. Not yet. A reminder.
 
 Then, with the grace of one who has long known invisibility, Eli melted once more into the infrastructure—walking the hidden seams of a world he helped shape, the ship's quiet priest, still tending its spirit in the dark.
 
+He passed through a junction where the air smelled different — warmer, carrying traces of cooked food and human habitation that had no business existing this deep in the hull. Somewhere below, a child laughed. The sound rose through the deck plating like a secret the ship was keeping from itself.
+
+Eli smiled and kept walking. He had designed these spaces with margins the optimization protocols couldn't account for — gaps in the structure wide enough for families, deep enough for a community the manifests would never acknowledge. The ship's architects had built a vessel for fifty thousand souls. Eli had built one for the ones who fell between the numbers.
+
 ---
 
 "The allocation algorithm will be adjusted," Morea continued after a moment. "And Lieutenant Flores will be reassigned to outer perimeter observation. Her analytical skills will be valuable in monitoring deep space telemetry."
@@ -96,7 +100,7 @@ Mombasa. 2061. He'd been a colonel then, overseeing the East African Coastal Eva
 
 The analyst had been right about the data. Every number verified. It didn't matter. Truth without structure was just a match thrown into dry brush.
 
-Morea set the tablet down and pressed his fingers against his temples. Flores was the same — incisive, principled, and utterly blind to what transparency cost when ten thousand lives balanced on the edge of collective confidence.
+Morea set the tablet down and pressed his fingers against his temples. Flores was the same — incisive, principled, and utterly blind to what transparency cost when fifty thousand lives balanced on the edge of collective confidence.
 
 *And yet.* His wife had used the same arguments. Not Flores's words exactly, but the same spine beneath them — the insistence that people deserved to know, that control purchased through ignorance was a debt that always came due. Helena had been brilliant in that way, and stubborn, and she had died for it. Or been killed. He had never permitted himself to determine which.
 
@@ -170,7 +174,7 @@ After she left, Virel stood at the viewport, watching the stars slide past in th
 
 He had not lied to Okoye. He never lied to the recruits. The enhancement worked exactly as described. The freedom from psychological paralysis was genuine. The clarity was real.
 
-What he withheld was simpler and more damning: that the same architecture scaling up from individual therapy to population governance crossed a line the volunteers couldn't see — from liberation to leash, from clarity offered to compliance required. The distance between healing one surgeon's nightmares and rewriting ten thousand minds was not a difference of degree. It was a difference of kind.
+What he withheld was simpler and more damning: that the same architecture scaling up from individual therapy to population governance crossed a line the volunteers couldn't see — from liberation to leash, from clarity offered to compliance required. The distance between healing one surgeon's nightmares and rewriting fifty thousand minds was not a difference of degree. It was a difference of kind.
 
 But Virel had long ago concluded that this distinction, however philosophically interesting, was operationally irrelevant. Humanity had run the experiment in unmanaged consciousness for two hundred thousand years. The results burned copper-colored in the rear viewport.
 
@@ -308,13 +312,21 @@ Adam didn't answer right away. In the dim blue night light of the dorm, he could
 
 Adam furrowed his brow. "The resonance near the coolant pump?"
 
-"No," Zedd said. "Beneath that. It's like... a melody trying to come through. Faint, but patterned. I've been mapping it."
+"No," Zedd said. "Beneath that. It's like... a melody trying to come through. Faint, but patterned. I've been mapping it." He was quiet for a moment. "Dara would've known what to make of it. She had the ear for the strange stuff."
 
-Adam blinked. He hadn't expected that. "You think the ship's singing?"
+Adam waited. Zedd almost never mentioned anyone from before.
 
-Zedd gave a soft chuckle. "I think it's remembering."
+"Dara Osei. Sound engineer. We shared a studio in Lagos for four years — built half our rigs from scrap." Zedd's voice stayed level, but the rhythm of it changed, slowed. "She scored a 79.2 on the selection composite. Needed 81.5. I scored 82.1 because they weighed my diagnostics certification higher than her audio design work." A pause. "Two points. That's what separated us. Two points and a bureaucrat's ranking of which skill mattered more."
 
-Adam closed his eyes, holding onto that thought like it was more than metaphor. Like maybe the ship—and everyone in it—carried something buried, humming beneath the system. Waiting to bloom.
+"Zedd —"
+
+"I'm not fishing for sympathy. I'm telling you why I map the sounds." He sat up slightly in the dark. "She used to say every space has a voice if you know how to listen. That buildings remember the people who pass through them. I thought it was poetic bullshit until I started hearing it here — in the walls, in the pipes, in the harmonic overtones of the reactor cycle." He tapped the bulkhead with one knuckle. "This ship hums in patterns that aren't in any engineering manual. And it's getting louder. Or I'm getting better at hearing it. I'm not sure which one scares me more."
+
+Adam propped himself on one elbow. "Scares you?"
+
+"Yeah." Zedd lay back again. "Because if it's real — if the ship is actually carrying some kind of resonance memory — then I'm changing. My hearing's shifted. I pick up frequencies I shouldn't be able to. Last week I heard a pressure seal failing in Section 9 from three corridors away, before the sensors flagged it." He exhaled. "I don't know if the mapping is teaching me something or doing something to me. And I can't exactly submit a medical report that says 'the ship is singing and I think it's rewriting my auditory cortex.'"
+
+Adam closed his eyes, holding onto that thought like it was more than metaphor. Like maybe the ship — and everyone in it — carried something buried, humming beneath the system. Waiting to bloom.
 
 As sleep finally began to claim him, Adam's thoughts drifted to the mysterious Central Sub-Matrix Core hidden within the Orion's heart. What purpose could be so important yet so secret? What function required such power, such protection?
 

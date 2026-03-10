@@ -2,7 +2,7 @@
 
 ## PREMISE
 
-Year 2073. Earth is dying — climate collapse, resource wars, mass displacement. The *Orion*, a massive generation ship, carries 10,000 "selected" humans toward Mars. The ship is governed by two competing factions: the **Nations Union** (military authoritarianism under General Morea) and the **Rising Sun Order** (techno-utopian neural optimization under Prince Virel). Beneath the elite, thousands of workers maintain the ship in a rigid class hierarchy. Hidden in the ship's core lies the **Chamber of Light** — a space of unknown, possibly alien origin that responds to human consciousness and emotion.
+Year 2073. Earth is dying — climate collapse, resource wars, mass displacement. The *Orion*, a massive generation ship, carries 50,000 "selected" humans toward Mars. The ship is governed by two competing factions: the **Nations Union** (military authoritarianism under General Morea) and the **Rising Sun Order** (techno-utopian neural optimization under Prince Virel). Beneath the elite, thousands of workers maintain the ship in a rigid class hierarchy. Hidden in the ship's core lies the **Chamber of Light** — a space of unknown, possibly alien origin that responds to human consciousness and emotion.
 
 ---
 
@@ -17,6 +17,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 ### Character Name Confusion — RESOLVED
 - **Chapter 2** now introduces **"Kai Chen"** (water purification, round spectacles, salt-and-pepper hair)
 - Same character throughout. "Dr. Wei Chen" renamed to "Kai Chen" in Ch 2.
+- **"Sophia Reed"** renamed to **"Sofia Reed"** throughout (Chs 18-23).
 
 ### Missing Chapter 5 — RESOLVED
 - Chapter 5 was consolidated. Numbering has been adjusted (former chapters 6-24 are now 5-23).
@@ -153,7 +154,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 ## CHAPTER OUTLINE
 
 ### Prologue: Echoes of Light
-- Tone-setting. Year 2073. Earth dying. The Orion carries 10,000 "Chosen" toward Mars.
+- Tone-setting. Year 2073. Earth dying. The Orion carries 50,000 "Chosen" toward Mars.
 - Introduces the central tension: humanity carrying its old ghosts into the stars.
 - Foreshadows the alien/cosmic consciousness watching and listening.
 - *Key line: "The Orion was not merely a ship. It was a question hanging in the void."*
@@ -295,14 +296,62 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - "Let's rewrite the trajectory. Not just of the ship, but of what it means to be human."
 - *Establishes*: Full stakes revealed, the choice to resist, the Chamber's cosmic origin, collective awakening over individual heroism.
 
-### Remaining Chapters: [UNWRITTEN]
-- **Suggested arc**:
-  - The plan to alter the Orion's course / disable OmniscientAI
-  - Confrontation with Virel (and his Neural control systems)
-  - Confrontation with Morea (and the genocide protocols)
-  - The Chamber's role in the climax — does it amplify human consciousness? Enable communication beyond the ship?
-  - Resolution: Does the Orion reach Mars? Under what terms? What happens to Earth?
-  - Thematic resolution: control vs. consciousness, optimization vs. authenticity, hierarchy vs. partnership
+### Chapter 16: Calculated Fall
+- **POV**: Ensemble (Adam, Artemis, Virel, Morea)
+- Resistance prepares navigation bypass beneath the Chamber of Light. Artemis broadcasts resistance message through ship's meditation channels.
+- Virel orders Protocol Chimera — full purge of resistance elements. Brutality escalates across lower decks.
+- Artemis decides to trigger the navigation override immediately.
+- General Morea escapes detention, reaches the auxiliary bridge, and initiates manual crash landing — choosing survival over the mission.
+- *Establishes*: The factions' final cruelty, Morea's redemption through sacrifice, the shift from algorithmic certainty to human choice.
+
+### Chapter 17: Fractured Arrival
+- **POV**: Ensemble
+- The Orion crash-lands in Valles Marineris. Aftermath: structural damage, casualties, disorientation.
+- Resistance regroups in a repurposed hydroponic bay. Rising Sun Order forces prioritize securing technology over saving people.
+- Artemis rallies survivors to build parallel systems rather than fight on faction terms.
+- *Establishes*: Mars as reality rather than destination, the resistance's shift from opposition to construction.
+
+### Chapter 18: Impact Horizon
+- **POV**: Ensemble
+- Ship-wide crisis response. Former enemies collaborate on survival. Class barriers dissolve under shared emergency.
+- Malik and Ayaka stabilize gravity systems. Former elite passengers contribute resources.
+- Adam works alongside Kai to establish independent life support zones.
+- *Establishes*: The breakdown of hierarchy under genuine crisis, human capacity for cooperation when control systems fail.
+
+### Chapter 19: Red Dust Rising
+- **POV**: Ensemble
+- First full assembly of survivors. Dr. Voss presents survival data — oxygen, power, food reserves.
+- Neural Sea files broadcast to the entire population, revealing the factions' genocide plans and Protocol Prometheus.
+- Shock and anger catalyze collective organization.
+- *Establishes*: Truth as foundation for new society, the end of information control.
+
+### Chapter 20: Judgement in the Dust
+- **POV**: Ensemble
+- Public tribunal for Prince Virel, who attempted to activate orbital weapons targeting Earth even after the crash.
+- Virel's defense: calculated genocide as "mercy." The assembly rejects it.
+- Debate over punishment vs. justice. Decision to include even former enemies in the new order.
+- *Establishes*: Collective justice without vengeance, the refusal to replicate old patterns of elimination.
+
+### Chapter 21: The Gathering Light
+- **POV**: Adam and Artemis
+- The settlement takes shape. Working groups form organically. Former hierarchies dissolve in shared labor.
+- The Chamber of Light, partially exposed by the crash, becomes a gathering point.
+- Adam and Artemis reflect on what they've built and what remains.
+- *Establishes*: The slow emergence of a new social order, hope grounded in work rather than ideology.
+
+### Chapter 22: The Circle Forms
+- **POV**: Ensemble
+- First meeting of the Mars Council — held in the open around the Chamber of Light.
+- No elevated platform, no rank. Consensus through shared knowledge and lived experience.
+- Morea and Virel participate as equals. Practical challenges addressed collectively.
+- *Establishes*: Democratic self-organization as alternative to faction control, the circle as governing metaphor.
+
+### Chapter 23: Signals Across the Void
+- **POV**: Adam and Artemis
+- Transmission sent to Earth. Not a command or a report — a record and an invitation.
+- The settlement's first night. Scattered lights form a new constellation against Martian darkness.
+- The Chamber pulses in resonance. The future is unwritten.
+- *Establishes*: Connection between worlds, open-ended possibility, thematic resolution.
 
 ---
 
@@ -328,7 +377,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 ### Mythological Framework
 - **Orion & Artemis** — Hunter and goddess. Multiple contradictory myths (love, betrayal, accident, justice). The ship named Orion; the woman named Artemis. Their relationship echoes and rewrites the myth.
 - **Exodus** — Eli Abramov as Moses figure. Pharaoh (Morea) and the enslaved. "Let my people go." The ship as Egypt and wilderness simultaneously.
-- **Noah's Ark** — Explicit in Morea's rhetoric. 10,000 chosen. But who chooses? And what of the flood?
+- **Noah's Ark** — Explicit in Morea's rhetoric. 50,000 chosen. But who chooses? And what of the flood?
 - **Prometheus** — Protocol Prometheus. Fire stolen from gods (or given to machines). Warning against hubris.
 - **Icarus** — Fashion show wings melting red. Classical warning stripped of moral content.
 
@@ -359,7 +408,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 ## WORLD-BUILDING NOTES
 
 ### The Orion (Ship)
-- 10,000 passengers and crew
+- 50,000 passengers and crew
 - Rotating habitat rings, solar arrays
 - **D-Deck** (workers): Bare metal, fluorescent lighting, nutrient paste, narrow bunks, penalty point system
 - **A-Deck** (elite): Polished composite, actual gardens, real food, viewports, actual wood furniture

@@ -30,7 +30,28 @@ In addition to Adam, Artemis, Dr. Voss, and Kai Chen, three others had been recr
 Rosa Oliveira had been a sonar cartographer before the Collapse, mapping underwater cave systems off the Brazilian coast. Selected for the mission due to her engineering skills, she had survived the climate upsets that claimed her coastal hometown. Blind since birth, she had developed extraordinary abilities to navigate by sound—sensing spatial relationships through echo and vibration in ways that standard sensors often missed. Aboard the Orion, her talents had been relegated to acoustic monitoring of waste systems, but in the lower depths, her genuine genius found proper application.
 Malik Nkosi, originally from Lagos, had been among the world's most accomplished system penetration specialists before being recruited as a "security consultant" for the mission. His ability to identify and exploit weaknesses in even the most sophisticated protection protocols bordered on intuitive—as if he could somehow perceive data structures as physical spaces with natural entry points. He had been officially listed as "lost in transit accident" three months after departure, when in reality he had escaped to the lower depths after discovering preliminary plans for Neural compliance enforcement.
 Ayaka Tanaka had served as a cybernetics engineer in the Rising Sun Order's technical division before her disillusionment with their increasing authoritarianism. Her specialty lay in the interface between organic and artificial systems—the delicate balance point where human neurophysiology met computational intelligence. She had designed many of the Neural enhancements used by Rising Sun Order leadership, giving her unique insight into their functional limitations.
-Together, they represented a convergence of skills and knowledge that might—just might—enable them to penetrate the Neural Sea's defenses.
+Together, they represented a convergence of skills and knowledge that might — just might — enable them to penetrate the Neural Sea's defenses.
+
+Before the planning began in earnest, Adam watched the three of them settle into the space. Rosa ran her palm across the planning table's surface, memorizing its dimensions, then positioned herself at the edge where acoustics were sharpest — she'd told him later that she chose seats the way a sound engineer chose studio monitors, for what they revealed rather than what they projected. Malik sat with his back to the wall, his modified tablet already open, fingers moving across it with the abstracted intensity of someone having a conversation in a language no one else spoke. He chewed his thumbnail constantly — a habit he seemed unaware of.
+
+Ayaka was the last to sit. She stood for a long moment studying the improvised equipment, then quietly repositioned two circuit boards that had been wired in parallel. "Sorry," she said, not looking up. "The harmonic interference would have corrupted the projection in about forty minutes." Nobody had asked her to check.
+
+During a break in planning, Adam found Malik alone in the corridor, retaping the grip on a modified data probe.
+
+"Lagos," Adam said. "Zedd's from Lagos too."
+
+Malik nodded. "Different Lagos. Mine was the floating markets. Power brokers, data merchants, encrypted everything. I was fourteen when I cracked my first government firewall." He tested the probe's connections. "They recruited me for this mission because I could break into anything. Then they realized I could break into *their* things too. That's when I became a transit accident."
+
+"You ever miss it? The city?"
+
+"Every day. But not the Lagos that exists now — the Lagos that existed when I was a kid, before the floods took the lower districts." He tucked the probe into his vest. "My grandmother sold yams in Balogun Market. She'd say, 'Malik, every lock was made by a person, and every person makes mistakes.' She wasn't talking about hacking. She was talking about forgiveness." He shrugged. "I just applied it differently."
+
+Nearby, Rosa and Ayaka were having a quiet conversation that Adam only half-caught — Rosa describing the underwater caves she'd mapped off Bahia, the way sound moved through limestone differently than water, how she'd learned to read geology through echoes the way sighted people read landscapes through light. Ayaka listened with the focused attention of someone recognizing a parallel discipline.
+
+"The Neural interfaces I designed work on similar principles," Ayaka said. "Resonance patterns. The brain doesn't process information linearly — it creates standing waves. When I realized the Rising Sun Order was using my work to suppress those waves rather than amplify them..." She trailed off. "I built the tool. They built the cage."
+
+Rosa reached across and touched Ayaka's hand briefly — a gesture of recognition between two women whose expertise had been weaponized by the systems that employed them.
+
 "The approach will require multiple phases," Dr. Voss explained, highlighting sections of a three-dimensional ship schematic projected above their planning table. "The Neural Sea exists in a specialized chamber near the gravitational center of the Orion, accessible through service corridors that were sealed after construction but should still be physically navigable."
 "Three primary security layers protect it," Ayaka added, her fingers tracing pathways through the projection. "First, environmental—the chamber is maintained at near-freezing temperatures with modified atmospheric composition to optimize computational efficiency. Second, electromagnetic barriers designed to disrupt unauthorized Neural interfaces. Third, AI-directed defense systems programmed to identify and neutralize intruders."
 "Once inside," Malik continued, "we'll face the actual data extraction challenges. The Neural Sea doesn't store information in conventional formats—it exists as probability patterns within a quantum matrix. Accessing specific data requires navigational protocols that blend computational precision with intuitive guidance."
@@ -51,7 +72,21 @@ The core team moved through passages that grew increasingly unfamiliar as they t
 Rosa led the way through particularly challenging segments, her blindness an advantage in environments where visual perception offered limited guidance. Her fingers traced wall surfaces with delicate precision, identifying minute vibration patterns that revealed nearby systems and potential hazards.
 "Pressure differential ahead," she warned as they approached a sealed bulkhead. "Atmosphere shifts to technical mix beyond this point."
 Ayaka activated specialized breather units she had modified from standard emergency equipment. "These will compensate for reduced oxygen and increased coolant particulates. The filters are good for approximately four hours."
-With practiced coordination, they bypassed the security seal using a combination of Artemis's biometric signature and Malik's custom decryption algorithms. The door slid open with a soft hiss of equalizing pressure, revealing a corridor unlike any standard ship architecture—its surfaces covered in a lattice-like pattern of cable conduits and data transmission lines that pulsed with subtle light.
+Malik positioned his decryption unit against the seal's interface port while Artemis pressed her palm to the biometric reader. The system hummed, processed — and rejected. A sharp tone echoed down the corridor.
+
+"Credential mismatch," Malik muttered, checking his readings. "They've updated the access protocol since the coup. Your Cultural Attaché clearance has been revoked."
+
+"Can you brute-force it?" Kai asked, checking the time.
+
+"Not without triggering a system-wide alert. Give me a minute." Malik's fingers moved across his interface, probing the lock's architecture. "The new protocol requires dual-faction authorization — one Nations Union, one Rising Sun. They designed it so neither side could access the core alone."
+
+Silence. The team exchanged glances. Without a Rising Sun Order credential, their entire plan collapsed at the first door.
+
+Ayaka stepped forward, pulling a thin data chip from her collar. "I still carry my RSO engineering credentials. They haven't been deactivated — Virel kept senior technical staff on the active roster for maintenance continuity."
+
+"If you use that, they'll know you've turned," Artemis warned.
+
+"They'll know eventually regardless." Ayaka slotted the chip into the secondary reader while Malik reconfigured the decryption sequence. This time, both authorization lights cycled green, and the door slid open with a soft hiss of equalizing pressure, revealing a corridor unlike any standard ship architecture — its surfaces covered in a lattice-like pattern of cable conduits and data transmission lines that pulsed with subtle light.
 "Neural pathways," Dr. Voss explained. "Direct physical connections to the central processing core. The wireless networks used throughout habitable sections would be insufficient for the data volumes processed here."
 The temperature dropped noticeably as they proceeded, their breath forming visible clouds despite the breather units. The walls began to glisten with condensation that froze into crystalline patterns resembling circuit diagrams.
 "We're entering the primary cooling sector," Kai noted. "The computational processes generate enormous heat that must be continuously dissipated."
@@ -92,7 +127,24 @@ Neither Adam nor Artemis could formulate an immediate response to this clinical 
 "I've programmed target parameters focusing on Mars colonization architecture, Earth management protocols, and factional authorization chains," she said, her voice already taking on a distant quality as the connection initialized. "The extraction will proceed regardless of my individual status."
 Her eyes—the synthetic implants that had replaced her original organs years before—began to pulse with the same rhythmic patterns visible in the data matrix. Her body remained physically present, but her consciousness clearly extended into the neural construct before them.
 "Beginning primary extraction sequence," she announced, her voice now carrying harmonics that seemed to resonate with the ambient sounds of the chamber. "Mars colonization architecture identified."
-The data visualization shifted in response to her query, streams reorganizing to bring certain patterns into prominence. Holographic projections began to materialize around them, rendered from the extracted data—detailed schematics of the planned Mars settlement in far greater detail than anything previously revealed to the crew.
+
+Then she screamed.
+
+The sound was unlike anything Adam had heard from Dr. Voss — raw, involuntary, torn from somewhere deeper than her carefully maintained composure. Her body convulsed against the platform, synthetic eyes flickering wildly between data patterns.
+
+"The system is fighting back," Ayaka reported, monitoring the neural connection metrics. "It recognized her consciousness as foreign and launched a counter-intrusion. It's trying to overwrite her cognitive architecture."
+
+"Pull her out!" Adam lunged toward the platform.
+
+"If we disconnect now, we lose everything — including her," Ayaka said, her hand on his arm. "The system has already partially integrated her neural pathways. A forced disconnection would leave her braindead."
+
+Voss's convulsions subsided into rigid stillness. When she spoke again, her voice came in fragments, as though forced through interference. "I can... navigate this. The system is treating me as... a virus. I need to stop fighting it and... let it think I belong."
+
+"That's neural absorption," Ayaka whispered. "She's choosing to let it take her deeper."
+
+Minutes passed. Voss's breathing stabilized. The data streams around her shifted from aggressive red patterns back to flowing blues and greens. She had found her way in — not through force but through surrender.
+
+"Mars colonization architecture re-acquired," she said, her voice steadier now but carrying undertones that weren't entirely her own. The data visualization shifted in response, streams reorganizing to bring certain patterns into prominence. Holographic projections began to materialize around them, rendered from the extracted data—detailed schematics of the planned Mars settlement in far greater detail than anything previously revealed to the crew.
 What they saw was not the harmonious scientific outpost described in official briefings, nor even the stratified but functional society Artemis had glimpsed in her father's restricted files. Instead, the true Mars plan revealed itself as the infrastructure for empire—a militarized, hierarchically governed metropolis designed to serve as the capital of a new interplanetary dominion.
 The settlement architecture featured concentric rings of control, with command structures centralized in a fortress-like complex surrounded by technological research facilities, then production zones, and finally maintenance sectors at the periphery. The entire design emphasized security, surveillance, and power projection rather than scientific discovery or sustainable habitation.
 "The colony is designed primarily as a control center," Voss narrated, her consciousness partly merged with the data she was extracting. "Residential capacity is limited to essential personnel and leadership cadres. The majority of the mission crew is classified as 'transitional workforce'—to be utilized during construction phases, then subject to 'resource reallocation' once critical infrastructure is established."
@@ -128,9 +180,17 @@ With Rosa's guidance, they located an access point to the ventilation system and
 The remainder of their escape blurred into a continuous sequence of narrow passages, emergency overrides, and desperate improvisations—Rosa's acoustic navigation proving invaluable as standard routes became compromised by security responses. By the time they reached the relative safety of the lower depths, all were exhausted, Malik requiring immediate medical attention for his injuries.
 But they had succeeded. The Neural Sea had yielded its secrets.
 
-The impact of their discovery spread through the resistance network like a electrical current, energizing disparate cells into cohesive action. In secure gathering spaces throughout the lower depths, the extracted files were carefully decrypted and projected for assembled groups—the truth of Mars colonization and Earth's planned extinction revealed in undeniable detail.
-The evidence transformed abstract suspicion into concrete certainty. What had been rumor and conjecture now appeared as methodical planning—the calculated elimination of billions justified through clinical terminology and resource equations. The emotional response among the resistance members ranged from stunned silence to renewed determination, grief hardening into resolve.
-More surprisingly, the information began to affect even the official decks. Despite security protocols designed to maintain factional control of communications, fragments of the evidence penetrated to crew quarters and even some passenger sections. The technical details of "Final Stabilization" proved particularly difficult to contain—its implications too profound for even the most loyal faction members to ignore completely.
+The impact of their discovery spread through the resistance network like an electrical current, energizing disparate cells into cohesive action. In secure gathering spaces throughout the lower depths, the extracted files were carefully decrypted and projected for assembled groups—the truth of Mars colonization and Earth's planned extinction revealed in undeniable detail.
+
+Ines Moreau took custody of the evidence with the cold focus of a professional who had waited years for this moment. She worked for thirty-six hours straight in a converted storage unit, cross-referencing the Neural Sea files against her own Archive — the footage she'd preserved, the gaps she'd catalogued, the timestamps she'd memorized. Where the resistance saw horror, Ines saw structure. She mapped the authorization chains. She identified which officials had signed which directives, and when. She matched the orbital weapons platform designs to procurement records hidden inside routine maintenance budgets.
+
+"They buried the genocide inside line items," she told Adam and Sofia, her voice flat with the particular fury of someone stating facts. "Atmospheric reclamation research. Debris management systems. Even the funding codes are euphemisms. I've been looking at this architecture for months without seeing it — because they scattered the pieces across a dozen classification levels. The Neural Sea was the only place it existed as a whole."
+
+She organized the evidence into packages calibrated for different audiences — technical breakdowns for the engineers, visual timelines for the general population, authorization chains for anyone still loyal to command who might be swayed by seeing their leaders' signatures on extermination orders. Not propaganda. Documentation. The journalist's instinct for making truth legible.
+
+The evidence transformed abstract suspicion into concrete certainty. What had been rumor and conjecture now appeared as methodical planning — the calculated elimination of billions justified through clinical terminology and resource equations. The emotional response among the resistance members ranged from stunned silence to renewed determination, grief hardening into resolve.
+
+More surprisingly, the information began to affect even the official decks. Despite security protocols designed to maintain factional control of communications, fragments of the evidence — in Ines's careful packaging — penetrated to crew quarters and even some passenger sections. The technical details of "Final Stabilization" proved particularly difficult to contain — its implications too profound for even the most loyal faction members to ignore completely.
 Throughout the ship, conversations shifted, questions emerged, doubts surfaced. The carefully constructed narrative of necessary selection and optimal preservation began to fracture under the weight of revealed genocide. Even among those who had benefited most from the selection process, the moral calculation changed when confronted with the deliberate planning for Earth's elimination.
 Three cycles after the Neural Sea extraction, Artemis addressed an assembled gathering in the central chamber of the lower depths. Her formal diplomatic attire had long since been replaced by practical clothing adapted for resistance operations, but her bearing retained the quiet authority that transcended mere costume or title.
 "What we've discovered was never meant to reach public awareness," she began, her voice carrying easily through the silent chamber. "Not because it represents factional secrets but because it reveals the fundamental lie at the heart of our mission."

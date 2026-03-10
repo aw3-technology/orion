@@ -34,7 +34,7 @@ Huang Wei fell into step beside him, equally uncomfortable in gray. The Chinese 
 
 "Unity of purpose," Adam echoed.
 
-"Oh, it's rather more than that," said Sofia Reed, cutting into the queue behind them without apology. Former literature professor from Cambridge, current waste management supervisor. Gray-streaked hair in a severe knot, British accent that could cut glass when she chose. She had the observational acuity of someone who'd spent decades reading between lines — and the habit of announcing what she found, whether you'd asked or not. "They're throwing themselves a party. Ten thousand people out of — what was it, Huang? Point-oh-oh-seven-something percent of the species? And they want a *ceremony* about it."
+"Oh, it's rather more than that," said Sofia Reed, cutting into the queue behind them without apology. Former literature professor from Cambridge, current waste management supervisor. Gray-streaked hair in a severe knot, British accent that could cut glass when she chose. She had the observational acuity of someone who'd spent decades reading between lines — and the habit of announcing what she found, whether you'd asked or not. "They're throwing themselves a party. Fifty thousand people out of — what was it, Huang? Point-oh-oh-seven-something percent of the species? And they want a *ceremony* about it."
 
 They fell silent as security sensors thickened near the ceremonial zone. Adam reached his station through progressively refined spaces — bare metal to polished composite to translucent material glowing with inner light — each transition a reminder of his peripheral status. The maintenance tunnel beneath the Grand Dome offered narrow observation slits designed for monitoring without visibility.
 

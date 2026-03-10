@@ -34,7 +34,14 @@ They moved in single file through the narrow passage—first Kai, then Adam, wit
 "Down," Sofia replied simply. "As far from the people in charge as we can get."
 
 The journey through the Orion's hidden infrastructure revealed a ship Adam had never known existed. They passed through cramped utility corridors, narrow access tunnels, and forgotten maintenance chambers—spaces that appeared on no official schematic, yet had clearly been used and modified over the years since departure.
-They crawled through regions choked with conduit bundles, navigated around massive power distribution nodes, and slipped through gaps in bulkheads that shouldn't have existed according to safety protocols. With each level they descended, the air grew warmer, denser with the mingled scents of machinery and humanity.
+They crawled through regions choked with conduit bundles, navigated around massive power distribution nodes, and slipped through gaps in bulkheads that shouldn't have existed according to safety protocols. With each level they descended, the air grew warmer, denser with the mingled scents of machinery and humanity. And something else changed — something Adam almost didn't register until its absence hit him like a cleared ear. The faint sweetness was gone. The chemical fog he'd been breathing since Luna, the compliance compounds threaded through every ventilation duct on the upper decks — down here, the air was clean. His thoughts sharpened. His chest loosened. He hadn't realized how dulled he'd been until the dulling stopped.
+
+"You feel it," Sofia said, watching his face. "The clarity."
+
+"The air down here — it's not dosed."
+
+"First thing they built was independent ventilation," Kai said. "Separate intake, separate filtration. Whatever Nakamura pumps through the upper decks doesn't reach here. People think more clearly when their air isn't laced with obedience."
+
 "We're below C-Deck now," Kai explained as they passed behind a thundering energy recycling plant. "Official deck designations end at D, but the ship's actual structure continues deeper."
 "Ballast chambers, waste processing, structural support," Sofia added. "Everything that keeps the upper decks running. Nobody up there thinks about it much."
 As they progressed, Adam began to notice signs of habitation—subtle at first, then increasingly undeniable. Markings on walls that weren't standard maintenance notations. Storage containers repurposed as personal lockers. Passages widened beyond official specifications to allow easier movement.
@@ -74,6 +81,20 @@ The recognition was simultaneously gratifying and uncomfortable. Adam had create
 Zedd clapped a hand on his shoulder.
 "Nah, man. It was authentic. That's the rarest resource aboard this ship." He glanced around at the quiet crowd now forming. "You gave us a pulse. We just remixed it so it could reach further."
 
+He turned back to his equipment, adjusting a frequency with two fingers. His hands were steadier than Adam remembered, but his eyes had a new quality — darker, more focused, as if he were listening to something behind the sounds he was making.
+
+"The hearing thing," Adam said quietly. "Still getting worse?"
+
+Zedd's grin didn't quite reach his eyes. "Depends on your definition of worse. I can hear the water pressure in the pipes two levels below us right now. I can tell you the compressor in Section 14 is running eleven RPM fast." He pulled off his headphones and held them out — silence on the pads, no playback. "I don't need these anymore. Haven't for weeks. I wear them so people don't ask questions."
+
+"Zedd —"
+
+"It's fine. Or it's not. Either way, down here I'm useful instead of a medical anomaly." He packed the headphones away. "I mapped the acoustic signature of every habitable section in the lower depths. Blind spots where security sensors can't reach, resonance corridors where sound carries for hundreds of meters, places where the walls absorb everything." He met Adam's eyes. "There's a woman — Rosa. You'll meet her. She's been blind since birth. She says the ship talks to her too. First person who didn't look at me like I was losing it when I described what I hear."
+
+Adam studied his friend's face — the humor still there, but stretched thinner now, covering something he couldn't name. "You're not losing it."
+
+"Maybe." Zedd shrugged. "Or maybe I lost it a while ago and this is just what the other side sounds like." He turned up the volume on his remix — the heartbeat track swelling gently through the alcove. "Either way, it's the most honest work I've ever done."
+
 They had just begun to move on when a commotion at the far end of the marketplace caught everyone's attention. The crowd parted to reveal a figure in a utility suit similar to those worn by Adam and his rescuers, but moving with a grace that seemed at odds with the industrial surroundings.
 Adam recognized her instantly, despite the practical gear that replaced her customary attire. Artemis Morea had found her way to the lower depths through paths of her own discovering.
 The reaction from the underground community was immediate and hostile. Several people moved to block her path, improvised weapons appearing from hidden pockets. The daughter of General Morea represented everything this hidden society had organized against—authority, selection, the hierarchy that had deemed them necessary but disposable.
@@ -83,7 +104,7 @@ Artemis stood her ground, making no move toward defense or aggression, her stanc
 Before tension could escalate to violence, Sofia pushed through the gathering crowd, placing herself between Artemis and those who would harm her.
 "Wait," she commanded, her academic authority still carrying weight even in this anarchic space. "She saved Adam once. Maybe she's saving us now."
 "She's the General's daughter," objected a tall man with West African features, his hand steady on what appeared to be a repurposed cutting tool. "A living symbol of betrayal."
-"I am Christopher Morea's daughter," Artemis acknowledged, her voice carrying clearly through the tense silence. "But I am not his instrument. Not anymore."
+"I am Christopher Morea's daughter," Artemis acknowledged, her voice carrying clearly through the tense silence. "But I am not his instrument. Not anymore." She thought of Chang'e—the goddess who drank the elixir and flew upward into exile. Artemis had swallowed her own elixir of terrible knowledge and descended. The myth inverted, the direction reversed, but the transformation was the same.
 She reached slowly into a pocket of her utility suit, telegraphing her movements to avoid misinterpretation. From it, she withdrew a small data cube—the same storage device Adam had glimpsed in her quarters during their clandestine meetings.
 "I bring information," she continued. "About what's really planned for Mars. And for Earth."
 Sofia studied her with analytical intensity before turning to the gathered crowd. "Let her speak. Here, in front of everyone. Then we decide."
@@ -123,7 +144,18 @@ As the gathering continued, discussion turned to practical response. The central
 "We need to target the weapons platforms," suggested a former engineering specialist. "Disable them before they can be activated."
 "Impossible without access to command systems," countered another. "The deployment sequences are protected by multi-layered security."
 "Then we need to penetrate the OmniscientAI core," Ilya proposed. "Its predictive models drive all strategic decisions. If we could introduce contradictory parameters, it might delay implementation while recalculating outcomes."
-The debate continued, possibilities evaluated and discarded based on practical limitations and security realities. Eventually, a consensus emerged around a high-risk operation: a small team would attempt to access the OmniscientAI's central processing hub, introducing modified behavioral parameters that would force recalculation of the Earth sterilization timeline.
+Amina shook her head, cutting through the technical speculation. "Before we plan an infiltration, we need to address something else. Who decides? Who coordinates? Because right now we're forty people talking over each other, and if we can't agree on water rations for the lower galley, I'm not sure how we mount a covert operation against the most sophisticated AI system ever built."
+The room shifted uncomfortably. Kai cleared his throat. "We've managed well enough without—"
+"Have we?" Amina pressed. "Last week, three separate teams tried to reroute the same oxygen conduit because nobody had authority to assign sectors. Mei-Ling nearly lost a patient because two medics gave contradictory instructions and neither would defer. We call this freedom, but sometimes it's just confusion with better intentions."
+A murmur ran through the gathering—not of disagreement but of recognition. The hidden community's proudly leaderless structure had become an article of faith, but the operational costs were mounting.
+"She's right," said Tariq quietly. "We built something beautiful down here. But beautiful doesn't mean functional under pressure. A garden without a plan is just weeds in the right light."
+"So what—we appoint a commander?" Ilya's voice carried genuine alarm. "Replicate exactly what we're fighting against?"
+"Not a commander," Amina replied. "But someone who can make a call when we're deadlocked. Temporary authority for specific operations, accountable to the group, revocable at any time. There's a difference between hierarchy and coordination, and pretending otherwise is a luxury we can't afford."
+Kai studied her for a long moment, then turned to the broader circle. "She's not wrong. I've been acting as de facto coordinator for months and we all pretend I'm not. That's its own kind of dishonesty."
+The acknowledgment landed heavily. Several people exchanged glances, recognizing the unspoken hierarchy they'd maintained while claiming to have none.
+"Fine," Sofia said. "For this operation—Kai coordinates logistics, Amina manages resource allocation, and tactical decisions go to a three-person team: Adam, Artemis, and Ilya. Specific authority, specific duration, full debrief after. Not because we believe in hierarchy, but because we believe in surviving long enough to keep arguing about it."
+The proposal passed through the gathering with more resistance than their usual easy consensus—some still uneasy with any formalized authority, others relieved to finally name what had been operating invisibly. The tension itself felt valuable, a crack in the comfortable binary they'd been living inside.
+The debate continued on operational specifics, now with clearer channels for decision. Eventually, a consensus emerged around a high-risk operation: a small team would attempt to access the OmniscientAI's central processing hub, introducing modified behavioral parameters that would force recalculation of the Earth sterilization timeline.
 "This isn't about stopping them permanently," Kai clarified. "It's about buying time—delaying implementation long enough for Earth resistance groups to be warned through the autonomous relay stations."
 The plan was ambitious but technically feasible—drawing on the combined expertise of the underground community and leveraging access points mapped over months of careful observation. What remained was determining who would undertake the actual infiltration.
 "I'll go," Adam volunteered without hesitation. "I have the technical knowledge to implement the modifications, and my security clearance—if it hasn't been revoked—might still provide initial access to adjacent systems."

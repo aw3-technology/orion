@@ -2,7 +2,7 @@
 
 Earth hung in the void like a tarnished marble — oceans gone the color of old copper, continents scarred by storms that no longer had names because there were too many to name. The atmosphere shimmered with haze and wildfire smoke, wavering like the last breath of something that had already decided to stop breathing.
 
-Against this dying backdrop, the Orion blazed in sunlight. Massive habitat rings and solar arrays unfurling like a mechanical flower in full bloom. Three years of frantic construction, culminating in humanity's greatest engineering achievement and its most exclusive escape plan. Ten thousand berths. Accommodation starting in the hundreds of millions.
+Against this dying backdrop, the Orion blazed in sunlight. Massive habitat rings and solar arrays unfurling like a mechanical flower in full bloom. Three years of frantic construction, culminating in humanity's greatest engineering achievement and its most exclusive escape plan. Fifty thousand berths. Accommodation starting in the hundreds of millions.
 
 A countdown pulsed across every screen on the planet:
 

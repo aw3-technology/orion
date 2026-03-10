@@ -58,9 +58,13 @@ He was adjusting a small atmospheric sensor, his presence plausibly part of his 
 
 "Technician Hale," she greeted him. "More valve malfunctions?"
 
-"Atmospheric calibration," he replied. "The Mediterranean biome requires precise oxygen-carbon balancing."
+"Atmospheric calibration," he replied. "The Mediterranean biome requires precise oxygen-carbon balancing." He hesitated, then added more quietly: "And I've been running secondary readings. The same synthetic compounds I found in the air at Luna — the mood stabilizers — they're present here too. Lower concentration, but consistent across every biome I've tested."
 
-Artemis nodded and, after a moment's consideration, seated herself on the opposite end of the bench. A careful distance separated them—physically close yet maintaining proper hierarchical space.
+Artemis's expression sharpened. "In the gardens?"
+
+"In the gardens. In the D-Deck corridors. In the mess halls." He tapped the sensor. "Whoever's dosing the air supply isn't limiting it to special events. It's systemic."
+
+Artemis was silent for a long moment, processing. Then she nodded and, after a moment's consideration, seated herself on the opposite end of the bench. A careful distance separated them—physically close yet maintaining proper hierarchical space.
 
 "Is it strange?" she asked after a long silence. "Being surrounded by plants from a world most of us will never see again?"
 
@@ -100,47 +104,67 @@ For the first time, Artemis smiled without reservation—a genuine expression th
 
 ---
 
-Their meetings became a carefully orchestrated dance of plausible deniability—sometimes in the botanical garden's lesser-visited sections, occasionally on observation decks during low-traffic periods, once in the shadow of a maintenance corridor where environmental monitoring had been "scheduled for recalibration."
+Their meetings became a carefully orchestrated dance of plausible deniability — sometimes in the botanical garden's lesser-visited sections, occasionally on observation decks during low-traffic periods, once in the shadow of a maintenance corridor where environmental monitoring had been "scheduled for recalibration."
 
-Each encounter followed an unspoken protocol: maintaining appropriate physical distance, exchanging information under the guise of casual observation, never explicitly acknowledging the deliberate nature of their interactions. Yet with each meeting, the space between them—both physical and psychological—gradually diminished.
+During one meeting in the desert biome, Adam brought a small data crystal containing undoctored Earth news footage. Artemis took it, turning the crystal between her fingers. Then she frowned.
 
-"Have you noticed the discrepancies in the public data feeds?" Adam asked during one such meeting, as they stood on opposite sides of a small fountain in the garden's desert biome. "The reported habitability metrics for Mars don't match what's being prepared in the engineering divisions."
+"You carried this through two security checkpoints?"
 
-Artemis nodded slightly. "The cultural archive is similarly curated. Certain historical events have been reclassified as 'contextually inappropriate' for the Mars transition narrative." She traced the edge of the fountain with her fingertip. "Particularly resistance movements, popular uprisings, anything suggesting the validity of challenging established power."
+"Encrypted and shielded. Undetectable."
 
-"They're not just building a new world," Adam observed. "They're building a new history to support it."
+"It's not undetectable. It's undetectable to *current* scanning protocols. Virel upgrades his sensor arrays every twelve days. I've been tracking the cycle." She tucked the crystal into her sleeve with practiced efficiency. "Next time, dead-drop it in the irrigation junction below the Mediterranean section. I check the valve housing every third day."
 
-"History, art, even mythology," Artemis agreed. "Speaking of which, have you ever studied the original Orion myth? Not the sanitized version in the ship's database, but the ancient variations?"
+Adam stared at her. "You have a dead-drop protocol."
 
-Adam's expression shifted subtly. "You mean the hunter who became a constellation?"
+"I have several. You've been improvising. It's charming but it's going to get you arrested."
 
-"Among other things," Artemis replied. "In some versions, Orion was a companion to Artemis, goddess of the hunt. In others, her victim. The stories contradict each other—was he a hero or a transgressor? Did Apollo trick Artemis into killing him, or did she act deliberately? Was he placed in the stars as punishment or memorial?" She paused. "The official database removes all these ambiguities. Makes it a simple morality tale."
+He laughed — a real laugh, surprised out of him. She looked momentarily startled by the sound, as if laughter were a foreign object in the spaces she inhabited. Then the corner of her mouth turned up, and for a moment the composed mask cracked into something younger and less defended.
 
-"What do you think the truth was?" Adam asked.
+"You're right," he admitted. "I've been sloppy."
 
-Artemis considered the question. "I think perhaps they were both trapped in roles assigned to them by forces beyond their control. Gods and mortals, playing parts in a cosmic drama they didn't fully understand."
+"You've been brave. They're not the same thing, but people confuse them constantly."
 
-Their eyes met across the fountain, the parallel to their own situation unmistakable.
+In the observation alcove during ship-night, their conversation took a harder turn. Adam described Sofia's Archive — the suppressed footage, the counter-record being built frame by frame.
 
-In another meeting, Adam brought a small data crystal containing undoctored Earth news footage—tangible evidence of the selective editing happening in official broadcasts.
+"We need to get this information to more people," he said. "Not just the resistance. Everyone."
 
-"Where did you get this?" Artemis asked, carefully concealing the crystal in her sleeve.
+Artemis shook her head. "Not yet. A premature broadcast gets intercepted, the Archive gets destroyed, and Sofia's network gets burned. You'd trade the permanent record for a moment of outrage."
 
-"There are people aboard who remember," Adam replied simply. "People who preserved what wasn't meant to be saved."
+"People deserve to know what's being done in their name."
 
-On an observation deck during ship-night, Artemis described her growing disillusionment with the Mars cultural integration protocols.
+"People deserve to *survive* knowing it. There's a difference." Her voice had the cool precision of someone who'd grown up watching political miscalculations destroy lives. "My mother tried to challenge the system openly. She thought the truth would protect her. It didn't."
 
-"It's not preservation," she explained, her voice barely above a whisper despite the empty chamber. "It's vivisection—cutting living traditions into pieces, keeping what's useful for control, discarding anything that might inspire uncomfortable questions."
+The words landed like a closed door. Adam felt the rebuke in them — not just of his tactics but of the righteous certainty he wore like armor.
 
-Adam nodded, standing close enough that their shoulders nearly touched as they gazed at the stars.
+"I'm not saying you're wrong," he said after a moment. "I'm saying I don't know how to be patient about genocide."
 
-"What would you do?" he asked. "If you weren't bound by your role?"
+"I'm not asking you to be patient. I'm asking you to be strategic." She turned to face him directly. "Those are the people I grew up around, Adam. Generals, diplomats, people who plan atrocities over breakfast and sleep well after. I know how they think because I was trained to think like them. That's the only advantage we have. Don't waste it on a gesture."
 
-Artemis turned slightly toward him, their faces now dangerously near. "I'd want to see Earth's full legacy preserved—messy, contradictory, human. Not optimized or sanitized, but true." She paused. "What about you? What do you dream of beyond technical repairs?"
+They stood in the tension of genuine disagreement — not the manufactured friction of different backgrounds but the real difficulty of two people who wanted the same thing and couldn't agree on how to get it.
 
-"Broadcasting reality," he answered without hesitation. "Finding a way to let people hear the music that isn't algorithmically approved, see the art that isn't optimization-friendly, know the history that wasn't selected for the official narrative."
+"Okay," Adam said finally. "Teach me. How do they think?"
 
-Their hands rested side by side on the observation railing, not quite touching but close enough to feel the warmth between them. Neither acknowledged the electricity building in that narrow space—a current running counter to all the ship's carefully regulated systems.
+She studied him, weighing whether the offer was real. Then she sat down on the narrow ledge, tucking her legs beneath her, and began to explain — not in abstractions but in specifics. How Virel tested loyalty through small requests before large ones. How her father's council meetings were structured to produce the appearance of debate while eliminating actual dissent. How the selection algorithms had been calibrated not for genetic fitness but for psychological compliance, because a Mars colony of obedient mediocrities was more useful than a colony of brilliant dissenters.
+
+Adam listened with the focus he usually reserved for mechanical systems. At some point he sat down beside her, close enough that their knees touched. Neither moved away.
+
+"You're good at this," he said.
+
+"At what? Explaining how to be a tyrant?"
+
+"At seeing the machine. How the parts connect." He paused. "You would have been terrifying if you'd stayed on their side."
+
+"I know," she said. No false modesty. Just recognition of a fact.
+
+They sat in silence for a while, shoulders touching, watching stars through the viewport. Adam became aware of small things — the way she smelled like the jasmine seeds she carried in her pocket, the fine scar on her left wrist where she'd once cut herself on a broken sextant (she'd told him the story — teaching herself celestial navigation at fourteen from her mother's books, bleeding onto star charts). The warmth of her arm against his through two layers of fabric.
+
+"What do you dream of?" he asked. "Beyond all this. Beyond resistance and strategy and saving the world."
+
+Artemis was quiet for a long time. "A room with actual windows," she said at last. "Ones that open. Wind that smells like dirt and rain. A table with food I cooked badly. Someone sitting across from me who isn't performing anything." She glanced at him sideways. "That's embarrassingly domestic."
+
+"It's the most subversive thing you've ever said."
+
+She laughed — quiet, almost involuntary, a sound he wanted to hear again.
 
 ---
 
