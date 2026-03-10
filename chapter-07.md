@@ -70,7 +70,21 @@ Everyone present understood the euphemism. Outer perimeter observation was isola
 
 As she exited the chamber, Morea turned back to the remaining council members, his voice hardening. "Let me be absolutely clear. The time of negotiation ended on Earth. Mars will be born of decision, not debate. Command must not tremble, even for a moment. There is no room for uncertainty in what we build."
 
-The council members nodded in unison, their faces masks of compliance. But in the shadows between the glowing pillars, doubt had found a foothold, invisible but present—like a hairline crack in a perfect structure.
+The council members nodded in unison, their faces masks of compliance.
+
+"One remaining matter," Admiral Chen said, sliding a data tablet to the center of the table. "The Rising Sun Order has submitted a revised governance framework for Mars Phase One. Prince Virel proposes integrated neural-administrative oversight of all settlement operations. Decision-making routed through OmniscientAI, with human review limited to strategic parameters."
+
+"In other words," Morea said flatly, "hand the colony to a machine and let humans rubber-stamp its decisions."
+
+"The proposal includes efficiency projections," Chen continued carefully. "Forty percent faster infrastructure deployment, sixty percent reduction in resource allocation disputes—"
+
+"I don't care if it promises immortality." Morea's palm struck the table, the sound sharp in the austere chamber. "The day we subordinate human command to algorithmic recommendation is the day we've already lost Mars. You can court-martial a commander who makes a catastrophic decision. You cannot court-martial a program. Human authority means human accountability — that is the line."
+
+"Virel frames it as partnership, sir. Not replacement."
+
+"Virel frames everything as partnership. That's what makes him dangerous." Morea's voice dropped. "Respond to the proposal with formal acknowledgment and defer to post-landing committee review. Which will be convened at my discretion. Which will be never."
+
+The council members exchanged glances but said nothing. The fracture between the mission's two governing philosophies — human authority versus algorithmic optimization, command versus calculation — was widening with every passing week. And both sides knew that Mars, when they reached it, would force the question to its conclusion.
 
 ---
 
@@ -118,63 +132,51 @@ The holograms nodded in synchronized understanding before fading, leaving Virel 
 
 ---
 
-"Watch your head," Kai Chen warned as he led Alex through a maintenance duct that hadn't appeared on any official schematic. "This section was modified during construction—marked as a dead space in the final blueprints."
+"Watch your head," Kai Chen warned as he led Adam through a maintenance duct that hadn't appeared on any official schematic. "This section was modified during construction—marked as a dead space in the final blueprints."
 
-Alex ducked beneath a low-hanging conduit, following the older engineer through the cramped passage. They had been walking for nearly fifteen minutes, taking a circuitous route through the ship's maintenance infrastructure that seemed designed to confuse rather than connect.
+Adam ducked beneath a low-hanging conduit, following the older engineer through the cramped passage. They had been walking for nearly fifteen minutes, taking a circuitous route through the ship's maintenance infrastructure that seemed designed to confuse rather than connect.
 
-"How much farther?" Alex asked, his voice low despite the unlikelihood of surveillance this deep in the ship's underbelly.
+"How much farther?" Adam asked, his voice low despite the unlikelihood of surveillance this deep in the ship's underbelly.
 
-"Almost there," Kai replied. "Every system has an undocumented subsystem. This is ours."
+"Almost there," Kai replied. "Keep close."
 
-They reached what appeared to be a standard junction box—unremarkable except for the slight discoloration around its edges. Kai placed his palm against the metal surface, and a hidden panel slid aside, revealing a numerical keypad. He entered a sequence too quickly for Alex to follow, and a section of the wall receded with a soft hydraulic hiss.
+They reached what appeared to be a standard junction box—unremarkable except for the slight discoloration around its edges. Kai placed his palm against the metal surface, and a hidden panel slid aside, revealing a numerical keypad. He entered a sequence too quickly for Adam to follow, and a section of the wall receded with a soft hydraulic hiss.
 
 "After you," Kai gestured.
 
-Alex stepped through the opening into a space that shouldn't exist. The chamber was approximately twelve meters across, its ceiling high enough to stand comfortably. Unlike the utilitarian passages they had traversed to reach it, this space had been purposefully modified—power routed through dummy systems, ventilation disguised as routine circulation, thermal signatures masked by carefully calibrated interference patterns.
+Adam stepped through the opening into a space that shouldn't exist. The chamber was approximately twelve meters across, its ceiling high enough to stand comfortably. Unlike the utilitarian passages they had traversed to reach it, this space had been purposefully modified—power routed through dummy systems, ventilation disguised as routine circulation, thermal signatures masked by carefully calibrated interference patterns.
 
-Most surprising was not the room itself but who occupied it. Alex recognized Sofia Reed immediately, the former literature professor's sharp eyes watching him from a makeshift workstation covered in data tablets and modified communication equipment. Beside her stood a tall, thin man with olive skin and silver-streaked black hair—his bearing academic despite his sanitation worker's uniform.
+Most surprising was not the room itself but who occupied it. A dozen people, maybe more—Adam recognized some from the crew mess hall, others only by the sectors stamped on their uniforms. They occupied the space with the focused quiet of people doing work that mattered to them: someone hunched over seedling samples in a modified agricultural testing unit, another calibrating communication equipment with bare-handed precision, a woman running hydraulic simulations on a screen she'd clearly built from scavenged parts.
 
-"Mohammed Al-Farouk," Kai introduced. "Former AI ethics professor at Cairo University, current waste recycling specialist."
+Sofia Reed watched him from a makeshift workstation, sharp eyes tracking his reaction the way a teacher monitors an exam.
 
-"An optimization of my talents, clearly," Al-Farouk remarked with dry humor, extending his hand.
+Beside her, a tall man with olive skin and silver-streaked black hair looked up from a data tablet, his bearing academic despite his sanitation worker's uniform.
 
-As Alex's eyes adjusted to the dim lighting, he recognized other faces—some familiar from the crew mess hall, others he had only glimpsed in passing during his maintenance routes.
+"Mohammed Al-Farouk," Kai introduced. "Used to teach AI ethics at Cairo University. Now he sorts our recycling."
 
-"Jun-Ho Kim," Kai continued, indicating a compact, muscular Asian man hunched over what appeared to be a modified agricultural testing unit. "Ex-agrigeneticist from Seoul National University's Sustainable Systems Division."
+"An optimization of my talents, clearly," Al-Farouk said, extending his hand. His grip was firm, his eyes assessing. "You're the one who broke the ceremony."
 
-Kim nodded briefly, his attention returning immediately to the seedling samples arranged before him.
+"I fixed a sound system."
 
-"Nneka Obi," Kai gestured toward a tall Black woman with intricate braids pulled back from her angular face. "Hydro-engineer who designed half the water reclamation systems we're currently using, though officially she's listed as a filter maintenance technician."
+"You replaced an algorithm with something it couldn't produce. That's not repair work." He tilted his head. "That's a philosophical position. Whether you intended it as one or not."
 
-"My daughter was six," Obi said without preamble, her voice carrying the ghost of a Nigerian accent. "They wouldn't let her through the perimeter fence because her genetic screening showed 'sub-optimal adaptation capacity for reduced gravity environments.' She had slight skeletal density variations. Completely manageable with standard supplements."
+Adam looked around the chamber—communication equipment, data storage, laboratory gear, agricultural samples. People working without supervision or permission, in a room the ship's systems didn't know existed.
 
-The simple statement hung in the air, requiring no elaboration. Every person in the room carried similar stories—of qualifications ignored, of loved ones left behind, of expertise reduced to function.
+"What is this place?"
 
-"You're the smartest people on this ship," Alex said, the realization dawning as he looked around the hidden chamber.
+"We document," Kai said. "What's really happening on Earth, what's really planned for Mars. We maintain communication channels back to resistance movements on the surface. And we prepare."
 
-"Smart doesn't get you selected," Kai replied. "Obedience does. Or at least the appearance of it."
+"For what?"
 
-Sofia approached, carrying a data tablet whose security modifications were immediately apparent to Alex's trained eye. "We call ourselves the Free Orioneers," she said. "Not rebels, as that implies mere opposition. We're fighting for something specific—the freedom to determine humanity's future beyond optimization algorithms and power hierarchies."
+"For when knowing the truth isn't enough anymore," Sofia said. She held up a data tablet with visible security modifications. "Not through violence—we haven't got the numbers. Through strategic intervention in systems we understand better than anyone in A-Deck."
 
-"What exactly are you doing here?" Alex asked, gesturing to the impromptu laboratory equipment, the communication systems, the data storage units lining the walls.
+Adam processed this, his technical mind automatically calculating risks, vulnerabilities, possibilities. "You're talking about sabotage."
 
-"Three things," Al-Farouk answered, his academic precision evident in the structured response. "Documentation, communication, and preparation."
+"We're talking about options," Al-Farouk corrected mildly, as if proposing a seminar topic rather than insurrection. "Right now there's one plan for Mars. One trajectory, one set of architects, one vision. We'd like there to be more than one."
 
-"We're documenting the truth of the mission," Sofia elaborated. "Collecting evidence of the selection process on Earth, the hidden protocols aboard the Orion, the real plans for Mars beyond the sanitized presentations."
+Sofia handed Adam the tablet. "This is why you're here. You've got access none of us have, and you've already shown you can think past what's in front of you."
 
-"Communication involves smuggling critical information back to Earth via encrypted lunar buoys," Kai continued. "There are resistance movements still fighting there—people who deserve to know what's really happening with humanity's 'salvation.'"
-
-"And preparation?" Alex prompted.
-
-"For the inevitable moment when we must actively disrupt the faction hierarchy," Obi stated matter-of-factly. "Not through violence—we're drastically outnumbered and outgunned—but through strategic intervention in critical systems."
-
-Alex processed this information, his technical mind automatically calculating risks, vulnerabilities, possibilities. "You're talking about sabotage."
-
-"We're talking about creating choice," Jun-Ho Kim corrected, looking up from his seedlings. "The current trajectory gives humanity only one option—a Mars built on the same principles that destroyed Earth, only with more sophisticated control mechanisms."
-
-Sofia handed Alex the data tablet she'd been holding. "This is why we wanted you to see this place, to meet these people. You have access and skills we need, but more importantly, you've demonstrated the capacity to see beyond your assigned role."
-
-Alex looked down at the screen, finding himself staring at a schematic of the Orion—but not one he recognized from any official documentation. This map showed sections and pathways absent from the blueprints he'd studied during his maintenance training. Some areas were highlighted with annotations, others marked with questions or warnings.
+Adam looked down at the screen, finding himself staring at a schematic of the Orion—but not one he recognized from any official documentation. This map showed sections and pathways absent from the blueprints he'd studied during his maintenance training. Some areas were highlighted with annotations, others marked with questions or warnings.
 
 But one section near the ship's core drew his immediate attention—a circular chamber labeled simply "Central Sub-Matrix Core."
 
@@ -184,11 +186,11 @@ The Free Orioneers exchanged significant glances before Sofia answered.
 
 "That's what we're trying to determine," she said carefully. "It's heavily shielded, consumes massive power, and doesn't correspond to any known ship function. Access is restricted to the highest security clearance."
 
-"And you think I can help you figure it out?" Alex asked skeptically.
+"And you think I can help you figure it out?" Adam asked skeptically.
 
 "Your new assignment to Environmental Systems Team Alpha gives you legitimate access to sectors adjacent to the core," Kai explained. "More importantly, your particular technical creativity might see solutions the rest of us have missed."
 
-Alex studied the faces around him—brilliant minds reduced to functional roles, experts whose knowledge had been deemed less valuable than their labor capacity. People who had lost everything but still fought for a future they might never see.
+Adam studied the faces around him—brilliant minds reduced to functional roles, experts whose knowledge had been deemed less valuable than their labor capacity. People who had lost everything but still fought for a future they might never see.
 
 "I need time to think about this," he said finally, knowing that agreeing too quickly would be as suspicious as refusing outright.
 
@@ -196,77 +198,81 @@ Alex studied the faces around him—brilliant minds reduced to functional roles,
 
 ---
 
-As they retraced their steps through the ship's underbelly, Alex kept his thoughts folded tightly, his mind a quiet storm. Just before they reached the exit junction, Kai paused at an unmarked corridor, gesturing for Alex to wait.
+As they retraced their steps through the ship's underbelly, Adam kept his thoughts folded tightly, his mind a quiet storm. Just before they reached the exit junction, Kai paused at an unmarked corridor, gesturing for Adam to wait.
 
 "Give me a moment," Kai said, disappearing through a side hatch.
 
-Alex waited in the half-dark, lit only by a flickering maintenance light. He was just starting to wonder if he should follow when a quiet voice emerged from the shadows behind him.
+Adam waited in the half-dark, lit only by a flickering maintenance light. He was just starting to wonder if he should follow when a quiet voice emerged from the shadows behind him.
 
 "Strange, isn't it?" the voice said. "To be inside something you helped build and still not recognize it."
 
-Alex turned to see an older man leaning casually against the curved wall. He wore a technician's uniform streaked with fine dust, his face creased with age and something deeper—remembrance.
+Adam turned to see an older man leaning casually against the curved wall. He wore a technician's uniform streaked with fine dust, his face creased with age and something deeper—remembrance.
 
 "Eli Abramov," the man said simply, offering his hand. "Once, I was an architect."
 
-"I've heard of you," Alex replied, shaking it. "Kai mentioned you designed parts of the ship."
+"I've heard of you," Adam replied, shaking it. "Kai mentioned you designed parts of the ship."
 
 "Parts?" Eli chuckled softly. "I designed the spine. The living corridors. The memory spaces. Most were stripped out before launch. Too inefficient. Too human."
 
 He glanced up at the conduit web overhead. "They built the Pharaoh's ship, you see. All structure, no soul."
 
-"And you?" Alex asked. "What are you doing down here?"
+"And you?" Adam asked. "What are you doing down here?"
 
 "Tending what's left of the garden," Eli said. "Reminding the machine it was once meant to carry meaning, not just people. They don't see the difference. But I do."
 
 From his coat, Eli produced a small etched tablet—metal, not digital. A symbol was carved into it: a tree with ten branches.
 
-"Every system carries a ghost of its first intention," he said, pressing the tablet into Alex's hand. "Don't trust what they show you. Listen for what they buried. The soul hums in the hidden places."
+"Every system carries a ghost of its first intention," he said, pressing the tablet into Adam's hand. "Don't trust what they show you. Listen for what they buried. The soul hums in the hidden places."
 
-Kai returned before Alex could respond, nodding briefly to Eli, who nodded back without a word. The older man disappeared into a side corridor without ceremony, like a dream fading before waking.
+Kai returned before Adam could respond, nodding briefly to Eli, who nodded back without a word. The older man disappeared into a side corridor without ceremony, like a dream fading before waking.
 
-Alex tucked the tablet into his pocket, unsure if he'd just met a prophet or a madman. But something about the man's words clung to him—like a code etched not in logic, but in myth.
+Adam tucked the tablet into his pocket, unsure if he'd just met a prophet or a madman. But something about the man's words clung to him—like a code etched not in logic, but in myth.
 
-As Kai prepared to guide him back through the labyrinthine route to familiar territory, Jun-Ho Kim approached, pressing something small into Alex's palm.
+As Kai prepared to guide him back, the man who'd been tending seedlings in the chamber approached—compact, focused, dirt still under his fingernails. He pressed something small into Adam's palm without introduction.
 
-"A seed," the agrigeneticist explained. "Modified to grow even in poor light and minimal soil. Life finds pathways even in the most controlled environments. Something to remember."
+"Modified to grow in poor light and thin soil," he said. "In case you need reminding that control is never total."
 
-Alex closed his fingers around the tiny seed, feeling its impossible potential against his skin. A simple metaphor, perhaps, but no less powerful for its simplicity.
+Adam looked down at the tiny seed.
+
+"Jun-Ho Kim," Kai said quietly as they moved toward the exit. "Agrigeneticist. Everything growing in that chamber is alive because of him."
+
+Adam closed his fingers around the seed, feeling its impossible potential against his skin.
 
 ---
 
 The ship's night cycle had begun, lighting reduced to thirty percent in crew areas, environmental systems adjusted to promote sleep efficiency. On D-Deck, the crew dormitory hummed with the quiet sounds of exhausted workers finding brief escape in unconsciousness.
 
-Alex lay on his narrow bunk, staring at the ceiling mere centimeters from his face. His encounter with the Free Orioneers replayed through his mind—their hidden chamber, their impossible mission, their invitation to risk everything for a future they could barely imagine.
+Adam lay on his narrow bunk, staring at the ceiling mere centimeters from his face. His encounter with the Free Orioneers replayed through his mind—their hidden chamber, their impossible mission, their invitation to risk everything for a future they could barely imagine.
 
-He had secured the seed Jun-Ho Kim had given him in a small container among his few personal possessions. Such a tiny thing to embody such a powerful idea—life persisting despite control, finding paths to growth even in hostile environments.
+He had secured the seed in a small container among his few personal possessions. Such a tiny thing to embody such a powerful idea—life persisting despite control, finding paths to growth even in hostile environments.
 
 From the bunk across the narrow aisle, Zedd shifted quietly in the dark.
 
 "You still awake?" he whispered.
 
-"Yeah," Alex replied.
+"Yeah," Adam replied.
 
 There was a pause, the kind only friends could share without discomfort. Then Zedd said, "You ever think maybe the seed isn't the plan? Maybe it's the refusal."
 
-Alex turned his head slightly. "To what?"
+Adam turned his head slightly. "To what?"
 
 "To vanish," Zedd said. "To let them decide what grows."
 
-Alex didn't answer right away. In the dim blue night light of the dorm, he could just make out the shadow of Zedd reclining with his hands behind his head, gaze fixed upward as if trying to read something in the dark.
+Adam didn't answer right away. In the dim blue night light of the dorm, he could just make out the shadow of Zedd reclining with his hands behind his head, gaze fixed upward as if trying to read something in the dark.
 
 "You ever hear the hum in the walls near Engineering Junction 3?" Zedd asked suddenly.
 
-Alex furrowed his brow. "The resonance near the coolant pump?"
+Adam furrowed his brow. "The resonance near the coolant pump?"
 
 "No," Zedd said. "Beneath that. It's like... a melody trying to come through. Faint, but patterned. I've been mapping it."
 
-Alex blinked. He hadn't expected that. "You think the ship's singing?"
+Adam blinked. He hadn't expected that. "You think the ship's singing?"
 
 Zedd gave a soft chuckle. "I think it's remembering."
 
-Alex closed his eyes, holding onto that thought like it was more than metaphor. Like maybe the ship—and everyone in it—carried something buried, humming beneath the system. Waiting to bloom.
+Adam closed his eyes, holding onto that thought like it was more than metaphor. Like maybe the ship—and everyone in it—carried something buried, humming beneath the system. Waiting to bloom.
 
-As sleep finally began to claim him, Alex's thoughts drifted to the mysterious Central Sub-Matrix Core hidden within the Orion's heart. What purpose could be so important yet so secret? What function required such power, such protection?
+As sleep finally began to claim him, Adam's thoughts drifted to the mysterious Central Sub-Matrix Core hidden within the Orion's heart. What purpose could be so important yet so secret? What function required such power, such protection?
 
 And somewhere between those questions and the slow drift into dreams, the seed sat silent in its box—and hummed.
 
@@ -286,7 +292,7 @@ Sleep approached gradually, her consciousness drifting away from the ordered tho
 
 The dream began with falling.
 
-Alex felt himself plummeting through endless space—not the terrifying drop of nightmares but a weightless descent through infinite darkness. No up, no down, just the sensation of movement without reference points or destination.
+Adam felt himself plummeting through endless space—not the terrifying drop of nightmares but a weightless descent through infinite darkness. No up, no down, just the sensation of movement without reference points or destination.
 
 Stars surrounded him, cold pinpricks of light against the void. He reached toward them, but they remained distant, untouchable.
 
@@ -294,13 +300,13 @@ One by one, the stars began to blink out—first the smallest, then increasingly
 
 Then—a single point of light appeared ahead. Not a star but something else. Something alive.
 
-Alex turned himself toward it, his movement more intention than physics in the dreamscape. The light grew larger as he approached, or as it approached him—distance becoming meaningless in this space between spaces.
+Adam turned himself toward it, his movement more intention than physics in the dreamscape. The light grew larger as he approached, or as it approached him—distance becoming meaningless in this space between spaces.
 
 He reached toward the growing light, his hand extending into its radiance. As it engulfed him, he saw a figure within—a mirrored version of himself, yet not himself. A presence both familiar and unknown.
 
 A voice spoke, though not with sound: *"You are not machinery. You are music."*
 
-The words resonated through him like a physical force, awakening recognition of something he had always known but never articulated. In that moment of clarity, Alex saw pathways he hadn't imagined—connections forming between isolated points, harmony emerging from discord.
+The words resonated through him like a physical force, awakening recognition of something he had always known but never articulated. In that moment of clarity, Adam saw pathways he hadn't imagined—connections forming between isolated points, harmony emerging from discord.
 
 ---
 
@@ -316,7 +322,7 @@ Understanding bloomed within her—the mythology she had studied was not histori
 
 ---
 
-Alex gasped awake, the dream still vibrating through his consciousness with unusual clarity. Unlike normal dreams that faded upon waking, this one remained sharp-edged and significant.
+Adam gasped awake, the dream still vibrating through his consciousness with unusual clarity. Unlike normal dreams that faded upon waking, this one remained sharp-edged and significant.
 
 Without turning on his light, he reached for his beatmaker, activating its recording function. His fingers moved across the interface with practiced precision, translating the experience into patterns of sound—layering frequencies that captured the sensation of falling, the disappearance of reference points, the emergence of singular clarity from absolute darkness.
 

@@ -34,7 +34,7 @@ The docking bay opened into a massive atrium. The ceiling was a transparent dome
 
 Then a security officer herded him toward a processing station, and the moment passed.
 
-The AI interface scanned him with blue light that tingled against his skin. "Technician Hale, Adam J. Assigned to Maintenance Team Delta, Waste Reclamation Division. Quarters: Grey Sector, Level D, Unit 12-17. Shift begins 0600 hours. Orientation in Conference Room Grey-9 in thirty minutes."
+The AI interface scanned him with blue light that tingled against his skin. "Technician Hale, Adam J. Assigned to Maintenance Team Delta, Waste Reclamation Division. Quarters: D-Deck, Unit 12-17. Shift begins 0600 hours. Orientation in Conference Room D-9 in thirty minutes."
 
 A route map materialized on his wrist monitor. Adam memorized the layout in a single sweep — old habit from years of mapping escape routes from patrol drones during unauthorized raves. He'd learned young that knowing how a building's guts connected could save your life when the front door wasn't an option.
 
@@ -42,7 +42,7 @@ A route map materialized on his wrist monitor. Adam memorized the layout in a si
 
 "Proceed to quarters," it replied.
 
-The corridors narrowed as he moved deeper into Grey Sector, aesthetic giving way to function. Ambient lighting became fluorescent. Smooth composite walls became bare metal. The temperature dropped two degrees — energy conserved where worker comfort wasn't a line item. Adam noticed these changes the way a mechanic notices engine sounds: automatically, cataloging each detail for future reference.
+The corridors narrowed as he moved deeper into D-Deck, aesthetic giving way to function. Ambient lighting became fluorescent. Smooth composite walls became bare metal. The temperature dropped two degrees — energy conserved where worker comfort wasn't a line item. Adam noticed these changes the way a mechanic notices engine sounds: automatically, cataloging each detail for future reference.
 
 Unit 12-17 was a metal box with four bunks stacked in pairs. Two already had personal items marking territory. Adam claimed a lower bunk, stowed his beatmaker in the small lockbox, and slid the family photo inside his comic book case — a memory hidden inside another form of escape.
 
@@ -58,15 +58,15 @@ Someone else had slept in this bunk and felt the same need to leave a trace of t
 
 ---
 
-Conference Room Grey-9 was a utility space with metal folding chairs arranged in rows. Adam slipped in as the doors sealed, claiming a seat in the back row next to a woman with intricate braids and callused hands.
+Conference Room D-9 was a utility space with metal folding chairs arranged in rows. Adam slipped in as the doors sealed, claiming a seat in the back row next to a woman with intricate braids and callused hands.
 
 "Mind if I join the party?" he whispered.
 
 She glanced at him. "Free cosmos."
 
-General Morea's recorded face filled the projection wall, delivering the expected speech about sacred duty and psychological suitability and humanity's great leap. The practical information came sandwiched between the propaganda — shift rotations, emergency protocols, the strict separation between Grey and Gold sectors. Maps highlighted the hierarchy in color: grey for workers, red for restricted, gold for the people who mattered.
+General Morea's recorded face filled the projection wall, delivering the expected speech about sacred duty and psychological suitability and humanity's great leap. The practical information came sandwiched between the propaganda — shift rotations, emergency protocols, the strict separation between the ship's decks. Maps divided the vessel by letter — A through D, command to operations. The lettering sounded neutral. The allocation of space, air quality, and food made the hierarchy plain.
 
-"Notice how the best views and fresh food are all gold?" Adam murmured to his neighbor.
+"Notice how the best views and fresh food are all A-Deck?" Adam murmured to his neighbor.
 
 "Maintenance routes go everywhere, though," she replied quietly, eyes on the schematics. "Including through their gardens."
 
@@ -80,19 +80,21 @@ The orientation ended with a thin officer informing them that unauthorized movem
 
 Scattered laughter. Quickly killed by the officer's glare.
 
-As they filed out, Adam fell into step with Zoe and an older man who'd been sitting behind them — Dr. Wei Chen, water purification, round spectacles and salt-and-pepper hair.
+As they filed out, Adam fell into step with Zoe and an older man who'd been sitting behind them — Kai Chen, water purification, round spectacles and salt-and-pepper hair.
 
-"Grey gets the same water as Gold," Chen said, picking up a thread Adam had missed. "They just get prettier cups."
+"D-Deck gets the same water as A-Deck," Chen said, picking up a thread Adam had missed. "They just get prettier cups."
 
 Adam liked him immediately.
 
-They reached a corridor junction and parted ways, Chen mentioning the Grey Canteen and a standing invitation. Adam nodded, already calculating a different route than the one back to quarters.
+They reached a corridor junction and parted ways, Chen mentioning the D-Deck canteen and a standing invitation. Adam nodded, already calculating a different route than the one back to quarters.
 
 ---
 
-He should have gone to his bunk. Instead, he went looking.
+Three weeks in, Adam knew his maintenance routes cold — every junction, every service hatch, every patrol rotation on D-Deck. The work was monotonous but honest: replacing filtration membranes, recalibrating waste processors, keeping the ship's least glamorous systems running so the people above never had to think about what happened to their refuse. Evenings he spent in the canteen with Chen and Zoe, learning the ship's social geography through their overlapping expertise.
 
-Not for anything specific — just for the shape of the place. How the corridors connected, where the maintenance shafts ran, which paths the security patrols favored and which ones they forgot. The same mapping instinct that had kept him alive in the industrial districts, now applied to a vessel hurtling through space.
+But the routes he was authorized to walk only showed him the skeleton of the place. And Adam had never been good at staying where he was told.
+
+One shift-end, instead of heading back to quarters, he went looking. Not for anything specific — just for the shape of the place beyond his clearance. How the corridors connected across sectors, where the maintenance shafts led when you followed them past the last authorized checkpoint. The same mapping instinct that had kept him alive in the industrial districts, now applied to a vessel hurtling through space.
 
 The trick to unauthorized exploration wasn't stealth. It was confidence. Walk like you belonged, carry a tool that justified your presence, and most surveillance systems — human and electronic — would assume you were supposed to be there.
 
@@ -102,11 +104,11 @@ He found a narrow maintenance gallery with a one-way transparent floor. Below it
 
 Adam crouched and looked down.
 
-Actual trees. Growing in actual soil. He could see apples on some of the branches — real, red, impossibly alive. Gold Sector residents strolled along garden paths between the trunks, moving with the particular aimlessness of people who had nowhere they needed to be and no one rushing them there. Green stretched in every direction, punctuated by flowers Adam hadn't seen since childhood.
+Actual trees. Growing in actual soil. He could see apples on some of the branches — real, red, impossibly alive. A-Deck residents strolled along garden paths between the trunks, moving with the particular aimlessness of people who had nowhere they needed to be and no one rushing them there. Green stretched in every direction, punctuated by flowers Adam hadn't seen since childhood.
 
 He pressed his palm against the transparent floor and felt the faint warmth of grow lights rising from below.
 
-"Beautiful, isn't it?" said a voice behind him. "Though technically off-limits to Grey Sector personnel."
+"Beautiful, isn't it?" said a voice behind him. "Though technically off-limits to D-Deck personnel."
 
 Adam turned slowly.
 
@@ -114,17 +116,17 @@ Artemis Morea stood at the far end of the gallery, her blue uniform sharp agains
 
 "Must have taken a wrong turn," Adam said, producing his most innocent expression. "First day. Confusing maps."
 
-"Six wrong turns, actually." Her face gave nothing away. "The surveillance system has been tracking you since orientation."
+"Six wrong turns in the last forty minutes." Her face gave nothing away. "I flagged your route after the third. You have about four minutes before it escalates to security dispatch."
 
-He straightened, letting the act drop. "So this is where I get my first penalty point."
+He straightened, letting the act drop. "Then I'd better enjoy the view while I can."
 
-She didn't call security. She moved to the railing and looked down at the garden.
+She didn't move to apprehend him. Instead she walked to the railing and looked down at the garden — positioning herself, he noticed, between him and the corridor exit.
 
 "Why here?" she asked. "Of all the unauthorized places you could have gone."
 
 Adam considered lying. Decided against it. "Wanted to see what we're protecting. What's so important that we left everyone else behind."
 
-She studied him. Her eyes were pale — almost silver in the dim light — and they had a quality he couldn't name. Not warmth, exactly. More like attention. The kind of looking that actually saw things.
+Her eyes were pale — almost silver in the dim light — and they assessed him with a directness that had nothing to do with protocol. Not warmth. Not curiosity exactly. The kind of looking that weighed what a person was actually worth.
 
 "What's your name?"
 
@@ -134,23 +136,33 @@ She studied him. Her eyes were pale — almost silver in the dim light — and t
 
 "Not enough shit jokes? Give me time."
 
-The corner of her mouth twitched. Not a smile, but a crack in the composure. "I should report this. It's protocol."
+The corner of her mouth twitched — not a smile, more like the recognition of something she hadn't expected to find here. Then it vanished. She pulled a slim device from her uniform and held it where he could see the screen. A security interface. His location, his ID, his photo, a blinking field marked INFRACTION REPORT.
 
-"But?"
+"Three minutes now," she said.
 
-She looked down at the garden again, where a woman in white was pruning a rose bush with surgical precision. "I find myself curious what someone from Grey Sector sees when they look at all this. Most workers see opportunity. The privileged see sanctuary." She turned back to him. "What do you see?"
+"So file it." He kept his voice even. "I looked at some trees. Worth whatever penalty that costs."
 
-The question felt like a test, though of what, he wasn't sure. Adam looked down at the trees, the strolling residents, the resources on display.
+She studied him, thumb hovering over the screen. "What are conditions like on D-Deck? Real conditions — not what appears in my briefing reports."
 
-"I see a very expensive distraction," he said. "A pretty lie to keep people from asking why we built this instead of fixing what we had."
+The question surprised him more than the security threat. "Why would you care?"
 
-Something shifted in her expression. He couldn't tell if it was agreement or something more complicated.
+"I didn't say I cared. I asked a question." Her voice sharpened. "Two and a half minutes, Mr. Hale."
 
-"You should return to your sector," she said. "Third maintenance shaft on your left. It'll take you back to Grey without passing any checkpoints."
+Adam weighed his options. She wanted something — intelligence she couldn't get through official channels. That made her either dangerous or desperate, and he wasn't sure which was worse.
 
-Adam blinked. She was helping him avoid consequences. "That's it? No penalty? No lecture?"
+"Humidity regulation's been broken for three weeks," he said. "Quarters run ten degrees colder than spec. Nutrient paste comes in one flavor, called three. And the non-critical redundancy systems — meaning everything in our section — are about two failures from cascading."
 
-"Consider it orientation," she said. "Different rules for different people. I'd suggest learning which ones apply to you."
+She listened without expression, but her thumb moved away from the submit field. "The environmental reports show D-Deck within acceptable parameters."
+
+"Acceptable for whom?"
+
+That landed. He saw it hit — a flinch she almost contained. She looked down at the garden, where a woman in white was pruning a rose bush with surgical precision.
+
+"You should return to your sector," she said, quieter now. She dismissed the security alert with a single gesture — not filed, but not deleted. Held in limbo. "Third maintenance shaft on your left. It'll take you back to D-Deck without passing checkpoints."
+
+"And the infraction?"
+
+"Logged as a warning. Dismissed pending review." She met his eyes. "Which means if I see you somewhere unauthorized again, the review becomes very short."
 
 She turned to leave. Adam, against his better judgment, called after her.
 
@@ -158,11 +170,13 @@ She turned to leave. Adam, against his better judgment, called after her.
 
 She stopped. "Excuse me?"
 
-"The apple trees. The soil composition is wrong for extended cultivation in this gravity. The root systems will fail within six months." He shrugged when she turned back, surprise breaking through her composure for the first time. "Waste management connects to everything. Even pretty gardens."
+"The apple trees. The soil composition is wrong for extended cultivation in this gravity. The root systems will fail within six months." He shrugged when she turned back, surprise cracking through for the first time. "Waste management connects to everything. Even pretty gardens."
 
-She looked at him for a long moment — measuring something, weighing it. Then she gave a small nod. Not dismissal. Acknowledgment.
+She stood very still — recalculating. Not just the trees but him. What he was worth. What he might cost.
 
-She left. Adam took the maintenance shaft she'd indicated, and it delivered him to Grey Sector exactly as promised.
+"Six months," she repeated. Not a question. Filing it.
+
+She left without another word. Adam took the maintenance shaft she'd indicated, and it delivered him to D-Deck exactly as promised.
 
 Walking toward the canteen where Chen and Zoe were probably already waiting, he turned the pendant between his fingers. The hunter's constellation, warm against his chest. He thought about the garden below the transparent floor, and the woman who had stood above it with him, and the particular quality of her silence when he'd told her the truth.
 
@@ -172,7 +186,7 @@ He told himself that twice, and almost believed it.
 
 ---
 
-The Grey Canteen was a low-ceilinged space with bolted-down tables and dispensers offering three varieties of nutrient paste that differed mainly in color. Adam found Chen and Zoe at a corner table, trays in front of them, deep in conversation about filtration tolerances.
+The D-Deck canteen was a low-ceilinged space with bolted-down tables and dispensers offering three varieties of nutrient paste that differed mainly in color. Adam found Chen and Zoe at a corner table, trays in front of them, deep in conversation about filtration tolerances.
 
 "The king of space toilets arrives," Chen announced. "Sit. Eat. Tell us what you've learned."
 
@@ -186,11 +200,21 @@ Instead, he listened. Chen talked about water — the seventeen-stage filtration
 
 They ate in comfortable silence for a while. Around them, the canteen hummed with the low conversation of people finding their footing in a new world — comparing shift assignments, sharing first impressions, processing the magnitude of what they'd done and what they'd left behind.
 
-Torres appeared and joined them, still slightly green but managing to eat. An older maintenance worker named Miguel settled in without invitation, recognized Chen, and launched into a story about a coolant leak on Level C that had nearly flash-frozen a corridor.
+Torres dropped his tray beside them. Still pale, but eating methodically — the deliberate intake of someone who'd learned to fuel regardless of appetite.
 
-Adam listened to all of it, cataloging. The way information moved through the worker population — laterally, through shared meals and corridor conversations, rather than top-down through official channels. The way trust formed quickly when people recognized shared circumstances. The way humor served as both bonding agent and coping mechanism, every joke a small declaration that they were still human enough to laugh.
+"Reclamation stats came in," Torres said, pulling up his wrist monitor between bites. "D-Deck's producing thirty percent more organic waste per capita than A-Deck. You know why? Real food generates less processing residue. They feed us synthetics, then we clean up the extra garbage the synthetics create."
 
-He pulled out his beatmaker after the meal, fingers moving over the interface while the others talked. Not composing — just sampling. Recording the ambient sounds of the canteen, the hum of ventilation, the particular frequency of Torres's nervous laugh. Sounds of the new world. Raw material.
+Chen raised an eyebrow. "You ran those numbers yourself?"
+
+"Water reclamation touches everything downstream. You learn to read the inputs." Torres shrugged, color returning to his face now that he was talking shop. "First thing I did after launch was map the waste signatures by sector. Tells you more about how a ship actually runs than any orientation briefing."
+
+An older maintenance worker named Miguel settled in without invitation, recognized Chen, and launched into a story about a coolant leak on Level C that had nearly flash-frozen a corridor.
+
+A technician named Dex Halloran drifted over from another table, eating an A-Deck nutrient bar with conspicuous satisfaction. "Found a gap in the waste chute between sectors," he said, grinning. "Amazing what they throw away." When Chen asked if he'd logged the access route for the team, Dex just tapped his nose. "Information's the only currency we've got, old man. I don't give mine away." He wandered off, and Chen watched him go with an expression that wasn't quite disapproval — more like recognition of a type he'd seen before.
+
+Adam listened to all of it, cataloging. The way information moved through the worker population — laterally, through shared meals and corridor conversations, rather than top-down through official channels. The way trust formed quickly when people recognized shared circumstances — and how some people saw those circumstances as opportunity rather than solidarity.
+
+He pulled out his beatmaker after the meal, fingers moving over the interface while the others talked. Not composing — just sampling. Recording the ambient sounds of the canteen, the hum of ventilation, the clink of synthetic utensils on metal trays. Sounds of the new world. Raw material.
 
 "What do you do with all that?" Torres asked, watching the waveforms scroll across the beatmaker's screen.
 

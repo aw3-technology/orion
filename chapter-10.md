@@ -2,7 +2,7 @@
 
 The dream came with new clarity, pulling both sleepers into its depths with irresistible gravity.
 
-Alex floated in weightless suspension, neither falling nor rising but simply existing in three-dimensional freedom. Around him, pinpricks of light formed constellations he recognized from his studies—not just Orion but others, arranged in patterns that seemed to communicate in a language just beyond comprehension. The stars pulsed in rhythmic sequence, drawing his attention toward a single point of brilliance at the center of his vision.
+Adam floated in weightless suspension, neither falling nor rising but simply existing in three-dimensional freedom. Around him, pinpricks of light formed constellations he recognized from his studies—not just Orion but others, arranged in patterns that seemed to communicate in a language just beyond comprehension. The stars pulsed in rhythmic sequence, drawing his attention toward a single point of brilliance at the center of his vision.
 
 As he approached—or as it approached him, distance becoming meaningless in this dreamscape—he saw the light was surrounded by ancient symbols. Some resembled hieroglyphics, others appeared as mathematical equations, still others took forms he'd never encountered but somehow understood on an intuitive level.
 
@@ -26,29 +26,29 @@ The pattern matched something from her mythological studies—ancient cosmologic
 
 ---
 
-In maintenance sector J-17, Alex reviewed power consumption logs with growing excitement. His promotion to Environmental Systems Team Alpha had given him higher security clearance, allowing him to track anomalies in resource distribution throughout the ship.
+In maintenance sector J-17, Adam reviewed power consumption logs with growing excitement. His promotion to Environmental Systems Team Alpha had given him higher security clearance, allowing him to track anomalies in resource distribution throughout the ship.
 
 "Look at this," he murmured to Kai Chen, who stood watch near the doorway. "These sections are drawing significant power, but have no registered function in the official systems."
 
 "Maintenance reserves?" Kai suggested, though his skeptical tone indicated he knew better.
 
-"Too much power, too consistent." Alex shook his head. "And look at the pattern—circular, rhythmic. Almost like..." He paused, searching for the right comparison.
+"Too much power, too consistent." Adam shook his head. "And look at the pattern—circular, rhythmic. Almost like..." He paused, searching for the right comparison.
 
 "Like a heartbeat," Kai finished for him, moving closer to study the display.
 
 "Exactly. Whatever's in the mid-core isn't mechanical. At least, not entirely."
 
-Alex overlaid his dream-inspired drawings onto the power consumption map. The correlation was undeniable—energy flowed most intensely where the constellations in his vision had been brightest.
+Adam overlaid his dream-inspired drawings onto the power consumption map. The correlation was undeniable—energy flowed most intensely where the constellations in his vision had been brightest.
 
 "I need to see it," he said, determination hardening in his voice. "Tonight."
 
 Kai's expression grew grave. "The gravitational buffer zones are heavily restricted, even for Alpha clearance. One wrong move—"
 
-"I know the risks," Alex interrupted. "But this isn't just curiosity anymore. It's..." He struggled to articulate the compulsion driving him. "It's necessary."
+"I know the risks," Adam interrupted. "But this isn't just curiosity anymore. It's..." He struggled to articulate the compulsion driving him. "It's necessary."
 
 ---
 
-The descent began separately, Alex and Artemis following different paths dictated by their respective access privileges, yet guided by the same invisible current.
+The descent began separately, Adam and Artemis following different paths dictated by their respective access privileges, yet guided by the same invisible current.
 
 Artemis utilized her status as cultural attaché to access rarely-visited archival storage areas near the ship's center. With each security checkpoint, she presented plausible justifications—inspections of historical artifacts, verification of preservation protocols—while gradually moving deeper into the ship's infrastructure.
 
@@ -56,31 +56,31 @@ What she found in these neglected corners defied the Orion's standardized archit
 
 Most striking was the absence of AI monitoring in these zones—no cameras, no sensors, no documentation routines. As if these spaces had been deliberately removed from the ship's awareness.
 
-Meanwhile, Alex navigated maintenance shafts and utility corridors, his legitimate access to environmental systems providing cover for his exploration. He encountered similar phenomena—a humming vibration at frequencies just below conscious perception; glyphs that seemed to emerge from within the metal itself when touched; atmospheric variations that couldn't be explained by standard circulation patterns.
+Meanwhile, Adam navigated maintenance shafts and utility corridors, his legitimate access to environmental systems providing cover for his exploration. He encountered similar phenomena—a humming vibration at frequencies just below conscious perception; glyphs that seemed to emerge from within the metal itself when touched; atmospheric variations that couldn't be explained by standard circulation patterns.
 
 The ship revealed itself as more than the sum of its documented systems—layer upon layer of hidden purpose beneath the official design.
 
-Their separate journeys converged at a nondescript junction in gravitational buffer zone 7-D, a transitional area where artificial gravity gradually diminished toward the ship's true center. Behind a cluster of power conduits, concealed from casual observation, Alex discovered an access panel unlike any standard Orion design.
+Their separate journeys converged at a nondescript junction in gravitational buffer zone 7-D, a transitional area where artificial gravity gradually diminished toward the ship's true center. Behind a cluster of power conduits, concealed from casual observation, Adam discovered an access panel unlike any standard Orion design.
 
 Instead of the uniform gray of ship components, this panel featured subtle organic patterning—swirls and whorls that resembled fingerprints or wood grain. No visible controls or identification markers adorned its surface.
 
-As Alex studied the anomalous panel, a soft sound from behind caused him to turn sharply.
+As Adam studied the anomalous panel, a soft sound from behind caused him to turn sharply.
 
 Artemis stood in the corridor entrance, her ceremonial attire exchanged for a simple shipsuit that allowed greater freedom of movement. For a moment, they regarded each other in silence—maintenance technician and cultural attaché, united by shared vision yet still separated by ingrained caution.
 
 "You found it too," Artemis said finally, not a question but an acknowledgment.
 
-Alex nodded. "It's been calling to both of us."
+Adam nodded. "It's been calling to both of us."
 
 Without further discussion, they approached the panel together. As they drew near, the surface began to glow with subtle bioluminescence, responding to their proximity in a way that suggested recognition rather than automatic function.
 
-"No electronic lock," Alex observed, examining the panel's edge. "No standard mechanism at all."
+"No electronic lock," Adam observed, examining the panel's edge. "No standard mechanism at all."
 
 Artemis placed her palm against the surface, feeling warmth pulse beneath her fingers. "It's not about mechanism," she said softly. "It's about intention."
 
 Together, they pressed their hands against the panel. The material yielded like living tissue, separating along invisible seams to reveal a narrow shaft descending into darkness. No ladder or obvious means of traverse was visible—just an empty vertical tunnel disappearing into the ship's core.
 
-"Zero gravity at the center," Alex said, calculating possibilities. "We could float down."
+"Zero gravity at the center," Adam said, calculating possibilities. "We could float down."
 
 Artemis met his eyes, the unspoken question hanging between them: continue together into unknown territory, or retreat to the safety of familiar boundaries?
 
@@ -102,11 +102,11 @@ Ancient glyphs adorned the walls, similar to those from their shared dreams yet 
 
 Most astonishing was the sound—not the mechanical hum of the ship's systems but a harmonious resonance like distant music. The chamber sang with frequencies that affected both mind and body, creating a sensation of expanded awareness.
 
-"What is this place?" Alex whispered, his voice hushed with awe.
+"What is this place?" Adam whispered, his voice hushed with awe.
 
 "I don't know," Artemis replied, equally transfixed. "It's not Nations Union architecture. Not Rising Sun Order technology either." She gestured toward the glyphs. "These symbols predate both. Some resemble Earth's most ancient writing systems, but others..."
 
-"Others aren't from Earth at all," Alex finished, intuiting what she couldn't bring herself to suggest.
+"Others aren't from Earth at all," Adam finished, intuiting what she couldn't bring herself to suggest.
 
 They floated toward the center, drawn by the crystalline orb's gentle pull. In the zero-gravity environment, movement became dance—each push and glide requiring coordinated intention rather than habitual walking.
 
@@ -138,7 +138,7 @@ The message resonated through them with undeniable truth, illuminating everythin
 
 As their bodies separated, the chamber gradually dimmed, the projections fading into the walls, the crystalline orb returning to its original size and luminosity. They floated together in the afterglow, physically and emotionally naked, more authentic with each other than they had ever been with anyone.
 
-"I don't understand what this is," Alex said finally, his voice tender with vulnerability.
+"I don't understand what this is," Adam said finally, his voice tender with vulnerability.
 
 Artemis touched his face, her fingers tracing the contours of his expression. "I think it's... hope."
 
@@ -146,7 +146,7 @@ The word hung between them, both inadequate and perfect. Whatever they had disco
 
 They dressed in silence, each processing the magnitude of what they had experienced. A resonance lingered in their skin, in their steps, in their very breath—as if the chamber had permanently altered their frequency to match each other and something larger.
 
-The ascent through the vertical shaft passed in contemplative quiet. When they reached the access point and stepped back into the gravitational buffer zone, Alex turned to see the panel closing behind them—sealing seamlessly into the wall until no trace remained, as if the entrance had never existed.
+The ascent through the vertical shaft passed in contemplative quiet. When they reached the access point and stepped back into the gravitational buffer zone, Adam turned to see the panel closing behind them—sealing seamlessly into the wall until no trace remained, as if the entrance had never existed.
 
 "Will we find it again?" he asked, not bothering to hide the concern in his voice.
 

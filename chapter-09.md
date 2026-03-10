@@ -8,29 +8,29 @@ She paused beside a small Japanese maple, its red leaves too perfect in their sy
 
 A soft metallic sound from behind a dense cluster of bamboo drew her attention. Artemis hesitated, then moved toward the noise with deliberate steps.
 
-To her surprise, she found Alex Reeves kneeling beside an access panel, his maintenance uniform partially concealed by the surrounding vegetation. He looked up at her approach, his expression shifting quickly from startled to composed.
+To her surprise, she found Adam Hale kneeling beside an access panel, his maintenance uniform partially concealed by the surrounding vegetation. He looked up at her approach, his expression shifting quickly from startled to composed.
 
 "Cultural Attaché Morea," he acknowledged with careful formality.
 
-"Technician Reeves," she replied, equally measured. "I didn't expect to find maintenance personnel in the elite botanical section."
+"Technician Hale," she replied, equally measured. "I didn't expect to find maintenance personnel in the elite botanical section."
 
-Alex gestured toward the open panel. "Moisture recirculation valve showing irregularities. Left unchecked, it could affect humidity levels throughout this biome."
+Adam gestured toward the open panel. "Moisture recirculation valve showing irregularities. Left unchecked, it could affect humidity levels throughout this biome."
 
 They regarded each other with cautious assessment, both aware of the strangeness of their recurring connections—first at Luna, then in dreams, now here in physical space. Neither mentioned these previous touchpoints, maintaining the fiction of random encounter.
 
 "Do you often work in the garden dome?" Artemis asked, her tone conversational yet guarded.
 
-"Only when systems malfunction," Alex replied, his attention ostensibly on the valve components though his awareness remained fixed on her presence. "It's not part of my regular maintenance route."
+"Only when systems malfunction," Adam replied, his attention ostensibly on the valve components though his awareness remained fixed on her presence. "It's not part of my regular maintenance route."
 
 "And you?" he ventured after a moment. "Does the cultural attaché frequently inspect bamboo groves?"
 
 A slight smile touched Artemis's lips. "The garden is technically part of my preservation portfolio. Earth's biological heritage falls under cultural assets."
 
-Alex nodded, making a minor adjustment to the valve before closing the access panel. As he stood, he surveyed the precisely arranged vegetation around them.
+Adam nodded, making a minor adjustment to the valve before closing the access panel. As he stood, he surveyed the precisely arranged vegetation around them.
 
 "What do you think of it?" Artemis asked suddenly. "The garden."
 
-Alex considered the question, sensing its layers. "It's impressive technology," he said finally. "But there's something unsettling about it."
+Adam considered the question, sensing its layers. "It's impressive technology," he said finally. "But there's something unsettling about it."
 
 "How so?"
 
@@ -42,21 +42,21 @@ Their eyes met briefly, the shared observation creating a moment of unexpected c
 
 "I should allow you to complete your repairs," she said, her voice returning to its practiced cadence.
 
-"Of course," Alex replied with a slight nod. "Enjoy your inspection, Cultural Attaché."
+"Of course," Adam replied with a slight nod. "Enjoy your inspection, Cultural Attaché."
 
 As she continued along the garden path, Artemis felt an unfamiliar tension—not unpleasant, but destabilizing. Their brief exchange had contained more honesty than most of her official interactions over the past months. The sensation lingered, a gravity pulling her toward something undefined but increasingly necessary.
 
-Behind her, Alex watched her departure for a moment before gathering his tools. The moisture valve had indeed shown irregularities, but he could have assigned the task to any technician on his team. His presence in the garden had been deliberate—a calculated risk based on observation of Artemis's movement patterns following their shared dreams.
+Behind her, Adam watched her departure for a moment before gathering his tools. The moisture valve had indeed shown irregularities, but he could have assigned the task to any technician on his team. His presence in the garden had been deliberate—a calculated risk based on observation of Artemis's movement patterns following their shared dreams.
 
 What he hadn't calculated was the effect of their direct interaction—the strange resonance that made their brief conversation feel more substantial than the official narratives that structured life aboard the Orion.
 
 ---
 
-The next day found Artemis returning to the botanical dome, ostensibly to document rare flowering specimens for the cultural archive. She told herself the timing was coincidental, that she had no expectation of encountering Alex Reeves again. Yet as she rounded the corner into the Mediterranean section, she felt no surprise at seeing him seated on a recycled-wood bench near an olive tree grove.
+The next day found Artemis returning to the botanical dome, ostensibly to document rare flowering specimens for the cultural archive. She told herself the timing was coincidental, that she had no expectation of encountering Adam Hale again. Yet as she rounded the corner into the Mediterranean section, she felt no surprise at seeing him seated on a recycled-wood bench near an olive tree grove.
 
 He was adjusting a small atmospheric sensor, his presence plausibly part of his maintenance duties. When he looked up at her approach, neither acknowledged the deliberate nature of their meeting—a silent agreement to maintain the fiction of chance.
 
-"Technician Reeves," she greeted him. "More valve malfunctions?"
+"Technician Hale," she greeted him. "More valve malfunctions?"
 
 "Atmospheric calibration," he replied. "The Mediterranean biome requires precise oxygen-carbon balancing."
 
@@ -64,35 +64,35 @@ Artemis nodded and, after a moment's consideration, seated herself on the opposi
 
 "Is it strange?" she asked after a long silence. "Being surrounded by plants from a world most of us will never see again?"
 
-The question seemed to surprise him. Alex set down his calibration tool, considering his response.
+The question seemed to surprise him. Adam set down his calibration tool, considering his response.
 
 "I grew up in what used to be coastal California," he said finally. "Near Santa Barbara. Most of it's underwater now."
 
 "I've seen historical footage," Artemis offered. "Before the sea level rise."
 
-"It was beautiful," Alex continued, his voice softening with memory. "My father worked the offshore platforms until they were automated. After that, we moved inland, following the retreating shoreline." He paused. "These olive trees... they remind me of the hills above our second house. We used to climb them during the dry season."
+"It was beautiful," Adam continued, his voice softening with memory. "My father worked the offshore platforms until they were automated. After that, we moved inland, following the retreating shoreline." He paused. "These olive trees... they remind me of the hills above our second house. We used to climb them during the dry season."
 
 The personal revelation hung between them—an offering more significant than it might appear on the surface. Artemis recognized it for what it was: trust, tentatively extended.
 
 "I lost my mother when I was eleven," she responded, reciprocating with her own vulnerability. "Official records state she died of a rare vascular condition, but the truth was more complicated. She questioned certain Nations Union directives regarding selection protocols. Her opposition became... inconvenient."
 
-Alex's expression remained neutral, but his eyes revealed recognition of what she was truly saying—that her mother's death had not been natural.
+Adam's expression remained neutral, but his eyes revealed recognition of what she was truly saying—that her mother's death had not been natural.
 
 "After that," Artemis continued, "my father accelerated my training as the Order's symbolic representative. The 'goddess-in-waiting,' as some called it behind closed doors. A lifetime of diplomatic pageantry designed to make oppression feel like destiny."
 
 They sat in silence, the weight of their shared confidences creating a different kind of space between them—no longer defined by hierarchy but by mutual recognition.
 
-"What do you think Mars will really be like?" Alex asked eventually, his voice low enough that only she could hear.
+"What do you think Mars will really be like?" Adam asked eventually, his voice low enough that only she could hear.
 
 Artemis considered the question, not the sanitized response she would give in official capacity, but her actual thoughts.
 
 "I fear it will be Earth's mistakes amplified and refined," she said. "The same divisions, the same exploitation, just with more sophisticated justifications."
 
-"And more efficient implementation," Alex added grimly.
+"And more efficient implementation," Adam added grimly.
 
 "What would you do differently?" Artemis asked. "If you had a voice in shaping what comes next?"
 
-Alex's eyes met hers, the question resonating beyond its surface simplicity. "I'd start by telling the truth," he said. "About what happened to Earth. About who was left behind. About what's being planned for Mars. No more engineered narratives."
+Adam's eyes met hers, the question resonating beyond its surface simplicity. "I'd start by telling the truth," he said. "About what happened to Earth. About who was left behind. About what's being planned for Mars. No more engineered narratives."
 
 For the first time, Artemis smiled without reservation—a genuine expression that transformed her features from classical perfection to living warmth.
 
@@ -104,35 +104,35 @@ Their meetings became a carefully orchestrated dance of plausible deniability—
 
 Each encounter followed an unspoken protocol: maintaining appropriate physical distance, exchanging information under the guise of casual observation, never explicitly acknowledging the deliberate nature of their interactions. Yet with each meeting, the space between them—both physical and psychological—gradually diminished.
 
-"Have you noticed the discrepancies in the public data feeds?" Alex asked during one such meeting, as they stood on opposite sides of a small fountain in the garden's desert biome. "The reported habitability metrics for Mars don't match what's being prepared in the engineering divisions."
+"Have you noticed the discrepancies in the public data feeds?" Adam asked during one such meeting, as they stood on opposite sides of a small fountain in the garden's desert biome. "The reported habitability metrics for Mars don't match what's being prepared in the engineering divisions."
 
 Artemis nodded slightly. "The cultural archive is similarly curated. Certain historical events have been reclassified as 'contextually inappropriate' for the Mars transition narrative." She traced the edge of the fountain with her fingertip. "Particularly resistance movements, popular uprisings, anything suggesting the validity of challenging established power."
 
-"They're not just building a new world," Alex observed. "They're building a new history to support it."
+"They're not just building a new world," Adam observed. "They're building a new history to support it."
 
 "History, art, even mythology," Artemis agreed. "Speaking of which, have you ever studied the original Orion myth? Not the sanitized version in the ship's database, but the ancient variations?"
 
-Alex's expression shifted subtly. "You mean the hunter who became a constellation?"
+Adam's expression shifted subtly. "You mean the hunter who became a constellation?"
 
 "Among other things," Artemis replied. "In some versions, Orion was a companion to Artemis, goddess of the hunt. In others, her victim. The stories contradict each other—was he a hero or a transgressor? Did Apollo trick Artemis into killing him, or did she act deliberately? Was he placed in the stars as punishment or memorial?" She paused. "The official database removes all these ambiguities. Makes it a simple morality tale."
 
-"What do you think the truth was?" Alex asked.
+"What do you think the truth was?" Adam asked.
 
 Artemis considered the question. "I think perhaps they were both trapped in roles assigned to them by forces beyond their control. Gods and mortals, playing parts in a cosmic drama they didn't fully understand."
 
 Their eyes met across the fountain, the parallel to their own situation unmistakable.
 
-In another meeting, Alex brought a small data crystal containing undoctored Earth news footage—tangible evidence of the selective editing happening in official broadcasts.
+In another meeting, Adam brought a small data crystal containing undoctored Earth news footage—tangible evidence of the selective editing happening in official broadcasts.
 
 "Where did you get this?" Artemis asked, carefully concealing the crystal in her sleeve.
 
-"There are people aboard who remember," Alex replied simply. "People who preserved what wasn't meant to be saved."
+"There are people aboard who remember," Adam replied simply. "People who preserved what wasn't meant to be saved."
 
 On an observation deck during ship-night, Artemis described her growing disillusionment with the Mars cultural integration protocols.
 
 "It's not preservation," she explained, her voice barely above a whisper despite the empty chamber. "It's vivisection—cutting living traditions into pieces, keeping what's useful for control, discarding anything that might inspire uncomfortable questions."
 
-Alex nodded, standing close enough that their shoulders nearly touched as they gazed at the stars.
+Adam nodded, standing close enough that their shoulders nearly touched as they gazed at the stars.
 
 "What would you do?" he asked. "If you weren't bound by your role?"
 
@@ -204,7 +204,7 @@ Yet something had changed. The data no longer seemed to match the reality.
 
 ---
 
-In the observation bubble off Maintenance Corridor J-7, Artemis and Alex sat side by side on a narrow ledge overlooking the star field. This forgotten nook—officially listed as "equipment storage" but actually empty due to a cataloging error—had become their most secure meeting place, its location in a maintenance zone making Artemis's presence unusual but Alex's presence entirely justified.
+In the observation bubble off Maintenance Corridor J-7, Artemis and Adam sat side by side on a narrow ledge overlooking the star field. This forgotten nook—officially listed as "equipment storage" but actually empty due to a cataloging error—had become their most secure meeting place, its location in a maintenance zone making Artemis's presence unusual but Adam's presence entirely justified.
 
 Today, Artemis had brought something she'd never shown anyone—a small book of ancient poetry, bound in actual paper, that she had smuggled aboard as part of her personal cultural artifacts.
 
@@ -214,11 +214,11 @@ Today, Artemis had brought something she'd never shown anyone—a small book of 
 
 The words hung in the air between them, bridging millennia and light-years.
 
-"It survived," Alex said quietly. "Despite everything that tried to erase it."
+"It survived," Adam said quietly. "Despite everything that tried to erase it."
 
 "Yes." Artemis closed the book carefully. "Truth has a strange persistence."
 
-Alex reached into his pocket and withdrew a small device. "I brought something too," he said, activating the player. "A composition I've been working on."
+Adam reached into his pocket and withdrew a small device. "I brought something too," he said, activating the player. "A composition I've been working on."
 
 Soft sounds emerged—not the algorithmically optimized music of official ship channels, but something organic and imperfect. Pressure-music, he called it, created from the ship's own vibrations, its mechanical rhythms transformed into something haunting and human.
 
@@ -226,19 +226,19 @@ They listened together in silence, shoulders now touching, the boundary between 
 
 "What would you do," Artemis asked eventually, her voice barely above a whisper, "if you could write the rules of the new world?"
 
-Alex turned toward her, their faces now inches apart. "I'd start by unwriting the old rules," he answered. "The ones that say some people are more valuable than others. The ones that treat truth as dangerous."
+Adam turned toward her, their faces now inches apart. "I'd start by unwriting the old rules," he answered. "The ones that say some people are more valuable than others. The ones that treat truth as dangerous."
 
 "And then?"
 
 "Then I'd want to build something real. Not perfect, not optimized, but honest. Where people could be messy and contradictory and fully human."
 
-Their eyes held, a current passing between them that had nothing to do with Neural interfaces or optimization algorithms. Artemis leaned forward slightly, the movement so subtle it might have been imagined. Alex remained perfectly still, aware that they were approaching a threshold beyond which nothing would be the same.
+Their eyes held, a current passing between them that had nothing to do with Neural interfaces or optimization algorithms. Artemis leaned forward slightly, the movement so subtle it might have been imagined. Adam remained perfectly still, aware that they were approaching a threshold beyond which nothing would be the same.
 
 The moment stretched, filled with possibility—
 
 A soft buzz from the corridor outside shattered the silence. Motion detectors activating, someone approaching.
 
-They moved apart instantly, years of conditioning reasserting itself in seconds. Artemis slipped the book back into her pocket as Alex quickly gathered his maintenance tools, creating the appearance of a routine inspection.
+They moved apart instantly, years of conditioning reasserting itself in seconds. Artemis slipped the book back into her pocket as Adam quickly gathered his maintenance tools, creating the appearance of a routine inspection.
 
 By the time a junior engineering officer passed the observation bubble, they were standing at a proper distance, discussing environmental stabilization metrics with formal detachment.
 
@@ -246,7 +246,7 @@ The officer nodded respectfully to Artemis and continued down the corridor, but 
 
 "I should return to A-Deck," Artemis said, her voice resuming its practiced cadence.
 
-"Of course, Cultural Attaché," Alex replied, the formal title emphasizing the divide that still separated them despite everything shared.
+"Of course, Cultural Attaché," Adam replied, the formal title emphasizing the divide that still separated them despite everything shared.
 
 As they parted ways, both felt the weight of what had almost happened—a boundary nearly crossed, a connection almost acknowledged. Neither spoke of when they might meet again, yet both knew they would find a way. The gravity pulling them together had become too strong to resist, even as the ship's structures worked to keep them apart.
 
@@ -256,7 +256,7 @@ In the security monitoring hub on B-Deck, Commander Thorne reviewed the surveill
 
 But there were anomalies. Brief periods where her path diverted from official assignments, locations where she lingered without documented purpose.
 
-Thorne cross-referenced these deviations with maintenance schedules, looking for correlations that might explain the pattern. When he input Alexander Reeves' service routes, the system highlighted multiple instances of proximity—moments when the Cultural Attaché and the maintenance technician occupied the same sectors without official interaction logged.
+Thorne cross-referenced these deviations with maintenance schedules, looking for correlations that might explain the pattern. When he input Adam Hale' service routes, the system highlighted multiple instances of proximity—moments when the Cultural Attaché and the maintenance technician occupied the same sectors without official interaction logged.
 
 Too many to be coincidental. Too patterned to be random.
 

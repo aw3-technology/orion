@@ -1,6 +1,6 @@
 # Chapter 4: Signal and Noise
 
-Morning on the Orion was a performance. The ship's diurnal cycle painted artificial dawn across Grey Sector — a slow brightening of corridor lights that fooled the body if not the mind. Adam carried his nutrient tray to a corner of the D-Deck mess hall and sat facing the wall screens.
+Morning on the Orion was a performance. The ship's diurnal cycle painted artificial dawn across D-Deck — a slow brightening of corridor lights that fooled the body if not the mind. Adam carried his nutrient tray to a corner of the D-Deck mess hall and sat facing the wall screens.
 
 The broadcasts showed Earth's final days through the particular lens of people who needed collapse to look orderly. Officials flashing reassuring smiles during "structured evacuations." Scientists working in perfect harmony. Citizens nodding with remarkable cooperation as resources were redistributed according to algorithms they'd never been allowed to question.
 
@@ -12,51 +12,55 @@ Huang Wei dropped his tray across from Adam. Dark circles under his eyes — dou
 
 "Not since departure." Huang stirred protein into synthetic coffee. "Rice paddies flood my dreams. My family's farm — three generations on that land before the waters took it."
 
-Adam nodded. Huang's family hadn't scored high enough on the selection algorithms. Their agricultural knowledge — centuries of practice — had been valued less than theoretical expertise. The algorithms couldn't quantify what it meant to know soil by touch.
+Adam nodded. Huang had once shown him his family's rejection summary — a single page that compressed three generations into numbers. Genetic Viability: 71. Skill Transferability: 34. Psychological Resilience: 68. Resource Efficiency: 22. Total Composite: 48.7 out of 100. Threshold for boarding: 81.5. The algorithm weighted lab credentials over field knowledge, English fluency over Mandarin, theoretical research over applied expertise. It couldn't assign a value to knowing when soil was tired by the smell of it, or to the particular stubbornness of people who had fed a province through two droughts.
 
 "They're showing Shanghai today," Huang observed as the screen shifted to footage of the Chinese metropolis, skyline partially submerged but evacuation centers operating with sterile efficiency. "Funny how they never show the rural zones."
 
-Ayo Balewa set his tray down with controlled precision. The Nigerian engineer — formerly a professor of structural engineering at Lagos University, now performing manual systems checks throughout the ship's framework — maintained academic composure even when his eyes said otherwise.
+Ayo Balewa set his tray down with controlled precision. The Nigerian structural engineer kept his eyes on the screen, but his jaw worked in a way that had nothing to do with the nutrient paste.
 
-"The Lagos feed shows empty streets and orderly processing," Ayo said. "My sister's last message described barricades and drone strikes against protesters."
+"They rerouted coolant lines through the C-Deck dormitory walls last week," Ayo said. "Saved twelve percent on pipe runs. Also means a seal failure would flash-boil everyone sleeping on the port side."
 
-They ate in a silence that communicated more than speech. Around them, the mess hall hummed with the low conversations of people calibrating their new reality — comparing shift assignments, sharing first impressions, processing the magnitude of departure.
+Huang glanced at him. "You reported it?"
+
+"Twice. Filed under 'non-critical efficiency optimization.'" Ayo's spoon scraped the bottom of his tray with careful precision. "I used to teach structural engineering at Lagos. I know what cutting corners looks like. They don't want expertise. They want compliance that happens to have hands."
+
+They ate in a silence shaped by the gap between what the screens showed and what they knew. Around them, the mess hall hummed with the low conversations of people calibrating their new reality — comparing shift assignments, sharing first impressions, processing the magnitude of departure.
 
 After the meal, as workers scattered toward their stations, Huang paused beside Adam in the corridor.
 
 "Sofia wants to see you. Waste processing, Section 17. After your shift."
 
-Adam raised an eyebrow. Sofia Reed didn't make casual invitations.
+Adam raised an eyebrow. "Is that an invitation or a summons?"
 
-"Watch yourself with her," Huang added quietly. "Security's running enhanced pattern recognition on crew movements since Luna."
+"With Sofia?" Huang gave a thin smile. "Yes." He paused. "She decides things about people quickly. Sometimes she's right. Watch yourself with her."
 
 ---
 
 Section 17 housed the solid waste processing unit — a complex of machinery that crushed and restructured non-biological materials for reuse. The noise was constant and substantial, which was precisely the point.
 
-Sofia Reed stood at a control panel near the main processor, gray-streaked hair in its severe knot, fingers moving across settings with a fluency that belied her former career in comparative literature. She'd survived the selection on the strength of her waste reduction expertise — a skill she'd acquired in middle age, after the universities closed. Her academic past existed nowhere in her official profile.
+Sofia Reed stood at a control panel near the main processor, gray-streaked hair in its severe knot, fingers moving across settings with the competence of someone who'd reinvented herself out of necessity and never let you forget it. She'd survived the selection on the strength of her waste reduction expertise — a skill she'd acquired in middle age, after the universities closed. Her academic past existed nowhere in her official profile, though she managed to mention Cambridge within five minutes of any conversation.
 
 She registered Adam's approach without looking up. "Technician Hale. Here about the ventilation adjustment?"
 
 "Yes, ma'am. Airflow irregularities in this sector."
 
-She nodded toward a side chamber. Once inside, she closed the door and activated a device on the wall — a signal disruptor disguised as a diagnostic module. The hum it produced was small but sufficient.
+She nodded toward a side chamber. Once inside, she closed the door and activated a device on the wall — a standard electromagnetic diagnostic module, the kind every maintenance section had for testing shielding integrity. Sofia had amplified its interference range beyond spec. To any inspection, it looked exactly like what it was supposed to be. The hum it produced was small but sufficient.
 
 "You've attracted attention," she said without preamble. "The commendation from Artemis Morea. Direct acknowledgment across hierarchy lines."
 
 "I didn't ask for it."
 
-"And yet you have it. Which makes you either vulnerable or valuable." She studied him. "We'll find out which."
+"And yet you have it. Which makes you either vulnerable or valuable." She studied him the way she probably once studied dissertations — already composing her critique. "We'll find out which."
 
 She moved to a storage cabinet in the corner and entered a code into its electronic lock. The door swung open to reveal not cleaning supplies but a collection of data storage devices, modified communication equipment, and a small display screen disconnected from the ship's main network.
 
-"The Archive," Sofia said. "History that doesn't fit the narrative."
+"The Archive," Sofia said. "Everything they'd rather we forgot."
 
 Adam had heard rumors. Footage smuggled aboard by crew members. Transmissions intercepted from unauthorized channels. Evidence. He'd assumed it was exaggeration — the kind of myth that formed in closed communities to give shape to their resentment.
 
 It wasn't exaggeration.
 
-Sofia activated the screen. "Mateo in data processing recovered these from encrypted satellite diagnostics. The Rising Sun Order's communication security is good, but their redundancy protocols create patterns if you know where to look."
+Sofia activated the screen. "Mateo's official job is monitoring communication relay integrity — he has legitimate access to the satellite telemetry feeds. The encrypted military channels are supposed to be isolated, but the Rising Sun Order's redundancy protocols create echo patterns in the adjacent diagnostic streams. He isn't intercepting their signals. He's reading their reflections."
 
 The footage bore no resemblance to the sanitized broadcasts in the mess hall.
 
@@ -70,13 +74,17 @@ Buenos Aires. Children pressing against the glass walls of an evacuation center,
 
 Adam watched it all. None of it surprised him — he'd sensed the truth behind the managed narrative, glimpsed it through his mother's messages. But seeing it documented stripped away the last protective layer of uncertainty. You could suspect something and still live with it. Certainty was harder.
 
-"We weren't left behind," said Ines Moreau from the doorway. The French-Algerian former journalist had entered without a sound, eyes fixed on the screen with cold fury. "We were edited out. Removed from the story they wanted to tell about salvation."
+"That's not the feed they archived," said a woman from the doorway. Dark eyes fixed on the Buenos Aires footage, body absolutely still. "I know because I shot the original. They re-cut it."
 
-Sofia nodded at her presence, unsurprised. "Ines contributed documentation from North African exclusion zones. Selection based entirely on algorithmic asset evaluation."
+Sofia glanced at her. "Adam, this is Ines Moreau. She was a journalist before she was cargo."
 
-"My mother's village scored zero," Ines said flatly. "Zero on the preservation priority scale. As if a thousand years of knowledge held no value because the algorithms couldn't count it."
+Ines didn't acknowledge the introduction. She stepped closer to the screen, pointing at a timestamp. "See that gap? Forty seconds missing. Forty seconds of soldiers firing into a crowd at a processing center. I was on the roof with a camera rig." Her voice was flat, clinical — a professional cataloging the corruption of her own work. "I uploaded raw footage to three separate servers before they pulled me out. All three scrubbed within the hour."
 
-Adam understood what the Archive was, beyond its contents. Not just documentation but witness. For crew members whose families had been deemed unworthy, it was proof that their grief was based in something real.
+"Ines has been reconstructing what was deleted," Sofia said. "Cross-referencing crew members' personal footage with the official record."
+
+"They're not just hiding what happened," Ines said, finally looking at Adam. "They're building a replacement. A clean version. Give it five years and the scrubbed feed will *be* the history. No one will remember it was different."
+
+Adam understood what the Archive was, beyond its contents. Not just documentation but correction — a counter-record built frame by frame against the official erasure.
 
 "Why show me?" he asked, though he suspected.
 
@@ -84,17 +92,29 @@ Adam understood what the Archive was, beyond its contents. Not just documentatio
 
 "I fixed a sound system. That's not insider access."
 
-"You created something authentic that disrupted a choreographed narrative. And someone in power noticed." She closed the cabinet, the Archive disappearing behind its mundane exterior. "I'm not asking you to spy. Just to keep your eyes and ears open."
+"You disrupted a choreographed narrative. With a waltz, of all things. And someone in power noticed." She closed the cabinet, the Archive disappearing behind its mundane exterior. "I'm not asking you to spy. Just to keep your eyes and ears open."
+
+"There's something else," Adam said. "During the ceremony at Luna — the atmospheric controls. The air was laced with mood stabilizers. Synthetic compounds designed to suppress critical thinking. I pulled the readings."
+
+Sofia's expression sharpened. "You have the chemical signature?"
+
+"On my personal device."
+
+"We've suspected chemical compliance measures for months but had no proof. If they're engineering the air at diplomatic events —"
+
+"Then they're doing it elsewhere too," Adam finished.
+
+Sofia held out her hand. He transferred the data. She studied the compound signature on her screen for a long moment, then looked at him differently — not warmer, but more certain.
 
 "And why should I trust you?"
 
-Sofia's smile was thin. "You shouldn't. Trust is a luxury for people with power. The rest of us make do with shared risk and mutual need."
+Sofia turned back to the cabinet, arranging the data drives with the possessive precision of a curator. "You shouldn't. I've been building this Archive for seven months. I decide who sees it and when." She closed the cabinet door with a click. "Right now, I'm deciding you're useful. That's not trust — it's calculation. I'd respect you less if you pretended otherwise."
 
 She paused, then: "Your mother worked at Memorial East. Pulmonary ward."
 
 Adam went still. "How do you know that?"
 
-"We maintain limited communication channels to Earth. Very limited, very risky. But occasionally possible." She let the offer hang — not a bribe, not blackmail. Just a clear illustration of what cooperation might yield.
+"We maintain limited communication channels to Earth. Very limited, very risky. But occasionally possible." She watched his face with the frank interest of someone studying a result. Not cruel, exactly. Just a woman accustomed to managing people through the information she controlled.
 
 Adam felt the anger rise and then recede as he recognized his own hypocrisy. This was exactly what he wanted. A way to reach his mother. To tell her he was alive.
 
@@ -102,11 +122,19 @@ Adam felt the anger rise and then recede as he recognized his own hypocrisy. Thi
 
 "Fair enough. Maintain your routines. We'll be in touch."
 
-As he turned to leave, Ines caught his arm lightly. "The music you made at Luna. People can't stop talking about it."
+As he turned to leave, Ines caught his arm lightly. "That waltz you played at Luna — people recorded it. Passed it around on private channels. First piece of uncurated content most of them have heard since boarding."
 
-"It was just a waltz."
+"It was just a fallback loop."
 
-"It was human," she corrected. "That's rarer than you think."
+"It was unedited," she said. "Trust me. On this ship, that's the rarest thing there is."
+
+---
+
+That evening, Adam sat cross-legged in his bunk with the beatmaker, trying to build on *Moonlight.Waltz.1*. The composition fought him. What had felt urgent in the ceremony's darkness came back thin and decorative in Unit 12-17's cramped acoustic — background music for a waiting room. He played the melody back and couldn't find what others claimed to hear in it.
+
+He tried layering ship sounds over the waltz, the way he'd done with rave sets back home. The ventilation hum fought the melody instead of supporting it. The reactor's bass swallowed the mid-range. Everything he added made it worse, and stripping it back down left him where he'd started — a simple waltz that sounded like nothing special.
+
+He deleted the session and stared at the ceiling.
 
 ---
 
@@ -128,9 +156,9 @@ Kai nodded. "What did you think?"
 
 More crew arrived in small groups — never more than three at a time, staggered intervals. Adam recognized faces from different ship sections: engineering, food production, communications, waste management. The assembly cut across every national and linguistic line on board. What united them was simpler and older than any of those categories — shared suspicion and shared circumstance.
 
-Ines Moreau passed him a small storage device. "Poetry recordings. Exiled artists from the Final Selections. Work that was nearly destroyed."
+Ines Moreau passed him a small storage device. "Unedited recordings. Poetry, testimonials, raw audio from the Final Selections. Work they tried to scrub."
 
-He took it, understanding the exchange for what it was. Not just information but preservation — keeping alive the voices that the optimization algorithms had deemed unnecessary.
+He took it, understanding the exchange for what it was. Not just art but evidence — primary sources that contradicted the clean version.
 
 "Your turn," Kai said, gesturing toward the sound system. "People want to hear more."
 
@@ -140,33 +168,33 @@ Adam hesitated. "I don't perform."
 
 He connected his beatmaker. The composition he'd prepared drew from the ceremony and the ship and the spaces between — ventilation systems as percussion, the reactor's hum as bass. Fragments of human sound woven through: conversation, footsteps, breathing. The organic noise of people living in a machine that wanted them quiet.
 
-As the music filled the chamber, people responded differently than they had at any sanctioned recreation event Adam had observed aboard the Orion. Some danced — not with neural synchronization or algorithmic choreography but with the messy, individual, self-conscious joy of people who hadn't danced in a long time and didn't care how it looked. Others closed their eyes and simply listened. Some wept.
+As the music filled the chamber, people responded in ways Adam hadn't predicted. Some danced — not with neural synchronization or algorithmic choreography but with the messy, self-conscious uncertainty of people who hadn't danced in a long time. Others closed their eyes and listened. A few drifted toward the walls during the slower passages, arms crossed, waiting for something they couldn't name. Near the back, a woman left early, shaking her head — whether in dismissal or emotion, Adam couldn't tell.
 
-Mateo activated a projection system against the curved wall — standalone technology, deliberately too old to interface with the ship's networks. Raw footage from Earth. Not the managed broadcasts but the real final days. Protests. Resource wars. Chaos. The faces of people who had been deemed insufficient for salvation.
+Mateo activated a projection system against the curved wall — hardware salvaged from the ship's pre-launch construction equipment, technology so outdated that OmniscientAI's monitoring systems didn't recognize it as an active device. Raw footage from Earth. Not the managed broadcasts but the real final days. Protests. Resource wars. Chaos. The faces of people who had been deemed insufficient for salvation.
 
 Adam let his music and Mateo's footage meet without commentary or framing. Sound and image, offered together. Each person in the room making their own meaning from the collision.
 
-Halfway through, Zedd appeared at the sound station. He said nothing — just connected his own device and sent a bassline through to Adam's feed. Spare, haunting chords that perfectly captured the hollow center of the ceremony waltz. Adam layered it in without discussion. They'd never formally collaborated, but the silence between them carried understanding. Two people who spoke the same language of resistance in rhythm.
+Halfway through, Zedd appeared at the sound station. He said nothing — just connected his own device and sent a bassline through to Adam's feed. Spare, haunting chords that answered the ceremony waltz like a question it hadn't known to ask. Adam layered it in without discussion. They'd never formally collaborated, but the silence between them carried understanding. Two people finishing each other's sentences in sound.
 
-The gathering wasn't political in any way a surveillance system would flag. No speeches. No declarations. No organizational structure. Just people witnessing suppressed truth and sharing authentic sound in a space the ship's architects had forgotten existed.
+The gathering wasn't political in any way a surveillance system would flag. No speeches. No declarations. No organizational structure. Just people witnessing suppressed truth and sharing sound they'd made themselves in a space the ship's architects had forgotten existed.
 
-As his composition wound down, Adam felt the room shift — not toward rhetoric or planning but toward something more fundamental. A collective exhale. An acknowledgment that they were here, together, and that what they'd just experienced was real in a way the ship's curated reality was not.
+As his composition wound down, Adam felt the room shift — not toward rhetoric or planning but toward something more fundamental. A collective exhale. People looking at each other as if they'd shared something, though Adam suspected each person would describe it differently, and some wouldn't describe it at all.
 
 The group dispersed in the same careful intervals they'd arrived — staggered departures, varied routes. Adam stayed behind, equipment packed, sitting in the empty chamber.
 
-He initiated one more sequence on his beatmaker. A simple melodic line, pulsing through his speakers at low volume. Not for the room. For the ship itself — sound traveling through structural elements, into walls and floors and the bones of the vessel.
+He initiated one more sequence on his beatmaker. A simple melodic line, pulsing through his speakers at low volume. Not for an audience. Just testing whether the forgotten bay's acoustics would carry — sound into walls, into floors, into the bones of the vessel.
 
 A question, cast into the dark.
 
 He waited. The chamber hummed with mechanical silence.
 
-Then — faintly, through the wall — a response. A tapping. Perfectly synchronized with his rhythm. Repeated once, twice, and stopped.
+Then — faintly — a rhythmic pulse through the coolant pipes that lined the ceiling. Not mechanical cycling. Not pressure regulation. A pattern. His pattern, echoed back with precise timing. Repeated once, twice, and stopped.
 
 "Someone answered," Kai said from the doorway. Adam hadn't heard him return.
 
 "Probably mechanical feedback."
 
-"From a perfectly timed percussive response?" Kai's eyebrow rose. "Be careful with connection. In a closed system, trust is as dangerous as it is necessary."
+"Mechanical feedback doesn't keep time," Kai said quietly. His eyebrow rose. "Just — be careful, hm? Connection's a fine thing until someone's watching."
 
 They left separately. Adam walked the maintenance corridors toward his bunk, mind turning over the evening — the Archive footage, the gathering, the music, and the tapping that had matched his rhythm through the ship's structure.
 
@@ -188,9 +216,9 @@ He didn't believe that, but he wanted to, and the wanting itself felt like a war
 
 In her quarters on A-Deck, Artemis Morea sat cross-legged on her meditation platform, surrounded by texts that both governing philosophies aboard the Orion would have dismissed as irrelevant.
 
-The books were physical — paper and binding, rarities in the digital age, smuggled aboard as "cultural artifacts" among her personal items. She had open before her a comparative study of moon goddesses from across Earth's mythological traditions. Not just the Greek Artemis for whom she'd been named, but analogues from every civilization — Chang'e in her lunar exile, Saraswati with her arts and wisdom, Oshun of the Yoruba with her rivers and fierce justice.
+The books were physical — paper and binding, rarities in the digital age, smuggled aboard as "cultural artifacts" among her personal items. She had open before her the tale of Chang'e — the Chinese moon goddess who drank the elixir of immortality to keep it from a tyrant and was exiled to the moon for her defiance. Artemis had been reading the story since childhood, drawn to it the way some children are drawn to fairy tales that feel more true than the world around them. But tonight the parallels pressed closer than ever: a woman separated from everyone she loved, suspended in the sky, watching the world she'd sacrificed everything for shrink to a point of light below her.
 
-She traced a symbol in her journal that fused elements from each tradition. Moon, bow, flowing water, watchful eye. These goddesses existed outside the binary frameworks the ship's power structures preferred — neither compliant nor rebellious but something older. Something the algorithms had no category for.
+She traced a crescent in her journal. Not her namesake's bow. Chang'e's moon — permanent exile disguised as ascension. The goddess existed outside the binary frameworks the ship's power structures preferred — neither compliant nor rebellious but something older. Someone who had acted, and was still paying for it.
 
 A chime interrupted her. Prince Virel's personal channel.
 
@@ -220,32 +248,34 @@ She opened a secure file on her personal system. A map of the Orion she'd been c
 
 The inconsistencies weren't random. They suggested purposeful omission — sections of the ship deliberately hidden. She didn't know what they contained. But their existence contradicted the transparency the mission claimed as a founding principle.
 
-As she worked, she became aware of a subtle vibration traveling through the ship's structure. Too regular for mechanical anomaly. Too irregular for standard system function. She pressed her hand against the wall.
+As she reviewed the latest sensor data for her map, her monitoring software flagged an anomaly — a rhythmic vibration pattern in the structural feeds from the ship's central axis. She'd been tracking these feeds for weeks, looking for the power discrepancies and spatial inconsistencies that populated her map. Most anomalies were mechanical: pump cycles, pressure adjustments, thermal expansion. This was different.
 
-Music.
+She pulled up the waveform. Too regular for mechanical noise. Too irregular for any system function in the ship's database. She cross-referenced the location — a decommissioned gravity calibration bay near the central axis, a dead zone in the official schematics that she'd already flagged on her map as suspicious.
 
-Impossible. The sound isolation between decks was specifically designed to prevent cross-section transmission. And yet — there it was. A rhythm traveling through the structural elements of the ship like a pulse through a body. Not the AI-generated compositions that flooded official events but something raw, with rough edges and human timing.
+Not suspicious anymore. Someone was in there. Making music.
 
-Artemis closed her eyes and listened with her palm. Her neural circlet, resting on its charging station across the room, pulsed with a suggestion to reconnect for "optimal perceptual experience." She ignored it. The unenhanced sensation — vibration against skin, pattern recognized by intuition rather than algorithm — was precisely what she wanted.
+She amplified the signal through her monitoring interface, filtering out the mechanical noise. What emerged was raw, textured, human — nothing like the AI compositions that filled official events. A rhythm with rough edges and deliberate imperfection. Her breath caught.
 
-On impulse, she picked up her stylus and tapped it against the wall. Matching the rhythm. A gentle percussion that surveillance would register as random ambient noise but might — if the universe had any sense of irony — reach whoever was playing.
+Her neural circlet, resting on its charging station across the room, pulsed with a suggestion to reconnect for "optimal perceptual experience." She glanced at it — not with the certainty of refusal but with the weary calculus of someone managing a surveillance device. Every hour disconnected generated a gap in her wellness data. Too many gaps and the system flagged it. She'd learned to space her disconnections strategically, wearing the circlet for measured periods so the data looked natural, removing it only when the pattern could absorb the absence.
 
-A small act. A tiny crack in the wall between worlds.
+She turned back to the waveform. Whoever was playing, they were in a section of the ship that officially didn't exist — one of the blind spots she'd been mapping. She could report the anomaly. It would validate her map work, demonstrate her diligence. It would also destroy whatever was happening in that forgotten room.
 
-The music faded. But she stayed with her hand pressed to the metal for a long time afterward, feeling the ship breathe around her, thinking about a maintenance worker who had stood in the dark with a flashlight between his teeth and created something the most advanced AI on the vessel could not.
+She pulled up the environmental systems for that section — decommissioned but not fully disconnected. A coolant return line still ran through the bay's walls, its flow valve accessible through her A-Deck override credentials. On impulse, she cycled the valve — open, closed, open, closed — matching the rhythm from the waveform. The valve's action would create a faint but distinct pulse through the pipes. Audible, if someone in that room were listening.
 
-Her neural circlet pulsed again, more insistent. Extended disconnection could trigger a wellness check — unwanted attention she couldn't afford.
+A technical handshake through the ship's circulatory system.
 
-She put the circlet on her desk beside the map. Not on her head. Not tonight.
+She saved the waveform's signature to her private files and tagged the bay's location on her map. Not as a discrepancy. As something to protect.
+
+The music faded from the structural feeds. Artemis sat in the silence that followed, thinking about a maintenance worker who had stood in the dark with a flashlight between his teeth and filled a silence that had swallowed the room.
+
+The circlet pulsed again. She checked her disconnection log — four hours today. The threshold was six before a wellness flag. She had time.
+
+She left it on the desk beside the map. Not defiance. Arithmetic.
 
 Tomorrow she'd attend the briefing with her father and Virel. She'd wear the composed mask, speak in measured tones about cultural integration for a Mars settlement designed to replicate the same hierarchies that had killed Earth. She'd play the role.
 
-But tonight, in the stillness, she let herself sit with the question the music had raised — the one that algorithms couldn't formulate and neural networks couldn't answer:
+But tonight, she sat with what the music had surfaced — not a question the algorithms could formulate or the neural networks could answer, but one that Chang'e had lived inside for millennia:
 
-If authentic sound could find pathways through a ship designed to contain every form of human expression, what else might prove possible?
+What do you do when you've swallowed the elixir and the exile is already underway?
 
-She didn't have an answer. But she recognized the question. It was the same one the goddesses of her studies had asked, across centuries and civilizations, in a thousand different forms.
-
-What exists beyond the structures that claim to contain everything?
-
-Artemis turned off her light and lay in the dark, listening to the ship. Somewhere in its depths, someone was making music. And somewhere in her chest, something that had been held very still for a very long time was beginning to move.
+Artemis turned off her light and lay in the dark. Somewhere in the ship's forgotten spaces, someone was making music that the monitoring systems had never been designed to hear. And somewhere in her chest, something that had been held very still for a very long time was beginning to move.

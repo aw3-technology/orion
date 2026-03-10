@@ -2,29 +2,29 @@
 
 *The body obeys mass. The soul answers to something stranger.*
 
-Alex floated in a black expanse without boundary or reference, suspended in a darkness so complete it erased the distinction between open and closed eyes. The emptiness stretched in all directions, yet he felt no fear—only a profound sense of anticipation, as if the void itself were holding its breath.
+Adam floated in a black expanse without boundary or reference, suspended in a darkness so complete it erased the distinction between open and closed eyes. The emptiness stretched in all directions, yet he felt no fear—only a profound sense of anticipation, as if the void itself were holding its breath.
 
 Then, one by one, stars appeared. Not randomly scattered as in the night sky, but purposefully, with deliberate precision. They formed a pattern he recognized instantly: Orion, the hunter. But something was wrong—or perhaps right in a way he'd never before seen. The constellation was inverted, its orientation shifted, containing thirteen points of light instead of the traditional seven.
 
-The stars pulsed in unison, a visual rhythm like a heartbeat made of light. Though there was no sound in this space, Alex felt each pulse resonate through him, a vibration that bypassed his ears and spoke directly to something deeper.
+The stars pulsed in unison, a visual rhythm like a heartbeat made of light. Though there was no sound in this space, Adam felt each pulse resonate through him, a vibration that bypassed his ears and spoke directly to something deeper.
 
 A voice, neither male nor female, whispered from everywhere and nowhere: *"He hunts. She remembers. You awaken."*
 
 The words carried a weight beyond their meaning, a resonance that triggered recognition of something ancient and vital. The inverted Orion continued to pulse, as if transmitting a code he was meant to understand.
 
-Alex woke with a violent start, his body drenched in sweat despite the precisely controlled temperature of the crew dormitory. Disorientation swept through him—the solid bunk beneath him felt wrong after the weightless suspension of the dream. His inner ear struggled to reconcile the abrupt transition, sending waves of vertigo through his consciousness.
+Adam woke with a violent start, his body drenched in sweat despite the precisely controlled temperature of the crew dormitory. Disorientation swept through him—the solid bunk beneath him felt wrong after the weightless suspension of the dream. His inner ear struggled to reconcile the abrupt transition, sending waves of vertigo through his consciousness.
 
-The dream remained unusually vivid, refusing to dissolve with wakefulness. Carefully, so as not to disturb his still-sleeping bunkmates, Alex reached for the small notebook he kept hidden beneath his thin mattress. He sketched the inverted Orion pattern with quick, precise strokes, marking the thirteen stars and their connections—a constellation he'd never seen in any astronomy text but which now felt more familiar than his own reflection.
+The dream remained unusually vivid, refusing to dissolve with wakefulness. Carefully, so as not to disturb his still-sleeping bunkmates, Adam reached for the small notebook he kept hidden beneath his thin mattress. He sketched the inverted Orion pattern with quick, precise strokes, marking the thirteen stars and their connections—a constellation he'd never seen in any astronomy text but which now felt more familiar than his own reflection.
 
 From across the dorm, a whisper drifted through the dark. "You saw it too."
 
-Alex paused, pencil hovering mid-arc. Zedd lay on his side, half-shadowed, one headphone still in, the other dangling loose. His voice was soft but clear, like a tone meant not to be recorded.
+Adam paused, pencil hovering mid-arc. Zedd lay on his side, half-shadowed, one headphone still in, the other dangling loose. His voice was soft but clear, like a tone meant not to be recorded.
 
-Alex turned slightly. "The constellation?"
+Adam turned slightly. "The constellation?"
 
 Zedd nodded, barely visible in the low light. "Thirteen points. Inverted. Been hearing it in the resonance map for a week. I didn't understand the pattern until now." He tapped his fingers against the edge of the bunk frame—twelve light beats, then a pause. The thirteenth hung in the silence like a question.
 
-Alex looked back at the sketch. The lines felt alive beneath his hand.
+Adam looked back at the sketch. The lines felt alive beneath his hand.
 
 As he completed the drawing, a strange certainty settled over him: something had been activated, a process set in motion that could not be reversed. Whatever gravity had held him in place was shifting, pulling him toward unfamiliar terrain.
 
@@ -32,35 +32,35 @@ Zedd whispered one more time before falling back into silence: "Whatever it is�
 
 ---
 
-"Third neuro-monitoring check this cycle," observed the medical technician, reviewing Alex's file with a small frown. "That's unusual. Have you reported any symptoms? Sleep disturbances? Cognitive anomalies?"
+"Third neuro-monitoring check this cycle," observed the medical technician, reviewing Adam's file with a small frown. "That's unusual. Have you reported any symptoms? Sleep disturbances? Cognitive anomalies?"
 
-"Nothing out of the ordinary," Alex replied with practiced neutrality. "Just following the summons."
+"Nothing out of the ordinary," Adam replied with practiced neutrality. "Just following the summons."
 
 The technician nodded and gestured toward a scanning chamber. "Dr. Voss will oversee this one personally."
 
-Alex couldn't hide his surprise. Elara Voss, Chief Medical and Science Officer, typically delegated routine scans to her staff. Her direct involvement suggested either special interest or concern—neither particularly comforting.
+Adam couldn't hide his surprise. Elara Voss, Chief Medical and Science Officer, typically delegated routine scans to her staff. Her direct involvement suggested either special interest or concern—neither particularly comforting.
 
-The examination room was standard medical issue—sterile surfaces, minimal decoration, equipment designed for function rather than comfort. Alex settled into the scanning chair, preparing for the familiar procedure: electrodes attached to specific points on his scalp, a brief tingling sensation as neural activity was mapped and compared against baseline parameters.
+The examination room was standard medical issue—sterile surfaces, minimal decoration, equipment designed for function rather than comfort. Adam settled into the scanning chair, preparing for the familiar procedure: electrodes attached to specific points on his scalp, a brief tingling sensation as neural activity was mapped and compared against baseline parameters.
 
 Dr. Voss entered with quiet efficiency. Tall and fair-skinned with distinctly Nordic features, her most striking characteristic was her eyes—synthetic replacements that glowed with a subtle inner light, their irises shifting between blue and gray depending on the angle of observation. Despite her high rank within the Nations Union's hierarchy, her manner lacked the cold authority typical of top officials.
 
-"Technician Reeves," she acknowledged, her voice softer than expected. "How are you sleeping?"
+"Technician Hale," she acknowledged, her voice softer than expected. "How are you sleeping?"
 
-The question, though seemingly routine, carried an undercurrent that put Alex on alert. "Well enough," he answered cautiously.
+The question, though seemingly routine, carried an undercurrent that put Adam on alert. "Well enough," he answered cautiously.
 
-Dr. Voss initiated the scanning sequence, her movements precise and practiced. Alex felt the familiar tingling as the equipment mapped his neural activity. The doctor watched the data flow across her display with unusual intensity, occasionally adjusting parameters in a way that suggested she was looking for something specific.
+Dr. Voss initiated the scanning sequence, her movements precise and practiced. Adam felt the familiar tingling as the equipment mapped his neural activity. The doctor watched the data flow across her display with unusual intensity, occasionally adjusting parameters in a way that suggested she was looking for something specific.
 
 "Your patterns show increased activity in the parahippocampal regions," she observed. "Typically associated with spatial navigation and memory encoding."
 
-"Is that a problem?" Alex asked.
+"Is that a problem?" Adam asked.
 
 Dr. Voss studied him for a long moment before responding. "Dreams don't mean disorder. Not always." She paused, glancing briefly toward the door. "Some dreams are echoes of the structure that underlies reality."
 
-The statement was so unexpected, so outside standard medical protocol, that Alex wasn't sure he'd heard correctly. Dr. Voss leaned closer, ostensibly adjusting an electrode, and withdrew a small piece of actual paper from her pocket—a rarity in the digital environment of the Orion. She pressed it into his hand while maintaining eye contact.
+The statement was so unexpected, so outside standard medical protocol, that Adam wasn't sure he'd heard correctly. Dr. Voss leaned closer, ostensibly adjusting an electrode, and withdrew a small piece of actual paper from her pocket—a rarity in the digital environment of the Orion. She pressed it into his hand while maintaining eye contact.
 
 "Look up: Cosmic Resonance," she said, so quietly he had to strain to hear.
 
-Alex closed his fingers around the paper, confusion warring with curiosity. Dr. Voss straightened and continued the examination with renewed professionalism, but her final comment as she dismissed him lingered like a ghost:
+Adam closed his fingers around the paper, confusion warring with curiosity. Dr. Voss straightened and continued the examination with renewed professionalism, but her final comment as she dismissed him lingered like a ghost:
 
 "Orion has always been a hunter... but also a warning."
 
@@ -68,7 +68,7 @@ Alex closed his fingers around the paper, confusion warring with curiosity. Dr. 
 
 In her private quarters, Artemis Morea sat surrounded by ancient texts—physical books she had brought aboard as "cultural artifacts," their pages filled with mythologies that predated humanity's computational understanding of the universe. Her focus today was the myth of her namesake: Artemis, goddess of the hunt, the moon, and the wilderness, and her complex relationship with the hunter Orion.
 
-She had been studying the variations of the myth with increasing intensity since the shared dream that still haunted her sleep. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction, sometimes Artemis's own arrows. The hunter became a constellation—placed in the sky either as punishment or memorial.
+She had been studying the variations of the myth with increasing intensity since the shared dream that still haunted her sleep. The story echoed Chang'e's tale—the goddess she'd carried with her since childhood. Both women destroyed what they loved through the act of trying to save it. Both ended up alone in the sky. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction, sometimes Artemis's own arrows. The hunter became a constellation—placed in the sky either as punishment or memorial.
 
 Artemis opened her private journal—not the official cultural documentation she maintained for the mission, but her personal record of observations and questions. She wrote with the smooth precision that had been trained into her since childhood:
 
@@ -80,23 +80,25 @@ In the margin of her journal, she added in smaller script: *"Edited gods are no 
 
 The realization settled heavily: the mythology handed to her by the Nations Union—the stories meant to guide humanity's understanding of itself—were as curated and sterile as the news feeds from Earth. History, culture, even the divine had been optimized for consumption, stripped of elements that might provoke uncomfortable questions or unpredictable reactions.
 
+Before closing the journal, she opened the map file on her private system—twenty-three discrepancies now, up from seventeen last week. The pattern was tightening. Whatever the ship was hiding, the omissions weren't random. They clustered, converging toward the central axis as if drawn to something she couldn't yet name.
+
 She closed the journal and concealed it in its hiding place behind a panel of her meditation altar. Her disillusionment was no longer abstract or philosophical—it had become a physical sensation, a heaviness in her chest, a gravity pulling her away from the path that had been predetermined for her since birth.
 
 ---
 
-Alex's makeshift studio in the forgotten maintenance closet had become his sanctuary—a space where he could work without the constant surveillance that permeated most of the ship. Here, he had assembled a collection of modified equipment that allowed him secure access to information networks beyond his official clearance.
+Adam's makeshift studio in the forgotten maintenance closet had become his sanctuary—a space where he could work without the constant surveillance that permeated most of the ship. Here, he had assembled a collection of modified equipment that allowed him secure access to information networks beyond his official clearance.
 
 Today, he was searching for information on "Cosmic Resonance," the term Dr. Voss had given him. Initial queries through standard channels yielded minimal results—basic definitions related to vibrational physics, with most deeper content marked as "restricted access."
 
-Alex activated a back-channel connection established by the Free Orioneers, routing his search through a series of proxies designed to mask his identity and location. The results were dramatically different: pages of pre-collapse research papers, including several authored by Dr. Voss herself before she joined the Orion mission.
+Adam activated a back-channel connection established by the Free Orioneers, routing his search through a series of proxies designed to mask his identity and location. The results were dramatically different: pages of pre-collapse research papers, including several authored by Dr. Voss herself before she joined the Orion mission.
 
 Her work described a theory that had been considered fringe by mainstream science: that human consciousness might align with cosmic patterns through mechanisms still not fully understood. More controversially, she had proposed that ancient myths and symbols may reflect quantum architecture—that what humanity had interpreted as spiritual archetypes might actually be expressions of fundamental spacetime harmonics.
 
-One passage particularly caught Alex's attention:
+One passage particularly caught Adam's attention:
 
 *"Constellations may be more than mnemonic devices—they may be synchronizing beacons between spirit and space. The repeatability of certain mythic structures across isolated civilizations suggests a common template operating beneath cultural expression. Our research indicates that certain geometric arrangements create quantum resonance fields that may function as informational conduits across spacetime."*
 
-The paper included diagrams of neurological activity that eerily resembled star patterns, including several variations of Orion. Alex reached for his notebook, comparing his dream-inspired sketch with Voss's research. The similarities were undeniable.
+The paper included diagrams of neurological activity that eerily resembled star patterns, including several variations of Orion. Adam reached for his notebook, comparing his dream-inspired sketch with Voss's research. The similarities were undeniable.
 
 On impulse, he pulled up the ship schematic the Free Orioneers had shown him and overlaid his inverted Orion drawing. The alignment wasn't perfect, but several key points corresponded with unusual precision—including one "star" that aligned exactly with the mysterious Central Sub-Matrix Core.
 
@@ -120,13 +122,13 @@ Artemis hesitated, uncertain whether to proceed or retreat. Protocol dictated mi
 
 "For remembering." Al-Farouk's fingers moved with practiced precision among the blossoms. "In Cairo, these grew in the university courtyard where I taught. The scent would drift through my office window, a reminder that nature's algorithms preceded our own."
 
-He spoke with the measured cadence of a professor, but beneath the academic tone lay a poetry that surprised her. "Growing beauty in an artificial Eden," he continued, "is its own form of resistance."
+He spoke with the measured cadence of a professor, but beneath the academic tone lay something warmer than she expected. "The ship doesn't want this," he continued, gesturing at the blossoms. "No one approved it. No algorithm suggested it. That's rather the point."
 
 Artemis studied him more carefully. His sanitation worker's uniform couldn't disguise his scholarly bearing, just as her ceremonial attire couldn't conceal her growing disillusionment. Something unspoken passed between them—recognition of the masks they both wore.
 
 "Why tend to plants no one sees?" she asked quietly.
 
-Al-Farouk smiled, the expression transforming his austere features. "Because the flowers have no concept of power. They bloom in silence. That's rebellion enough."
+Al-Farouk smiled, the expression transforming his austere features. "Because they don't know they're not supposed to be here. They just grow." He turned a blossom toward the light. "I find that encouraging."
 
 He reached into his pocket and withdrew a small paper packet, offering it to her with the formality of a diplomatic exchange. "Unapproved Lifeform – Earth Jasmine, Cairo strain," read the handwritten label.
 
@@ -140,17 +142,17 @@ As Artemis departed, the seeds in her pocket seemed to carry their own gravity�
 
 ---
 
-In the lower maintenance sector, Alex and Kai Chen huddled over a display screen, comparing the inverted Orion pattern from Alex's dream with historical ship schematics Kai had managed to access through his engineering credentials.
+In the lower maintenance sector, Adam and Kai Chen huddled over a display screen, comparing the inverted Orion pattern from Adam's dream with historical ship schematics Kai had managed to access through his engineering credentials.
 
 "These are preliminary designs," Kai explained, indicating timestamps from the early construction phase. "Before certain modifications were classified."
 
-The comparison revealed a striking correlation: several areas marked as "dead zones" in the official blueprints corresponded with nodes in Alex's dream-pattern. More significantly, these points formed a network that converged on the mysterious Central Sub-Matrix Core.
+The comparison revealed a striking correlation: several areas marked as "dead zones" in the official blueprints corresponded with nodes in Adam's dream-pattern. More significantly, these points formed a network that converged on the mysterious Central Sub-Matrix Core.
 
-"What's this cluster here?" Alex asked, pointing to a section near the ship's midsection.
+"What's this cluster here?" Adam asked, pointing to a section near the ship's midsection.
 
 "Officially, it's an adaptive shielding mechanism," Kai replied. "But the power allocation doesn't match that function. It's drawing energy levels consistent with quantum computing arrays, not defensive systems."
 
-Alex traced the connections between nodes, the pattern revealing itself with increasing clarity. "If these are resonance points," he said slowly, "then the whole ship might be designed as some kind of... receiver."
+Adam traced the connections between nodes, the pattern revealing itself with increasing clarity. "If these are resonance points," he said slowly, "then the whole ship might be designed as some kind of... receiver."
 
 "Or transmitter," Kai added, his expression grave. "The question is: receiving what? Transmitting to whom?"
 
@@ -158,7 +160,7 @@ They studied the overlay in silence, the implications too vast to articulate ful
 
 "If the ship was designed with resonance nodes... someone knew. Long before us."
 
-Alex nodded, a chill running through him despite the regulated temperature. "We've been living inside a myth," he said. "We just didn't know which one."
+Adam nodded, a chill running through him despite the regulated temperature. "We've been living inside a myth," he said. "We just didn't know which one."
 
 ---
 
@@ -182,41 +184,41 @@ Artemis watched with outward composure, but inwardly she recognized what was hap
 
 *They've digitized the soul*, she thought. *And stitched it into uniforms for conquest.*
 
-From his position at an environmental control panel above the runway, Alex Reeves monitored temperature and atmospheric composition with half his attention, the other half drawn to the spectacle below. He'd been assigned to the event as part of his Environmental Systems Team Alpha duties—a role that gave him unprecedented access to elite gatherings while maintaining his functional invisibility.
+From his position at an environmental control panel above the runway, Adam Hale monitored temperature and atmospheric composition with half his attention, the other half drawn to the spectacle below. He'd been assigned to the event as part of his Environmental Systems Team Alpha duties—a role that gave him unprecedented access to elite gatherings while maintaining his functional invisibility.
 
 Beside him, Zedd adjusted a set of humidity regulators, his eyes flicking between the runway and a small audio display patched into the platform's vibration sensors.
 
 "They tuned this whole show to 72 BPM," Zedd murmured, almost to himself. "Same as a resting heart rate. Subliminal calming. Manufactured awe."
 
-Alex gave a short nod. "Nothing like coercion you can dance to."
+Adam gave a short nod. "Nothing like coercion you can dance to."
 
-A sudden fluctuation in the environmental readings demanded Alex's focus—a heat spike near the main presentation area threatened to disrupt the careful balance of comfort and stimulation. Without drawing attention, he adjusted the parameters, redirecting coolant flow to compensate for the unexpected thermal load generated by the programmable textiles.
+A sudden fluctuation in the environmental readings demanded Adam's focus—a heat spike near the main presentation area threatened to disrupt the careful balance of comfort and stimulation. Without drawing attention, he adjusted the parameters, redirecting coolant flow to compensate for the unexpected thermal load generated by the programmable textiles.
 
 Zedd leaned over to peer at his screen. "Too much heat for that loadout. Someone's running a hidden core in their suit—maybe a projection engine."
 
-"They're dressing like gods," Alex replied. "Guess it makes sense they'd want their own radiance."
+"They're dressing like gods," Adam replied. "Guess it makes sense they'd want their own radiance."
 
-As he worked, Alex's gaze fell on the front row of observers, where Artemis Morea sat with perfect posture yet subtly distinct from those around her. While other spectators wore expressions of calculated appreciation enhanced by NeuralLace synchronization, her face revealed a different quality—a stillness that seemed more like contained dissent than serene approval.
+As he worked, Adam's gaze fell on the front row of observers, where Artemis Morea sat with perfect posture yet subtly distinct from those around her. While other spectators wore expressions of calculated appreciation enhanced by NeuralLace synchronization, her face revealed a different quality—a stillness that seemed more like contained dissent than serene approval.
 
 At that moment, a model passed wearing a dress constructed from synthetic glass "salt crystals" arranged in the unmistakable outline of the African continent—a continent now largely uninhabitable. The audience applauded the aesthetic achievement, apparently blind to the grotesque symbolism of wearing Earth's wounded geography as decoration.
 
 "Tell me they didn't," Zedd whispered, shaking his head. "That's not a design—that's an obituary."
 
-Alex watched Artemis's expression tighten almost imperceptibly. Then, as if sensing his attention, she looked up toward his position at the control panel. Their eyes met across the chamber—elite passenger and maintenance technician, separated by the entire social structure of the Orion yet somehow seeing the same truth.
+Adam watched Artemis's expression tighten almost imperceptibly. Then, as if sensing his attention, she looked up toward his position at the control panel. Their eyes met across the chamber—elite passenger and maintenance technician, separated by the entire social structure of the Orion yet somehow seeing the same truth.
 
 Zedd noticed the moment. "She sees it too," he murmured. "Not the fashion. The fracture."
 
-*Another costume*, Alex thought. *But her silence looks like protest.*
+*Another costume*, Adam thought. *But her silence looks like protest.*
 
 In that moment of connection, both felt the crushing unreality of the spectacle—the engineered elegance, the controlled emotions, the illusion of culture resurrected but hollowed of meaning. A system where even memory was being rewritten to serve power.
 
-The moment broke as Prince Virel appeared beside Artemis, leaning close to speak in her ear. "Beautiful, isn't it?" His words carried to Alex through the environmental monitoring system. "A new mythology—one we write ourselves."
+The moment broke as Prince Virel appeared beside Artemis, leaning close to speak in her ear. "Beautiful, isn't it?" His words carried to Adam through the environmental monitoring system. "A new mythology—one we write ourselves."
 
 Artemis didn't reply. Her gaze remained fixed on the runway where a model now displayed a garment resembling the wings of Icarus—glowing red as if melting, a classical warning reduced to aesthetic spectacle without moral content.
 
 ---
 
-That night, sleep claimed both Alex and Artemis at nearly the same moment, though separated by twenty-seven decks of metal and hierarchy. The dream began as before—a descent through endless space, stars wheeling around them in dizzying patterns. But this time, the darkness felt familiar, almost welcoming.
+That night, sleep claimed both Adam and Artemis at nearly the same moment, though separated by twenty-seven decks of metal and hierarchy. The dream began as before—a descent through endless space, stars wheeling around them in dizzying patterns. But this time, the darkness felt familiar, almost welcoming.
 
 They descended through a spiral corridor of stars, falling toward a point of light that grew gradually brighter. Unlike before, the stars didn't vanish but instead whispered a single word that vibrated through their consciousness: *"Remembrance."*
 
@@ -228,7 +230,7 @@ Then, abruptly, the dream ended.
 
 Artemis sat upright in her bed, heart racing, skin tingling with residual energy. "He was there," she whispered to the darkness.
 
-Twenty-seven decks below, Alex opened his eyes, the dream still pulsing through his consciousness. "She saw me," he murmured, knowing with absolute certainty that the connection had been real.
+Twenty-seven decks below, Adam opened his eyes, the dream still pulsing through his consciousness. "She saw me," he murmured, knowing with absolute certainty that the connection had been real.
 
 ---
 
