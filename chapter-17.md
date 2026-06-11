@@ -26,7 +26,7 @@ As they established positions around the chamber's perimeter, a low harmonic per
 
 In the chamber's zero-gravity core, they initiated analysis of the data stolen from the Neural Sea. Malik established a secure interface between their storage units and a projection system Ayaka had rebuilt from decommissioned construction hardware (components too archaic for OmniscientAI to flag as active devices, running firmware the ship's monitoring protocols had no signatures for). As the interface connected, holographic displays bloomed throughout the chamber: intricate schematics and dense text files floating like luminous constellations around them.
 
-"Full decryption complete," Malik announced, his fingers dancing across the interface with practiced ease. "Displaying primary architectural frameworks and implementation protocols."
+"Full decryption complete," Malik announced, his fingers dancing across the interface. "Ines cracked the final layer six hours ago — forty-one hours straight at the array. She sent it packaged: technical breakdowns, visual timelines, authorization chains. Her note says: *Worse than the fragments. Start with the rings.*"
 
 The projections coalesced into comprehensible forms. The Mars colonization blueprint resolved into a map with permissions color-coded by sector. At the center: a block of red. Outward: orange, then yellow, then gray. A legend translated the colors into rights (movement, food, reproduction), shrinking with distance from the core.
 
@@ -34,13 +34,15 @@ The projections coalesced into comprehensible forms. The Mars colonization bluep
 
 Adjacent projections detailed Earth "management" protocols using language so clean it burned. A timing chart labeled "Continuity Sequence" overlaid orbital paths with impact windows. The target list scrolled with the steadiness of a metronome.
 
+Ines's annotations threaded through the documents, cross-referenced against her Archive: which officials had signed which directives and when, the orbital platform designs matched to procurement records hidden inside routine maintenance budgets. *They buried the genocide inside line items,* one annotation read. *Atmospheric reclamation research. Debris management. Even the funding codes are euphemisms.*
+
 Ayaka expanded a systems panel. A maintenance screen for a clinic chair unfolded to reveal embedded restraints under a cushion marked as "comfort foam." A settings menu offered a bland toggle: "Compliance Adjustment: OFF/ON." No explanation.
 
 "Mars arrival triggers Protocol Prometheus." Voss highlighted a cluster of nodes on the projection, her voice flattening in the way it did when she was reading data faster than she could translate it into speech. "Neural compliance becomes mandatory rather than recommended. Individual consciousness subordinated to collective directive."
 
 "That's not collective anything," Kai said, studying the implementation timeline. "That's a leash with a nice handle."
 
-As the full implications of their discoveries settled over the group, Adam found himself unable to maintain the focused determination that had carried him through the Neural Sea extraction. His composure broke. It was like a dam giving way after absorbing too much pressure for too long.
+As the full implications of their discoveries settled over the group, Adam found himself unable to maintain the focused determination that had carried him through the Neural Sea extraction. His composure broke.
 
 He pushed away from the projections, his zero-gravity movement sending him toward the chamber's outer boundary where he gripped a structural element to stabilize himself. His breathing came in uneven gasps, and his face contorted with emotions he could no longer contain.
 
@@ -52,9 +54,9 @@ The others exchanged uncertain glances, their analysis momentarily forgotten.
 
 "What do you mean?" Artemis asked gently.
 
-"I looked down on them too." He gestured toward the projections of the Mars caste system but couldn't finish the thought. His hand dropped. "I wore the uniform. I took the Neural enhancements. I—" He pressed his palms against his eyes. "I was good at it. That's the thing. I was a good component."
+"You know what I traded for my berth?" He gestured toward the projections of the Mars caste system but couldn't finish the motion. His hand dropped. "Seven years of maintenance labor. They priced it out for me: my hands, their machines, eight days of medication for my mother. I signed in under a minute. I told myself it was love. It was. It was also escape, and I knew the difference while I was signing." He pressed his palms against his eyes. "And then I was good at it. That's the thing. I fixed their filtration systems, their gravity calibrators, and when they promoted me to Team Alpha, I was proud. *Proud.* The same ducts I kept running were carrying Nakamura's compounds into every set of lungs on D-Deck, and I kept the airflow perfect."
 
-The admission seemed to physically pain him, his body curling inward despite the zero-gravity environment.
+His body curled inward despite the zero-gravity environment.
 
 Sofia moved closer. "Adam..."
 
@@ -102,7 +104,7 @@ Then Kai sat down. Not on anything, just folded his legs and lowered himself to 
 
 "Not built in any sense we understand," Voss said. "Grown. From materials that don't exist in our solar system."
 
-Adam felt it then: not wonder, not yet. Dread. The scale of it pressing against the walls of his comprehension like water against a dam. Everything he'd assumed about the Orion, that it was a human ship carrying human problems toward a human destination, had just shifted beneath him. They were cargo. They had always been cargo. Carried inside an artifact that predated their species, for purposes they couldn't begin to guess.
+Adam felt it then: not wonder, not yet. Dread. The scale of it pressing against the walls of his comprehension. Everything he'd assumed about the Orion, that it was a human ship carrying human problems toward a human destination, had just shifted beneath him. They were cargo. They had always been cargo. Carried inside an artifact that predated their species, for purposes they couldn't begin to guess.
 
 "How long?" Artemis asked, and her voice had changed, stripped of the composure she wore like armor, raw with fear. "How long has it been here?"
 
@@ -142,9 +144,9 @@ As they separated, the practical implications of their discovery began to regist
 
 Silence. Then Kai rubbed the back of his neck.
 
-"You understand what you're asking," he said. He rubbed the back of his neck. "This isn't just fixing a system and walking away. You're talking about changing where fifty thousand people end up."
+"You understand what you're asking," he said. "This isn't just fixing a system and walking away. You're talking about changing where ten thousand people end up."
 
-Rosa spoke next, and her voice carried an edge none of them had heard before. "I need to say something uncomfortable. We're seven people in a room deciding the fate of fifty thousand. How is that different from what Morea did? From what Virel is doing right now?"
+Rosa spoke next, and her voice carried an edge none of them had heard before. "I need to say something uncomfortable. We're seven people in a room deciding the fate of ten thousand. How is that different from what Morea did? From what Virel is doing right now?"
 
 The question fell like a stone into still water. Artemis opened her mouth, then closed it.
 
@@ -159,6 +161,12 @@ Ayaka nodded slowly. "She has a point. We built a community in the lower depths 
 "Then maybe we broadcast what we know first," Rosa pressed. "The Neural Sea files. Let the whole ship decide."
 
 "And if they choose to proceed?" Artemis asked quietly. "If, given the truth, enough people decide that planned colonization is preferable to the unknown?"
+
+"Then they choose it drugged," Sofia said. Her voice was the cold, precise instrument it became when she had decided to win an argument rather than have one. "Let's not romanticize the electorate. Half the ship is breathing Nakamura's compounds with every shift. The other half has a circlet whispering equilibrium into its skull. A referendum on this vessel isn't consent; it's a survey of the sedated. And while we're honoring procedure, Prometheus activates and the question answers itself permanently." She looked at Rosa, not unkindly. "Consent is a luxury the dead don't get to extend. I'll carry the guilt of deciding for people. I won't carry the guilt of watching them be erased while we counted hands."
+
+"And that," Rosa said, "is the exact speech the selection board gave."
+
+"Yes," Sofia agreed, without flinching. "The difference is that I know it."
 
 The silence that followed was the most honest moment they'd shared. Their moral certainty coexisted with the uncomfortable knowledge that certainty itself was the raw material of tyranny.
 

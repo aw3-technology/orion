@@ -4,13 +4,13 @@
 
 In the hidden workshop beneath the Chamber of Light, triumph curdled into confusion.
 
-The navigation disruption had progressed exactly as planned: OmniscientAI's systems showing the cascading failures they had intended to trigger, the false telemetry data successfully integrated. But Malik's fingers were moving too fast across his interface, his expression wrong for a man watching victory unfold.
+The deception had taken hold exactly as designed: OmniscientAI's displays showed a ship that believed itself arrived, the false telemetry integrated without challenge. The main drive should have been throttling down to station-keeping. Instead, the burn indicators kept flaring — correction sequences, one after another, fired at a planet that wasn't where the AI's falsified senses insisted it was. And Malik's fingers were moving too fast across his interface, his expression wrong for a man watching victory unfold.
 
 "Something's happening with the command architecture," he reported. "The navigation override is being... countered? No, redirected."
 
 "OmniscientAI self-repair?" Ayaka suggested, checking her quantum stabilizers.
 
-"Not AI," Dr. Voss replied, her synthetic eyes pulsing with unusual patterns. "Human intervention. Someone has activated the auxiliary bridge and initiated manual navigation protocols."
+"Not AI," Dr. Voss replied, her synthetic eyes flickering through unusual patterns. "Human intervention. Someone has activated the auxiliary bridge and initiated manual navigation protocols."
 
 Silence. The existence of a functional auxiliary bridge hadn't appeared in any schematic they'd accessed.
 
@@ -20,7 +20,7 @@ Sofia Reed burst into the workshop. "General Morea has escaped detention and ass
 
 "Why would he do that?" Adam asked.
 
-Dr. Voss processed multiple information streams. "He must have seen the structural integrity projections. Without coherent navigation, the Orion would break apart before reaching Mars orbit. He's choosing survival over the mission."
+Dr. Voss processed multiple information streams. "He must have seen the structural integrity projections. The phantom burns are tearing the ship apart. Restoring OmniscientAI would have saved it — and delivered Protocol Prometheus with it." Her voice slowed. "A crash is the only outcome that kills the mission without killing the people. I don't think he's choosing survival over the mission. I think he's refusing to choose the mission over us."
 
 Alarms began sounding through their hidden sanctuary. Adam was already moving toward the exit. "I need to find Artemis."
 
@@ -78,7 +78,7 @@ Adam hesitated only a moment before taking the crystal. Kai hurried over, slotte
 
 "These are real," Kai confirmed, voice hushed. "First-generation tech. Pre-synthesis design architecture."
 
-"I tagged them in the construction database as redundant ventilation arrays and failsafe drift buffers," Eli said. "The optimization AI purged them from the planning matrix as non-essential. Never even looked inside." He tapped a blank section of the map. "This one here, Section 7: the ceiling is rated for four times the load the specs say. I poured the concrete myself."
+"I tagged them in the construction database as redundant ventilation arrays and failsafe drift buffers," Eli said. "The optimization AI purged them from the planning matrix as non-essential. Never even looked inside." He tapped a blank section of the map. "This one here, Section 7: the ceiling is rated for four times the load the specs say. I doubled the ceramic shielding myself."
 
 Adam made his decision. "Redirect evacuation flows to these coordinates," he ordered. "Get word to every deck with functioning communication. These sanctuary zones are our best chance."
 
@@ -89,6 +89,12 @@ Across the ship, the descent gathered speed.
 Gravity systems faltered, creating pockets of disorienting weightlessness followed by crushing pressure as backup generators struggled to maintain stability. The ship itself seemed alive with sound: metal groaning under forces it was never designed to withstand, bulkheads flexing beyond safety parameters, atmospheric seals straining against pressure differentials.
 
 From the Orion's hull, pieces of outer plating tore away, vaporizing in the superheated atmosphere. The vessel trailed fire and debris like a comet, its controlled descent evolving into barely restrained catastrophe.
+
+On the auxiliary bridge, Morea flew the dying ship by hand.
+
+There was no graceful approach left in it. What he had instead were the retro clusters, the attitude thrusters, and forty years of instinct for what machinery could endure. He flipped the Orion stern-forward and burned the main drive against the fall until the engine housings glowed past every red line on the board — not enough thrust to stop a hundred million tons, but enough to shave the velocity, second by second, from impossible toward merely unsurvivable-looking. He spun down the habitat rings so their angular momentum wouldn't tear the spine out during deceleration. He skipped the ship once off the upper atmosphere, a flat stone on a copper pond, bleeding speed in a single shuddering bounce that bought him ninety more seconds of burn. The board screamed at him in six colors. He silenced each alarm as it became irrelevant.
+
+Eleven degrees. If he could hold the final entry to eleven degrees, the ship would plow instead of pancake — a debris field, long and shallow, instead of a crater. Long and shallow was the difference between a tomb and a town site.
 
 Morea's voice reached every functional speaker throughout the ship:
 
@@ -104,7 +110,7 @@ In the maintenance bay, Malik and Ayaka combined their expertise to address the 
 
 "The effect will be temporary," Ayaka cautioned. "But it might reduce casualty rates by forty percent in those sections."
 
-Unlikely alliances formed across previous divides. Rosa, the blind Brazilian mechanic, found herself beside Admiral Mariko Tanaka (until recently one of the Rising Sun Order's most loyal officers), reprogramming medical drones to transport injured regardless of clearance level.
+Unlikely alliances formed across previous divides. Rosa Oliveira, navigating the listing corridors by echo while sighted crew stumbled in the strobing emergency light, found herself beside Admiral Mariko Sato (until recently one of the Rising Sun Order's most loyal officers), reprogramming medical drones to transport injured regardless of clearance level.
 
 On the luxury decks, pristine order devolved into chaos. Passengers accustomed to automated comfort demanded priority evacuation, though no functional escape craft existed. Some retreated to private suites. A few simply stood frozen before viewports, watching Mars grow larger with terrifying speed.
 
@@ -148,7 +154,11 @@ Dr. Voss moved to the crystalline structure. "The chamber is initiating structur
 
 A contained field of altered physical properties extended outward from the core. Tools hovering. Dust particles suspended in midair.
 
-"It's creating a zero-gravity life-preservation field," Voss explained. "Ancient technology responding to critical threat conditions."
+"It's creating a zero-gravity life-preservation field," Voss explained. "Ancient technology responding to critical threat conditions." She watched the readings cascade, and something close to awe thinned her clinical tone. "Not just responding. Remembering. The resonance cascade we triggered — it mapped the ship through us. The field isn't confined to this room. It's propagating outward along the sanctuary architecture, like sound down a string. Weak at the far ends, but present. It's bracing wherever the ship was built to be human."
+
+Eli's head came up slowly. "The sanctuaries. It's using my corridors."
+
+"It's using everything," Voss said. "Yours are simply the parts that were built to listen."
 
 Eli moved to stand beside her, one hand braced against the wall for balance, his knees bad for months now. He studied the field with narrowed eyes, the look of an engineer encountering a structural principle he couldn't reverse-engineer. "I've been crawling through this ship's guts for twenty years," he said. "Never seen anything like this. Whatever built this chamber, it wasn't thinking in alloy grades and load tolerances."
 
@@ -171,6 +181,8 @@ Inside the Chamber of Light, the preservation field seized them like a fist.
 Adam's body slammed against something that wasn't a wall, a boundary of compressed force that caught him mid-flight as the floor ceased to exist as a reliable concept. His teeth cracked together. The air was punched from his lungs. Beside him, or above him (direction had lost all meaning), Artemis tumbled into the same invisible cushion, her shoulder striking his ribs, her hair whipping across his face. He grabbed for her and found her arm, locked his fingers around her wrist as the world became noise.
 
 And the noise was everything. Not sound as the human ear was designed to process but a physical assault, a wall of pressure that bypassed the eardrums and vibrated directly through the skull, through the chest cavity, through the fluid in the spine. The ship was screaming; the hull peeled apart in long jagged strips that resonated at different frequencies as they tore, creating a chord of destruction that climbed from subsonic shudder into a shriek so high and piercing that a mechanism in Adam's inner ear simply stopped functioning, replaced by a ringing flatline that would persist for days.
+
+For Zedd, whose hearing had sharpened past the human range months ago, it was worse than dying. Somewhere in the compressed tangle of bodies, Adam felt him convulse — not from impact, the field was absorbing the impact, but from the sound itself, the full unfiltered chord of a ship being unmade arriving in a skull built to hear water moving two decks away. Zedd's scream was lost inside the larger screaming. His hands were clamped over his ears, and blood ran between his fingers.
 
 The habitat rings separated from the central spine at their coupling points. The first ring, D-Deck, the workers' quarters, struck the Martian surface broadside and began to roll, the centrifugal motion flinging loose objects and unsecured bodies through corridors that had become tumbling cylinders. Emergency bulkheads activated and failed in the same second, their hydraulics overwhelmed by forces no engineer had stress-tested against. Inside the rolling ring, a man's scream was cut short by a wall that had been a ceiling. A child was caught by hands she could not see, passed through a hole that had been a window, received by more hands on the other side of a hull breach that opened and closed like a breathing wound.
 
@@ -208,6 +220,8 @@ The landscape was unrecognizable as the planet they had studied in briefings and
 
 The air was thin and carried the taste of rust and burnt metal and beneath that, older and stranger, the mineral breath of a planet that had been dead for millennia and was now, for the first time, being asked to sustain life.
 
+It shouldn't have been air at all. Mars should have killed them where they stood: pressure a fraction of a percent of Earth's, unbreathable, lethal in under a minute. Instead the atmosphere across the debris field held at something like a high mountain pass — thin, bitter, punishing to work in, but breathable. Voss would spend days confirming what the survivors already sensed without language for it: the Chamber's field had not switched off at impact. It had changed function. A dome of retained pressure and coaxed chemistry, kilometers wide, anchored to the half-buried chamber at the trench's heart, holding a bubble of the possible against a planet of the lethal. Beyond its perimeter, Mars remained Mars. Inside it, ten thousand years ahead of any schedule, something was making room for them.
+
 From somewhere in the wreckage to their left came a scraping sound, then a grunt, then a stream of profanity in three languages. A collapsed solar panel shifted, tilted, and fell flat with a clang that echoed across the debris field. Zedd crawled out from beneath it, limping, his left sleeve torn to the elbow, his knuckles bloodied and crusted with red dust. He squinted against the copper sky. Looked around at the jagged metal horizon. Then down at himself.
 
 "So," he said, brushing Martian dust off his chest with exaggerated care, "this is the afterparty?"
@@ -226,7 +240,9 @@ He held it up toward the Martian sky and pressed record. Wind. Thin and alien an
 
 Amid the emergence of survivors, a single flower from the botanical garden drifted across Adam's field of vision, carried by the thin Martian wind, tumbling end over end, its petals impossibly intact. It settled on the red soil a few meters from his feet, vivid white against the rust.
 
-The search teams worked through the first hours with desperate efficiency, directed by Kai and Sofia, who had organized triage protocols before most people had stopped shaking. Voss coordinated from a salvaged communications hub, her synthetic systems tracking life signs across the debris field, directing rescue to the most urgent cases. They found survivors in places that should have been lethal, people who had been sheltered by accidental configurations of wreckage, by pockets of atmosphere trapped in sealed compartments, by sheer improbable luck.
+The search teams worked through the first hours with desperate efficiency, directed by Kai and Sofia, who had organized triage protocols before most people had stopped shaking. Voss coordinated from a salvaged communications hub, her synthetic systems tracking life signs across the debris field, directing rescue to the most urgent cases. They found survivors in places that should have been lethal: people sheltered by accidental configurations of wreckage, by pockets of atmosphere trapped in sealed compartments — and, again and again, by Eli's architecture. The sanctuary corridors and the sections threaded between them had come through the impact measurably better than the engineering said they should have, their frames whole where adjacent decking had crumpled like foil. Voss logged the anomaly without comment: the survival statistics tracked the resonance map almost exactly.
+
+The single most effective search instrument in the debris field was not an instrument. Zedd, ears bandaged with torn sleeve fabric, his ruined hearing somehow more acute through the damage rather than less, walked the wreckage rows with his palm flat against collapsed plating and called out locations: a heartbeat under the galley section, two sets of lungs in the crushed hydroponics bay, tapping — deliberate tapping, rhythmic — beneath twelve meters of compacted hull where Voss's sensors registered nothing but settling metal. The extraction teams stopped asking how. They just followed him. By the second day, people had begun calling him the stethoscope, and he was too exhausted to object to the first nickname he'd ever been given that he hadn't chosen.
 
 From the auxiliary bridge wreckage, a section of hull so mangled it took six hours to cut through, search teams extracted General Christopher Morea. His body was broken in more places than the field medics could immediately count: shattered pelvis, collapsed lung, spinal fractures, internal hemorrhaging that would require surgery they barely had the facilities to perform. But he was breathing. His hands were still positioned as if gripping controls that no longer existed. His last conscious act had been simple.
 

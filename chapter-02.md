@@ -16,7 +16,7 @@ Torres exhaled like he'd been holding his breath since launch. The woman on Adam
 
 "Ah." She nodded. "Mine too."
 
-The boarding indicator flashed green and the cabin dissolved into motion: harnesses clicking, bags shuffling, people standing in the particular way of humans in slightly wrong gravity, each step bouncing a fraction too high. Adam's inner ear registered the discrepancy before his brain did. Not uncomfortable. Just *off*, like wearing someone else's shoes.
+The boarding indicator flashed green and the cabin dissolved into motion: harnesses clicking, bags shuffling, people standing the way humans stand in slightly wrong gravity, each step bouncing a fraction too high. Adam's inner ear registered the discrepancy before his brain did. Not uncomfortable. Just *off*, like wearing someone else's shoes.
 
 He joined the shuffle toward the exit. At the front, the luxury cabin emptied through its own door, attendants collecting champagne flutes, passengers adjusting cuffs and collars as if preparing for a photo they'd already rehearsed. Among them, briefly visible through the dividing partition: Artemis Morea. She glanced back once, toward the rear cabin. Their eyes met for half a second across thirty rows of seating and an invisible chasm of class. Then an attendant moved between them, and she was gone.
 
@@ -98,7 +98,7 @@ He unseated the first membrane. Grey water sluiced out, warm, faintly sulfurous,
 
 Membrane two. Then three. His shoulders burned from the confined angle. Sweat ran into his eyes and mixed with the chloramine mist, stinging until he blinked it clear. The headlamp threw hard shadows that made every junction look identical; he navigated by touch, by the spacing of pipe runs his fingers had already memorized.
 
-By membrane six, he'd found his rhythm. Unseat, drain, extract, inspect housing, clean gasket surface, insert replacement, torque sequence, flow check. His hands moved through the procedure while his mind drifted to the hull vibration he could feel through his spine, a low harmonic that changed pitch when the ship adjusted its orientation. The Orion was always adjusting. Always compensating. A ten-thousand-person organism that breathed and sweated and consumed, and Adam was the man in its kidneys making sure the filters held.
+By membrane six, he'd found his rhythm. Unseat, drain, extract, inspect housing, clean gasket surface, insert replacement, torque sequence, flow check. His hands moved through the procedure while his mind drifted to the hull vibration he could feel through his spine, a low harmonic that changed pitch when the ship adjusted its orientation. The Orion was always adjusting. Always compensating. A ten-thousand-person organism that breathed and sweated and consumed, and Adam was the man deep in its guts making sure the filters held.
 
 He finished all twelve in four hours, thirty minutes under Kwan's estimate. The flow calibration took another hour, matching pressure differentials across the bank until the readings settled into the green band. He backed out of the crawlspace streaked with grey water and biofilm, diagnostic kit dragging behind him, and stood in the corridor blinking under fluorescent lights like something born from the ship's own plumbing.
 
@@ -108,7 +108,7 @@ A passing crew member, Huang Wei, heading to his own shift in life support, hand
 
 "Somebody's got to be the kidneys."
 
-Three weeks of shifts like that, and Adam knew his maintenance routes cold: every junction, every service hatch, every patrol rotation on D-Deck. The work was honest if brutal: membrane swaps, pump rebuilds, recalibrating waste processors that drifted out of spec every seventy-two hours like clockwork. His hands developed new calluses over old ones, the soft-tissue pads at the base of each finger hardening into the particular leather of someone who spent hours gripping tools in tight spaces. The chemical smell of the filtration bays stopped registering after the first week. He learned which tools he could trust (the membrane wrench that never slipped, the flow calibrator whose readings matched reality) and which ones needed watching: the torque driver that gave way at high settings, the sealant gun with the slow leak, the headlamp that flickered when the ship's power grid cycled through its load-balancing routine.
+Three weeks of shifts like that, and Adam knew his maintenance routes cold: every junction, every service hatch, every patrol rotation on D-Deck. The work was honest if brutal: membrane swaps, pump rebuilds, recalibrating waste processors that drifted out of spec every seventy-two hours like clockwork. His hands developed new calluses over old ones, the soft-tissue pads at the base of each finger hardening into the leather of someone who spent hours gripping tools in tight spaces. The chemical smell of the filtration bays stopped registering after the first week. He learned which tools he could trust (the membrane wrench that never slipped, the flow calibrator whose readings matched reality) and which ones needed watching: the torque driver that gave way at high settings, the sealant gun with the slow leak, the headlamp that flickered when the ship's power grid cycled through its load-balancing routine.
 
 He was keeping the ship's least glamorous systems running so the people above never had to think about what happened to their refuse. And evenings he spent in the canteen with Chen and Zoe, learning the ship's social geography through their overlapping expertise.
 
@@ -142,7 +142,7 @@ He found a narrow maintenance gallery with a one-way transparent floor. Below it
 
 Adam crouched and looked down.
 
-Actual trees. Growing in actual soil. He could see apples on some of the branches, real, red, impossibly alive. A-Deck residents strolled along garden paths between the trunks, moving with the particular aimlessness of people who had nowhere they needed to be and no one rushing them there. Green stretched in every direction, punctuated by flowers Adam hadn't seen since childhood.
+Actual trees. Growing in actual soil. He could see apples on some of the branches, real, red, impossibly alive. A-Deck residents strolled along garden paths between the trunks, moving with the aimlessness of people who had nowhere they needed to be and no one rushing them there. Green stretched in every direction, punctuated by flowers Adam hadn't seen since childhood.
 
 He pressed his palm against the transparent floor and felt the faint warmth of grow lights rising from below.
 
@@ -150,7 +150,7 @@ He pressed his palm against the transparent floor and felt the faint warmth of g
 
 Adam turned slowly.
 
-Artemis Morea stood at the far end of the gallery, her blue uniform sharp against the metal walls. In person, she was taller than the hologram had suggested. Her posture was military-straight but lacked her father's aggression — more like a spine held carefully upright than a body braced for impact.
+Artemis Morea stood at the far end of the gallery, her blue uniform sharp against the metal walls. Up close, she was taller than she'd looked across thirty rows of shuttle seating. Her posture was military-straight but lacked her father's aggression — more like a spine held carefully upright than a body braced for impact.
 
 "Must have taken a wrong turn," Adam said, producing his most innocent expression. "First day. Confusing maps."
 
@@ -216,7 +216,7 @@ She stood very still, recalculating. Not just the pipes but him. What he was wor
 
 She left without another word. Adam took the maintenance shaft she'd indicated, and it delivered him to D-Deck exactly as promised.
 
-Walking toward the canteen where Chen and Zoe were probably already waiting, he thought about the garden below the transparent floor, and the woman who had stood above it with him, and the particular quality of her silence when he'd told her the truth.
+Walking toward the canteen where Chen and Zoe were probably already waiting, he thought about the garden below the transparent floor, and the woman who had stood above it with him, and the quality of her silence when he'd told her the truth.
 
 She was the General's daughter. She was the system made flesh. Whatever he'd glimpsed in that gallery meant nothing against the mathematics of who lived and who died.
 
@@ -234,7 +234,7 @@ Instead, he listened. Chen talked about water: the seventeen-stage filtration sy
 
 "Non-critical meaning our quarters," Adam noted.
 
-"Non-critical meaning anywhere we sleep, eat, or breathe," Zoe confirmed.
+"Non-critical meaning D-Deck hull seams, dorm plumbing, and the canteen air handlers," Zoe said. "I pulled the maintenance priority list my first week. We rank below the A-Deck koi pond. The koi pond has a dedicated technician."
 
 They ate in comfortable silence for a while. Around them, the canteen hummed with the low conversation of people settling into routine, trading shift stories, comparing notes, converting the strangeness of their situation into something they could swallow alongside the nutrient paste.
 

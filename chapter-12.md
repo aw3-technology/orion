@@ -10,7 +10,7 @@ General Morea stood at the center of the chaos, his face carved from stone as he
 
 "Sir, navigation systems are rejecting commands," reported the chief systems officer. "Something's blocking the emergency protocols."
 
-"Then bypass the block," Morea snapped. "Lieutenant Hale, activate the secondary command array."
+"Then bypass the block," Morea snapped. "Lieutenant Reyes, activate the secondary command array."
 
 As officers scrambled to execute orders, Morea turned to the massive viewscreen dominating the forward wall. The asteroid field loomed larger with each passing second: a scattered maze of planetary debris ranging from dust-sized particles to chunks large enough to tear through the Orion's hull like paper.
 
@@ -40,7 +40,11 @@ As the immediate danger passed and the command deck returned to controlled urgen
 
 ---
 
-Prince Virel sat in his private suite, the elegant curves and ambient lighting creating an atmosphere of serene authority. Before him, a holographic display showed security footage from Engineering Section 7, grainy but clear enough to identify the figure moving through restricted access corridors.
+Prince Virel sat in his private suite, the elegant curves and ambient lighting creating an atmosphere of serene authority.
+
+Two nights earlier, Thorne had brought him an anomaly. Buffer zone 7-D: a four-hour window in which both subjects' locator signatures had simply ceased to exist, then resumed, simultaneously, from the same corridor near the ship's gravitational core. Virel had studied the gap the way other men studied scripture. His models had given him three weeks to let the relationship ripen into leverage. The gap changed the calculus. Whatever the two of them had found down there sat outside his models entirely, and what was outside the models could not be permitted to mature on its own schedule. The patient plan had died that night. The frame had been built in thirty-six hours.
+
+Before him now, a holographic display showed security footage from Engineering Section 7, grainy but clear enough to identify the figure moving through restricted access corridors.
 
 "The timestamp corresponds precisely with the navigation system override," noted Commander Thorne. "Biometric patterns indicate a 94% probability match to Technician Adam Hale."
 
@@ -59,6 +63,8 @@ Thorne remained impassive. "The evidence will be compelling, Prince Virel. Our t
 "I see." Virel's lips curved into the barest suggestion of a smile. "Then by all means, let us ensure General Morea finds what he needs. I merely wish for the truth to come out."
 
 As Thorne departed to coordinate with Nations Union security teams, Virel remained seated, contemplating the frozen image of the figure in the corridor. His fingers traced the outline on the holographic display with absent-minded tenderness.
+
+What no one on the command deck would ever learn was that the Orion had never been in danger. There was no asteroid field within forty thousand kilometers. The drift angle, the proximity alerts, the navigation lockout — all of it had been a simulation injected into the sensor stream, a ghost crisis played out on instruments that were functioning perfectly. The only real physics in the entire affair had been the auxiliary thrusters firing against a phantom, a corrective burn navigation would quietly true up over the coming days. Virel did not gamble with the mission. He had merely arranged for ten thousand people to believe, for eleven minutes, that someone had — and authored the evidence trail while they believed it. The "manual override" had succeeded at precisely the moment the simulation was scripted to release the helm. Terror, like everything else, was data.
 
 "Such a predictable variable," he murmured to the empty room.
 
@@ -102,17 +108,17 @@ Sofia paused, sniffing the air. Her eyes narrowed. "Do you smell that? The venti
 
 Huang blinked, as if fighting through fog. "I thought I was just tired."
 
-"That's what it's designed to feel like," Sofia said grimly.
+"That's what it's designed to feel like," Sofia said grimly. She pulled a cloth from her sleeve, wet it from her canteen — the canteen she'd filled that morning from Kai's purification line, the way the inner circle had been doing for weeks, ever since the first compound traces showed up in his filter assays — and pressed it over her nose and mouth. The trick bought partial protection, nothing more. She could already feel the edges of her thinking going soft, thoughts arriving a half-second late, and she had to consciously re-derive her last conclusion before she trusted it. "Breathe through fabric. Don't drink from the taps. And Huang — count backward from a hundred by sevens until it sharpens."
 
-"I think someone decided Adam represents a threat," Sofia continued. "Whether they know why or not is secondary."
+"I think someone decided Adam represents a threat," she continued, slower than usual, each word checked before release. "Whether they know why or not is secondary."
 
 Zedd sat at a nearby table, a pair of matte black headphones draped around his neck, beatmaker idling in his lap. His gaze didn't lift from the table, but his fingers subtly tapped out a rhythm on the synth pad, a syncopated pattern the others recognized as resistance-coded. To an outsider, he looked absorbed in his music. But to those who knew him, it was a signal: *Stay alert. This wasn't a drill.*
 
 He glanced up just long enough to meet Sofia's eyes and gave the faintest shake of his head. *Not yet. Let it play.*
 
-Before they could continue, the mess hall doors slid open with unexpected force. Security officers in Nations Union uniforms swept into the space, their posture and equipment broadcasting authority and threat. Conversation died instantly as every crew member froze, eyes down, bodies still: the instinctive response of the powerless when power announces itself.
+Before they could continue, the mess hall doors slid open with unexpected force. Security officers in Nations Union uniforms swept into the space, their posture and equipment broadcasting authority and threat. Conversation died instantly. Every crew member froze, eyes down, bodies still.
 
-Behind the security team came General Morea himself, his presence in the crew sector so unprecedented that many workers had never seen him in person before. His uniform was immaculate, his bearing rigid with military discipline, his face a mask of controlled fury.
+Behind the security team came General Morea himself, his presence in the crew sector so unprecedented that many workers had never seen him in person before. His uniform was immaculate, his bearing rigid with military discipline, his face shuttered around its fury.
 
 "Where is Technician Adam Hale?" he demanded, his voice carrying through the silence.
 
@@ -160,7 +166,7 @@ Kai fell silent, though his eyes conveyed a message to Adam: *Stay calm. Don't r
 
 "Search his quarters," Morea commanded. "Every centimeter."
 
-The security team moved with practiced efficiency, ransacking the small space Adam shared with his bunkmates. They overturned his meager possessions, scanned every surface, and methodically dismantled his personal storage unit.
+The security team moved like men who had drilled for exactly this, ransacking the small space Adam shared with his bunkmates. They overturned his meager possessions, scanned every surface, and methodically dismantled his personal storage unit.
 
 One officer emerged carrying Adam's beatmaker, the compact synthesizer he'd used to build the Moonlight Waltz, to sample ship vibrations and recycled water into something that felt like truth. The officer held it at arm's length, like evidence of contamination, and dropped it into a confiscation bag.
 
@@ -184,13 +190,13 @@ In the suffocating silence of this march, Adam felt a desperate urge to shout th
 
 ---
 
-The observation chamber had been transformed for the occasion, its usual function as a stellar viewing area suspended in favor of more immediate human drama. A central platform had been erected where the guide console normally stood, surrounded by concentric rings of seating. The arrangement created an unmistakable impression of theater: judgment as performance, justice as spectacle.
+The observation chamber had been transformed for the occasion, its usual function as a stellar viewing area suspended in favor of more immediate human drama. A central platform had been erected where the guide console normally stood, surrounded by concentric rings of seating. The arrangement created an unmistakable impression of theater.
 
 Elite passengers from A-Deck occupied the inner rings, their formal attire and rigid posture conveying appropriate gravity for the proceedings. B-Deck residents filled the middle sections, their expressions carefully neutral as befitted their intermediate status. Representatives from the crew decks stood at the back and along the walls, their presence limited by space constraints and the need to maintain essential ship functions.
 
 Holographic displays positioned throughout the chamber ensured that everyone could see the central platform clearly. Similar displays had been activated throughout the ship, carrying the live feed to those unable to attend in person.
 
-At 0900 hours sharp, the main doors opened to admit the tribunal: General Morea representing Nations Union authority; Prince Virel for the Rising Sun Order; and Chief Justice Karla Vega. Vega walked between the two men as though flanked rather than accompanied, carrying no tablet, no notes, just the habit of thirty years on the International Court of Justice, where she had built a reputation for asking questions that made powerful litigants wish they had settled. Behind them walked an OmniscientAI interface, humanoid but expressionless, its calibrated proportions and neutral features designed to evoke trust without triggering uncanny valley discomfort.
+At 0900 hours sharp, the main doors opened to admit the tribunal: General Morea representing Nations Union authority; Prince Virel for the Rising Sun Order; and Chief Justice Karla Vega. Her seat was a relic of the launch accords: each Order had accepted an independent judiciary as the price of the other's signature, both confident the office would never matter. Vega walked between the two men as though flanked rather than accompanied, carrying no tablet, no notes, just the habit of thirty years on the International Court of Justice, where she had built a reputation for asking questions that made powerful litigants wish they had settled. Behind them walked an OmniscientAI interface, humanoid but expressionless, its calibrated proportions and neutral features designed to evoke trust without triggering uncanny valley discomfort.
 
 Adam was brought in last, still restrained, flanked by security officers. His orange maintenance uniform had been replaced by a gray detention jumpsuit, the color itself a visual statement of altered status. Despite his circumstances, he held himself with dignity, his eyes scanning the chamber with calm assessment rather than the panic many might have expected.
 
@@ -220,6 +226,20 @@ Adam looked directly at the tribunal, his voice steady despite the circumstances
 
 Vega leaned forward. "That's a serious allegation, and I take it seriously. But I need you to give me something I can work with. A denial tells me what didn't happen. Tell me what did. Where were you at 15:37?"
 
+"In my bunk in dormitory B-7. My shift ended at 14:50. The dormitory cameras will confirm it."
+
+Vega turned to the prosecution table. "Well? Pull the dormitory footage."
+
+The OmniscientAI interface answered with calibrated neutrality. "D-Deck dormitory surveillance was offline between 14:30 and 16:15 for scheduled maintenance. No footage exists for the period in question."
+
+Adam felt the floor shift under him in a way that had nothing to do with gravity. The dorm had been empty too — second shift still on rotation, Zedd pulling a double in the acoustics bay. Whoever had built this had built it around the one window when no camera and no witness could place him anywhere at all. *They knew my shift schedule better than I did.*
+
+"Scheduled by whom?" Vega asked quietly.
+
+"Routine rotation," the interface replied. "Authorization: Maintenance Oversight, automated."
+
+Vega looked at the interface a moment longer than procedure required, then made a note with one finger on the surface of the table, writing nothing on nothing. "Continue, Technician Hale."
+
 "The security footage shows someone approximately my height and build, wearing standard maintenance attire that thousands aboard the Orion share," Adam replied. "The biometric analysis is circumstantial at best. As for the items found in my quarters: they were planted. I've never seen them before yesterday."
 
 "Convenient assertions," commented Prince Virel, his tone suggesting reasonable skepticism rather than malice. "Perhaps you could explain your documented interest in ship schematics beyond your assigned maintenance zones? Or the pattern of unauthorized access to information systems noted in your personnel file?"
@@ -234,7 +254,7 @@ Before Adam could respond, General Morea intervened. "The evidence is clear. The
 
 Chief Justice Vega removed her glasses (wire-frames she wore out of preference, not necessity) and cleaned them on her sleeve with the unhurried care of someone buying time. "General, in my courtroom, which this is for the duration of these proceedings, we proceed to judgment when I'm satisfied the defense has had adequate opportunity. Which is difficult when the accused has had" — she checked an invisible clock — "approximately fourteen hours to prepare against a prosecution that arrived fully formed." She replaced her glasses. "But I recognize the security argument. I'll allow the motion." A pause. "Reluctantly. And I want that word in the record."
 
-The silence that followed carried a new tension. Vega had given the proceedings their veneer of legitimacy, but she'd scratched it first, and everyone in the chamber had heard the nail. Adam stood motionless, his expression revealing nothing as the machinery of power prepared to crush him with immaculate procedural correctness.
+The silence that followed carried a new tension. Vega had given the proceedings their veneer of legitimacy, but she'd scratched it first, and everyone in the chamber had heard the nail. Adam stood motionless, his expression revealing nothing.
 
 "I have something to say."
 
@@ -256,7 +276,7 @@ Artemis took position at the edge of the central platform, her poise transformin
 
 Her gaze swept the chamber. "Third: Technician Hale received a formal commendation six weeks ago for preventing a catastrophic failure during the Luna ceremony. The same man who saved this ship's atmospheric systems is now, apparently, trying to destroy it. If that contradiction doesn't trouble this tribunal, it should trouble everyone watching."
 
-Prince Virel smiled with practiced understanding. "Commendable concerns, Cultural Attaché. But might I suggest that your... personal interest in the accused could be influencing your assessment?"
+Prince Virel smiled with calibrated understanding. "Commendable concerns, Cultural Attaché. But might I suggest that your... personal interest in the accused could be influencing your assessment?"
 
 The implication hung in the air, not explicitly stated but clearly communicated. Artemis met his gaze without flinching.
 
@@ -264,7 +284,7 @@ The implication hung in the air, not explicitly stated but clearly communicated.
 
 General Morea finally intervened, his voice tight with controlled anger. "Your concerns are noted, Cultural Attaché. However, ship security remains paramount. The tribunal will now deliberate."
 
-The dismissal was unmistakable. Artemis held her position for a moment longer, her eyes meeting Adam's across the chamber. His eyes held hers, and she gave the smallest nod, not reassurance but acknowledgment. *I see what they're doing. I haven't stopped.*
+The dismissal was unmistakable. Artemis held her position for a moment longer, her eyes meeting Adam's across the chamber. His eyes held hers, and she gave the smallest nod — too brief to comfort, deliberate enough to carry. *I see what they're doing. I haven't stopped.*
 
 Then she returned to her seat with the same deliberate dignity with which she had risen, her face composed despite the ripples her intervention had caused.
 
@@ -278,7 +298,7 @@ The verdict was neither full conviction nor acquittal: a compromise that bore th
 
 "This hearing is concluded," Vega declared. She gathered no papers, because she had brought none. She simply stood and walked out first, ahead of Morea, ahead of Virel, as if to remind the room whose courtroom it had been.
 
-As the audience began to disperse, their hushed conversations building into a wave of speculation and opinion, Adam was led from the chamber by his security escort. His expression remained controlled, his eyes forward, his bearing neither defeated nor defiant, a careful neutrality that revealed nothing of his internal state.
+As the audience began to disperse, their hushed conversations building into a wave of speculation and opinion, Adam was led from the chamber by his security escort. His expression remained controlled, his eyes forward, his bearing a careful neutrality that revealed nothing of his internal state.
 
 Only Artemis, watching from her position among the elite, could see the shadow that had fallen across his features, a darkness that hadn't been there before.
 
@@ -299,42 +319,6 @@ Kai Chen, as Adam's direct supervisor, bore the heaviest scrutiny. His quarters 
 "They don't need to convict him," Sofia said to Kai during a brief, careful meeting in the noise-cover of the waste processors. "The trial itself is the punishment. Not for Adam, but for everyone who might have stood beside him."
 
 Kai adjusted his spectacles and said nothing. But his hands, resting on the vibrating console, were shaking.
-
----
-
-"Your behavior was inexcusable." General Morea's voice filled his private office with cold fury as he faced his daughter across his desk. "Publicly contradicting the tribunal, undermining security protocols, suggesting impropriety in the investigation."
-
-"I suggested procedural concerns," Artemis corrected, her tone respectful but unyielding. "Concerns that Chief Justice Vega herself acknowledged by ordering continued investigation rather than immediate conviction."
-
-"Do not play semantic games with me." Morea leaned forward, his hands flat on the desk surface. "Your intervention was inappropriate and, given your position, potentially destabilizing to ship morale."
-
-"Would proper justice have been destabilizing, Father? Or merely inconvenient to whatever narrative is being constructed around Technician Hale?"
-
-Morea studied her with narrowed eyes. "You believe him innocent."
-
-"I believe the evidence presented was circumstantial at best, manufactured at worst," Artemis replied. "The biometric analysis showed only a 94% match, well below the 99% standard for criminal identification established in pre-collapse legal frameworks."
-
-"We are not on Earth," Morea snapped. "Pre-collapse standards apply only where the mission command determines they serve mission objectives."
-
-"Then what are we building on Mars?" Artemis asked, her voice softening with genuine concern. "If justice becomes whatever serves power, how are we different from the systems that destroyed Earth?"
-
-The question hung between them, unanswered but not unheard. Morea straightened, his expression shifting from anger to a harder weariness, disappointment tinged with calculation.
-
-"Your commitment to philosophical principles is admirable," he said finally. "But philosophy is luxury for people with security. The mission comes first. Always."
-
-Before Artemis could respond, the office door chimed. Commander Thorne entered at Morea's acknowledgment, his imposing frame somehow containing the energy of barely leashed violence.
-
-"General Morea," Thorne greeted with a clipped bow. "Prince Virel sends his regards and requests a moment of your time when convenient." His eyes flickered briefly to Artemis, then back to Morea. "He also suggested that Commander Thorne's security expertise might be valuable in reviewing Cultural Attaché Morea's movement protocols, given recent developments."
-
-The implication was clear: Artemis would now be under surveillance, her freedom of movement restricted under the guise of protection.
-
-"A reasonable suggestion," Morea agreed with cold formality. "Commander Thorne will coordinate with your security detail effective immediately."
-
-Artemis understood the trap had closed. Any protest would only confirm suspicions; any acceptance would limit her ability to act independently. She chose the path that preserved the most future options.
-
-"Of course, Father," she said with studied composure. "Commander Thorne's expertise is well-established."
-
-As she departed the office, Thorne falling into step beside her with the fluid menace of a predator assuming hunting position, Artemis maintained her outward serenity. Beneath that mask, her mind worked with cold efficiency, calculating new pathways through the crisis that had engulfed her carefully constructed world.
 
 ---
 
@@ -360,7 +344,7 @@ The words landed harder than she wanted them to. Not because she doubted Adam's 
 
 Artemis turned to face him directly, abandoning pretense of interest in the artwork. "You sound remarkably certain of his guilt despite the tribunal's inconclusive judgment."
 
-Virel smiled, the shift so smooth she almost missed it, the genuine argument giving way to the practiced expression designed to convey reasonable authority. "I appreciate your commitment to fairness, Artemis. It speaks to the depth of character I've always admired in you." He paused, his tone shifting subtly. "However, I must express concern about the emotional instability these events seem to have triggered."
+Virel smiled, the shift so smooth she almost missed it, the genuine argument giving way to the curated expression designed to convey reasonable authority. "I appreciate your commitment to fairness, Artemis. It speaks to the depth of character I've always admired in you." He paused, his tone shifting subtly. "However, I must express concern about the emotional instability these events seem to have triggered."
 
 "Emotional instability?" Artemis echoed, the trap becoming visible.
 
@@ -390,6 +374,10 @@ The obvious suspect was Prince Virel, whose calculated charm had always struck A
 
 More concerning was how they had known to target him specifically. His connection to the Free Orioneers had been carefully compartmentalized, his exploration of restricted information systems conducted through obscured pathways. Yet someone had known enough to construct a convincing frame that aligned with his actual movements and interests.
 
+A memory surfaced, unbidden: the woman on the shuttle. Dark glasses, military breathing, an accent from nowhere. She had read the pendant under his collar within thirty seconds of docking — *Orion constellation, bit on the nose* — the way an inventory system reads a tag. And he had seen her since, he realized now, assembling the sightings the way she must have assembled his file. Once in the D-Deck canteen, eating nothing. Once near the gravity calibration bay, two days before a security sweep that had, miraculously, found the room empty. He had filed her under coincidence, because the alternative was filing himself under *surveilled*, and a man couldn't breathe like that.
+
+He breathed like that now.
+
 Had they discovered the chamber? Did they know about his connection with Artemis? These questions circled through his consciousness, each possibility branching into new complications.
 
 Adam closed his eyes, seeking the clarity he had found in the Chamber of Light, the weightless hours with Artemis, the way the chamber had stripped away rank and fear. But where that space had offered illumination, he now found only darkness. The connection that had seemed so transformative felt distant, inaccessible, as if his imprisonment had severed more than just physical freedom.
@@ -412,6 +400,4 @@ Outside his cell, the great ship continued its journey toward Mars, its course c
 
 Three decks above, Artemis stood at her viewport, Commander Thorne positioned discreetly near her door. Her fingers traced invisible patterns on the transparent surface as if seeking connection across the void, both the physical space outside and the emotional distance that had opened within the ship.
 
-The Orion sailed on through darkness, carrying its passengers and crew toward a future still unwritten. But shadows had fallen across the path to that future: shadows of power, of manipulation, of systems that claimed to preserve humanity while methodically crushing its spirit.
-
-In the void between stars, the frame had been set. What picture would emerge within it remained to be seen.
+The Orion sailed on through darkness, its course correction complete, its official record already amended. Behind a door on A-Deck, a guard shifted his weight. Behind a door on B-Deck, a prisoner counted his own heartbeats. The ship hummed between them, carrying both toward Mars.

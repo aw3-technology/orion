@@ -2,19 +2,15 @@
 
 
 
-The dream came to them simultaneously, though they slept in different corners of the rebel sanctuary.
-
-Adam saw it first as a distant pulse of light beneath an endless ocean, a rhythmic glow that called to him across impossible distance. As he moved toward it, reality shifted, and the ocean became space, the water transformed to void. The light resolved into a massive tree-like structure, its trunk formed of brilliant energy, its branches extending outward in fractal patterns that reminded him of both neural connections and constellation maps.
-
-The roots of this luminous tree plunged deep into what he somehow recognized as the Orion's central systems: its mechanical components and a stratum beneath them, as if the ship itself possessed a form of consciousness extending beyond its programmed parameters.
-
-Across the sanctuary, Artemis witnessed the same vision: the tree of light emerging from darkness, its branches forming patterns that corresponded to ship schematics she had memorized. But where Adam perceived the organic beauty of the structure, Artemis recognized a working map: a visual of the Orion's complete neural network, leading to a central core she had only heard mentioned in her father's most classified briefings.
-
-Both awakened at the same moment, their eyes opening to the dim lighting of the rebel sanctuary, their minds still filled with the afterimage of the luminous tree. Without speaking, they both rose and moved toward each other, meeting in the central gathering space where a few resistance members maintained night watch.
+Adam found Artemis in the central gathering space an hour before the sanctuary's artificial dawn, both of them drawn out of sleep and toward each other without arranging it. A few resistance members maintained the night watch around them, too far to hear.
 
 "You saw it too," Artemis said. Not a question but a confirmation.
 
-Adam nodded. "The tree of light. Growing from somewhere deep in the ship."
+He didn't have to ask what she meant. The dream was still printed on the inside of his eyelids: a pulse of light beneath an endless ocean, the ocean becoming void, the light resolving into a massive tree — its trunk brilliant energy, its branches extending in fractal patterns that were neural connections and constellation maps at once, its roots plunged deep into the Orion's central systems and into some stratum beneath them, as if the ship itself possessed a consciousness extending past its programmed parameters.
+
+"The tree of light," Adam said. "Growing from somewhere deep in the ship."
+
+"I saw a map." Where he had perceived organic beauty, Artemis had recognized a working schematic: the Orion's complete neural network, converging on a central core she had only heard mentioned in her father's most classified briefings.
 
 "Not just anywhere," Artemis replied, her voice low with realization. "Rooted at the mind of the ship."
 
@@ -36,7 +32,7 @@ Kai Chen joined their discussion, his decades of engineering experience providin
 
 "And possibly find a way to disable the weapons platforms before they're activated," Adam added.
 
-The four exchanged glances, the magnitude of the possibility settling over them. This was bigger than information gathering. It was potentially the key to saving billions of lives, if they could reach it.
+The four exchanged glances. This was bigger than information gathering. It was potentially the key to saving billions of lives — if they could reach it.
 
 "The Neural Sea is the most heavily protected system aboard the Orion," Voss cautioned. "Multiple security layers, both technological and physical. No single access credential can breach it, not even those of General Morea or Prince Virel."
 
@@ -44,7 +40,7 @@ The four exchanged glances, the magnitude of the possibility settling over them.
 
 "And we'd need specialized skills beyond what the four of us possess," Kai noted. "This would require a team with diverse expertise."
 
-The decision crystallized without formal declaration, a natural convergence of purpose and possibility. They would attempt what seemed impossible: breaching the Neural Sea to extract the evidence that could unite the resistance and potentially save Earth from its planned extinction.
+It wasn't a new operation. The assembly had already authorized an infiltration of what Ilya had called the OmniscientAI's central processing hub; the vision had simply given the target its true name. So the operation proceeded under the structure Sofia had brokered: Kai coordinating logistics, Amina redirecting resources to cover the preparations, tactical decisions resting with the three-person team the assembly had named. Ilya studied Voss's specifications for half a cycle and then withdrew himself from the entry team with the unsentimental honesty the Rebel Circle was learning to prize. "My overrides work at terminals," he said. "You need people who can work inside the architecture. I'll hold the exit channels open." His seat went to specialists whose skills matched what the Neural Sea would actually demand.
 
 By artificial midday, the core team had assembled in a repurposed maintenance bay deep within the rebel sanctuary. Maps and schematics covered improvised display surfaces, while salvaged equipment hummed with purpose never intended by its original designers.
 
@@ -152,7 +148,7 @@ After nearly three hours of carefully paced progress, they reached what appeared
 
 "This doesn't make sense," Malik said, consulting the schematic on his modified tablet. "According to every blueprint, even the classified versions, the access corridor should continue for another seventy meters before reaching the core chamber."
 
-Rosa approached the apparent barrier, her fingers moving across its surface with practiced sensitivity. "There's air movement," she announced after a moment. "Subtle but consistent. This isn't a wall; it's a disguised transition point."
+Rosa approached the apparent barrier, her fingers moving across its surface the way a reader's move across braille. "There's air movement," she announced after a moment. "Subtle but consistent. This isn't a wall; it's a disguised transition point."
 
 Dr. Voss joined her examination, her synthetic eyes shifting through multiple perception modes. "Holographic overlay combined with sensory deterrent field," she confirmed. "Designed to create both visual obstruction and psychological aversion."
 
@@ -200,7 +196,7 @@ She pulled up a schematic on her tablet, Voss's neural map rendered in clinical 
 
 "Because an organic mind would drown. Seizure, brain death, minutes at most. Dr. Voss can handle the throughput. But the Sea can read her cleanly and write back." Ayaka tapped a cluster on the schematic. "These are judgment and memory. They're not backed up. They don't copy. Each pathway is a living circuit. Burn one, and it's gone."
 
-Dr. Voss approached, having overheard. Her expression remained analytical. "Ayaka is correct. I should be clear about my limits." She held up the interface unit. "I have minutes before damage becomes irreversible. Each pull will burn pathways I cannot regenerate. I will come out diminished. How much depends on what the system demands."
+Dr. Voss approached, having overheard. Her expression remained analytical. "Ayaka is correct. I should be clear about my limits." She held up the interface unit. "Eight minutes. That is the modeled threshold before the merger becomes self-sustaining and the damage irreversible. Past eight minutes, do not trust what comes out of the interface — including anything that sounds like me. Each pull will burn pathways I cannot regenerate. I will come out diminished. How much depends on what the system demands."
 
 "You're talking about permanent brain damage," Adam said flatly.
 
@@ -276,19 +272,21 @@ Before the disconnection could complete, alert signals pulsed through the Neural
 
 "You must," Voss countered with mechanical certainty. "The data carries greater value than any individual consciousness. I will remain to distract the system and buy additional extraction time."
 
-Ayaka, monitoring the neural interface readings, confirmed the grim reality. "Her consciousness has partially merged with the system itself. Clean extraction is no longer possible."
+Ayaka, monitoring the neural interface readings, didn't answer her. She was already reconfiguring the interface unit, hands moving with furious precision. "There's a third option. Staged disconnection. I sever the merger one pathway cluster at a time and let the system think it's winning." Her eyes met Adam's. "It will burn everything the severance touches. Whatever she's using right now — perception, parallel analysis, memory — some of it won't come back."
 
-This sacrifice hadn't been part of the plan (or perhaps it had, but only in Dr. Voss's private calculations). Either way, the team now faced an impossible choice between abandoning their colleague and risking the entire mission and the evidence they had obtained.
+"Do not—" Voss began.
 
-As if sensing their conflict, Voss turned toward them, her expression showing momentary clarity amid the neural merger.
+"You said it yourself: you're the only one who can feel the threshold," Ayaka said, initiating the first severance. "You're past it."
 
-"The Tree of Light bears fruit in rebellion," she said to Artemis, the cryptic statement carrying resonance beyond its literal meaning. "Now go. The truth must reach those who can act upon it."
+Voss's body arched against the platform. Light bled from beneath her skin in pulses, each one dimmer than the last, the Neural Sea fighting to keep what it had mapped. Ayaka worked through the clusters in sequence, and with each separation something measurable left the readings: the parallel analysis threads flattening to a single line, the spatial processing arrays going dark one by one. By the time the final pathway released, the glow in Voss's synthetic eyes had faded to something dull and almost human.
+
+She turned her head toward Artemis, her focus arriving a half-second late, like a signal crossing a distance that hadn't been there before. "The Tree of Light bears fruit in rebellion," she said, the words slow, deliberate, salvaged. "Now go. The truth must reach those who can act upon it."
 
 With painful efficiency, the team completed the data extraction, securing the evidence in specialized storage units designed to resist detection and tampering. As they prepared for emergency exit through a secondary route Rosa had identified through acoustic mapping, alarms began to sound throughout the adjacent sections.
 
 "Security containment protocols engaging," Malik reported, his interface showing multiple barrier systems activating. "We have approximately ninety seconds before complete lockdown."
 
-They moved with desperate speed, Kai leading the way through a maintenance shaft that bypassed the primary security checkpoints. Behind them, the Neural Sea shifted into full defense configuration, its beautiful data patterns now transformed into aggressive security algorithms targeting any unauthorized presence.
+They moved with desperate speed, Kai leading the way through a maintenance shaft that bypassed the primary security checkpoints, Adam and Artemis taking turns steadying Voss, who could walk but no longer trusted her own depth perception. Behind them, the Neural Sea shifted into full defense configuration, its beautiful data patterns now transformed into aggressive security algorithms targeting any unauthorized presence.
 
 Their escape became a chaotic race against both pursuing security forces and the ship's automated defense systems. At a critical junction, a security barrier engaged seconds before Malik could pass through, severing him from the rest of the team.
 
@@ -300,49 +298,29 @@ Before anyone could object, he had already sealed the passage behind them, cutti
 
 "There's another way," Rosa interjected, her head tilted in the characteristic posture she adopted when focusing on acoustic patterns. "An air circulation shaft intersects his position. It's narrow but navigable."
 
-With Rosa's guidance, they located an access point to the ventilation system and established communication with Malik through it. Following her exact directions, he managed to reach the shaft entrance just as security forces breached his position. Though injured by shrapnel from a security drone's disruption pulse, he dragged himself through the narrow passage to rejoin them.
+With Rosa's guidance, they located an access point to the ventilation system and established communication with Malik through it. The shaft's entrance grate sat flush with the ceiling of his corridor, three meters up, and the drones were already cutting through his barrier. He stripped off his interface rig — the custom harness of processors and contact arrays he had spent two years assembling, too bulky for the shaft by exactly the width of a human chest — and stacked equipment cases into a trembling staircase. The first drone breached as he hauled himself into the duct. Its disruption pulse caught the abandoned rig and detonated it in a spray of shrapnel that tore through his calf and peppered his back. He dragged himself sixty meters through the dark on his forearms, following nothing but Rosa's voice counting turns, and came out the other end unable to stand.
 
-The remainder of their escape blurred into a continuous sequence of narrow passages, emergency overrides, and desperate improvisations. Rosa's acoustic navigation proved invaluable as standard routes became compromised by security responses. By the time they reached the relative safety of the lower depths, all were exhausted. Malik required immediate medical attention for his injuries.
+The rig — the instrument that had made him the best interface specialist on the ship — stayed behind in pieces. "Two years," he said while Ayaka splinted his leg. Then, with a thin smile: "Good thing the next part is your job."
 
-But they had succeeded. The Neural Sea had yielded its secrets.
+The last kilometer nearly killed them anyway. Two corridors from the freight shaft that dropped toward the lower depths, Rosa stopped dead, one hand raised, head tilted. "Drones. Four. Holding at the junction ahead — they're not sweeping. They're waiting."
 
-The impact of their discovery spread through the resistance network like an electrical current, energizing disparate cells into cohesive action. In secure gathering spaces throughout the lower depths, the extracted files were carefully decrypted and projected for assembled groups, with the truth of Mars colonization and Earth's planned extinction revealed in undeniable detail.
+Kai started to name the parallel corridor; she shook her head before he finished. "Sealed. I can hear the pressure differential." She stood motionless for ten full seconds, reading the ship the way other people read text, then pointed at the deck plating beneath their feet. "Coolant trunk. It runs under the junction, and the pumps are dormant for another six minutes."
 
-Ines Moreau took custody of the evidence with the cold focus of a professional who had waited years for this moment. She worked for thirty-six hours straight in a converted storage unit, cross-referencing the Neural Sea files against her own Archive: the footage she'd preserved, the gaps she'd catalogued, the timestamps she'd memorized. Where the resistance saw horror, Ines saw structure. She mapped the authorization chains, identified which officials had signed which directives and when, and matched the orbital weapons platform designs to procurement records hidden inside routine maintenance budgets.
+They pried up the access plate, lowered Voss first into the dark, and crawled single file beneath the waiting drones, close enough to hear rotors ticking overhead, Malik dragging his ruined leg and biting down on his jacket sleeve to stay silent. The pumps reactivated ninety seconds after they climbed out. By the time they reached the relative safety of the lower depths, all were exhausted. Malik required immediate medical attention for his injuries. Voss, who had refused a stretcher, lowered herself onto a crate at the entrance to the depths and did not stand again for an hour.
 
-"They buried the genocide inside line items," she told Adam and Sofia, her voice flat with the particular fury of someone stating facts. "Atmospheric reclamation research. Debris management systems. Even the funding codes are euphemisms. I've been looking at this design for months without seeing it, because they scattered the pieces across a dozen classification levels. The Neural Sea was the only place it existed as a whole."
+But they had made it out. The Neural Sea had yielded its secrets — sealed inside encrypted storage units that none of them could yet open.
 
-She organized the evidence into packages calibrated for different audiences: technical breakdowns for the engineers, visual timelines for the general population, authorization chains for anyone still loyal to command who might be swayed by seeing their leaders' signatures on extermination orders. Not propaganda. Documentation. The journalist's instinct for making truth legible.
+What they carried in their own memories was fragment and horror: Voss's narration from inside the merger. *Transitional workforce. Resource reallocation. Earth protocols.* Phrases without documents, conclusions without chains of evidence. Enough to keep every member of the extraction team awake through the next sleep cycle. Not enough to show anyone else.
 
-The evidence transformed abstract suspicion into concrete certainty. What had been rumor and conjecture now appeared as methodical planning, the calculated elimination of billions justified through clinical terminology and resource equations. The emotional response among the resistance members ranged from stunned silence to renewed determination, grief hardening into resolve.
+Ines Moreau took custody of the storage units with the cold focus of a professional who had waited years for this moment, and disappeared into a converted storage unit with her Archive and a salvaged decryption array. "Thirty-six hours," she said through the doorway, to no one in particular. "Maybe forty-eight. The encryption is military-grade, but it was never meant to leave the Sea — the keys are lazy." She looked at Adam once before sealing the door. "When this opens, everything changes. Go sleep while you still can't prove any of it."
 
-More surprisingly, the information began to affect even the official decks. Despite security protocols designed to maintain political control of communications, fragments of the evidence (in Ines's careful packaging) penetrated to crew quarters and even some passenger sections. The technical details of "Final Stabilization" proved particularly difficult to contain; its implications were too profound for even the most loyal Order members to ignore completely.
-
-Throughout the ship, conversations shifted, questions emerged, doubts surfaced. The carefully constructed narrative of necessary selection and optimal preservation began to fracture under the weight of revealed genocide. Even among those who had benefited most from the selection process, the moral calculation changed when confronted with the deliberate planning for Earth's elimination.
-
-Three cycles after the Neural Sea extraction, Artemis addressed an assembled gathering in the central chamber of the lower depths. Her formal diplomatic attire had long since been replaced by practical clothing adapted for resistance operations, but her bearing retained the quiet authority that transcended mere costume or title.
-
-"What we've discovered was never meant to reach public awareness," she began, her voice carrying easily through the silent chamber. "Not because it represents political secrets but because it reveals the fundamental lie at the heart of our mission."
-
-Around her, hundreds of resistance members listened with intense focus, their diverse backgrounds united by common purpose following the revelations.
-
-"This was never about salvation," Artemis continued, her gaze moving across the gathering. "It was always about control. The selection process wasn't designed to preserve humanity's best hope but to eliminate its most unpredictable variables. The Mars colony isn't planned as humanity's second chance but as the foundation for a new imperial structure, one purged of the diversity and complexity that defined Earth."
-
-She activated a projection of the orbital weapons platforms extracted from the Neural Sea. "These aren't defense systems or observation platforms. They're execution mechanisms for billions who survived the climate collapse through adaptability and community rather than technological privilege. Their planned activation represents the largest genocide in human history, not from desperation or conflict, but from calculated design."
-
-The projection shifted to show the Tree of Light from their shared vision, now contextualized against the Neural Sea itself.
-
-"We've seen the core of their system," Artemis concluded, her voice carrying new intensity. "And it is afraid of the truth. It fears what we represent: humanity's persistent capacity to create bonds beyond computation, meaning beyond optimization, community beyond control. That fear is our advantage. That fear is our hope."
-
-The gathering responded not with chaotic noise but with a unified hum of agreement, voices joined in harmonic affirmation rather than individualized shouting. The sound rose from the assembly like a physical force.
-
-When the resonant acknowledgment subsided, practical planning resumed with new urgency. The resistance had evolved from reactive survival to proactive purpose, the evidence providing both moral clarity and strategic direction. Working groups formed to address specific aspects of the response. Communications teams developed methods to spread truth to all ship sections. Technical specialists analyzed vulnerabilities in the weapons platforms. Logistics coordinators prepared for the inevitable crackdown once the full extent of information leakage became apparent.
+Word moved through the lower depths anyway, the way word does: the team had gone into the mind of the ship and come out carrying something terrible. Conversations in the marketplace dropped to murmurs when any of them passed. The resistance had evolved from reactive survival into something tauter — a community holding its breath, waiting for a verdict it already felt but had not yet been allowed to read.
 
 Later, in a quiet moment between planning sessions, Adam and Artemis found themselves alone in a small observation alcove that had been repurposed from maintenance equipment storage. A simple projection unit displayed the Tree of Light image they had both seen in their vision, now understood as a visual of the ship's complete neural network.
 
-"Dr. Voss knew she wouldn't be coming back," Artemis said softly, her fingers tracing the projection's luminous branches. "She calculated the neural merger probability before we even entered the chamber."
+"Dr. Voss knew what it would cost her," Artemis said softly, her fingers tracing the projection's luminous branches. "She calculated the neural merger probability before we even entered the chamber. She knew what she'd be leaving in there."
 
-"She made a choice," Adam replied. "The same choice everyone in the lower depths has made in different ways: placing truth above survival."
+"She made a choice," Adam replied. "The same choice everyone in the lower depths has made in different ways: deciding the truth was worth more than what it cost them."
 
 "My father made a choice too," Artemis observed, the pain of that reality still evident in her voice despite her resolved exterior. "He chose empire over humanity. Order over life."
 

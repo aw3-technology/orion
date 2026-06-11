@@ -16,7 +16,7 @@ He'd mentioned as much to Zedd during a late-night session in Unit 12-17, the tw
 
 "Yeah, but I like your music." Zedd glanced up, dead serious beneath the joke. "The admin log ping I told you about: it's gone quiet. Could mean they lost interest. Could mean they're watching from further back." He handed the beatmaker back. "Either way: boring shifts, clean reports, no improvisation above your clearance. For now."
 
-Adam had followed the advice. Seven days of exemplary routine: calibrating sensors, filing reports, eating protein in the C-Deck canteen where the lighting was softer and the conversations more careful. He smiled at colleagues, answered questions about his work history with the practiced vagueness of someone used to editing his own biography. At night he lay in his bunk and listened to the ship breathe, the deep, tidal rhythm of ten thousand lives suspended in metal and vacuum, and tried not to think about the tapping through the walls that had answered his music and then gone silent.
+Adam had followed the advice. Seven days of exemplary routine: calibrating sensors, filing reports, eating protein in the C-Deck canteen where the lighting was softer and the conversations more careful. He smiled at colleagues, answered questions about his work history with the smooth vagueness of a man used to editing his own biography. At night he lay in his bunk and listened to the ship breathe, the deep, tidal rhythm of ten thousand lives suspended in metal and vacuum, and tried not to think about the tapping through the walls that had answered his music and then gone silent.
 
 He tried not to think about who had been on the other end.
 
@@ -28,7 +28,7 @@ Which made the sudden, insistent alarm in Artemis Morea's private quarters all t
 
 Oxygen filtration node 47-A: flow rate fluctuation beyond acceptable parameters. Carbon dioxide rising. Pressure differentials destabilizing. Category 2, not immediately life-threatening but requiring prompt attention. A repair technician was dispatched with an elite-level override.
 
-Artemis sat at her meditation altar, breathing deliberately as the warning tones pulsed. The system had sealed her quarters and activated secondary oxygen supply, though the failure wasn't yet critical.
+Artemis sat at her meditation altar, breathing deliberately as the warning tones repeated. The system had sealed her quarters and activated secondary oxygen supply, though the failure wasn't yet critical.
 
 When the door chimed, she answered with practiced composure.
 
@@ -50,11 +50,11 @@ A-Deck. Of course. Heaven forbid some elite passenger experience a two-degree te
 
 As Adam secured his equipment, another figure appeared in the maintenance corridor: Zedd, hands deep in a deactivated air filter housing, grease smeared across his knuckles.
 
-"Hey, before you go fixing paradise," Zedd said casually, without looking up, "you should know, your last access trace pinged something in the admin logs."
+"Hey, before you go fixing paradise," Zedd said casually, without looking up, "you should know, the admin ping woke back up about an hour ago. Right when your A-Deck dispatch went through."
 
 Adam paused. "You sure?"
 
-"Positive. Looks like someone upstream took notice. Just… stick to the script up there, yeah? No side installs, no clever reroutes."
+"Positive. Somebody upstream flagged the work order the moment it routed to you. Just… stick to the script up there, yeah? No side installs, no clever reroutes."
 
 Adam gave him a look. "What do you think I'm gonna do—pipe jazz into their air vents?"
 
@@ -72,9 +72,9 @@ The security panel beside the door scanned his credentials before announcing his
 
 Adam stepped into luxury unlike anything available on the lower decks: a space designed for psychological comfort and aesthetic pleasure as much as function. The room was minimalist yet undeniably opulent, with actual physical books on shelves, hand-woven textiles from Earth's dwindling artisan communities, and a viewport that offered an unobstructed view of the stars, a privilege denied to most aboard the Orion.
 
-In the center of this carefully curated environment sat Artemis Morea, daughter of General Christopher Morea and cultural attaché of the mission. Adam had glimpsed her during official broadcasts but never expected to encounter her directly. She was seated on a meditation platform, her back straight, her expression composed despite the environmental alert still pulsing softly throughout the quarters.
+In the center of this carefully curated environment sat Artemis Morea, daughter of General Christopher Morea and cultural attaché of the mission. The woman who had caught him trespassing above the agricultural dome and chosen not to report it. The woman whose commendation sat in his file like a debt he didn't know the terms of. Of all the quarters on A-Deck, dispatch had sent him to hers. She was seated on a meditation platform, her back straight, her expression composed despite the environmental alert still chiming softly throughout the quarters — and nothing in her face acknowledged that she had ever seen him before.
 
-"Maintenance responding to environmental system failure," Adam announced formally, keeping his tone neutral. "The alert indicates an oxygen filtration malfunction."
+"Maintenance responding to environmental system failure," Adam announced formally, keeping his tone neutral. If she wanted to be strangers, he could be a stranger. "The alert indicates an oxygen filtration malfunction."
 
 "Yes," Artemis replied, her voice surprisingly direct for someone of her station. "The primary filtration node began cycling erratically approximately twelve minutes ago. Secondary systems engaged as designed, but the source malfunction continues."
 
@@ -100,7 +100,7 @@ The silence that followed was sharp enough to cut. When Artemis finally spoke, h
 
 "I believe you'll find the malfunction is quite real, Technician Hale. Not panic, not entitlement. An actual system failure requiring actual expertise."
 
-Adam's hands stilled on the control panel. She had noted his name without him providing it. He turned to face her again, reassessing.
+Adam's hands stilled on the control panel. *Technician Hale.* The pretense of unfamiliarity, dropped in a single word — she was reminding him that she knew exactly who he was, and exactly what she had already done for him. He turned to face her again, reassessing.
 
 "Must be tough," he said, unable to entirely suppress his ingrained resentment, "breathing rarefied air while the rest of us fix the pipes."
 
@@ -114,13 +114,13 @@ To his surprise, Artemis moved closer, kneeling beside him to observe the proces
 
 "There," she said suddenly, pointing to a minor subsystem junction he hadn't yet examined. "The auxiliary feedback loop is showing irregularities consistent with quantum interference."
 
-Adam stared at her, genuine shock replacing his practiced indifference. "You read schematics?"
+Adam stared at her, genuine shock replacing his performed indifference. "You read schematics?"
 
 Her chin lifted a fraction. "I designed a life-support backup in my second year. Before I was assigned this... role."
 
 She stopped there, visibly pulling back from whatever she'd been about to say next. Her expression closed like a door, not hostile, but final. Whatever else she knew about the ship's systems, she wasn't sharing it with a maintenance worker she'd met twenty minutes ago.
 
-Adam returned to the repair, conscious now of the different weight in her attention. He found the source of the interference (a degraded isolation component allowing quantum fluctuations to affect sensor readings) and replaced it with practiced efficiency.
+Adam returned to the repair, conscious now of the different weight in her attention. He found the source of the interference — a degraded isolation component letting quantum fluctuations contaminate the sensor readings — and replaced it in under a minute.
 
 As he reassembled the control panel, his gaze caught on something out of place in the carefully curated environment: a worn book on her nightstand, its cover faded from handling rather than designed to appear antique. The title was just visible from his position: *Myths of the Old World*.
 
@@ -134,7 +134,7 @@ Adam closed the access panel, the repair complete. "Environmental system is stab
 
 Adam gathered his tools, preparing to return to the lower decks and his interrupted maintenance schedule. As he moved toward the door, it hissed open unexpectedly, revealing Prince Virel.
 
-The diplomatic envoy of the Rising Order paused in the doorway, his gaze finding Adam before his smile did. He filled the frame the way certain men fill rooms, not with size but with the particular stillness of someone accustomed to being watched.
+The diplomatic envoy of the Rising Sun Order paused in the doorway, his gaze finding Adam before his smile did. He filled the frame the way certain men fill rooms, not with size but with the stillness of someone accustomed to being watched.
 
 "Maintenance," Virel observed, his tone making the word both acknowledgment and dismissal. "I trust the issue has been resolved?"
 
@@ -152,6 +152,6 @@ Inside the private quarters, Virel approached Artemis. "A system failure?" he in
 
 "A minor malfunction," Artemis confirmed, her diplomatic mask firmly back in place. "Resolved now."
 
-"Good." Virel nodded. "I've come to discuss the cultural integration protocols for the Mars settlement. The Rising Order has some suggestions regarding optimal preservation methodologies."
+"Good." Virel nodded. "I've come to discuss the cultural integration protocols for the Mars settlement. The Rising Sun Order has some suggestions regarding optimal preservation methodologies."
 
-Artemis responded with appropriate interest, engaging in the discussion with practiced expertise. The lights flickered once more, then stabilized. But something in her hadn't. Not since Adam looked at her like she was a person rather than a post.
+Artemis responded with appropriate interest, engaging in the discussion with seamless expertise. The lights flickered once more, then stabilized. But something in her hadn't. Not since Adam looked at her like she was a person rather than a post.

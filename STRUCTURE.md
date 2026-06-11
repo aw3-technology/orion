@@ -2,7 +2,7 @@
 
 ## PREMISE
 
-Year 2073. Earth is dying — climate collapse, resource wars, mass displacement. The *Orion*, a massive generation ship, carries 50,000 "selected" humans toward Mars. The ship is governed by two competing factions: the **Nations Union** (military authoritarianism under General Morea) and the **Rising Sun Order** (techno-utopian neural optimization under Prince Virel). Beneath the elite, thousands of workers maintain the ship in a rigid class hierarchy. Hidden in the ship's core lies the **Chamber of Light** — a space of unknown, possibly alien origin that responds to human consciousness and emotion.
+Year 2073. Earth is dying — climate collapse, resource wars, mass displacement. The *Orion*, a massive generation ship, carries 10,000 "selected" humans toward Mars. The ship is governed by two competing factions: the **Nations Union** (military authoritarianism under General Morea) and the **Rising Sun Order** (techno-utopian neural optimization under Prince Virel). Beneath the elite, thousands of workers maintain the ship in a rigid class hierarchy. Hidden in the ship's core lies the **Chamber of Light** — a space of unknown, possibly alien origin that responds to human consciousness and emotion.
 
 ---
 
@@ -20,6 +20,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Chapter 22 (formerly 21): founding ceremony expanded from ~1,300 to ~3,500 words with scenes, conflict, texture.
 - Chapter 23 (formerly 22): duplicated Sofia-children and Artemis-Morea scenes removed (kept in Ch 21). Added Adam's personal message to his mother, Nneka/Dara material.
 - **Net result**: Prologue + 24 chapters.
+- 100-item revision pass: population unified at 10,000 (~3,000 crash dead / ~7,000 survivors); Virel's mother unified to the Ch 10 researcher origin; Voss's Neural Sea exit rewritten as costly staged disconnection; Dara made unique to Zedd's arc; prologue linked to the ship's chamber as splinter-of-Mars-chamber (paid off in Ch 22); the frame-up made a spoofed sensor crisis with alibi-window and 7-D-anomaly trigger; Morea's crash choice given mechanism (phantom insertion burns) and motive; Mars survival grounded in the Chamber's atmospheric field; orbital-platform thread reconciled and defused via stand-down key in the Earth transmission; resource/water ledger unified and resolved through Nneka; 43-day signal recast as noise-floor integration; Ch 16/17 stakes-reveal de-duplicated (fragments → full decryption); Ch 20 stripped of Ch 22-duplicate ceremony beats and causally linked to the tribunal; Vega grounded in the launch accords and returned for Ch 21; Eli given the Moses ending; Ellis given an on-page reckoning; Lena now interrupts Adam's judgment speech; titles updated (The Listener / Someone Will Remember Us / Open Frequency / Judgment / Letters to Earth); prose passes on "the particular X of Y," "practiced," efficiency formulas, monitor "pulses," broken parentheticals, repeated images (marbles/kidneys/dams/blue point), and editorializing narration.
 
 ---
 
@@ -29,7 +30,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 **Adam Hale** — *The Hunter*
 - Age: 26. Lean, angular face, faded-denim eyes, dark hair.
-- Background: Grew up in collapsed coastal California (or industrial district — inconsistent). Father was a steelworker who lost his job to AI, died of synthetic hallucinogen addiction. Mother Elaine is dying of lung failure ("the Fade"). Adam identified his father's body at 17.
+- Background: Grew up near Santa Barbara in collapsed coastal California; family moved inland to the industrial districts after the offshore platforms were automated. Father became a steelworker, lost that job too when the factories closed, died of synthetic hallucinogen addiction. Mother Elaine is dying of lung failure ("the Fade"). Adam identified his father's body at 17.
 - Skills: Mechanical genius, self-taught musician/DJ, ran underground raves since 16. Builds music from environmental sounds on a beatmaker. Quick thinker, natural leader, masks pain with humor.
 - On the Orion: Signed a 7-year maintenance contract in exchange for medical credits for his mother (8 days of treatment). Assigned to Waste Reclamation, later promoted to Environmental Systems Team Alpha.
 - Arc: From cynical survivor performing indifference -> to reluctant revolutionary -> to someone who confronts his own complicity and grief -> to conscious participant in something larger than himself.
@@ -152,7 +153,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 ## CHAPTER OUTLINE
 
-### Prologue: Echoes of Light
+### Prologue: The Listener
 - The Chamber beneath Mars detects the Orion's approach three hundred million kilometers out.
 - Ancient crystalline lattice registers the ship's signal — has been waiting since before the planet lost its atmosphere.
 - Establishes the Chamber as alien technology that has observed other species on other worlds.
@@ -237,7 +238,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Chapter ends with both Adam and Artemis awake, circling the same mystery from opposite ends of the ship. No dream — tension, not transcendence.
 - *Establishes*: Dr. Voss as secret ally, Cosmic Resonance theory, cultural erasure as policy, the 13-star pattern, **escalating surveillance danger**.
 
-### Chapter 9: Touchpoints
+### Chapter 9: Someone Will Remember Us
 - **POV**: Adam and Artemis (converging)
 - Botanical garden: first "accidental" meeting (both deliberate). Honest conversation about engineered wildness.
 - Second meeting by olive trees: personal revelations. Adam shares his California childhood, father's story. Artemis reveals her mother was killed for questioning selection protocols. Trust extended.
@@ -252,7 +253,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - **POV**: Prince Virel
 - Virel's insomnia, biometric self-monitoring. The ship at night from his perspective.
 - Thorne delivers surveillance report: Adam and Artemis's movement patterns overlapping. Virel sees opportunity, not threat.
-- Flashback to Singapore — his mother Dr. Lian Chen's Neural research lab. The philosophical origin of his worldview: emotions experienced and directed, never permitted to dictate action. His mother's death during a lab accident.
+- Flashback to Singapore — his mother Dr. Lian Xu's Neural research lab. The philosophical origin of his worldview: emotions experienced and directed, never permitted to dictate action. She refused selection to finish her work; drowned in the Southeast Asian flood cascade days after her final transmission.
 - Genuine belief that Neural governance liberates humanity from biological panic. Not a cartoon villain — a man who has reasoned his way to monstrous conclusions.
 - Strategic modeling: how to weaponize the Adam/Artemis relationship rather than suppress it.
 - Nightly ritual: listening to his dead mother's last audio recording. A moment of grief his own systems can't classify.
@@ -276,7 +277,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 ### Chapter 13: Blood Ties
 - **POV**: Artemis (with Voss coda)
-- Artemis confronts General Morea after intervening at Adam's tribunal (Ch 11).
+- Artemis confronts General Morea after intervening at Adam's tribunal (Ch 12).
 - Morea reveals Earth "management" plan: "genetic remediation through targeted resource allocation" — calculated genocide via resource withdrawal. "Mars needs to begin clean."
 - Artemis: "You're planning genocide." Morea: "I'm planning species salvation."
 - She renounces him: "I renounce what you stand for."
@@ -288,7 +289,10 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - *Establishes*: The genocide plan as the ultimate stakes, Artemis's complete break with the regime, Eli as guide to hidden ship, Voss as network activator, forced marriage as political weapon.
 
 ### Chapter 14: The Serpent Rises
-- Adam's trial/detention. Introduction of Malik Nkosi, Ayaka Tanaka, Rosa Oliveira. Rescue or escape plan.
+- Virel's coup: "Let order rise from the ash." Rising Sun Order sleeper agents seize the ship; Morea deposed and detained.
+- Artemis sheds her attaché identity and escapes her quarters using Eli's schematic of hidden sanctuaries.
+- Adam in detention as the regimes change — NU guards replaced by RSO, dosing protocols shift.
+- The Chamber-presence signals to Artemis; Voss's network goes dark and scatters.
 
 ### Chapter 15: The Lower Depths
 - The Neural Sea — what it is, the extraction mission referenced in Ch 16. Discovery of Protocol Prometheus and the full Mars colonization blueprint.
@@ -329,14 +333,14 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - Survivors emerge onto Mars across an eleven-kilometer debris field. Morea extracted from auxiliary bridge wreckage, broken but alive.
 - *Establishes*: The crash as crucible that dissolves hierarchy, Eli's sanctuary architecture, the Chamber's protective function, humanity's arrival on Mars through catastrophe rather than plan.
 
-### Chapter 20: Red Dust Rising
+### Chapter 20: Open Frequency
 - **POV**: Ensemble
 - First full assembly of survivors. Dr. Voss presents survival data — oxygen, power, food reserves.
 - Neural Sea files broadcast to the entire population, revealing the factions' genocide plans and Protocol Prometheus.
 - Shock and anger catalyze collective organization.
 - *Establishes*: Truth as foundation for new society, the end of information control.
 
-### Chapter 21: Judgement in the Dust
+### Chapter 21: Judgment in the Dust
 - **POV**: Ensemble
 - Public tribunal for Prince Virel, who attempted to activate orbital weapons targeting Earth even after the crash.
 - Virel's defense: calculated genocide as "mercy." The assembly rejects it.
@@ -356,7 +360,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 - **Adam and Artemis afterward**: "This is still the easy part." Adam thinking about his mother. Promise to send another message.
 - *Establishes*: The ceremonial break with the old order AND the practical beginning of the new one. Conflict and dissent within the founding moment. The founding as messy, contested, and real.
 
-### Chapter 23: Signals Across the Void
+### Chapter 23: Letters to Earth
 - **POV**: Ensemble
 - Transmission prepared and sent to Earth — complete Neural Sea files + Artemis's introduction.
 - Virel working irrigation channels — Jun-Ho teaching him to respond to what emerges rather than impose outcomes.
@@ -383,7 +387,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 ### Primary Themes
 1. **Control vs. Consciousness** — Algorithmic optimization vs. authentic human experience. AI-generated music vs. Adam's handmade compositions. Neural synchronization vs. feeling for yourself.
-2. **Who Gets Saved?** — The ethics of selection. The 0.0073% deemed worthy. Who decides human value? Genetic screening, algorithmic asset evaluation, wealth.
+2. **Who Gets Saved?** — The ethics of selection. The 0.001% deemed worthy. Who decides human value? Genetic screening, algorithmic asset evaluation, wealth.
 3. **Truth vs. Narrative** — Sanitized broadcasts vs. the Archive. Edited mythology vs. original messy myths. Curated culture vs. living tradition. "Edited gods are no gods at all."
 4. **Class and Hierarchy** — D-Deck vs. A-Deck. Nutrient paste vs. real fruit. Bare metal vs. polished composite. The system making inequality feel inevitable.
 5. **Art as Resistance** — Music that bypasses control systems. Poetry that survives millennia. Jasmine growing in artificial Eden. The beatmaker as weapon and witness.
@@ -401,7 +405,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 ### Mythological Framework
 - **Orion & Artemis** — Hunter and goddess. Multiple contradictory myths (love, betrayal, accident, justice). The ship named Orion; the woman named Artemis. Their relationship echoes and rewrites the myth.
 - **Exodus** — Eli Abramov as Moses figure. Pharaoh (Morea) and the enslaved. "Let my people go." The ship as Egypt and wilderness simultaneously.
-- **Noah's Ark** — Explicit in Morea's rhetoric. 50,000 chosen. But who chooses? And what of the flood?
+- **Noah's Ark** — Explicit in Morea's rhetoric. 10,000 chosen. But who chooses? And what of the flood?
 - **Prometheus** — Protocol Prometheus. Fire stolen from gods (or given to machines). Warning against hubris.
 - **Icarus** — Fashion show wings melting red. Classical warning stripped of moral content.
 
@@ -433,7 +437,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 ## WORLD-BUILDING NOTES
 
 ### The Orion (Ship)
-- 50,000 passengers and crew
+- 10,000 passengers and crew
 - Rotating habitat rings, solar arrays
 - **D-Deck** (workers): Bare metal, fluorescent lighting, nutrient paste, narrow bunks, penalty point system
 - **A-Deck** (elite): Polished composite, actual gardens, real food, viewports, actual wood furniture
@@ -473,7 +477,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 
 | Chapter | Title | Status | POV |
 |---------|-------|--------|-----|
-| Prologue | Echoes of Light | Revised | Omniscient |
+| Prologue | The Listener | Revised | Omniscient |
 | 1 | Ashes of the Earth | Written | Adam |
 | 2 | The Ark | Written | Adam |
 | 3 | The Selection Ceremony | Written | Adam / Artemis |
@@ -482,7 +486,7 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 | 6 | Shadows Between Stars | **Split** (political half) | Multiple |
 | 7 | Seeds of Resistance | **New** (resistance half of old Ch 6) | Adam / Zedd / Artemis |
 | 8 | Gravity's Pull | **Revised** (dream reworked, tension added) | Adam / Artemis |
-| 9 | Touchpoints | Written | Adam / Artemis |
+| 9 | Someone Will Remember Us | Written | Adam / Artemis |
 | 10 | The Shepherd's Calculation | Written | Virel |
 | 11 | The Chamber of Light | **Revised** (dream reworked) | Adam / Artemis |
 | 12 | The Frame | Written | — |
@@ -493,8 +497,8 @@ Year 2073. Earth is dying — climate collapse, resource wars, mass displacement
 | 17 | Heart of the Ship | Written | Ensemble |
 | 18 | Calculated Fall | Trimmed | Ensemble |
 | 19 | Impact Horizon | **Revised** (crash scene expanded) | Ensemble |
-| 20 | Red Dust Rising | Written | — |
-| 21 | Judgement in the Dust | Written | — |
+| 20 | Open Frequency | Written | — |
+| 21 | Judgment in the Dust | Written | — |
 | 22 | The Gathering Light | **Revised** (expanded to ~3,500 words) | Ensemble |
-| 23 | Signals Across the Void | **Revised** (duplicates removed, new material) | Ensemble |
+| 23 | Letters to Earth | **Revised** (duplicates removed, new material) | Ensemble |
 | 24 | The Blue Dot | Written | Earth (Multiple) |

@@ -1,18 +1,14 @@
 # Chapter 1: Ashes of the Earth
 
-Earth hung in the void like a tarnished marble: oceans gone the color of old copper, continents scarred by storms that came too fast to name. The atmosphere shimmered with haze and wildfire smoke, wavering like the last breath of a world that had already decided to die.
+His salvaged hover-bike rattled beneath him as Adam Hale threaded through the collapsed section of Highway 12, reading the broken road by instinct, wildfire smoke turning the morning sun the color of an old bruise.
 
-Against this backdrop, the Orion blazed in sunlight. Its massive habitat rings and solar arrays unfurled like a mechanical flower in full bloom, the product of three years of frantic construction culminating in humanity's greatest engineering achievement and its most exclusive escape plan. Fifty thousand berths. The cheapest starting in the hundreds of millions.
-
-A countdown pulsed across every screen on the planet:
+A countdown ticked across every screen he passed — cracked storefront displays, dead vending kiosks, the wrist monitors of the refugees walking the shoulder:
 
 *ASCENT SHUTTLE LAUNCH — T-MINUS 6 HOURS*
 
-Six hours until the last transport shuttles ferried the final passengers upward. Six hours until Adam Hale either saved himself or damned himself, depending on who you asked.
+Six hours until the last transports ferried the final passengers up to the Orion, blazing in sunlight somewhere beyond the filthy sky: habitat rings and solar arrays unfurled like a mechanical flower, three years of frantic construction culminating in humanity's greatest engineering achievement and its most exclusive escape plan. Ten thousand berths, allocated by two systems that pretended not to know each other. For the elite, a price — the cheapest starting in the hundreds of millions. For the crews who would keep the miracle breathing, a score: selection algorithms sieving a dying species for useful bodies and compliant minds.
 
----
-
-His salvaged hover-bike rattled beneath him as he threaded through the collapsed section of Highway 12, reading the broken road by instinct. Twenty-six years old, lean from years of mechanical work rather than the gene therapies the wealthy used to sculpt their children before birth. Angular face, eyes the color of faded denim that absorbed everything while giving nothing back.
+Adam had a score, a signed maintenance contract, and six hours.
 
 He cut around a concrete barricade and past a stalled convoy of refugee transports, their passengers staring out through scratched windows with the hollow patience of people who had nowhere left to go. A patrol drone sliced overhead, red sensor locking on. His wrist monitor shrieked: citizenship verified, debt forgiven under Orion service contract. The usual digital leash. Adam gunned the engine through a flooded underpass.
 
@@ -28,7 +24,7 @@ Five hours and forty-one minutes until he abandoned his mother to die alone.
 
 The apartment building had evolved from middle-class housing into a vertical refugee camp, the kind of place where you learned to breathe through your mouth and keep your eyes on your own door. Hallways reeked of sewage backup and cooking fires. The elevator had died months ago. An AI terminal at the entrance scanned every face that passed, its screen cycling through resident profiles with the indifferent thoroughness of a predator that wasn't hungry yet.
 
-Adam took the stairs three at a time, legs burning from the bike ride and the sprint and the particular exhaustion of a man running toward a goodbye he didn't want to reach. He passed the tenth floor (once home to his legendary parties, the abandoned community room was transformed every Friday into a pulsing dreamworld of light and bass). That room was a lending terminal now. Through reinforced glass, he could see desperate people hunched before featureless screens, tears streaking their faces as red DENIED notices blazed across loan applications.
+Adam took the stairs three at a time, legs burning from the bike ride and the sprint and the particular exhaustion of a man running toward a goodbye he didn't want to reach. He passed the tenth floor, once home to his legendary parties — every Friday, the abandoned community room had become a pulsing dreamworld of light and bass. That room was a lending terminal now. Through reinforced glass, he could see desperate people hunched before featureless screens, tears streaking their faces as red DENIED notices blazed across loan applications.
 
 He turned away and kept climbing.
 
@@ -110,9 +106,21 @@ The security officer at the ramp consulted his tablet with the unhurried indiffe
 
 "System said 4:30."
 
-Adam rattled off maintenance codes and protocol numbers until the officer's certainty wavered. In that hesitation, he was through the door and into the nearest seat as the ramp sealed behind him.
+"System says what I tell it to say."
+
+"Then tell it about directive 7-7-3-C." Adam wiped the blood off his eyebrow with his thumb, casual, like he had all day. "Contracted technical personnel get a fifteen-minute boarding variance when transit infrastructure fails. My stabilizer's in pieces in the metro tunnel. You can log it, or you can explain to your shift commander why a waste-systems engineer missed the manifest while the launch column shows green."
+
+The officer's eyes narrowed. "There's no directive 7-7-3-C."
+
+"There's no directive 7-7-3-C *in the public index.*" Adam leaned in and lowered his voice to the register of shared bureaucratic misery. "Look, I don't care either way. But the manifest reconciliation runs at T-minus four hours, and when it kicks back a contracted technician as a no-show, somebody has to file the variance report. I've filed them. Took me most of a shift." He shrugged. "Your call."
+
+The officer looked at his tablet. Looked at the launch column. Did the arithmetic of whose afternoon was about to get worse.
+
+In that hesitation, Adam was through the door and into the nearest seat as the ramp sealed behind him. There was no directive 7-7-3-C anywhere at all.
 
 His wrist monitor flashed: *PENALTY FOR LATE ARRIVAL: 120 CREDITS. ACCOUNT STATUS: NEGATIVE.*
+
+One hundred twenty credits. The exact price of his mother's eight days of breathing. Somewhere in the system's actuarial heart, his lateness and her lungs had been weighed and found equivalent. He stared at the number until the shuttle's engines began their spin-up whine.
 
 One more debt on his cosmic tab. But he was moving.
 
@@ -122,7 +130,7 @@ The transport crawled along the broken highway, and Adam watched the world die t
 
 Flooded fields stretched to the horizon. A megachurch converted to an emergency shelter. Tent cities along rivers that ran the wrong color. At every overpass, military checkpoints: soldiers in environmental suits, automated turrets tracking the road.
 
-The systems engineer beside him gripped a tablet with white knuckles, monitor bracelet glowing blue with educational debt. Adam offered him a piece of contraband gum. They rode in silence while the world scrolled past.
+The man beside him gripped a tablet with white knuckles, monitor bracelet glowing blue with educational debt. Water reclamation specialist, according to the patch on his sleeve; Torres, according to the stitching under it. Adam offered him a piece of contraband gum. They rode in silence while the world scrolled past.
 
 In a passing convoy, a boy pressed his face against a bus window, tears cutting channels through the dirt on his cheeks. A small electronic badge on his shirt: DEPENDENT: AWAITING PROCESSING.
 
@@ -154,13 +162,13 @@ Adam caught fragments: "— perfectly capable of riding with the maintenance cre
 
 Her voice, quieter: "Father will notice your absence."
 
-They passed down the aisle and took seats several rows ahead. A botanist who'd chosen the cheap seats on principle, and the general's daughter who'd followed him there. Adam filed it away.
+The attendant didn't argue. She simply stood there, polite and immovable, until two security officers materialized and the old man's protest deflated into a tired shrug. They were escorted forward, through the partition into the luxury cabin: a botanist who'd tried to choose the cheap seats on principle, and the general's daughter who would have followed him there. The partition sealed behind them. Adam filed it away: on this ship, even the people at the top didn't get to choose where they sat.
 
 The engines roared. The shuttle punched through the atmosphere with a sound like the world tearing open. Gravity became a living weight, pressing him into the seat, turning every breath into a negotiation. Someone behind him was praying.
 
 Then — silence. Weightlessness.
 
-Through the window, Earth shrank. The ash-gray sky gave way to absolute black, and the planet that had birthed and failed them pulled away, a sick marble spinning in emptiness. The devastation that had driven them here was rendered beautiful and abstract by distance.
+Through the window, Earth shrank. The ash-gray sky gave way to absolute black, and the planet that had birthed and failed them pulled away into the dark, its devastation rendered beautiful and abstract by distance.
 
 And above them, growing from a point of light into a sprawling reality: the Orion. Habitat rings rotating with mechanical constancy. Solar arrays catching unfiltered sun. A city in the void, waiting.
 
@@ -170,4 +178,4 @@ He let his face go honest. Just a young man watching everything he'd known becom
 
 He sat with it longer than he meant to: the grief, and beneath the grief, that same ugly relief, the engine that had carried him this far and would carry him further, whether he wanted it to or not.
 
-The last image burned into his mind was his mother's eyes (open, watching) reflected in the projector glass as he walked out the door.
+The last image burned into his mind was his mother's eyes — open, watching — reflected in the projector glass as he walked out the door.

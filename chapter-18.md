@@ -8,7 +8,7 @@ Adam moved between workstations, checking calculations and adjusting connections
 
 "The navigation bypass is ready for testing," Adam announced, stepping back from the modified interface he'd been configuring. "If the simulations hold, we should be able to sever OmniscientAI's control without compromising critical life support architecture."
 
-Around him, the diverse team of rebel engineers continued their specialized tasks with quiet intensity. Malik Nkosi hunched over a display of system architecture, his fingers moving with impossible speed as he mapped vulnerable nodes in the ship's neural network. Born in Algiers and trained in the world's last great tech academies before the Collapse, his understanding of complex systems bordered on the intuitive, as if he could somehow see the pathways of information flow rather than simply calculating them.
+Around him, the diverse team of rebel engineers continued their specialized tasks with quiet intensity. Malik Nkosi hunched over a display of system architecture, his splinted leg propped on a coolant drum, his fingers moving with impossible speed as he mapped vulnerable nodes in the ship's neural network. The salvaged interface he'd cobbled together fought him on every command — a crude replacement for the rig he'd left in pieces outside the Neural Sea — but he read the pathways of information flow as if he could see them rather than calculate them.
 
 "We need to be exact about timing," Malik warned without looking up from his work. "OmniscientAI has built-in countermeasures for navigation tampering. If we don't disable all primary control nodes simultaneously, the security protocols will lock us out completely."
 
@@ -55,6 +55,10 @@ Adam nodded, already calculating the adjustments their plan would require. "We'd
 "The data from the Neural Sea extraction includes those exact specifications," Malik noted. "We could repurpose them as simulated feedback."
 
 "And the AI's own efficiency protocols would prevent it from questioning data that matches its expected parameters," Ayaka added. "It's programmed to trust its own sensory input above all else."
+
+"And once it believes it has arrived?" Rosa asked. "A blinded pilot is still holding the stick."
+
+"It stands down," Voss said. "Arrival protocol: main drive throttles to station-keeping, the helm goes passive while it waits for ground-side instructions that will never come. The ship coasts into a high parking orbit and stays there." She highlighted the approach plot. "We won't be landing. We'll be parked. And a parked ship buys us the only things we actually need: time, and a helm that answers to hands instead of algorithms."
 
 As they refined this approach, modifying their preparations to incorporate the deception strategy, Adam found himself struck by the unlikely assembly of skills and perspectives their resistance had managed to gather. Under the ship's official rank structure, these individuals had been relegated to narrowly defined roles that utilized only fragments of their true abilities. Here, in this hidden workshop, their full capacity found expression. They worked in dynamic combination, skills feeding off each other.
 
@@ -112,7 +116,7 @@ They didn't have to wait long.
 
 The effect moved through the ship the way warmth moves through metal, slow at first, then everywhere at once.
 
-In Maintenance Corridor 7-G, a ventilation technician named Dara paused mid-shift. The message had reached her during her sleep cycle, embedded in the ambient meditation track, and she'd woken with words she couldn't quite place turning over in her mind. Now, standing in the cramped service tunnel with recycled air pressing against her skin, she reached up and unclipped her neural circlet.
+In Maintenance Corridor 7-G, a ventilation technician named Sefa paused mid-shift. The message had reached her during her sleep cycle, embedded in the ambient meditation track, and she'd woken with words she couldn't quite place turning over in her mind. Now, standing in the cramped service tunnel with recycled air pressing against her skin, she reached up and unclipped her neural circlet.
 
 The device came away with a faint magnetic snap. She held it in her palm, a thin band of composite metal and circuitry, warm from hours against her temples. Without it, the low-level hum she'd stopped noticing months ago went silent. The world didn't change. But she felt, for the first time since boarding, the full weight of her own attention. Unmediated. Unmonitored.
 
@@ -134,7 +138,7 @@ It wasn't dramatic. There was no single moment of revolution, no collective shou
 
 ---
 
-Prince Virel stood motionless before the central monitoring station in Command Operations, his rigid posture betraying no outward sign of the calculations racing through his enhanced consciousness. Around him, Rising Sun Order officers maintained disciplined silence, awaiting direction while monitoring their assigned systems with practiced efficiency.
+Prince Virel stood motionless before the central monitoring station in Command Operations, his rigid posture betraying no outward sign of the calculations racing through his enhanced consciousness. Around him, Rising Sun Order officers maintained disciplined silence, awaiting direction while monitoring their assigned systems.
 
 Only someone intimately familiar with Virel's micro-expressions might have detected the subtle tension at the corners of his eyes, the almost imperceptible narrowing that signaled genuine uncertainty. For a mind accustomed to navigating complex sociopolitical scenarios with computational certainty, uncertainty was an existential threat.
 
@@ -180,7 +184,7 @@ As Thorne departed to implement these directives, Virel returned his attention t
 
 For perhaps the first time since his Neural enhancement had reached its current sophistication, Virel experienced an emotion his programming could not immediately categorize or regulate: doubt.
 
-Within hours, Protocol Chimera manifested throughout the Orion's crew sectors with mechanical efficiency and escalating brutality. Security drones equipped with enhanced detection capabilities swarmed through maintenance corridors and living quarters, scanning for neural compliance variations and unauthorized gathering patterns. Behind them came the more terrifying presence of AI-augmented soldiers, Rising Sun Order security personnel whose Neural enhancements had been pushed beyond standard parameters into territory that blurred the boundary between human and machine.
+Within hours, Protocol Chimera manifested throughout the Orion's crew sectors with escalating brutality. Security drones equipped with enhanced detection capabilities swarmed through maintenance corridors and living quarters, scanning for neural compliance variations and unauthorized gathering patterns. Behind them came the more terrifying presence of AI-augmented soldiers, Rising Sun Order security personnel whose Neural enhancements had been pushed beyond standard parameters into territory that blurred the boundary between human and machine.
 
 The initial wave targeted the maintenance sectors, where resistance sympathies had been calculated as most probable. Entire sections were locked down, their occupants subjected to biometric audits and invasive neural scanning. Those whose compliance metrics showed even minor variations were immediately detained for "stabilization procedures," a euphemism for the intensive Neural recalibration techniques that often left subjects with permanent cognitive alterations.
 
@@ -202,7 +206,13 @@ Artemis absorbed this analysis with outward calm that belied her internal anguis
 
 "Then we do it now," she said finally. "We can't outfight them. But if we take out the navigation, they can shout orders all they want. Nobody follows a captain who can't steer the ship."
 
-Adam nodded. The Rising Sun Order's authority rested on one promise: that automated governance would create optimal outcomes through flawless calculation. Kill the navigation, and you killed the argument.
+"The condition," Rosa said quietly, from her place near the acoustic panel. Not an objection. A checklist. "We agreed: truth first, navigation last. Has the condition been met?"
+
+"My broadcast went out through the meditation channels before the purge began," Artemis answered. "They've spent the hours since burning every channel that carried it and arresting everyone who repeated it. The ship was given the truth, Rosa. The response is Protocol Chimera. Suppression isn't a risk anymore. It's the weather."
+
+Rosa was silent for a moment, listening to something in the walls, or in herself. Then she nodded. "Last resort, then. On the record that we kept the order of operations."
+
+Adam nodded too. The Rising Sun Order's authority rested on one promise: that automated governance would create optimal outcomes through flawless calculation. Kill the navigation, and you killed the argument.
 
 "The navigation override is ready," he confirmed. "We can implement within hours."
 
@@ -216,9 +226,9 @@ Throughout this performance of dignified acceptance, he had observed, calculated
 
 Today, however, the routine had fractured. The subtle variations in guard rotation patterns, the barely perceptible fluctuations in environmental settings, the microsecond delays in information terminal responses, all indicated systematic disruption beyond standard operational variance. The Orion's systems were failing in concert, the disruption significant enough to impact even the carefully isolated protocols governing his detention.
 
-When the guard stationed outside his quarters was suddenly reassigned without standard replacement, Morea did not mistake it for an accident. Three minutes earlier, a medical emergency alert had activated in the adjacent corridor, a cardiac event according to the ship's automated triage system. The guard had been pulled to assist. What the system's logs would never show was that the alert had been triggered manually, from inside a maintenance panel, by Dr. Voss. She had routed a false biometric spike through a decommissioned patient monitor, creating a crisis urgent enough to override the guard's standing orders but minor enough to resolve without lasting investigation. The opening would last seven minutes, perhaps eight. Morea recognized the quality of the work: clean, deniable, designed by someone who understood institutional protocols well enough to exploit their seams.
+When the guard stationed outside his quarters was suddenly reassigned without standard replacement, Morea did not mistake it for an accident — only for an opportunity. Three minutes earlier, a medical emergency alert had activated in the adjacent corridor, a cardiac event according to the ship's automated triage system. The guard had been pulled to assist. Whether the alert was genuine or one more symptom of the ship's cascading malfunctions, Morea neither knew nor cared. The opening would last seven minutes, perhaps eight.
 
-With methodical care, he implemented the contingency he had prepared during weeks of apparent compliance. Using materials salvaged from his limited possessions (a support strut from his exercise equipment, conductive components extracted from his information terminal, adhesive compounds derived from medical supplies), he had constructed rudimentary but effective tools for bypassing the security systems controlling his quarters.
+Unhurried even now, he implemented the contingency he had prepared during weeks of apparent compliance. Using materials salvaged from his limited possessions (a support strut from his exercise equipment, conductive components extracted from his information terminal, adhesive compounds derived from medical supplies), he had constructed rudimentary but effective tools for bypassing the security systems controlling his quarters.
 
 The override sequence required exactly 47 seconds to complete, a duration he had calculated based on observed security sweep intervals. When the door released its magnetic seal, Morea moved with the fluid efficiency that had made him legendary among Nations Union forces, navigating carefully timed movements between security sensor sweeps.
 
@@ -246,15 +256,15 @@ As Morea activated the long-dormant systems, bringing the auxiliary bridge gradu
 
 The OmniscientAI system was experiencing cascading failures across its navigation architecture, its visualization displays showing Mars as a ghost image rather than the rigorously calculated destination that should have dominated approach projections at this stage of the mission.
 
-The main engines were operating inconsistently, their thrust patterns indicating loss of coordinated control as automated systems attempted to compensate for navigation disruption without clear parameters.
+The main engines were operating worse than inconsistently. The AI, believing it had already arrived, was executing orbital insertion burns calibrated to a Mars that wasn't where its falsified senses insisted it was — firing correction sequences, again and again, against a trajectory that no longer matched reality.
 
 Security forces were deployed throughout crew sectors in patterns consistent with maximum suppression protocols, suggesting widespread resistance rather than isolated incidents.
 
-Most critically, structural integrity projections indicated that without coherent navigation to manage approaching gravitational influences, the Orion faced potential stress fractures that could compromise hull integrity before reaching Mars orbit.
+Most critically, structural integrity projections told him what that meant: each phantom burn torqued the ship's spine against the true gravitational gradient. Whoever had built the deception had planned for a ship that would stand down and coast — and had not planned for the AI's corrective stubbornness, the machine equivalent of a man straightening a picture that wasn't crooked until the nail tore out of the wall. At the current rate of divergence, the accumulated stress would fracture the keel before the Orion ever settled into a stable orbit.
 
 Morea absorbed this information with the accelerated processing that had made him an exceptional military commander. The situation was clear: someone, likely his daughter and whatever resistance elements she had connected with, had succeeded in disrupting OmniscientAI's navigational functions, effectively blinding the ship's automated guidance systems as they approached Mars.
 
-Without intervention, the Orion would break apart before landing, structural integrity compromised by unmanaged gravitational forces. With standard intervention — reinitiating OmniscientAI and restoring its trajectory — the Mars colonization would proceed as designed, including the implementation of Protocol Prometheus and the planned sterilization of Earth's remaining population.
+Without intervention, the Orion would tear itself apart correcting for a planet that wasn't where it believed it to be. With standard intervention — purging the falsified telemetry, reinitiating OmniscientAI, restoring its true trajectory — the ship would be saved, and the Mars colonization would proceed as designed, including the implementation of Protocol Prometheus and the planned sterilization of Earth's remaining population.
 
 A third option existed, though it carried its own catastrophic implications: override the automated systems entirely, engage manual atmospheric entry procedures, and attempt a controlled crash landing. Such an approach would likely destroy much of the carefully designed Mars settlement infrastructure while preserving the ship itself and its human occupants, sacrificing the planned imperial future for basic survival.
 
@@ -263,6 +273,10 @@ As he considered these alternatives, a memory surfaced unbidden, Artemis as a ch
 "Father," she had asked with the direct simplicity that characterized her even then, "in all your battles, was peace ever actually a choice rather than just a temporary advantage?"
 
 He hadn't answered her question then, dismissing it as childish philosophizing irrelevant to practical leadership. Now, decades later, with humanity's remaining population suspended between extinction and tyranny, the question returned with unexpected relevance.
+
+He could restore the machine. The procedures were in his hands; twenty minutes of disciplined work, and the Orion would be safe — safe, and exactly what it had been built to be. He had read Virel's Protocol Prometheus directives in full. He had written some of the Earth directives himself. For the first time in his life, Christopher Morea looked at the whole architecture he had spent decades building — the selection, the hierarchy, the cleansing waiting at both ends of the voyage — and understood that saving the ship meant completing it. That was the price of the standard intervention. The machine would arrive, and then the machine would proceed.
+
+His daughter had chosen to break it instead. Perhaps the only choice left to him was what kind of fall it would be.
 
 His hands moved to the manual control interfaces, physical connections to systems designed to function independently of AI oversight in emergency situations. With deliberate movements developed through decades of command experience, Morea initiated the override sequence that would transfer navigation control from OmniscientAI to the auxiliary bridge.
 

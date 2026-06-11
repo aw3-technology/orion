@@ -104,6 +104,4 @@ In the calibrated darkness, between one processing cycle and the next, Prince Da
 
 He regulated it before it could fully form. But it left a residue: a faint warmth behind his sternum that the enhancement logged as "anomalous cardiac activity" and scheduled for diagnostic review.
 
-He fell asleep without knowing what the sensation was. His mother would have recognized it instantly.
-
-It was grief.
+He fell asleep without knowing what the sensation was.

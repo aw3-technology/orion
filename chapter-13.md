@@ -10,7 +10,7 @@ Today, however, she entered as something new: a potential adversary.
 
 "Cultural Attaché Morea reporting as requested, sir," she announced formally, standing at appropriate attention rather than taking the seat that would have placed her at deliberate disadvantage.
 
-General Morea looked up from his tactical display, his face a mask of controlled displeasure. He made no immediate response, allowing silence to establish dominance—a technique she recognized from countless diplomatic encounters she had witnessed throughout her life.
+General Morea looked up from his tactical display, his face giving the displeasure nothing to wear. He made no immediate response, allowing silence to establish dominance—a technique she recognized from countless diplomatic encounters she had witnessed throughout her life.
 
 "Your actions during the tribunal were disgraceful," he said finally, deactivating the display with a sharp gesture. "Naïve at best. Dangerous at worst."
 
@@ -84,6 +84,10 @@ Then it vanished, replaced by cold command.
 
 "Because you've demonstrated compromised judgment and potential subversive tendencies." Morea's voice carried the weight of absolute authority. "Furthermore, your union with Prince Virel will be formalized within the week."
 
+He turned back to the communication panel. "Security: Cultural Attaché Morea's quarters are to be searched before she is returned to them. Full sweep. Communications equipment, data storage, anything with a power signature or transmission capability. Classified archive material reached her somehow. I want the channel found and closed by end of watch."
+
+Artemis kept her face still while something in her chest dropped through the floor. *The statuette.* Then training reasserted itself. The transmitter was her mother's design, built for precisely this: to every instrument her father's people owned, it was ceramic. The only way it could betray her now was if she betrayed it first — a glance, a flinch, a reach in the wrong moment.
+
 He paused, and for the first time in the conversation, she heard something in the silence that wasn't strategy. It was the sound of a man who had already lost a wife to this machinery and was now feeding his daughter into it because the alternative (admitting the machinery was wrong) would collapse everything he'd built in its place.
 
 "We'll make this binding before your spirit breaks entirely."
@@ -142,6 +146,8 @@ The words returned her to the myth she'd found in Sofia's Archive months ago: th
 
 *What do you do when you've swallowed the elixir and the exile is already underway?* The question she'd asked herself in the archive bunk now had an answer she hadn't expected: you stop calling it exile. You call it position.
 
+The search team had been thorough in the way of people who would have to certify their thoroughness: drawers emptied and repacked, her books cracked open and shaken by their spines, scanning wands run along every seam in the walls. Her work tablet was gone. Her drafting tools were gone. But the meditation altar they had scanned once and left assembled — devotional furniture, standard issue, beneath suspicion — and so the panel behind it had kept her journal, and the statuette of the huntress stood exactly where it had always stood, having registered as what it had always registered as: inert decorative ceramic. Her mother had built it to survive exactly this. Artemis wondered, not for the first time, how long Helena Morea had understood what kind of machinery she was hiding things from.
+
 After completing her survey, Artemis seated herself at her meditation altar, the one space where extended stillness would appear consistent with established patterns. She assumed the formal posture expected of Nations Union spiritual practice, her breathing settling into the rhythm of deep contemplation.
 
 Behind closed eyelids, her mind worked with sharp calculation. Options were limited but not exhausted. Communication channels were restricted but not eliminated. Most importantly, her father had revealed far more than he realized: not just about Earth's planned fate, but about the political mechanics behind Adam's framing.
@@ -166,7 +172,7 @@ Deep in the medical research sector, Dr. Elara Voss was conducting routine neura
 
 The message appeared on her secure terminal, encrypted in the symbolism she and Artemis had established during their private discussions of pre-collapse mythology. Elara's synthetic eyes processed the text with enhanced perception capabilities, extracting layers of meaning beyond the literal words.
 
-She completed her official duties with methodical care, giving no outward indication that anything had changed. Only when her shift ended and she returned to her private research laboratory did she allow herself to fully process the implications.
+She completed her official duties at her usual unhurried pace, giving no outward indication that anything had changed. Only when her shift ended and she returned to her private research laboratory did she allow herself to fully process the implications.
 
 Artemis had confirmed what Elara had long suspected: the planned "management" of Earth's remaining population once Mars colonization was secure. More immediately concerning was the confirmation that Adam Hale had been deliberately framed as part of political positioning between the two Orders.
 
@@ -196,9 +202,13 @@ On what he estimated was the third day, a guard he didn't recognize slid a table
 
 They weren't just holding him. They were erasing him from the ship's functional reality, one system at a time.
 
+Twice he pressed the cell's intercom and recited, as formally as the fog allowed, the order Chief Justice Vega had read into the record: access to whatever materials he needed to prepare a defense. *That is not a request.* The first time, a flat voice told him the request had been logged. The second time, no one answered at all.
+
 On the fourth day, or the fifth, Kai's voice came through the ventilation grate, barely audible over the air circulation. Just three words: "Still here. Patience."
 
 Adam pressed his forehead against the grate and breathed clean air from the duct for as long as he dared.
+
+Days later the voice came again, longer this time, pitched under the air-handler hum. "Vega filed a protest over your access. They thanked her for her diligence and reassigned her docket. Security grounds." A pause. "Official channels are closed, son. Hold on."
 
 On another day, silence. No voice in the grate. Had Kai been caught? Had he decided the risk was too great? Adam couldn't know, and not knowing carved a hollow space behind his ribs that the compliance compounds couldn't fill.
 
@@ -210,6 +220,6 @@ Still, he persisted, believing that what had awakened within that hidden space c
 
 *Find the center. Find each other.*
 
-The words from their shared vision echoed in his mind, a mantra against despair, a focus point for consciousness seeking resonance beyond immediate circumstances.
+Not words — the Chamber had never used words — but his own translation of what it had pressed into him: geometry resolving into direction, direction into purpose. He repeated the phrase like a mantra against despair, a focus point for consciousness seeking resonance beyond immediate circumstances.
 
-Somewhere, twenty-seven decks above, Artemis was reaching too.
+Somewhere, three decks above, Artemis was reaching too.

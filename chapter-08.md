@@ -20,25 +20,21 @@ Adam woke with a violent start, his body drenched in sweat despite the regulated
 
 The dream remained sharp-edged and architectural, refusing to dissolve. Carefully, so as not to disturb his still-sleeping bunkmates, Adam reached for the small notebook he kept hidden beneath his thin mattress. He sketched the inverted Orion pattern with quick, harsh strokes, marking the thirteen stars and their connections, a constellation he'd never seen in any astronomy text but which now felt etched into his retinas.
 
-From across the dorm, a whisper drifted through the dark. "You saw it too."
+From across the dorm, a sound drifted through the dark. Zedd, half-shadowed on his side, one headphone in and the other dangling loose, was tapping his fingers against the edge of his bunk frame. Not nervous tapping. Counting. Twelve light beats, evenly spaced. Then a pause exactly one beat wide — a thirteenth that wasn't played, hanging in the silence like a question.
 
-Adam paused, pencil hovering mid-arc. Zedd lay on his side, half-shadowed, one headphone still in, the other dangling loose. His voice was soft but clear, like a tone meant not to be recorded.
+Adam's pencil stopped mid-arc.
 
-Adam turned slightly. "The constellation?"
+"Can't sleep?" Zedd whispered, in the tone of a man who hadn't tried.
 
-Zedd nodded, barely visible in the low light. "Thirteen points. Inverted. Been hearing it in the harmonic map for a week. I didn't understand the pattern until now." He tapped his fingers against the edge of the bunk frame: twelve light beats, then a pause. The thirteenth hung in the silence like a question.
-
-Adam looked back at the sketch. The lines felt alive beneath his hand.
+Adam looked at his sketch: thirteen stars, one of which he realized he had drawn fainter than the rest without deciding to. He looked at Zedd's hand, motionless now on the bunk frame. Neither of them said anything else. The silence where the thirteenth beat should have been said it for them.
 
 As he completed the drawing, his hand was shaking.
-
-Zedd whispered one more time before falling back into silence: "Whatever it is… it's calling both of us now."
 
 ---
 
 "Third neuro-monitoring check this cycle," observed the medical technician, reviewing Adam's file with a small frown. "That's unusual. Have you reported any symptoms? Sleep disturbances? Cognitive anomalies?"
 
-"Nothing out of the ordinary," Adam replied with practiced neutrality. "Just following the summons."
+"Nothing out of the ordinary," Adam replied with careful neutrality. "Just following the summons."
 
 The technician nodded and gestured toward a scanning chamber. "Dr. Voss will oversee this one personally."
 
@@ -52,7 +48,7 @@ Dr. Voss entered without ceremony. Her synthetic eyes were what you noticed firs
 
 The question, though seemingly routine, carried an undercurrent that put Adam on alert. "Well enough," he answered cautiously.
 
-Dr. Voss initiated the scanning sequence, her movements efficient and practiced. Adam felt the familiar tingling as the equipment mapped his neural activity. The doctor watched the data flow across her display with unusual intensity, occasionally adjusting parameters in a way that suggested she was looking for something specific.
+Dr. Voss initiated the scanning sequence, her movements efficient and economical. Adam felt the familiar tingling as the equipment mapped his neural activity. The doctor watched the data flow across her display with unusual intensity, occasionally adjusting parameters in a way that suggested she was looking for something specific.
 
 "Your patterns show increased activity in the parahippocampal regions," she observed. "Typically associated with spatial navigation and memory encoding."
 
@@ -74,7 +70,7 @@ Adam complied. As Voss repositioned the scanner against his temple (an adjustmen
 
 In her private quarters, Artemis Morea sat surrounded by ancient texts, physical books she had brought aboard as "cultural artifacts," their pages filled with mythologies that predated humanity's computational understanding of the universe. Her focus today was the myth of her namesake: Artemis, goddess of the hunt, the moon, and the wilderness, and her complex relationship with the hunter Orion.
 
-She had been studying the variations of the myth with increasing intensity since the shared dream that still haunted her sleep. The story echoed Chang'e's tale, the goddess she'd carried with her since childhood. Both women destroyed what they loved through the act of trying to save it. Both ended up alone in the sky. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction; sometimes Artemis's own arrows. The hunter became a constellation, placed in the sky either as punishment or memorial.
+She had been studying the variations of the myth with increasing intensity for weeks — since the wall had answered her tapping, and since her own sleep had begun delivering fragments she could never quite carry across the border of waking: corridors of geometry, a door that was also a constellation, a vast and patient attention. The story echoed Chang'e's tale, the goddess she'd carried with her since childhood. Both women destroyed what they loved through the act of trying to save it. Both ended up alone in the sky. The classical versions contained striking contradictions: in some, Artemis loved Orion and killed him by accident, tricked by her jealous brother Apollo. In others, Orion violated sacred ground or threatened the Pleiades sisters, and Artemis righteously punished him with death. Sometimes a scorpion was the instrument of destruction; sometimes Artemis's own arrows. The hunter became a constellation, placed in the sky either as punishment or memorial.
 
 Artemis opened her private journal, not the official cultural documentation she maintained for the mission, but her personal record of observations and questions. She wrote with the smooth penmanship that had been trained into her since childhood:
 
@@ -86,7 +82,7 @@ In the margin of her journal, she added in smaller script: *"Edited gods are no 
 
 The realization settled heavily: the mythology handed to her by the Nations Union, the stories meant to guide humanity's understanding of itself, were as curated and sterile as the news feeds from Earth. History, culture, even the divine had been optimized for consumption, stripped of elements that might provoke uncomfortable questions or unpredictable reactions.
 
-Before closing the journal, she opened the map file on her private system and counted twenty-three discrepancies now, up from seventeen last week. The pattern was tightening. Whatever the ship was hiding, the omissions weren't random. They clustered, converging toward the central axis as if drawn to something she couldn't yet name.
+Before closing the journal, she opened the map file on her private system and added three new discrepancies: twenty-six now. The convergence toward the central axis was no longer a suspicion she had to argue herself into. It was a shape. Whatever the ship was hiding, it had a center, and her map was slowly drawing a circle around it.
 
 She closed the journal and concealed it in its hiding place behind a panel of her meditation altar. Her disillusionment was no longer abstract or philosophical. It had become a physical sensation, a heaviness in her chest, a gravity pulling her away from the path that had been predetermined for her since birth.
 
@@ -138,7 +134,7 @@ Artemis hesitated, uncertain whether to proceed or retreat. Protocol dictated mi
 
 "Necessary?" Artemis echoed, intrigued despite herself.
 
-"For remembering." Al-Farouk's fingers moved with practiced care among the blossoms. "In Cairo, these grew in the university courtyard where I taught. The scent would drift through my office window, a reminder that nature's algorithms preceded our own."
+"For remembering." Al-Farouk's fingers moved with a gardener's care among the blossoms. "In Cairo, these grew in the university courtyard where I taught. The scent would drift through my office window, a reminder that nature's algorithms preceded our own."
 
 He spoke with the measured cadence of a professor, but beneath the academic tone lay a warmth she hadn't expected. "The ship doesn't want this," he continued, gesturing at the blossoms. "No one approved it. No algorithm suggested it. That's rather the point."
 
@@ -176,7 +172,7 @@ Adam traced the connections between nodes, the pattern revealing itself with inc
 
 They studied the overlay in silence, the implications too vast to articulate fully.
 
-"There's something else," Kai said, pulling up a requisition log. "A Rising Sun Order cybernetics engineer, Ayaka Tanaka, submitted a request last month to access one of these dead zones. Officially for neural interface calibration." He tapped the screen. "But the calibration equipment she listed doesn't exist in the RSO inventory. She made it up."
+"There's something else," Kai said, pulling up a requisition log. "A Rising Sun Order cybernetics engineer, Ayaka Tanaka, submitted a request last month to access one of these dead zones. Officially for neural interface calibration." He tapped the screen. "But the calibration equipment she listed doesn't exist in the RSO inventory. She made it up. Which means one of Virel's own people is lying to Virel's own quartermasters." He closed the log. "Either she's hunting the same thing we are, or she's hunting us. I'd like to know which before she does."
 
 "She's looking for the same thing we are?"
 
@@ -188,7 +184,7 @@ Finally, Kai spoke the thought they both were considering:
 
 Adam nodded, a chill running through him despite the regulated temperature. "We've been living inside a myth," he said. "We just didn't know which one."
 
-Kai's wrist monitor pulsed twice: the alert code used by the Free Orioneers for proximity warnings. Someone with elevated security clearance had entered the adjacent corridor.
+Kai's wrist monitor buzzed twice: the alert code used by the Free Orioneers for proximity warnings. Someone with elevated security clearance had entered the adjacent corridor.
 
 Without a word, Kai collapsed the schematic display. Adam pocketed his notebook. They separated, Kai moving toward a legitimate access terminal, Adam picking up a diagnostic scanner and assuming the posture of a technician running routine checks. Muscle memory. They'd rehearsed this without ever discussing it, the choreography of people who lived one mistake away from detention.
 
@@ -266,7 +262,7 @@ That night, Adam lay awake long after the dormitory had quieted. The fashion sho
 
 He pulled up the ship schematic on his hidden tablet and overlaid his inverted Orion drawing one more time. The alignment with the Central Sub-Matrix Core was too precise to be coincidence. Something down there was broadcasting, not through any frequency his equipment could detect, but through dreams and wall-vibrations and the strange way his hearing had sharpened since boarding this ship.
 
-Twenty-seven decks above, Artemis stood at her viewport, watching the stars slide past in their ancient indifference. The fashion show's grotesque spectacle had confirmed something she'd been circling for weeks: the system didn't just suppress dissent; it consumed culture, digested meaning, excreted propaganda. And she had been its instrument.
+Far above, in the quiet of A-Deck, Artemis stood at her viewport, watching the stars slide past, indifferent as geology. The fashion show's grotesque spectacle had confirmed something she'd been circling for weeks: the system didn't just suppress dissent; it consumed culture, digested meaning, excreted propaganda. And she had been its instrument.
 
 She pressed her palm against the viewport glass. Through it, faintly, she felt that same rhythmic vibration, the one she'd noted in her journal, the one that seemed to pulse from somewhere deep in the ship's core. She'd mapped its frequency against her schematic of hidden spaces. The convergence point was unmistakable.
 

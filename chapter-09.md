@@ -1,4 +1,4 @@
-# Chapter 9: Touchpoints
+# Chapter 9: Someone Will Remember Us
 
 The botanical garden dome on A-Deck stood in stark contrast to the sterile efficiency that characterized most of the Orion. Here, Earth's biomes had been recreated in miniature: a curated wildness for the ship's elite passengers. Light filtered through transparent panels designed to mimic morning sunshine, illuminating meticulously arranged foliage and carefully engineered flower beds.
 
@@ -16,7 +16,7 @@ To her surprise, she found Adam Hale kneeling beside an access panel, his mainte
 
 Adam gestured toward the open panel. "Moisture recirculation valve showing irregularities. Left unchecked, it could affect humidity levels throughout this biome."
 
-They regarded each other with cautious assessment, both aware of the strangeness of their recurring connections: first at Luna, then in dreams, now here in physical space. Neither mentioned these previous touchpoints, maintaining the fiction of random encounter.
+They regarded each other with cautious assessment, both aware of how many times their paths had already crossed: the gallery above the agricultural dome, the waltz at Luna, the repair in her quarters, the rhythm tapped through a coolant valve. Neither mentioned any of it, maintaining the fiction of random encounter.
 
 "Do you often work in the garden dome?" Artemis asked, her tone conversational yet guarded.
 
@@ -46,7 +46,7 @@ Their eyes met briefly, the shared observation creating a moment of unexpected c
 
 As she continued along the garden path, Artemis's hands were shaking. She pressed them flat against her thighs until they stopped.
 
-Behind her, Adam watched her departure for a moment before gathering his tools. The moisture valve had indeed shown irregularities, but he could have assigned the task to any technician on his team. His presence in the garden had been deliberate: a calculated risk based on observation of Artemis's movement patterns following their shared dreams.
+Behind her, Adam watched her departure for a moment before gathering his tools. The moisture valve had indeed shown irregularities, but he could have assigned the task to any technician on his team. His presence in the garden had been deliberate: a calculated risk built on weeks of quiet observation of Artemis's movement patterns — the garden visits after official ceremonies, the route she favored when she wanted to be somewhere her schedule didn't predict.
 
 ---
 
@@ -56,13 +56,13 @@ He was adjusting a small atmospheric sensor, his presence plausibly part of his 
 
 "Technician Hale," she greeted him. "More valve malfunctions?"
 
-"Atmospheric calibration," he replied. "The Mediterranean biome requires careful oxygen-carbon balancing." He hesitated, then added more quietly: "And I've been running secondary readings. The same synthetic compounds I found in the air at Luna (the mood stabilizers) are present here too. Lower concentration, but consistent across every biome I've tested."
+"Atmospheric calibration," he replied. "The Mediterranean biome requires careful oxygen-carbon balancing." He hesitated, then added more quietly: "And I've been running secondary readings. The same synthetic compounds I found in the air at Luna — the mood stabilizers — are present here too. Lower concentration, but consistent across every biome I've tested."
 
 Artemis's expression sharpened. "In the gardens?"
 
-"In the gardens. In the D-Deck corridors. In the mess halls." He tapped the sensor. "Whoever's dosing the air supply isn't limiting it to special events. It's systemic."
+"In the gardens. In the D-Deck corridors. In the mess halls." He tapped the sensor. "Whoever's dosing the air supply isn't limiting it to special events. It's systemic. And it's not the only delivery route. Kai's people have flagged something in the lower-deck water systems too — a different compound, heavier dosing. Two programs. Air for everyone's mood. Water for the workers' compliance."
 
-Artemis was silent for a long moment, processing. Then she nodded and, after a moment's consideration, seated herself on the opposite end of the bench. A careful distance separated them, physically close yet maintaining proper hierarchical space.
+Artemis was silent for a long moment, processing. *Two programs.* The air dosing was subtle enough to be deniable — but water chemistry was logged, audited, signed for. Somewhere in the ship's records, someone's name was attached to it. "I can't pull water-quality logs without leaving a trail," she said slowly. "But A-Deck draws from a separate reservoir. If I requisition a comparative purity audit — cultural preservation, heritage hydration standards, something suitably absurd — the discrepancy will document itself." She filed the thought with the cold precision she'd been raised to use on other people's secrets, and then, after a moment's consideration, seated herself on the opposite end of the bench. A careful distance separated them, physically close yet maintaining proper hierarchical space.
 
 "Is it strange?" she asked after a long silence. "Being surrounded by plants from a world most of us will never see again?"
 
@@ -72,7 +72,7 @@ The question seemed to surprise him. Adam set down his calibration tool, conside
 
 "I've seen historical footage," Artemis offered. "Before the sea level rise."
 
-"It was beautiful," Adam continued, his voice softening with memory. "My father worked the offshore platforms until they were automated. After that, we moved inland, following the retreating shoreline." He paused. "These olive trees... they remind me of the hills above our second house. We used to climb them during the dry season."
+"It was beautiful," Adam continued, his voice softening with memory. "My father worked the offshore platforms until they were automated. After that, we moved inland, following the retreating shoreline, into the industrial districts where the steel mills were still hiring. Until they weren't." He paused. "These olive trees... they remind me of the hills above our second house. We used to climb them during the dry season."
 
 "I lost my mother when I was eleven," she responded, reciprocating with her own vulnerability. "Official records state she died of a rare vascular condition, but the truth was more complicated. She questioned certain Nations Union directives regarding selection protocols. Her opposition became... inconvenient."
 
@@ -116,7 +116,7 @@ During one meeting in the desert biome, Adam brought a small data crystal contai
 
 "Encrypted and shielded. Undetectable."
 
-"It's not undetectable. It's undetectable to *current* scanning protocols. Virel upgrades his sensor arrays every twelve days. I've been tracking the cycle." She tucked the crystal into her sleeve with practiced efficiency. "Next time, dead-drop it in the irrigation junction below the Mediterranean section. I check the valve housing every third day."
+"It's not undetectable. It's undetectable to *current* scanning protocols. Virel upgrades his sensor arrays every twelve days. I've been tracking the cycle." She tucked the crystal into her sleeve in one smooth motion. "Next time, dead-drop it in the irrigation junction below the Mediterranean section. I check the valve housing every third day."
 
 Adam stared at her. "You have a dead-drop protocol."
 
@@ -182,13 +182,13 @@ Virel approached, standing closer than protocol strictly required. "Indeed. Harm
 
 Though her expression didn't change, Virel noted the almost imperceptible pause in her work. "The Earth biome preservation falls under cultural assets," she replied evenly. "Proper documentation is essential."
 
-"Of course." Virel smiled with practiced charm. "Your dedication is admirable."
+"Of course." Virel smiled with manufactured charm. "Your dedication is admirable."
 
 After she departed, Virel activated his secure communication channel. Commander Thorne appeared on the display, broad-shouldered, his Rising Sun Order uniform modified with subtle combat enhancements. His face had the blunt architecture of someone built for violence, but his hands were another story: long-fingered, deft, moving across his console with the delicacy of a man who repaired watches or played piano. Virel had once found him in the security office at 0300, rebuilding a malfunctioning micro-drone with tweezers and a jeweler's loupe, the tiny components arranged on a cloth with the care of a surgeon laying out instruments. It was the only time Virel had seen Thorne look content.
 
 "You requested my presence, Prince Virel?" Thorne's voice was barely above a murmur.
 
-"I have concerns about Cultural Attaché Morea," Virel stated without preamble. "Her movements have become... unpredictable. I want comprehensive surveillance initiated."
+"Your convergence flag," Virel stated without preamble. "Cultural Attaché Morea and the maintenance technician. I've reviewed the file. You were right to bring it to me — and conservative in your recommendation. I want comprehensive surveillance initiated."
 
 "Standard protocol requires General Morea's approval for monitoring his daughter," Thorne observed neutrally.
 
@@ -264,17 +264,15 @@ Adam turned toward her, their faces now inches apart. "I'd start by unwriting th
 
 Their eyes held. Artemis leaned forward slightly, the movement so subtle it might have been imagined. Adam didn't breathe.
 
-The moment stretched, filled with possibility—
+Then she stopped — a centimeter of distance held like a held note — and drew back, one vertebra at a time, until the space between them was deniable again.
 
-A soft buzz from the corridor outside shattered the silence. Motion detectors activating, someone approaching.
+"If anyone saw," she said quietly. It wasn't an apology. It was an inventory. "A meeting can be explained. A conversation can be explained. What that was about to be—" She shook her head once. "They wouldn't punish me for it. They'd *use* it. They'd put it in a file, and one day they'd put the file in front of my father, or in front of you, at whichever moment it would break the most."
 
-They moved apart instantly, years of conditioning reasserting themselves in seconds. Artemis slipped the book back into her pocket as Adam quickly gathered his maintenance tools, creating the appearance of a routine inspection.
+Adam exhaled, slow. "So we don't give them the lever."
 
-By the time a junior engineering officer passed the observation bubble, they were standing at a proper distance, discussing environmental stabilization metrics with formal detachment.
+"We don't give them the lever," she agreed. The words sounded like a promise made to be broken, and they both heard it.
 
-The officer nodded respectfully to Artemis and continued down the corridor, but the interruption had done its work. Neither could find the way back to where they'd been thirty seconds before.
-
-"I should return to A-Deck," Artemis said, her voice resuming its practiced cadence.
+She rose, slipping the book back into her pocket. "I should return to A-Deck," she said, her voice resuming its practiced cadence — but putting the mask back on cost her something visible, and she let him see the cost. That, too, was a kind of touch.
 
 "Of course, Cultural Attaché," Adam replied, the formal title emphasizing the divide that still separated them despite everything shared.
 
@@ -282,23 +280,17 @@ They parted without speaking of when they might meet again.
 
 ---
 
-In the security monitoring hub on B-Deck, Commander Thorne reviewed the surveillance data with methodical care. Bio-tag pings tracked Artemis's movements throughout the ship, creating a map of her activities over the past week. Most followed expected patterns: quarters to cultural archive, scheduled meetings, occasional visits to the botanical dome.
+In the security monitoring hub on B-Deck, Commander Thorne worked through the expanded surveillance take with methodical care. The convergence pattern he had flagged was no longer hypothesis; the new bio-tag resolution had given it coordinates. Most of Artemis's movements followed expected patterns: quarters to cultural archive, scheduled meetings, occasional visits to the botanical dome.
 
 But there were anomalies. Brief periods where her path diverted from official assignments, locations where she lingered without documented purpose.
 
-Thorne cross-referenced these deviations with maintenance schedules, looking for correlations that might explain the pattern. When he input Adam Hale's service routes, the system highlighted multiple instances of proximity, moments when the Cultural Attaché and the maintenance technician occupied the same sectors without official interaction logged.
+He cross-referenced her deviations with Hale's service routes and isolated the intersection points. The Mediterranean biome's eastern path, twice. The olive grove, four times. And once — this entry he verified three times, because the dwell time ran eleven minutes longer than any plausible maintenance task — observation bubble J-7, a decommissioned node on the dorsal spine that no work order had touched in months.
 
-Too many to be coincidental. Too patterned to be random.
-
-A blinking notification appeared on his display: "Overlap Detected."
-
-Thorne's lips curved into a cold smile. This was exactly the kind of weakness he had been instructed to find: a vulnerability in the polished facade of Nations Union discipline.
-
-"Now we know where to look," he murmured, initiating targeted surveillance protocols for the identified convergence points.
+He did not flag the take in the general system. He alerted no one. He entered the locations into a secured file encoded for Prince Virel's eyes only, annotating each with date, duration, and approach vectors, the entries as precise and patient as drone components laid out on a cloth.
 
 The next time they met, there would be no privacy. No unobserved words. No ambiguity about the nature of their connection.
 
-Commander Thorne entered the findings into a secured file, encoded for Prince Virel's eyes only. The pieces were falling into place: not just surveillance of a potentially wayward cultural attaché, but the building blocks of a more comprehensive rearrangement of power.
+The pieces were assembling: not just surveillance of a potentially wayward cultural attaché, but the building blocks of a more comprehensive rearrangement of power.
 
 Every system needed pressure points. Every structure required leverage to be reshaped.
 

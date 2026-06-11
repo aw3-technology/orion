@@ -14,7 +14,7 @@ They reached what appeared to be a standard junction box, unremarkable except fo
 
 "After you." Kai gestured.
 
-Adam stepped through the opening into a space that shouldn't exist. The chamber was approximately twelve meters across, its ceiling high enough to stand comfortably. Unlike the utilitarian passages they had traversed to reach it, this space had been purposefully modified: power routed through dummy systems, ventilation disguised as routine circulation, thermal signatures masked by carefully calibrated interference patterns. Every piece of equipment had been assembled in place from components small enough to carry through maintenance ducts: nothing wider than a human torso, nothing heavier than one person could manage. Kai had explained the logistics once: parts requisitioned as replacements for systems that didn't need replacing, scavenged from decommissioned hardware the ship's inventory had already written off, or built from scratch using tools smuggled in over months. The surveillance state saw what it expected (maintenance workers carrying maintenance supplies through maintenance corridors) and the gap between what was expected and what was actual had become a room.
+Adam stepped through the opening into a space that shouldn't exist. The chamber was approximately twelve meters across, its ceiling high enough to stand comfortably. Unlike the utilitarian passages they had traversed to reach it, this space had been purposefully modified: power routed through dummy systems, ventilation disguised as routine circulation, thermal signatures masked by carefully calibrated interference patterns. Every piece of equipment had been assembled in place from components small enough to carry through maintenance ducts: nothing wider than a human torso, nothing heavier than one person could manage. Kai had explained the logistics on the walk down: parts requisitioned as replacements for systems that didn't need replacing, scavenged from decommissioned hardware the ship's inventory had already written off, or built from scratch using tools smuggled in over months. The surveillance state saw what it expected (maintenance workers carrying maintenance supplies through maintenance corridors) and the gap between what was expected and what was actual had become a room.
 
 Most surprising was not the room itself but who occupied it. A dozen people, maybe more. Adam recognized some from the crew mess hall, others only by the sectors stamped on their uniforms. They occupied the space with the focused quiet of people doing work that mattered to them: someone hunched over seedling samples in a modified agricultural testing unit, another calibrating communication equipment with bare-handed deftness, Zoe from hydraulics running simulations on a screen she'd clearly built from scavenged parts.
 
@@ -54,17 +54,29 @@ But one section near the ship's core drew his immediate attention: a circular ch
 
 The Free Orioneers exchanged significant glances before Sofia answered.
 
-"That's what we're trying to determine," she said carefully. "It's heavily shielded, consumes massive power, and doesn't correspond to any known ship function. Access is restricted to the highest security clearance."
+"That's what we're trying to determine," she said carefully. "It's heavily shielded, consumes massive power, and doesn't correspond to any known ship function. Access is restricted to the highest security clearance. We didn't even know to look for it until a water reclamation tech named Torres started mapping waste signatures by sector — his hobby, apparently, reading the ship through its outputs. There's a zone near the core that consumes water, air, and power, and produces nothing. No waste stream at all. Every other space on this vessel excretes. That one doesn't."
 
 "And you think I can help you figure it out?" Adam asked skeptically.
 
 "Your new assignment to Environmental Systems Team Alpha gives you legitimate access to sectors adjacent to the core," Kai explained. "More importantly, your particular technical creativity might see solutions the rest of us have missed."
 
-Adam studied the faces around him, brilliant minds reduced to functional roles, experts whose knowledge had been deemed less valuable than their labor capacity. In the far corner, a blind woman ran her fingertips along a length of pipe, head tilted, listening. "Pressure drop in Section 14," she said to no one in particular. "Valve seat's corroded. Twelve hours before it fails." Kai caught Adam's look. "Rosa Oliveira. Sonar cartographer, before. She hears things in the infrastructure nobody else can."
+Adam studied the faces around him, brilliant minds reduced to functional roles, experts whose knowledge had been deemed less valuable than their labor capacity. In the far corner, a blind woman ran her fingertips along a length of pipe, head tilted, listening. "Pressure drop in Section 14," she said to no one in particular. "Valve seat's corroded. Twelve hours before it fails." Kai caught Adam's look. "Rosa Oliveira. Sonar cartographer, before. She hears things in the infrastructure nobody else can." He nodded to a wiry man by the entrance, who slipped out with a tool satchel.
 
-Near the communication equipment, a young man with bitten-down fingernails was elbow-deep in a disassembled interface panel, his movements careful and absorbed. "Malik Nkosi," Sofia said, following Adam's gaze. "System penetration specialist. Officially listed as dead in a transit accident. He discovered what Virel was planning and had the sense to disappear before they disappeared him."
+Near the communication equipment, a young man with bitten-down fingernails was elbow-deep in a disassembled interface panel, his movements careful and absorbed. He glanced up as Adam passed, took in the Team Alpha patch on his sleeve, and asked without preamble: "Your access terminal on C-Deck. K-40, or the K-42 refit?"
 
-"I need time to think about this," Adam said finally, knowing that agreeing too quickly would be as suspicious as refusing outright.
+"K-42."
+
+"Hm." He went back into the panel, fingers resuming their work. "The 42's biometric reader polls twice a second. Worth knowing, someday, that it only logs once."
+
+"Malik," Sofia said, by way of both introduction and warning. "He notices things about systems that systems would prefer nobody noticed."
+
+At the central table, a woman was redrawing a water-routing diagram freehand, correcting the official schematic from memory. "Nneka Obi," Kai said. "The manifest lists her as a filter maintenance technician." He let the absurdity of it sit. "She designed half the reclamation systems she's now assigned to scrub. The selection board took her and rejected her six-year-old daughter. Sub-optimal skeletal density." Nneka did not look up from the diagram, but her stylus paused for the length of one breath before it moved again.
+
+Before Adam could ask what he was supposed to do with any of that, the wiry man returned, breathing hard, and set a valve assembly on the table in front of Kai. The seat was corroded through, a crescent of metal eaten to lace. "Eleven hours, maybe," the man said. "Not twelve."
+
+"Twelve," Rosa said from the corner, without turning around. "You walk slowly."
+
+"I need time to think about this," Adam said finally, knowing that agreeing too quickly would be as suspicious as refusing outright. But he was still looking at the valve.
 
 "Of course." Sofia nodded. "We've survived this long by being careful. Take the time you need."
 
@@ -148,7 +160,7 @@ Adam waited. Zedd almost never mentioned anyone from before.
 
 Adam propped himself on one elbow. "Scares you?"
 
-"Yeah." Zedd lay back again. "Because if it's real (if the ship is actually carrying some kind of resonance memory), then I'm changing. My hearing's shifted. I pick up frequencies I shouldn't be able to. Last week I heard a pressure seal failing in Section 9 from three corridors away, before the sensors flagged it." He exhaled. "I don't know if the mapping is teaching me something or doing something to me. And I can't exactly submit a medical report that says 'the ship is singing and I think it's rewriting my auditory cortex.'"
+"Yeah." Zedd lay back again. "Because if it's real — if the ship is actually carrying some kind of resonance memory — then I'm changing. My hearing's shifted. I pick up frequencies I shouldn't be able to. Last week I heard a pressure seal failing in Section 9 from three corridors away, before the sensors flagged it." He exhaled. "I don't know if the mapping is teaching me something or doing something to me. And I can't exactly submit a medical report that says 'the ship is singing and I think it's rewriting my auditory cortex.'"
 
 Adam closed his eyes, holding onto that thought like it was more than metaphor. Like maybe the ship, and everyone in it, carried something buried, humming beneath the system. Waiting to bloom.
 
@@ -158,7 +170,7 @@ And somewhere between those questions and the slow drift into unconsciousness, t
 
 ---
 
-Twenty-seven decks above, Artemis Morea prepared for rest with the careful ritual she had established since childhood. But tonight the ritual felt hollow, its precision a poor substitute for the restlessness pulling at her.
+Three decks above, Artemis Morea prepared for rest with the careful ritual she had established since childhood. But tonight the ritual felt hollow, its precision a poor substitute for the restlessness pulling at her.
 
 She had spent the evening reviewing Mars cultural integration protocols: the official plans for preserving selected aspects of Earth's heritage. The careful curation of history, art, and cultural practices had struck her as increasingly indistinguishable from censorship, though she had maintained a flawless mask of agreement during the planning session with her father and Virel.
 
@@ -170,10 +182,5 @@ She pressed her palm flat against the wall and held it there. The vibration puls
 
 She pulled her hand away. Wrote in her journal: *Something in this ship is listening.*
 
-Then she turned off the light and lay in the dark, twenty-seven decks above a man she barely knew, both of them circling the same mystery from opposite ends of a vessel that was carrying them (all of them) toward an answer none of them were prepared for.
+Then she turned off the light and lay in the dark, an entire hierarchy of decks between her and a man she barely knew, both of them circling the same mystery from opposite ends of a vessel that was carrying them — all of them — toward an answer none of them were prepared for.
 
----
-
-The Orion continued its journey through the void, its systems functioning with mechanical regularity, its social hierarchies maintained through careful regulation. On the surface, nothing had changed. Command still flowed from the top down. Resources were still distributed according to predetermined allocations, the mission proceeding along its calculated trajectory toward Mars.
-
-Yet beneath this ordered reality, currents moved, invisible to most, but gathering strength. In the shadows between stars, shadows were learning to speak.

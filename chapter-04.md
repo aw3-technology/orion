@@ -2,7 +2,7 @@
 
 Morning on the Orion was a performance. The ship's diurnal cycle painted artificial dawn across D-Deck, a slow brightening of corridor lights that fooled the body if not the mind. Adam carried his nutrient tray to a corner of the D-Deck mess hall and sat facing the wall screens.
 
-The broadcasts showed Earth's final days through the particular lens of people who needed collapse to look orderly. Officials flashing reassuring smiles during "structured evacuations." Scientists working in seamless harmony. Citizens nodding with remarkable cooperation as resources were redistributed according to algorithms they'd never been allowed to question.
+The broadcasts showed Earth's final days through the lens of people who needed collapse to look orderly. Officials flashing reassuring smiles during "structured evacuations." Scientists working in seamless harmony. Citizens nodding with remarkable cooperation as resources were redistributed according to algorithms they'd never been allowed to question.
 
 None of it matched the last transmission Adam had received from his mother, her voice thin, describing crowds storming distribution centers and military blockades around evacuation zones. The gap between what the screens showed and what was actually happening had the quality of a wound someone kept insisting wasn't there.
 
@@ -12,7 +12,7 @@ Huang Wei dropped his tray across from Adam. Dark circles under his eyes from do
 
 "Not since departure." Huang stirred protein into synthetic coffee. "Rice paddies flood my dreams. My family's farm. Three generations on that land before the waters took it."
 
-Adam nodded. Huang had once shown him his family's rejection summary: a single page that compressed three generations into numbers. Genetic Viability: 71. Skill Transferability: 34. Psychological Resilience: 68. Resource Efficiency: 22. Total Composite: 48.7 out of 100. Threshold for boarding: 81.5. The algorithm weighted lab credentials over field knowledge, English fluency over Mandarin, theoretical research over applied expertise. It couldn't assign a value to knowing when soil was tired by the smell of it, or to the particular stubbornness of people who had fed a province through two droughts.
+Adam nodded. Huang had once shown him his family's rejection summary: a single page that compressed three generations into numbers. Genetic Viability: 71. Skill Transferability: 34. Psychological Resilience: 68. Resource Efficiency: 22. Total Composite: 48.7 out of 100. Threshold for boarding: 81.5. The algorithm weighted lab credentials over field knowledge, English fluency over Mandarin, theoretical research over applied expertise. It couldn't assign a value to knowing when soil was tired by the smell of it, or to the stubbornness of people who had fed a province through two droughts.
 
 "They're showing Shanghai today," Huang observed as the screen shifted to footage of the Chinese metropolis, skyline partially submerged but evacuation centers operating with sterile efficiency. "Funny how they never show the rural zones."
 
@@ -22,17 +22,17 @@ Ayo Balewa set his tray down and kept his eyes on the screen. His jaw worked in 
 
 Huang glanced at him. "You reported it?"
 
-"Twice. Filed under 'non-critical efficiency optimization.'" Ayo's spoon scraped the bottom of his tray. "I know what cutting corners looks like. They don't want expertise. They want compliance that happens to have hands."
+"Twice. Filed under 'non-critical efficiency optimization.'" Ayo's spoon scraped the bottom of his tray. "Twelve years I taught structural engineering at Lagos University. I wrote the fatigue tables half their contractors used. Here, my reports route to a queue with no reviewer assigned. I checked. The queue has no reviewer. It's a wall with a mail slot painted on it."
 
 They ate in a silence shaped by the gap between what the screens showed and what they knew. Around them, the mess hall hummed with the low conversations of people calibrating their new reality: comparing shift assignments, sharing first impressions, processing the magnitude of departure.
 
-Adam's gaze drifted to an empty seat at the far end of the bench, the spot where a water systems tech named Dara used to sit. She'd stopped showing up to meals six days ago. Her quarters were clean, her tools returned, her shift covered without explanation. When Adam had asked their floor supervisor, the response was a flat look and a subject change.
+Adam's gaze drifted to an empty seat at the far end of the bench, the spot where a water systems tech named Yusra used to sit. She'd stopped showing up to meals six days ago. Her quarters were clean, her tools returned, her shift covered without explanation. When Adam had asked their floor supervisor, the response was a flat look and a subject change.
 
 "Another ghost," Huang said, following his gaze. "That's four from this sector."
 
 Ayo set down his spoon. "I hear things, in the deep utility corridors. Sounds that aren't machinery. Footsteps where there shouldn't be crew. The ship is bigger than the schematics say. I'm sure of it."
 
-"Careful," Huang murmured. "Curiosity's the one luxury they'll punish you for."
+"Careful," Huang murmured. "Two people asked about the ghosts. Both got reassigned. I counted."
 
 After the meal, as workers scattered toward their stations, Huang paused beside Adam in the corridor.
 
@@ -116,7 +116,7 @@ Sofia held out her hand. He transferred the data. She studied the compound signa
 
 "And why should I trust you?" Adam asked.
 
-Sofia turned back to the cabinet, arranging the data drives with the possessive care of a curator. "You shouldn't. I've been building this Archive for seven months. I decide who sees it and when." She closed the cabinet door with a click. "Right now, I'm deciding you're useful. That's not trust; it's calculation. I'd respect you less if you pretended otherwise."
+Sofia turned back to the cabinet, arranging the data drives with the possessive care of a curator. "You shouldn't. I've been building this Archive for seven months — I came up with the fitting crews, before you passengers existed. I decide who sees it and when." She closed the cabinet door with a click. "Right now, I'm deciding you're useful. That's not trust; it's calculation. I'd respect you less if you pretended otherwise."
 
 She paused. "Your mother worked at Memorial East. Pulmonary ward."
 
@@ -142,9 +142,9 @@ That evening, Adam sat cross-legged in his bunk with the beatmaker, trying to bu
 
 ---
 
-The abandoned gravity calibration bay sat near the ship's central axis, decommissioned, classified as "pending repurposing," which in bureaucratic terms meant forgotten. High ceilings. Acoustic properties no designer had intended anyone to appreciate.
+The abandoned gravity calibration bay sat near the ship's central axis, decommissioned, classified as "pending repurposing," which in bureaucratic terms meant forgotten. High ceilings. Acoustic properties no designer had intended anyone to appreciate. And one property worth more than all the others: when the bay was decommissioned, its instrumentation had been stripped for parts — cameras, microphones, vibration sensors, harvested and reallocated down to the mounting brackets. Kai had verified the requisition records himself. It was the only room on the central axis the ship could not hear.
 
-Adam arrived through a maintenance tunnel to find the gathering already humming: faces lit by repurposed emergency lighting, bodies carrying the energy of people temporarily unobserved. Kai Chen at the makeshift sound system. Ines passing him a storage device of unedited recordings from the Final Selections. Faces from across the ship, engineering, food production, communications, united by shared suspicion and shared circumstance.
+Adam arrived through a maintenance tunnel, past a teenager from food production who sat at the junction with a disassembled valve in her lap: a repair that would never finish, positioned exactly where she could watch both approach corridors. Two taps on the conduit meant a patrol drifting close. One long scrape meant scatter. Inside, the gathering was already humming: faces lit by repurposed emergency lighting, bodies carrying the energy of people temporarily unobserved. Kai Chen at the makeshift sound system. Ines passing him a storage device of unedited recordings from the Final Selections. Faces from across the ship, engineering, food production, communications, united by shared suspicion and shared circumstance.
 
 "Sofia spoke to you," Kai said. Not a question.
 
@@ -182,7 +182,7 @@ Adam's hand was still on the wall. He could feel the vibration dying in the meta
 
 They left separately. Adam walked the maintenance corridors toward his bunk, the tapping still reverberating in his mind. The exactness of it. The deliberateness.
 
-His wrist monitor pulsed with a notification:
+His wrist monitor buzzed with a notification:
 
 *Maintenance Specialist Hale: Your atmospheric regulation skills have earned recognition. You are hereby reassigned to Environmental Systems Team Alpha for special deployment to Mars preparation sequence. Report to Supervisor Kwan for briefing at 0700. — Command Operations*
 
@@ -250,7 +250,7 @@ She saved the waveform's signature to her private files and tagged the bay's loc
 
 The music faded from the structural feeds. Artemis sat in the silence that followed, thinking about a maintenance worker who had stood in the dark with a flashlight between his teeth and filled a silence that had swallowed the room.
 
-The circlet pulsed again. She checked her disconnection log: four hours today. The threshold was six before a wellness flag. She had time.
+The circlet chirped again. She checked her disconnection log: four hours today. The threshold was six before a wellness flag. She had time.
 
 She left it on the desk beside the map. Not defiance. Arithmetic.
 
@@ -260,4 +260,4 @@ But tonight, she sat with what the music had surfaced, not a question the algori
 
 What do you do when you've swallowed the elixir and the exile is already underway?
 
-Artemis turned off her light and lay in the dark. Somewhere in the ship's forgotten spaces, someone was making music that the monitoring systems had never been designed to hear. And in her chest, a tightness she had carried so long she'd mistaken it for structure was loosening.
+Somewhere in the ship's forgotten spaces, someone was making music that the monitoring systems had never been designed to hear. And tonight, with four pulses of a coolant valve, she had answered it. Whatever happened next, that could not be untapped. In her chest, a tightness she had carried so long she'd mistaken it for structure was loosening.

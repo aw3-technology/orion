@@ -1,6 +1,6 @@
 # Chapter 24: The Blue Dot
 
-The signal arrived at 3:47 AM Greenwich Mean Time on a Tuesday in late autumn, forty-three days after it left Mars. It came in on the S-band frequency that the Orion's mission planners had designated for emergency telemetry, a channel that three surviving ground stations still monitored, more out of institutional habit than expectation. The dish at Canberra Deep Space Station caught it first, its aging receivers flagging the anomaly to a night-shift operator named Priya Dasgupta who had spent fourteen months listening to static and had stopped believing anything would come.
+The signal was confirmed at 3:47 AM Greenwich Mean Time on a Tuesday in late autumn, forty-three days after the first weak pulse left Mars. It had been arriving the whole time — eleven light-minutes from transmitter to receiver, repeating patiently on the S-band frequency that the Orion's mission planners had designated for emergency telemetry, a channel that three surviving ground stations still monitored more out of institutional habit than expectation. The dish at Canberra Deep Space Station had been accumulating it for weeks before its aging correlators finally lifted the pattern above the noise floor, flagging the anomaly to a night-shift operator named Priya Dasgupta who had spent fourteen months listening to static and had stopped believing anything would come.
 
 She stared at the waveform scrolling across her screen. Checked the frequency. Checked the bearing: Mars, within expected orbital deviation. Checked the encoding: standard Orion mission protocol, authentication headers intact.
 
@@ -20,7 +20,7 @@ Carmen set down the water container she'd been carrying and looked at him. She w
 
 "For real. Bautista's got it on the main speaker. Everyone's going."
 
-Carmen glanced toward the end of the corridor, where Room 11 sat behind its curtain partition. Elaine Hale's room. Eight months since Elaine's son had left on that ship, and six since the medication ran out. The Fade had taken most of what was left: her voice first, then her ability to stand, then the weight from her bones until she seemed less like a person and more like an idea of one, something the sheets were remembering.
+Carmen glanced toward the end of the corridor, where Room 11 sat behind its curtain partition. Elaine Hale's room. Eight months since Elaine's son had left on that ship. The medication he'd traded his contract for had bought eight days; the wage credits that kept arriving afterward had stretched it to two months, until the transfers stopped without explanation. Six months, then, since the medication ran out. The Fade had taken most of what was left: her voice first, then her ability to stand, then the weight from her bones until she seemed less like a person and more like an idea of one, something the sheets were remembering.
 
 Carmen had been washing Elaine's face that morning. The cloth had come away damp with the particular warmth of a body still working to stay alive, though no one could say why or for how long. Elaine's eyes had been open, tracking the light from the corridor. Not empty. Just far away, fixed on a distance that had nothing to do with the shelter walls.
 
@@ -110,7 +110,7 @@ The transmission data filled the screens on every wall. All of it. The Neural Se
 
 "And the content?" Tanabe asked, though she'd read it three times already.
 
-"Genocide," said Adaeze Nwosu, the Nigerian representative, with the particular flatness of someone who had suspected this for months and derived no satisfaction from being right. "Dressed up in euphemism, but genocide. They planned to cut us off once Mars was viable. Let the remaining population decline through resource withdrawal. The timeline in the files estimates full cessation of Earth's organized population within fifteen years."
+"Genocide," said Adaeze Nwosu, the Nigerian representative, with the flatness of someone who had suspected this for months and derived no satisfaction from being right. "Dressed up in euphemism, but genocide. They planned to cut us off once Mars was viable. Let the remaining population decline through resource withdrawal. The timeline in the files estimates full cessation of Earth's organized population within fifteen years."
 
 "We selected these people," said James Harrow, the British representative. He sat very still, his hands flat on the table. "Our governments participated in the selection process. We endorsed the mission charter. We stood on platforms and told our populations that the Orion represented humanity's best hope."
 
@@ -121,6 +121,14 @@ The transmission data filled the screens on every wall. All of it. The Neural Se
 "Then we manage the interpretation," Harrow suggested.
 
 "Manage it how?" Tanabe asked. "Tell people the documents are real but the genocide plan was a contingency they never intended to implement? That the neural control protocol was a theoretical exercise?" She shook her head. "The survivors on Mars sent this specifically so we couldn't do that."
+
+"There's also the matter of the platforms," Braun said.
+
+"Tell me they're not real."
+
+"Real, and overhead." He pulled a tracking chart onto the table display. "Six objects in geocentric orbit matching the specifications in the files. Our catalogues have listed them as debris for over a year." He let that humiliation sit in the room. "The transmission includes their command frequency and a stand-down sequence keyed to the biometrics of the man who ordered them built. The Mars survivors couldn't generate the transmitter power to send it. We can. The Lucerne deep-space array is intact; I can have the sequence transmitting within the week. Whether two of the platforms armed before the activation was interrupted, we won't know until they either acknowledge the stand-down or fire. The survivors were honest about that too."
+
+Tanabe sat with the knowledge that the sky had been load-bearing for a year and no one had known. "Send it before anything else," she said. "Before the response, before the statement. The correspondence can wait a week. The guns come down first."
 
 The room shifted. Not physically — the Jar's environmental systems maintained absolute stillness — but the quality of attention changed. The question beneath all the questions surfaced.
 
@@ -134,7 +142,7 @@ Silence.
 
 "It implies we still exist," Nwosu corrected. "Which we do. Barely, but we do."
 
-"The signal took forty-three days to reach us," Braun said. "A response would take the same. Eighty-six days for a single exchange. This is not a conversation. It's correspondence."
+"Their signal spent forty-three days climbing out of our noise floor," Braun said. "The transmitter is salvage running on scavenged solar. Our response will reach them in minutes — but whatever they send back will crawl to us the way this did. Months for a single exchange. This is not a conversation. It's correspondence."
 
 "Humanity corresponded by letter for four thousand years," Tanabe said. "We managed."
 

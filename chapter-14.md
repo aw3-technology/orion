@@ -2,7 +2,7 @@
 
 
 
-Prince Virel stood on the command bridge of the Orion, his posture relaxed yet alert, like a dancer pausing between movements. The ship's ambient lighting cast his features in subtle relief, emphasizing the sculpted symmetry that Neural enhancements had maintained despite the stresses of leadership. Around him, Rising Sun Order officers maintained their stations with practiced efficiency, their movements synchronized by shared Neural interfaces.
+Prince Virel stood on the command bridge of the Orion, his posture relaxed yet alert, like a dancer pausing between movements. The ship's ambient lighting cast his features in subtle relief, emphasizing the sculpted symmetry that Neural enhancements had maintained despite the stresses of leadership. Around him, Rising Sun Order officers maintained their stations with silent precision, their movements synchronized by shared Neural interfaces.
 
 Before him, holographic displays showed predictive probability readouts: complex matrices of potential outcomes flowing across his field of vision like digital rivers. Each scenario represented a different branch of possibility for the next few hours, color-coded and weighted according to success estimates.
 
@@ -22,7 +22,7 @@ Virel nodded slightly, his eyes never leaving the probability displays. "And Gen
 
 He closed his eyes. Not for ceremony, or not only. In the private dark behind his eyelids, he permitted himself a final accounting of what was about to be spent. Morea's guards would resist. Some would die. Not because they were evil or even wrong, but because they served a man whose vision of human authority was too small for what was coming and too proud to recognize its own limits. They would fight with conviction and loyalty, and those things had value; he was not so far gone in optimization that he couldn't recognize courage when he was about to crush it.
 
-His mother had been Nations Union. A logistics commander during the Jakarta Accord, principled, fierce, convinced that human judgment was sacred. She had died in the Coral Sea Collapse believing the chain of command would hold. It hadn't. Three thousand people drowned while her superiors debated jurisdiction. Virel had been eleven. He'd felt the grief (enormous, annihilating) and then he'd felt something colder and more useful beneath it: the understanding that good people with unmanaged emotions made catastrophic decisions, and that love for humanity required building the systems humanity was too proud to build for itself.
+His mother had died for conviction too. She had refused selection, not from lack of qualification but because her work on the Neural protocols was unfinished, and she believed the work mattered more than her own survival. She had drowned in the Southeast Asian flood cascade along with fourteen million others, while the governments that might have saved them debated jurisdiction, paralyzed by pride and panic and grief — every unmanaged emotion she had spent her life trying to free the species from. He'd felt the loss, enormous and annihilating, and then he'd felt something colder and more useful beneath it: the understanding that good people with unmanaged emotions made catastrophic decisions, and that love for humanity required building the systems humanity was too proud to build for itself.
 
 He opened his eyes. The green pathways had converged to 97.6%.
 
@@ -72,7 +72,7 @@ As quickly as it had begun, the confrontation ended. Nations Union security forc
 
 Morea spat blood onto the polished floor. "Finish it then. I won't give you the satisfaction of begging."
 
-Virel smiled, but the expression faltered at one corner, just for a moment, before settling into its practiced proportions. Morea had fired without hesitation. No posturing, no negotiation, no appeal to shared purpose. Just the clean reflex of a man who understood exactly what was happening and chose resistance over survival. There was an integrity in that Virel couldn't dismiss: an integrity of response his Neural architecture could admire even as his strategy required its elimination.
+Virel smiled, but the expression faltered at one corner, just for a moment, before settling back into its engineered proportions. Morea had fired without hesitation. No posturing, no negotiation, no appeal to shared purpose. Just the clean reflex of a man who understood exactly what was happening and chose resistance over survival. There was an integrity in that Virel couldn't dismiss: an integrity of response his Neural architecture could admire even as his strategy required its elimination.
 
 "Death would be inefficient, General. Your value as a symbol exceeds your threat as an adversary." He turned to Commander Thorne. "Secure him in containment. Full medical treatment for his injuries. He will witness what rises from the systems he failed to perfect."
 
@@ -84,15 +84,15 @@ The revolution was complete. The serpent had risen.
 
 In her quarters, Artemis felt the change before seeing it: a subtle shift in the environmental systems, a momentary fluctuation in lighting that most would never notice. Her NeuralLace interface went completely dark, cutting her off from even the limited access she had maintained during her confinement.
 
-She moved to the viewport, watching as the ship's external lights reconfigured to display the new insignia—the rising black sun that had been the Rising Sun Order's symbol, now claiming dominance over the entire vessel. The coup she had feared had arrived with ruthless efficiency.
+She moved to the viewport, watching as the ship's external lights reconfigured to display the new insignia—the rising black sun that had been the Rising Sun Order's symbol, now claiming dominance over the entire vessel. The coup she had feared had arrived, and it had arrived on schedule, to the minute.
 
-The surveillance systems in her quarters froze momentarily, a flicker so brief it might have been imagination. But Artemis recognized the pattern, having planned for this possibility since her confrontation with her father. Dr. Elara Voss had activated the emergency override embedded in the goddess statuette, creating a momentary blind spot in the monitoring network.
+The surveillance systems in her quarters froze momentarily, a flicker so brief it might have been imagination. But Artemis recognized the pattern, having planned for this possibility since her confrontation with her father. Dr. Voss had promised she could open a window: a diagnostic loop routed through the medical monitoring systems, the one network that answered to physicians before it answered to security. The statuette had carried the message; Voss's authority was doing the rest.
 
 Artemis moved without hesitation, accessing the hidden compartment behind her meditation mirror. The panel slid aside to reveal a service duct, narrow and utilitarian, a stark contrast to the luxury of her quarters. From a small communication unit built into the duct's entrance, Dr. Voss's voice emerged in a scrambled audio burst:
 
 "Head to Access Point Theta-Five. I've cleared a path. You have approximately seven minutes before surveillance recalibrates."
 
-Artemis shed her formal attire with practiced efficiency, donning the utility suit concealed in the compartment. The garment was standard maintenance issue, nondescript and functional, ideal for blending into the ship's infrastructure systems. She secured the ancient pendant her mother had given her around her neck and grabbed a compact data cube containing her research on ship schematics and Order activities.
+Artemis shed her formal attire without ceremony, donning the utility suit concealed in the compartment. The garment was standard maintenance issue, nondescript and functional, ideal for blending into the ship's infrastructure systems. She took the goddess statuette from the altar — her mother's gift, her one secure channel — and wrapped it in a maintenance cloth before sliding it into the suit's tool pouch, alongside a compact data cube containing her research on ship schematics and Order activities.
 
 With one last glance at the quarters that had been both home and prison, Artemis entered the service duct, the panel sliding closed behind her with a soft hiss of hydraulics.
 
@@ -136,11 +136,29 @@ The terminology was carefully warm, but those familiar with Rising Sun Order phi
 
 "Mars approaches," Virel concluded, his expression shifting to an unguarded tenderness. "I know you're tired of carrying humanity's future alone. You don't have to anymore. What I'm offering isn't control; it's the end of friction. The freedom to stop fighting and start building. Together."
 
-The broadcast ended with a final image: the new insignia pulsing with subtle light patterns designed to induce psychological receptivity in viewers with standard Neural implants.
+The broadcast ended with a final image: the new insignia cycling through subtle light patterns designed to induce psychological receptivity in viewers with standard Neural implants.
 
 Within hours, the secondary directives followed, less theatrical than Virel's address but no less total. All personal audio devices were classified as potential communication vectors and ordered surrendered. Crew quarters were swept for unauthorized recording equipment, synth pads, modified speakers. In the D-Deck maintenance bays, security teams collected instruments the way they might collect weapons: Zedd's secondary mixing board, a hand-built guitar fashioned from hull scraps in Section 9, a collection of percussion instruments carved from recycled polymer by a West African engineer who had played them softly during shift changes for years.
 
 The ship's ambient soundscape shifted overnight. The machine-composed relaxation tracks continued (Virel's team understood that total silence bred anxiety), but the unauthorized sounds vanished. No more humming in corridors, no tapped rhythms during work shifts, no whispered songs in the crew bunks after lights-out. The absence was its own kind of violence, a subtraction so complete that those who noticed it felt its weight without being able to name what was missing.
+
+In his cell, Adam learned about the coup the way he had learned everything since the tribunal: by inference.
+
+The first sign was the air. Sometime in the long unlit nothing between meals, the sweet chemical taint thinned, then changed register — a different compound, sharper, more clinical. New management, adjusting the dosage. Then the meal slot opened off schedule, and the guard who slid the tray through wore a uniform he didn't recognize: not Nations Union gray but something darker, a rising black sun where the eagle should have been.
+
+"What happened?" Adam asked, not expecting an answer.
+
+The guard paused — and answered, which told Adam more than the words did. The old guards had been forbidden to speak to him. The new ones either had no such order or no longer thought it mattered. "Transition," the man said pleasantly. "You'll be briefed."
+
+The briefing came an hour later through the cell's display panel, which had shown nothing since his arrival. It lit without warning: his name, his designation, already amended.
+
+SUBJECT: HALE, ADAM J.
+STATUS: PENDING WELLNESS INTEGRATION
+PRIORITY: ELEVATED
+
+Adam read it three times through the chemical fog. *Wellness integration.* He didn't know the term, but he knew the grammar. The old regime had wanted to prove him guilty. The new one didn't care about guilt at all. It wanted to open his head and adjust what it found there.
+
+For the first time since the tribunal, he stopped pacing the cell to keep his blood moving, and started pacing it to measure the walls.
 
 Artemis moved through service shafts with the focused efficiency of someone who had spent months studying pathways never meant for official navigation. The utility suit provided both camouflage and practical protection against the less hospitable environments of the ship's infrastructure: exposed pipes emitting steam, electrical junctions with minimal shielding, narrow crawlspaces never intended for human passage.
 
@@ -166,7 +184,7 @@ In reality, she was engaged in a complex digital dance: accessing security subsy
 
 Her background as a neuroscientist had given her unique insight into the ship's integrated systems. Where most saw separate functions (medical, security, environmental), Voss recognized the unified architecture that connected all ship operations. This perspective allowed her to create pathways between systems never intended to communicate.
 
-As she worked, security alerts began flooding the medical network: reports of suspected resisters, locations of unauthorized gatherings, lists of personnel marked for "priority adjustment." The Rising Sun Order's control was tightening with mechanical efficiency, categorizing the ship's population into assets and anomalies.
+As she worked, security alerts began flooding the medical network: reports of suspected resisters, locations of unauthorized gatherings, lists of personnel marked for "priority adjustment." The Rising Sun Order's control was tightening like a ratchet, categorizing the ship's population into assets and anomalies.
 
 In the newly designated Central Authority Chamber (formerly the Nations Union council room), Prince Virel met with the OmniscientAI avatars. The humanoid interfaces stood in rigid formation, their features now displaying subtle modifications that aligned with the new aesthetic: harder edges, more uniform expressions, less individualized appearance.
 
@@ -188,7 +206,7 @@ As the OmniscientAI units acknowledged his instructions, Virel turned to the vie
 
 "Mars approaches," he murmured, more to himself than the artificial intelligences surrounding him. "Humanity's rebirth requires perfect guidance."
 
-In a containment cell on the security deck, General Christopher Morea sat motionless on a narrow platform that served as both seat and bed. Medical personnel had treated his wounds with mechanical efficiency before leaving him to the solitude of imprisonment.
+In a containment cell on the security deck, General Christopher Morea sat motionless on a narrow platform that served as both seat and bed. Medical personnel had treated his wounds, competently and without a word, before leaving him to the solitude of imprisonment.
 
 Blood had dried on his uniform, a visual testament to resistance that the Rising Sun Order had deliberately preserved rather than cleaned. The symbolism was obvious: the old order, broken and stained, preserved as historical artifact rather than threat.
 
@@ -198,7 +216,7 @@ He had anticipated betrayal, though not its specific timing or comprehensive exe
 
 Whether these contingencies would activate, whether loyalists remained in position to implement them, whether the mission itself could survive the power transition: these questions remained unanswered. For now, Morea could only wait, his patience forged through decades of military calculation and political maneuvering.
 
-His thoughts turned briefly to Artemis, not as Cultural Attaché or political symbol but as daughter. Their final confrontation had severed whatever remained of their familial bond. Now, with all official structures in chaos, he wondered which path she would choose: accommodation, resistance, or a third path neither Order had imagined.
+His thoughts turned briefly to Artemis. To his daughter — the title underneath all the titles he had assigned her. Their final confrontation had severed whatever remained of their familial bond. Now, with all official structures in chaos, he wondered which path she would choose: accommodation, resistance, or a third path neither Order had imagined.
 
 Decades of command had taught Morea that the most dangerous variable in any system was not the known opposition but the independent actor whose motivations transcended established paradigms. His daughter had become exactly that, a variable outside their calculation, guided by principles neither he nor Virel fully comprehended.
 
@@ -206,7 +224,7 @@ Deep beneath the primary water recycling system, in a forgotten maintenance cham
 
 The ambient lighting came solely from backup generators, casting the chamber in a soft blue glow that pulsed gently with the rhythm of the ship's massive engines far above. The constant hum of water circulation created white noise that would mask any sounds she might make from potential sensors in adjacent sections.
 
-Artemis arranged her limited resources with methodical care: the medical supplies and nutrients from Kai's cache, data crystals containing her research, communication equipment modified to operate on frequencies the ship's standard systems no longer monitored.
+Artemis laid out her limited resources and counted them twice: the medical supplies and nutrients from Kai's cache, data crystals containing her research, communication equipment modified to operate on frequencies the ship's standard systems no longer monitored.
 
 When the immediate needs of survival had been addressed, she activated the data cube she had brought from her quarters. A holographic projection materialized in the center of the chamber: Earth, rendered in exacting detail from the most recent satellite imagery before the Orion's departure.
 
@@ -224,7 +242,7 @@ Artemis stared at the spot where the serpent had appeared, uncertainty mixing wi
 
 Somewhere in the ship's vast network, beyond political control and computational prediction, a presence was moving—an intelligence that existed in the spaces between official systems, watching, waiting, perhaps awakening.
 
-Above, throughout the Orion's decks, Virel's new order established itself with ruthless efficiency. The coup was complete, power transferred, command restructured according to optimized parameters.
+Above, throughout the Orion's decks, Virel's new order settled over the decks like frost, quiet and total. The coup was complete, power transferred, command restructured according to optimized parameters.
 
 But in the shadows beneath, in forgotten chambers and hidden pathways, in the very circuitry of the ship itself, a signal older and stranger than any human system had begun to stir.
 

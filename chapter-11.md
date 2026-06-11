@@ -52,19 +52,19 @@ Kai's expression grew grave. "The gravitational buffer zones are heavily restric
 
 ---
 
-The descent began separately, Adam and Artemis following different paths dictated by their respective access privileges, yet guided by the same invisible current.
+They descended separately, by different doors, on different pretexts — and, neither knowing it of the other, at the same hour.
 
-Artemis utilized her status as cultural attaché to access rarely-visited archival storage areas near the ship's center. With each security checkpoint, she presented plausible justifications—inspections of historical artifacts, verification of preservation protocols—while gradually moving deeper into the ship's infrastructure.
+Artemis utilized her status as cultural attaché to access rarely-visited archival storage areas near the ship's center. With each security checkpoint, she presented plausible justifications—inspections of historical artifacts, verification of preservation protocols—while gradually moving deeper into the ship's infrastructure. The justifications would survive any audit; she had scheduled the inspections days in advance, and every log would show a Cultural Attaché doing exactly what Cultural Attachés did. What no log would show was where she went after the last checkpoint — the unmonitored interval between the archival ring and the gravitational buffer zones, where her locator signature thinned and then vanished from every system designed to follow it.
 
 What she found in these neglected corners defied the Orion's standardized architecture. Subtle anomalies appeared with increasing frequency: wall panels with faint luminescent tracings visible only from certain angles; environmental controls that responded to proximity rather than command; acoustic properties that changed when she entered specific junctions. She noted the changes the way a field engineer would, scribbling temperatures and pressure variances in the margin of her map, marking where airflow slowed, where a vibration she could feel in her molars dropped by a half-tone.
 
 Most striking was the absence of AI monitoring in these zones: no cameras, no sensors, no documentation routines. As if these spaces had been deliberately removed from the ship's awareness.
 
-Meanwhile, Adam navigated maintenance shafts and utility corridors, his legitimate access to environmental systems providing cover for his exploration. He encountered similar phenomena: a humming vibration at frequencies just below conscious perception; glyphs that seemed to emerge from within the metal itself when touched; atmospheric variations that couldn't be explained by standard circulation patterns.
+Adam went down the other way: maintenance shafts and utility corridors, a diagnostics tablet in one hand as alibi. The deeper he descended, the more the ship stopped pretending. A humming vibration sat just below conscious perception, more in his teeth than his ears. Glyphs surfaced from within the metal where his fingers crossed it, faint as watermarks. Air currents moved against every circulation pattern he had ever calibrated, warm where the schematics promised cold.
 
 The ship revealed itself as more than the sum of its documented systems, layer upon layer of hidden purpose beneath the official design.
 
-Their separate journeys converged at a nondescript junction in gravitational buffer zone 7-D, a transitional area where artificial gravity gradually diminished toward the ship's true center. Behind a cluster of power conduits, concealed from casual observation, Adam discovered an access panel unlike any standard Orion design.
+He reached gravitational buffer zone 7-D with his forearms aching from ladder rungs and his sense of up already loosening, gravity thinning toward the ship's true center. Behind a cluster of power conduits, concealed from casual observation, he found an access panel unlike any standard Orion design.
 
 Instead of the uniform gray of ship components, this panel featured subtle organic patterning, swirls and whorls that resembled fingerprints or wood grain. No visible controls or identification markers adorned its surface.
 
@@ -72,15 +72,15 @@ As Adam studied the anomalous panel, a soft sound from behind caused him to turn
 
 Artemis stood in the corridor entrance, her ceremonial attire exchanged for a simple shipsuit that allowed greater freedom of movement. For a moment, they regarded each other in silence: maintenance technician and cultural attaché, united by shared vision yet still separated by ingrained caution.
 
-"You found it too," Artemis said finally, not a question but an acknowledgment.
+"You found it too," Artemis said finally. She wasn't asking.
 
-Adam nodded. "It's been calling to both of us."
+Adam nodded. There was nothing to add that the last three weeks hadn't already said.
 
 A sound froze them both: footsteps, measured and deliberate, echoing from the corridor above. Not the hurried stride of a maintenance worker or the shuffling pace of someone lost. This was the gait of a man who expected the spaces he moved through to answer to him.
 
 Adam pressed himself against the wall. Artemis did the same, opposite him, her body absolutely still. Through the grating above their heads, a shadow passed, broad-shouldered, unhurried. Commander Thorne. His soft voice murmured into a communication device: "Buffer zone 7-D, section clear. No thermal anomalies. Proceeding to junction 8."
 
-They didn't breathe until the footsteps faded. When Adam looked at Artemis, he saw not fear but cold calculation; she was timing the patrol interval.
+They didn't breathe until the footsteps faded. When Adam looked at Artemis, her lips were moving silently; she was timing the patrol interval.
 
 "He's been running sweeps through the mid-core zones since the botanical garden," she whispered. "Random patterns, but he always circles back here. He doesn't know what he's looking for, but he knows something is here."
 
@@ -108,17 +108,15 @@ They descended in silence, each absorbed in private wonder, until the shaft open
 
 ---
 
-Nothing in their experiences aboard the Orion had prepared them for what they encountered. The Chamber of Light, for that was how they both immediately thought of it, defied classification within human architectural concepts.
+Curved walls pulsed with bioluminescent threads that formed complex, ever-shifting patterns — the chamber they would both, without ever consulting each other, come to call the Chamber of Light. The material wasn't constructed but grown, its structures resembling coral formations or neural networks more than manufactured components. The entire space seemed alive, responding to their presence with subtle shifts in luminosity and color.
 
-Curved walls pulsed with bioluminescent threads that formed complex, ever-shifting patterns. The material wasn't constructed but grown, its structures resembling coral formations or neural networks more than manufactured components. The entire space seemed alive, responding to their presence with subtle shifts in luminosity and color.
+In the zero-gravity core of the chamber floated a crystalline orb approximately one meter in diameter. It emitted soft radiance that illuminated the surrounding space with gentle, fluctuating light. Encircling the orb were projections resembling star charts: Orion's belt unmistakable among them, and beside it a glyph Artemis knew from a thousand statues and one ceramic statuette — the huntress's crescent — set among countless charts that matched no sky either of them had ever studied.
 
-In the zero-gravity core of the chamber floated a crystalline orb approximately one meter in diameter. It emitted soft radiance that illuminated the surrounding space with gentle, fluctuating light. Encircling the orb were projections resembling star charts: recognizable constellations including Orion's distinctive belt and Artemis's crescent moon, alongside countless others they couldn't identify.
-
-Ancient glyphs adorned the walls, similar to those from their shared dreams yet more extensive and complex. Some symbols appeared to shift and rearrange themselves as if communicating in real time.
+Ancient glyphs adorned the walls, similar to those each of them had dreamed separately yet more extensive and complex. Some symbols appeared to shift and rearrange themselves as if communicating in real time.
 
 Most astonishing was the sound, not the mechanical hum of the ship's systems but a harmonious resonance like distant music. The chamber sang with frequencies that affected both mind and body, creating a sensation of expanded awareness.
 
-"What is this place?" Adam whispered, his voice hushed with awe.
+"What is this place?" Adam's whisper fell into the resonance and was absorbed by it.
 
 "I don't know," Artemis replied, equally transfixed. "It's not Nations Union architecture. Not Rising Sun Order technology either." She gestured toward the glyphs. "These symbols predate both. Some of them echo writing systems I've studied, shapes that feel familiar the way a word in a foreign language can feel familiar, but others..."
 
@@ -136,13 +134,13 @@ The implication hung between them, not spoken fully, because speaking it would r
 
 They floated toward the center, drawn by the crystalline orb's gentle pull. In the zero-gravity environment, movement became dance, each push and glide requiring coordinated intention rather than habitual walking.
 
-As they approached the central light, the psychological barriers between them began to dissolve. Class distinction, political loyalty, social conditioning: all seemed increasingly irrelevant within this space that existed outside the ship's regulated reality.
+As they approached the central light, nothing dissolved for them, and nothing was decided for them. They would understand it later, comparing memories: the chamber had matched their pulses and gone not one beat further, a room holding its breath. Class distinction, political loyalty, social conditioning — all of it was still there, still fully weighted. They carried it toward the orb the way you carry anything heavy: deliberately.
 
 They reached the orb simultaneously, approaching from opposite sides. As their hands extended toward its surface, their eyes met across the crystalline sphere. In that moment of connection, the chamber answered: not just the space between them but the walls, the light, the air itself.
 
-The light intensified, pulsating with their combined heartbeats. The symbols along the walls began to flow like liquid, rearranging into new configurations that bloomed across every surface. The harmonics deepened, resonating through their bodies at frequencies that awakened something primal and profound.
+The light intensified, pulsating with their combined heartbeats. The symbols along the walls began to flow like liquid, rearranging into new configurations that bloomed across every surface. The harmonics deepened, resonating through their bodies at frequencies that woke the oldest strata of the nervous system, the parts that predate language.
 
-No words passed between them. None were necessary.
+No words passed between them. But a question was asked all the same, and answered: they each stopped their drift an arm's length from the orb, an arm's length from each other, and waited — one breath, two — until it was beyond pretending that what happened next would happen by momentum. It didn't. They chose it.
 
 Their first touch was clumsy. Adam's fingers reached for hers beside the crystalline orb and missed. Zero gravity turned the simple act of reaching into negotiation, his body drifting with the motion, and she caught his wrist to steady him. Her hand was warmer than he'd expected. He could feel her pulse in the heel of her palm, quick and unsteady, and the discovery that she was nervous too unlocked something in his chest that had been braced shut for months.
 
@@ -164,7 +162,7 @@ But the visions were peripheral. What was central was the sound she made against
 
 Afterward (or during, because the boundary blurred until he couldn't locate it), something shifted in the chamber's physics. In the zero-gravity core, where no force should have drawn them anywhere, they felt a pull. Not downward but inward, toward each other, a pressure gentle as a palm against the chest. Their bodies drifted together with a certainty that had nothing to do with momentum. The crystalline orb dimmed, as if yielding the center to them.
 
-Adam felt the weight of it, actual weight, in a place where weight didn't exist. His wristband registered a fractional change in pressure; the beatmaker strapped against his hip picked up a low-frequency tone he hadn't heard anywhere else on the ship. He logged the frequency without thinking.
+Adam felt the weight of it, actual weight, in a place where weight didn't exist. His wristband registered a fractional change in pressure. And across the chamber, still clipped to his slowly rotating shipsuit, the beatmaker's standby light blinked: its ambient sampler had caught a low-frequency tone he had never heard anywhere else on the ship. He would find the recording while they dressed, and log the frequency with hands that weren't quite steady.
 
 As their bodies separated, the chamber gradually dimmed, the projections fading into the walls, the crystalline orb returning to its original size and luminosity. They floated together in the afterglow, breathing in tandem, the silence between them carrying more than any explanation could.
 
@@ -174,9 +172,9 @@ Artemis touched his face, her fingers tracing the contours of his expression. "I
 
 They dressed in silence. The warmth lingered in their skin, in their steps, in their very breath, as if the chamber had left a residue the ship's air couldn't wash away.
 
-The ascent through the vertical shaft passed in contemplative quiet. When they reached the access point and stepped back into the gravitational buffer zone, Adam turned to see the panel closing behind them, sealing seamlessly into the wall until no trace remained, as if the entrance had never existed.
+The ascent through the vertical shaft passed in contemplative quiet. At the top, the panel did not open. Adam pressed his palm to it, felt the same organic warmth as before — and nothing happened. Ten seconds. Thirty. Then, faint through the bulkhead, footsteps: a measured, patient tread crossing the junction outside, pausing, moving on. The seventeen-minute window they had so carefully calculated had closed hours ago; only the panel's strange refusal had kept them from stepping out into the middle of the patrol's return circuit. A full minute after the footsteps faded, the panel released them into the empty buffer zone, sealing seamlessly into the wall behind them until no trace remained, as if the entrance had never existed.
 
-"Will we find it again?" he asked, not bothering to hide the concern in his voice.
+Adam stared at the blank wall. "It waited. It checked the corridor, and it waited." A pause. "Will we find it again?" He didn't bother hiding the concern in his voice.
 
 Artemis took his hand, a gesture that would have been unthinkable hours earlier but now felt essential. "I think it will find us when necessary," she replied. "For now, we carry it within us."
 

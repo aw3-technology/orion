@@ -6,7 +6,7 @@ The Martian sunset painted the wreckage of the Orion in shades of crimson and go
 
 "It's time," Artemis said to Adam. They stood at the edge of what they now called Haven, the cluster of shelters around the exposed Chamber of Light that had become the settlement's de facto center.
 
-He didn't answer immediately. He was watching the people below: hundreds of them making their way toward the chamber, moving in twos and threes across the uneven terrain. Some carried children. Some carried injuries. All carried the particular watchfulness of people who had not yet decided whether the world they'd landed in was a beginning or a slow ending.
+He didn't answer immediately. He was watching the people below: hundreds of them making their way toward the chamber, moving in twos and threes across the uneven terrain. Some carried children. Some carried injuries. All carried the watchfulness of people who had not yet decided whether the world they'd landed in was a beginning or a slow ending.
 
 "I don't know what to say to them," Adam admitted.
 
@@ -32,7 +32,7 @@ But Adam also saw what lay beneath the surface cooperation. A cluster of former 
 
 Artemis took her position near the chamber entrance, not on an elevated platform but simply standing where all could see her. Adam remained nearby but slightly apart. Dr. Voss, Sofia, and Kai positioned themselves at different points around the circle.
 
-When silence settled (unevenly, in patches, conversation dying down as attention converged), Artemis spoke. Her voice carried in the thin air with startling clarity.
+When silence settled (unevenly, in patches, conversation dying down as attention converged), Artemis spoke. The thin air stole half her volume, and the assembly hushed itself further to make up the difference.
 
 "Two weeks ago, I stood in front of a camera and told you the truth about what our leaders had planned. I was angry. I'm still angry." She paused, her jaw unclenching, the armor loosening. "But anger is easy. What's hard is this part. The part where we figure out who we are when nobody's telling us."
 
@@ -42,15 +42,13 @@ She looked down at her hands. "I keep thinking about that. About all the things 
 
 A voice from the crowd: "Then why should we listen to you?"
 
-Artemis didn't flinch. The speaker was a heavyset man near the back, his face scarred from the crash, his arms folded across a chest still bearing the ghost-lines of a D-Deck work uniform.
+Artemis didn't flinch. The speaker was a heavyset man near the back, his face scarred from the crash, his arms folded across a chest still bearing the ghost-lines of a D-Deck work uniform. Someone near him muttered his name — Marek — in the tone people use when a man is about to do exactly what they expected of him.
 
 "You shouldn't," she replied. "Not because I'm speaking. Not because of who I was. Listen because what I'm saying matches what you already know."
 
 The man didn't respond, but he didn't leave either. The silence that followed felt more honest than anything scripted could have been.
 
-Dr. Voss stepped forward. "The chamber beneath us exhibits quantum properties that defy conventional classification. It responds to collective human consciousness, amplifying shared intention rather than hierarchical direction. This is not mysticism. It is measurable, observable, and it predates our arrival on this planet by millennia."
-
-Sofia Reed added historical framing. "Throughout human history, transformative change has been preceded by collective gatherings around shared recognition — something felt in the body, not just understood in the mind."
+Dr. Voss stepped forward. "The chamber beneath us exhibits quantum properties that defy conventional classification. It responds to collective human consciousness, amplifying shared intention rather than hierarchical direction. It is measurable and observable, and it predates our arrival on this planet by millennia."
 
 Kai Chen addressed the practical, because someone had to. "What we build here will reflect who we are becoming. The technical challenges are substantial: food production, life support, habitat construction. But the human challenges are more fundamental. Creating decision processes that don't recreate the hierarchies that failed Earth."
 
@@ -66,17 +64,17 @@ He paused. The firelight caught his face, throwing sharp shadows.
 
 "What I've learned — what this place keeps teaching me — is that the opposite of control isn't chaos. It's trust. Messy, imperfect, constantly renegotiated trust. I've spent these two weeks hauling wreckage and digging latrines and watching people I used to hate work beside me without being ordered to. And I keep waiting for someone to tell me what to do: someone to assign the tasks, enforce the schedule, punish the violations. No one does. And the work gets done anyway."
 
-He looked across the gathering: faces he knew, faces he didn't, faces marked by grief and exhaustion and the particular stubbornness of people who refuse to die on schedule.
+He looked across the gathering: faces he knew, faces he didn't, faces marked by grief and exhaustion and the stubbornness of people who refuse to die on schedule.
 
 "I don't have a program for what comes next. I don't think anyone should. I just know the work gets done when people show up for each other. That's enough to start with."
 
-As he spoke, something unexpected began above the gathering. Adam saw it first in the upturned faces: mouths falling open, eyes widening, the particular stillness that precedes awe. He looked up.
+As he spoke, something unexpected began above the gathering. Adam saw it first in the upturned faces: mouths falling open, eyes widening, the stillness that precedes awe. He looked up.
 
-The thin Martian atmosphere had begun to glow. Not uniformly; in ribbons and curtains of pale light that rippled across the sky like silk in slow wind. The colors shifted from blue-white to amber to a green so deep it was almost black. The patterns formed recognizable shapes: first the Orion constellation, each star pulsing in sequence, then structures that resembled the symbols on the chamber walls, then configurations no one could name.
+The thin Martian atmosphere had begun to glow. Not uniformly; in ribbons and curtains of pale light that rippled across the sky like silk in slow wind. The colors shifted from blue-white to amber to a green so deep it was almost black. Afterward, no two accounts of it agreed. Some swore the ribbons had formed the Orion constellation, each star pulsing in sequence; others saw the symbols from the chamber walls; most saw only light, vast and patternless and sufficient. Whatever it was, it did not repeat, and it did not explain itself.
 
 The chamber beneath their feet responded. Its crystalline core brightened, the pulse accelerating to match the rhythm of the aurora above. The ground hummed, a low, subsonic vibration that Adam felt in his teeth and his sternum.
 
-Dr. Voss pulled a handheld scanner from her belt, her synthetic eyes cycling rapidly. "No atmospheric condition can explain this. The patterns demonstrate coherence beyond known natural phenomena. The chamber is responding. Or initiating. I can't determine which."
+Dr. Voss pulled a handheld scanner from her belt, her synthetic eyes cycling rapidly. "No atmospheric condition can explain this. The patterns demonstrate coherence beyond known natural phenomena. The chamber is responding. Or initiating. I can't determine which." She turned the scanner slowly, frowning at the readout. "There's a second source. Same frequency, phase-shifted. Not our chamber. It's coming from below — deep below, and a long way off." She lifted her eyes from the readout to the northwestern horizon, toward the great canyon system that lay beyond it. "Something out there is answering."
 
 A thousand people stood beneath an alien sky and watched light perform for them. No one spoke. For perhaps two minutes, there was no division in the settlement: no faction, no rank, no history. Only the shared experience of witnessing something that exceeded every framework they had brought with them from Earth.
 
@@ -94,11 +92,15 @@ Then Zedd stepped forward, scratching the back of his neck. "I don't have a badg
 
 He stepped back. The silence that followed was longer than the others, not because his confession was the most dramatic, but because it was the most recognizable. Loss without crime. Grief without villain. The quiet catastrophe of a system that sorted human beings like data and called the remainders acceptable.
 
-Adam reached into his jacket and felt the small metal tablet Eli had given him, the etched tree with ten branches, still carrying traces of epoxy on one edge. He placed it beside the other objects. "From the man who built the real ship underneath the one they showed us."
+Adam reached into his jacket and felt the small metal tablet Eli had given him, the etched tree with ten branches, still carrying traces of epoxy on one edge.
+
+Eli Abramov had not lived to see the amphitheater. He had walked out of the Chamber on his own bad knees, supervised the digging-out of three sanctuary sections with a vigor that fooled everyone, and on the ninth morning simply failed to wake — his notebooks of copied inscriptions stacked beside his cot in a neat tower, the eleventh open to a fresh page. They had buried him at the edge of the debris field beneath a hull plate into which Zedd and Adam had spent a full evening carving a tree with ten branches. *Moses,* Sofia had said quietly at the grave, *was also shown the land, and not given to dwell in it.*
+
+Adam set the tablet down beside the other objects, and found his hand didn't want to release it — so he kept his fingers on it a moment longer, the way you hold a railing built by someone who knew you'd need it. "From the man who built the real ship underneath the one they showed us."
 
 Others came forward. A doctor who had administered compliance compounds under orders. A navigation officer who had falsified course data. A sanitation worker who had nothing to confess but wanted to say the names of the three family members who hadn't been selected. He spoke their names into the Martian air and then returned to his seat and wept without sound.
 
-Not everyone participated. The heavyset man who'd challenged Artemis stayed where he was, arms still folded. A woman near one of the fires turned her back to the proceedings and stared at the horizon. A former officer walked away entirely, his boots crunching on the frozen soil, his shoulders rigid with something that might have been contempt or shame or both.
+Not everyone participated. Marek stayed where he was, arms still folded. A woman near one of the fires turned her back to the proceedings and stared at the horizon. A former officer — Oduya, who had commanded a B-Deck security detail — walked away entirely, his boots crunching on the frozen soil, his shoulders rigid with something that might have been contempt or shame or both.
 
 This, Adam thought, was more honest than unanimity would have been.
 
@@ -112,7 +114,7 @@ Dr. Voss began with the numbers, and the numbers were bad.
 
 "Water reclamation efficiency is at sixty-four percent of minimum requirements. At current consumption rates, we exhaust reserves in nineteen days. Power generation from salvaged solar cells will sustain basic life support (heating, oxygen supplementation, medical equipment) for approximately twenty-six days. Medical supplies, particularly antibiotics, require strict conservation. We have lost four people to infection this week alone."
 
-The weight of those figures settled across the gathering. The aurora was gone. The sky was the color of dried blood. The wind carried iron dust that stung the eyes and coated the throat. Whatever the ceremony had been (beautiful, necessary, real), it changed nothing about the fundamental arithmetic of survival.
+The weight of those figures settled across the gathering. The aurora was gone. The sky was the color of dried blood. The wind carried iron dust that stung the eyes and coated the throat. Whatever the ceremony had been — beautiful, necessary, real — it changed nothing about the fundamental arithmetic of survival.
 
 "The reclamation system from Habitat Section 4 is mostly intact," offered a former maintenance worker, his voice gaining confidence as he spoke in his area of expertise. "With modifications, we could increase efficiency by fifteen percent. Maybe eighteen."
 
@@ -122,9 +124,11 @@ Zoe stood up from the far side of the circle. She'd been quiet through the cerem
 
 Kai pointed at her. "That's priority one. Take whoever you need."
 
-"Who decides the allocation priorities?" asked the heavyset man. He was still there, still skeptical, but engaging now. "Because fifteen percent improvement doesn't mean anything if the same people from A-Deck get first access."
+"Who decides the allocation priorities?" asked Marek. He was still there, still skeptical, but engaging now. "Because fifteen percent improvement doesn't mean anything if the same people from A-Deck get first access."
 
 "Nobody gets first access," Kai said. "Need-based distribution. Children, medical cases, labor teams, in that order. Same food, same water, same air. That's the baseline."
+
+"And it's checkable," added Huang Wei from the second row, in the flat voice of a man who had spent the voyage counting things nobody asked him to count. "Distribution logs, posted daily, where everyone eats. My family was rejected by an algorithm nobody was allowed to audit. Whatever we build here gets audited. By anyone. That's my price."
 
 "Easy to say when you're standing next to her." The man jerked his chin at Artemis. "Some of us have been equal our whole lives. Some of you are just getting started."
 
@@ -138,11 +142,11 @@ General Morea's contributions arrived secondhand, relayed by the physician who m
 
 Prince Virel remained silent through most exchanges. He sat at the edge of the circle, his position neither prominent nor hidden. When he finally spoke, offering specific technical information about the salvaged communication array's frequency ranges, his contribution was neither rejected nor privileged. Just incorporated. He said nothing else. He left when the working groups dispersed, walking toward the irrigation trenches where he'd been assigned.
 
-Voss raised one additional item before the practical discussions could close. "The orbital weapons platforms." The circle went quiet. "Virel's activation attempt was interrupted, but the platforms themselves remain in geocentric orbit. Their targeting systems are autonomous; once armed, they don't require a ground signal to fire. But they require one to stand down."
+Voss raised one additional item before the practical discussions could close. "The orbital weapons platforms." The circle went quiet. "Virel's activation sequence was cut off partway. Two of the six platforms received a partial arming signal, and we still cannot confirm from here whether their targeting initialized or the sequence failed. The platforms remain in geocentric orbit. Their targeting systems are autonomous; once armed, they don't require a ground signal to fire. But they require one to stand down."
 
 "Can we reach them from here?" Kai asked.
 
-"Not with current equipment. The command frequency is encrypted to Virel's biometric signature, and the transmission power required exceeds anything we've salvaged." Voss paused. "But the platforms have a design limitation: their power cells were rated for eighteen months of standby. After that, they go dark permanently. We're at month fourteen."
+"Not with current equipment. The array Virel used was the ship's high-gain emergency antenna running on the last of its storage cells — his transmission burned them dead. Nothing else we've salvaged comes close to the power required, and the command frequency is encrypted to his biometric signature besides." Voss paused. "But the platforms have a design limitation: their power cells were rated for eighteen months of standby. After that, they go dark permanently. We're at month fourteen."
 
 "So we have four months of existential threat hanging over Earth," Sofia said flatly.
 
@@ -156,7 +160,7 @@ The implication settled over the group. Virel's knowledge wasn't just historical
 
 "Documentation accessible to all," proposed Sofia. "No classified information. No restricted files. Transparency as foundation."
 
-"And if someone disagrees with a decision?" asked the heavyset man. He was testing, still, but his tone had shifted from confrontation toward something like genuine inquiry.
+"And if someone disagrees with a decision?" asked Marek. He was testing, still, but his tone had shifted from confrontation toward something like genuine inquiry.
 
 "Then they say so. Here. In front of everyone." Artemis met his gaze. "Disagreement isn't the enemy. Silence is."
 

@@ -24,7 +24,7 @@ His assignment: atmospheric regulation beneath the main ceremonial dome. Keep th
 
 ---
 
-The shuttle from Orion carried maintenance crews through a utilitarian airlock into Lunar Base Alpha's service corridors: exposed pipes, emergency diagrams, the particular aesthetic of spaces built for function and forgotten. While elite passengers glided through the Grand Terminal with its vaulted ceilings and honor guards, workers filed through passages that smelled of recycled air and industrial sealant.
+The shuttle from Orion carried maintenance crews through a utilitarian airlock into Lunar Base Alpha's service corridors: exposed pipes, emergency diagrams, the aesthetic of spaces built for function and forgotten. While elite passengers glided through the Grand Terminal with its vaulted ceilings and honor guards, workers filed through passages that smelled of recycled air and industrial sealant.
 
 Huang Wei fell into step beside him, equally uncomfortable in gray. The Chinese life support specialist had become a fixture in Adam's daily orbit — quiet, observant, carrying the weight of a farming family that had scored too low on selection algorithms to merit evacuation.
 
@@ -34,7 +34,7 @@ Huang Wei fell into step beside him, equally uncomfortable in gray. The Chinese 
 
 "Unity of purpose," Adam echoed.
 
-"Oh, it's rather more than that," said Sofia Reed, cutting into the queue behind them without apology. Former literature professor from Cambridge, current waste management supervisor. Gray-streaked hair in a severe knot, British accent that could cut glass when she chose. She had the observational acuity of someone who'd spent decades reading between lines, and the habit of announcing what she found, whether you'd asked or not. "They're throwing themselves a party. Fifty thousand people out of (what was it, Huang? Point-oh-oh-seven-something percent of the species?) And they want a *ceremony* about it."
+"Oh, it's rather more than that," said Sofia Reed, cutting into the queue behind them without apology. Former literature professor from Cambridge, current waste management supervisor. Gray-streaked hair in a severe knot, British accent that could cut glass when she chose. She had the observational acuity of someone who'd spent decades reading between lines, and the habit of announcing what she found, whether you'd asked or not. "They're throwing themselves a party. Ten thousand people out of — what was it, Huang? Point-oh-oh-one-something percent of the species? — and they want a *ceremony* about it."
 
 They fell silent as security sensors thickened near the ceremonial zone. Adam reached his station through progressively refined spaces (bare metal to polished composite to translucent material glowing with inner light), each transition a reminder of his peripheral status. The maintenance tunnel beneath the Grand Dome offered narrow observation slits designed for monitoring without visibility.
 
@@ -44,7 +44,7 @@ The dome was extraordinary despite everything. A vast chamber with a transparent
 
 "Nothing says 'saving humanity' like floors that could have fed a city," he muttered, and began his atmospheric diagnostics.
 
-The work was straightforward but demanding: monitoring temperature and humidity as the dome filled with bodies, adjusting gradients to compensate for the thermal chaos of hundreds of people in a space designed for emptiness. He noticed the atmospheric composition included subtle additives, engineered mood stabilizers that would make the audience more receptive to ceremony messaging. Not drugs, officially. "Atmospheric optimization." The compound signature was unfamiliar, something synthetic, tailored to suppress critical thinking without triggering anxiety. Whoever had designed it knew their neurochemistry.
+The work was straightforward but demanding: monitoring temperature and humidity as the dome filled with bodies, adjusting gradients to compensate for the thermal chaos of hundreds of people in a space designed for emptiness. He noticed the atmospheric composition included subtle additives, engineered mood stabilizers that would make the audience more receptive to ceremony messaging. Not drugs, officially. "Atmospheric optimization." The compound signature was unfamiliar, something synthetic, tailored to suppress critical thinking without triggering anxiety. Whoever had designed it knew their neurochemistry. The service tunnels ran on a separate scrubber loop — the system's designers hadn't considered maintenance lungs worth optimizing — and for once Adam was grateful to be beneath consideration. He was breathing unimproved air, and he intended to keep thinking unimproved thoughts.
 
 Adam pulled the readings to his personal device. Years of documenting things the powerful didn't want noticed had taught him: save first, understand later.
 
@@ -62,13 +62,13 @@ General Morea took the platform. The usual speech about sacred duty, civilizatio
 
 The ceremony transitioned to the centerpiece: a formal waltz.
 
-"Behold the Martian Ascension Waltz," the announcer proclaimed, "crafted by MOVE Kinesthetic Intelligence to embody our journey from Earth to our new home."
+"Behold the Martian Ascension Waltz," the announcer proclaimed, "crafted by MUSE Kinesthetic Intelligence to embody our journey from Earth to our new home."
 
 Pairs assembled. Neural circlets synchronized their movements. The dance launched with mathematical exactness, partners flowing in formations that mirrored orbital patterns, their steps tracing geometric designs across the marble floor. Their faces wore identical expressions of appreciation, synchronized to the microsecond.
 
 Then the announcement: "For the ceremonial opening dance: General Christopher Morea presents his daughter, Artemis Morea, with diplomatic envoy Prince Daiyu Virel."
 
-The crowd parted. Virel guided Artemis to the center with practiced gallantry. They struck visual contrast: Virel in formal attire blending both faction designs, Artemis in a silver dress that caught the light in shifting constellation patterns. Where every other dancer wore a neural circlet, she wore a thin silver band that mimicked the shape but connected to nothing. From a distance, indistinguishable. Up close, inert.
+The crowd parted. Virel guided Artemis to the center with rehearsed gallantry. They struck visual contrast: Virel in formal attire blending both faction designs, Artemis in a silver dress that caught the light in shifting constellation patterns. Where every other dancer wore a neural circlet, she wore a thin silver band that mimicked the shape but connected to nothing. From a distance, indistinguishable. Up close, inert.
 
 Adam's attention left his monitors.
 
@@ -86,7 +86,7 @@ He turned to his environmental controls — and that's when the music died.
 
 A discordant note slashed through the AI harmonics. The sound stuttered, faltered, and collapsed into silence. Lighting systems linked to the composition fluctuated wildly, then plunged the dome into darkness.
 
-Emergency lighting kicked in, a soft blue glow casting long shadows across the marble. The choreographed dance disintegrated into confusion as neural connections lost their synchronization. Guests stumbled, their practiced composure cracking instantly without the technological scaffolding holding it together. Virel's voice knifed through the dark, sharp with barely controlled fury: "Restore primary systems immediately!"
+Emergency lighting kicked in, a soft blue glow casting long shadows across the marble. The choreographed dance disintegrated into confusion as neural connections lost their synchronization. Guests stumbled, their composure cracking instantly without the technological scaffolding holding it together. Virel's voice knifed through the dark, sharp with barely controlled fury: "Restore primary systems immediately!"
 
 Adam recognized the failure pattern immediately: cascading error in the central composition algorithm. The AI had encountered an input its training hadn't predicted. Possibly Artemis's unenhanced movement disrupting its modeling. Possibly something else. Didn't matter. He knew how to fix it.
 
@@ -134,9 +134,13 @@ Then she turned back to her partner, and the moment broke.
 
 The waltz continued with Adam's music. Guests murmured to each other that the composition sounded "unusual but oddly moving," though none seemed able to say why. Without AI orchestration guiding them, dancers relied on physical cues and actual skill. The room breathed differently. Its character had changed in a way Adam's instruments couldn't measure.
 
-He returned to his environmental station and waited for the reprimand that never came. Either his intervention had been categorized as acceptable emergency response, or something else was shielding him. He didn't know which, and that uncertainty felt worse than punishment.
+He returned to his environmental station for the remainder of the ceremony. The reckoning came at shift-end, in a windowless processing room off the deployment hub: two security officers and a recording drone, ninety minutes of the same six questions asked in different orders. *Who authorized your access to the composition systems? Who trained you to bypass MUSE protocols? Who were you signaling?* The last question was the dangerous one, because the true answer — no one — sounded less plausible than any lie would have. They took his biometrics twice. They catalogued his beatmaker's contents and, finding only environmental samples and unfinished tracks, seemed almost disappointed.
 
-On the shuttle back to the Orion, fellow crew members surrounded him, their expressions ranging from exhaustion to barely suppressed rage after hours of maintaining invisible systems for the spectacle above their heads.
+Kwan was waiting outside the processing room, arms folded, cybernetic eye fixed on him with a steadiness worse than shouting. "Category One incident at a diplomatic event. My team. My docket." His voice stayed level. "Whatever you think you fixed up there, you spent every gram of goodwill you'll ever earn from me — and you put a flag on my entire roster. Three people got pulled into secondary screening because they share a shift table with you." He stepped closer. "You're talented. Talent draws attention. On this ship, attention is a tax everyone around you pays."
+
+He walked Adam to the shuttle in silence, and the silence said the rest.
+
+Aboard, fellow crew members surrounded him, their expressions ranging from exhaustion to barely suppressed rage after hours of maintaining invisible systems for the spectacle above their heads.
 
 "Quite a show," Huang Wei remarked, falling into step. "Especially your solo at the control panel."
 
@@ -170,21 +174,13 @@ His father's pendant dangled from his hand, catching starlight as it swung. His 
 
 Adam saved the composition under an encrypted name: *Moonlight.Waltz.1*. A record of what he'd witnessed, translated into sound. Harder to censor than words. Harder to delete than footage.
 
-His wrist monitor pulsed with an automated system notification: *ANALOG COMPOSITION SEQUENCE DETECTED: CATALOGUED FOR MUSE LEARNING INTEGRATION. Composition ID: LBA-CEREMONY-ANALOG-001. Thank you for contributing to our evolving musical repertoire.*
+His wrist monitor buzzed with an automated system notification: *ANALOG COMPOSITION SEQUENCE DETECTED: CATALOGUED FOR MUSE LEARNING INTEGRATION. Composition ID: LBA-CEREMONY-ANALOG-001. Thank you for contributing to our evolving musical repertoire.*
 
 His waltz, the one he'd built by hand in thirty seconds of darkness, was already training data.
 
-He was about to close the file when his beatmaker pulsed with an incoming notification, not from the ship's system but from a direct signal ping. An unknown source. Not text or image but a simple waveform.
+He closed the file, pocketed the beatmaker, and lay back against the cold metal, staring through the viewport at the stars.
 
-It matched the rhythm of a waltz in three-four time.
-
-Adam stared at the screen for a long time. Then he sent back a variation, the same rhythm, slightly altered. An acknowledgment.
-
-No response came. Whoever had reached out had said what they intended. Connection established. Possibility opened. Nothing more.
-
-He pocketed the beatmaker and lay back against the cold metal, staring through the viewport at the stars.
-
-His wrist monitor pulsed with one more notification:
+His wrist monitor lit with one more notification:
 
 *Technical Specialist Hale: Your emergency system correction during the Lunar Base Alpha ceremony demonstrated exceptional resource allocation under pressure. A notation of commendation has been added to your service record. — A. Morea, Cultural Attaché*
 
@@ -195,5 +191,3 @@ He didn't want her recognition. He wanted the simple clarity of resentment, the 
 He looked through the viewport at the stars. Orion's familiar pattern had been rendered unrecognizable; their position in space had rearranged the constellations into shapes no human mythology had named.
 
 Everything was different here. The sky itself had rearranged.
-
-Adam closed his eyes and let the waltz play in his memory, the imperfect one, the one with rough edges, until sleep pulled him under.

@@ -1,16 +1,18 @@
-# Chapter 23: Signals Across the Void
+# Chapter 23: Letters to Earth
 
 
 
 The first transmission signal pulsed across the darkness between worlds, a fragile beam of coherent light stretching from the makeshift communications array on Mars toward the distant blue planet that had once been home. Voss stood beside the device, running final calibrations with the methodical patience of someone who had learned not to rush the things that mattered.
 
-"Signal integrity at eighty-seven percent," she reported. "Earth receivers should detect it within approximately forty-three days."
+"Signal integrity at eighty-seven percent," she reported. "Transit time is eleven minutes at current geometry. But at this power, no single transmission will rise above Earth's noise floor. The message repeats continuously; any ground station still listening will have to integrate across weeks of passes to lift it out of the static. Forty-three days, by my estimate, before anyone can read it." She paused. "If anyone is listening at all."
 
 The communications array embodied their transformed approach to technology. Salvaged components repurposed through collaborative effort: Rising Sun Order engineers alongside Nations Union technicians, elite passengers contributing specialized knowledge while maintenance crew provided practical implementation. The result bore the marks of many hands rather than algorithmic optimization.
 
 Adam adjusted the final power coupling. "Power consumption stable. The solar array is generating sufficient output for the projected duration."
 
 The transmission contained the complete Neural Sea files: unfiltered evidence of what the factions had planned for both Mars and Earth. Not accusation but acknowledgment. Artemis had recorded a brief introduction, her face dust-covered and exhausted but carrying unmistakable conviction: "You were never meant to thrive. You were meant to serve — or die. But now, you know the truth."
+
+It also contained the thing the Mars Council had argued about for two days and finally, unanimously, included: the orbital platforms' full technical specifications, their command frequency, and a stand-down sequence keyed to Virel's biometric signature. He had submitted to the encoding without being asked twice, sitting motionless in the medical shelter while Voss mapped his biometrics into the code, his expression unreadable. Mars lacked the transmitter power to reach the platforms. Earth did not. The weapons aimed at their heads would be disarmed, if they were armed at all, by the hands they had been aimed at — using a key sent by the people who had built them.
 
 When the initial sequence completed, the gathering dispersed with quiet recognition of responsibility fulfilled.
 
@@ -21,6 +23,10 @@ Kai Chen answered before anyone else could. "We're just telling them what happen
 ---
 
 In the days that followed, the settlement found its rhythm: not the mechanical efficiency of the Orion's systems but a rhythm more organic, driven by necessity and shaped by the uneven contours of Martian terrain and human temperament.
+
+The water crisis broke the way disasters break when they break well: undramatically, in increments. Zoe's team bled the buried hydraulic lines a day before the freeze would have claimed them, recovering the eight hundred liters the settlement could not have survived losing. Nneka rebuilt the reclamation stacks out of components three engineering teams had written off, coaxing the recovery rate from sixty-four percent of minimum to eighty-nine, and then, on the morning she allowed herself a single uncharacteristic whoop heard across half the settlement, to one hundred and three. The countdown that had sat beneath every conversation — nineteen days, then twelve, then eight — quietly inverted. They were not safe. But they were no longer dying on a schedule.
+
+Marek, the D-Deck man who had challenged Artemis at the founding ceremony, appointed himself auditor of the daily distribution logs that Huang Wei had demanded. He found two errors in the first week and reported, with what could only be called grim satisfaction, that both had favored D-Deck families. He posted the corrections himself. Nobody had given him the job. That, increasingly, was how the jobs worked.
 
 Adam noticed the change in Virel before anyone mentioned it. The former prince of the Rising Sun Order was working irrigation channels between the main water reclamation system and the expanding agricultural sector, stripped to a standard work shirt, his hands caked in reddish-brown soil. His movements lacked the algorithmic exactness that had once characterized everything about him; instead, there was hesitancy, a constant readjustment, the look of a man whose body was learning tasks his mind had always delegated.
 
@@ -60,11 +66,11 @@ The official transmission had been sent: the Neural Sea files, the survival data
 
 He pressed record.
 
-"Mom." His voice cracked on the single syllable. He closed his eyes, breathed through it, and started again. "Mom. It's Adam. I don't know if you'll hear this. I don't know if you're still alive. The medication I traded my life for (seven years of contract labor on a ship full of people who'd just as soon forget we exist) bought you eight days. I've been doing the math ever since. Eight days was February. It's been months."
+"Mom." His voice cracked on the single syllable. He closed his eyes, breathed through it, and started again. "Mom. It's Adam. I don't know if you'll hear this. I don't know if you're still alive. The medication I traded my life for bought you eight days. Seven years of contract labor, eight days of breathing. I've seen the receipt every night since. I've been doing the math ever since. Eight days was February. It's been months."
 
 He stopped. The recorder hummed. Outside, the Martian wind scraped dust across the antenna housing in thin, hissing waves.
 
-"I need to tell you what happened, even if you never hear it. The ship crashed. On Mars. The people who ran it (the generals, the princes, the algorithms) were building a prison and calling it paradise. We stopped them. Not just me. A lot of us. People you would've liked. A man named Kai who reminds me of Uncle Tomás. A woman named Artemis who's—" He paused. "She's someone. You'd know what I mean if you met her.
+"I need to tell you what happened, even if you never hear it. The ship crashed. On Mars. The people who ran it — the generals, the princes, the algorithms — were building a prison and calling it paradise. We stopped them. Not just me. A lot of us. People you would've liked. A man named Kai who reminds me of Uncle Tomás. A woman named Artemis who's—" He paused. "She's someone. You'd know what I mean if you met her.
 
 "There's a woman here named Nneka. She left her six-year-old daughter behind because a screening algorithm said the girl's bones weren't dense enough. Six years old and they measured her bones and said no. Nneka builds water systems now. She's the reason any of us can drink. And every night she sits by the southern perimeter and looks at the sky like she's trying to see Nigeria from here.
 
@@ -96,7 +102,7 @@ Night settled over the landscape, bringing temperature drops that required coope
 
 Around improvised heating units, people who had occupied separate worlds aboard the Orion shared physical space. Former security personnel sat alongside maintenance workers. Children from elite families slept beside those born secretly in lower decks, huddled together under thermal blankets that didn't care about lineage.
 
-Adam and Artemis sat near the Chamber of Light, whose crystalline structure emitted soft illumination supplementing the settlement's limited power. Between them, barely visible in the dim light, a small clay pot held a struggling jasmine cutting, grown from the seeds Al-Farouk had pressed into Artemis's hand aboard the Orion. It hadn't flowered yet, but the leaves were green.
+Adam and Artemis sat near the Chamber of Light, whose crystalline structure emitted soft illumination supplementing the settlement's limited power. Between them, barely visible in the dim light, a small clay pot held a struggling jasmine cutting, grown from the seeds Al-Farouk had pressed into Artemis's hand aboard the Orion. The old professor had survived the crash in one of Eli's sanctuary sections and now tended a salvaged grow-rack on the settlement's south side, coaxing herbs out of regolith cut with compost, promising cuttings to anyone who could keep one alive. This one hadn't flowered yet. But the leaves were green.
 
 "Forty-three days," Adam said. "And then someone on Earth hears all of it. The files. The truth. Your introduction. My rambling to my mother."
 

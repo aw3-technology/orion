@@ -16,7 +16,7 @@ Unlike most ship systems, this chamber operated without AI presence, a deliberat
 
 The council members nodded in restrained satisfaction. After the tumultuous Luna stopover, with its emphasis on ceremony and diplomatic performance, the return to practical operational concerns was a welcome shift.
 
-"Engineering reports construction units are at ninety-seven percent readiness," continued Admiral Chen, the rail-thin head of infrastructure development. "Deployment sequencing has been finalized, with priority allocation to defensive and life support facilities."
+"Engineering reports construction units are at ninety-seven percent readiness," continued Admiral Varga, the rail-thin head of infrastructure development. "Deployment sequencing has been finalized, with priority allocation to defensive and life support facilities."
 
 "And the crew behavioral metrics?" Morea inquired, his tone neutral but his eyes sharp.
 
@@ -24,7 +24,7 @@ The council members nodded in restrained satisfaction. After the tumultuous Luna
 
 "Increase surveillance density in affected sectors," Morea ordered. "Random pattern inspections, not scheduled. We can't afford behavioral drift at this stage of the mission."
 
-"There is one matter requiring immediate attention," interjected Captain Bishop, sliding a data tablet toward the center of the table. "Water allocation protests on C-Deck. Non-violent but persistent."
+"There is one matter requiring immediate attention," interjected Commander Bishop, sliding a data tablet toward the center of the table. "Water allocation protests on C-Deck. Non-violent but persistent."
 
 Morea's expression darkened slightly. "Explanation?"
 
@@ -40,32 +40,6 @@ A junior logistics officer rose from her seat at the far end of the table. Lieut
 
 The chamber fell silent, the other council members carefully avoiding eye contact with Lieutenant Flores, whose face remained composed despite the public rebuke.
 
----
-
-As the council chamber emptied in practiced silence, beneath the polished circuitry of command and the sterile pulse of hierarchy, a different kind of figure moved through the ship's forgotten veins.
-
-Eli Abramov crouched inside a narrow crawlspace once designated for a redundant life-support bypass. Official schematics had erased it years ago, dismissed by optimization protocols as excess. But Eli remembered. He had built this place, not for function, but for memory.
-
-The light here did not behave. It flickered in irregular intervals, a soft stuttering glow like candlelight behind latticework. Not malfunction. Intention. Eli had rerouted the wiring long ago, embedding an older rhythm into the current. A pulse drawn not from code, but from breath.
-
-He brushed his fingers across the brushed metal wall until they caught on a faint groove. A smile ghosted his face as the polymer gave way under pressure, revealing what lay beneath: a symbol carved by hand, a tree with ten branches, ancient and improbable. The Tree of Life. Not labeled. Not logged. A secret blueprint hidden in the ship's bones.
-
-"Bastards," he muttered, noticing a hairline crack in the polymer where the thermal expansion joints had shifted. He'd warned them about the alloy grade during construction: cheaper titanium composite, he'd said, would fatigue faster under the ship's harmonic vibrations. Twenty years later, here it was. He pulled a tube of structural epoxy from his satchel, squeezed a bead along the crack, and smoothed it with his thumb. His knees ached from the crawlspace. His lower back had been complaining since 0400.
-
-From the same satchel, he drew a square of aged parchment and pinned it gently to the wall beside the repaired crack. Inked in both Hebrew and English:
-
-*"Let my people go… that they may serve Me in the wilderness."*
-
-He sat back on his heels and looked at it. Then he looked at the epoxy on his thumb. Twenty years of patching a ship that was never supposed to need a man with a tube of glue crawling through its guts, and he was still here. Still fixing what the algorithms didn't know was broken.
-
-He eased himself out of the crawlspace, one hand braced against the conduit overhead, and moved back into the corridor with the careful gait of a man whose body remembered being younger.
-
-He passed through a junction where the air smelled different, warmer, carrying traces of cooked food and human habitation that had no business existing this deep in the hull. Somewhere below, a child laughed. The sound rose through the deck plating like a secret the ship was keeping from itself.
-
-Eli smiled and kept walking. He had designed these spaces with margins the optimization protocols couldn't account for — gaps in the structure wide enough for families, deep enough for a community the manifests would never acknowledge. They survived on diverted trickle-flows: water siphoned from condensation recapture lines that the system wrote off as evaporative loss, power drawn through phantom load circuits Eli had wired into the grid during construction, food cultivated under grow-lights powered by those same phantom circuits or smuggled down from the upper decks by sympathetic crew. Waste went into the ship's own recycling stream through maintenance ports that Eli had designed with deliberately loose tolerances — wide enough for a waste canister, narrow enough that a scanner would read them as structural. It was precarious, dependent on the ship's own inefficiencies to mask its existence, but it worked. The ship's architects had built a vessel for fifty thousand souls. Eli had built one for the ones who fell between the numbers.
-
----
-
 "The allocation algorithm will be adjusted," Morea continued after a moment. "And Lieutenant Flores will be reassigned to outer perimeter observation. Her analytical skills will be valuable in monitoring deep space telemetry."
 
 Everyone present understood the euphemism. Outer perimeter observation was isolation, a role that removed the lieutenant from any meaningful influence within the ship's operations. Not quite punishment, but unmistakably a removal.
@@ -76,7 +50,7 @@ As she exited the chamber, Morea turned back to the remaining council members, h
 
 The council members nodded in unison, their faces masks of compliance.
 
-"One remaining matter," Admiral Chen said, sliding a data tablet to the center of the table. "The Rising Sun Order has submitted a revised governance framework for Mars Phase One. Prince Virel proposes integrated neural-administrative oversight of all settlement operations. Decision-making routed through OmniscientAI, with human review limited to strategic parameters."
+"One remaining matter," Admiral Varga said, sliding a data tablet to the center of the table. "The Rising Sun Order has submitted a revised governance framework for Mars Phase One. Prince Virel proposes integrated neural-administrative oversight of all settlement operations. Decision-making routed through OmniscientAI, with human review limited to strategic parameters."
 
 "In other words," Morea said flatly, "hand the colony to a machine and let humans rubber-stamp its decisions."
 
@@ -100,13 +74,37 @@ Mombasa. 2061. He'd been a colonel then, overseeing the East African Coastal Eva
 
 The analyst had been right about the data. Every number verified. It didn't matter. Truth without structure was just a match thrown into dry brush.
 
-Morea set the tablet down and pressed his fingers against his temples. Flores was the same — incisive, principled, and utterly blind to what transparency cost when fifty thousand lives balanced on the edge of collective confidence.
+Morea set the tablet down and pressed his fingers against his temples. Flores was the same — incisive, principled, and utterly blind to what transparency cost when ten thousand lives balanced on the edge of collective confidence.
 
 *And yet.* His wife had used the same arguments. Not Flores's words exactly, but the same spine beneath them: the insistence that people deserved to know, that control purchased through ignorance was a debt that always came due. Helena had been brilliant in that way, and stubborn, and she had died for it. Or been killed. He had never permitted himself to determine which.
 
 He stood abruptly, adjusting his uniform in the reflective surface of the conference table. The face that stared back at him was his father's face, the same hard lines, the same certainty that had held a family together through two wars and a famine. Order was not cruelty. It was the architecture that let people survive long enough to have opinions in the first place.
 
 But somewhere beneath that certainty, quiet as a crack in a load-bearing wall, a question persisted. Not whether he was right; he was certain he was right. But whether being right would be enough.
+
+---
+
+As the council chamber emptied in disciplined silence, beneath the polished circuitry of command and the sterile pulse of hierarchy, a different kind of figure moved through the ship's forgotten veins.
+
+Eli Abramov crouched inside a narrow crawlspace once designated for a redundant life-support bypass. Official schematics had erased it years ago, dismissed by optimization protocols as excess. But Eli remembered. He had built this place, not for function, but for memory.
+
+The light here did not behave. It flickered in irregular intervals, a soft stuttering glow like candlelight behind latticework. Not malfunction. Intention. Eli had rerouted the wiring long ago, embedding an older rhythm into the current. A pulse drawn not from code, but from breath.
+
+He brushed his fingers across the brushed metal wall until they caught on a faint groove. A smile ghosted his face as the polymer gave way under pressure, revealing what lay beneath: a symbol carved by hand, a tree with ten branches, ancient and improbable. The Tree of Life. Not labeled. Not logged. A secret blueprint hidden in the ship's bones.
+
+"Bastards," he muttered, noticing a hairline crack in the polymer where the thermal expansion joints had shifted. He'd warned them about the alloy grade during construction: cheaper titanium composite, he'd said, would fatigue faster under the ship's harmonic vibrations. Twenty years later, here it was. He pulled a tube of structural epoxy from his satchel, squeezed a bead along the crack, and smoothed it with his thumb. His knees ached from the crawlspace. His lower back had been complaining since 0400.
+
+From the same satchel, he drew a square of aged parchment and pinned it gently to the wall beside the repaired crack. Inked in both Hebrew and English:
+
+*"Let my people go… that they may serve Me in the wilderness."*
+
+He sat back on his heels and looked at it. Then he looked at the epoxy on his thumb. Twenty years of patching a ship that was never supposed to need a man with a tube of glue crawling through its guts, and he was still here. Still fixing what the algorithms didn't know was broken.
+
+He eased himself out of the crawlspace, one hand braced against the conduit overhead, and moved back into the corridor with the careful gait of a man whose body remembered being younger.
+
+He passed through a junction where the air smelled different, warmer, carrying traces of cooked food and human habitation that had no business existing this deep in the hull. Somewhere below, a child laughed. The sound rose through the deck plating like a secret the ship was keeping from itself.
+
+Eli smiled and kept walking. He had designed these spaces with margins the optimization protocols couldn't account for — gaps in the structure wide enough for families, deep enough for a community the manifests would never acknowledge. They survived on diverted trickle-flows: water siphoned from condensation recapture lines that the system wrote off as evaporative loss, power drawn through phantom load circuits Eli had wired into the grid during construction, food cultivated under grow-lights powered by those same phantom circuits or smuggled down from the upper decks by sympathetic crew. Waste went into the ship's own recycling stream through maintenance ports that Eli had designed with deliberately loose tolerances — wide enough for a waste canister, narrow enough that a scanner would read them as structural. It was precarious, dependent on the ship's own inefficiencies to mask its existence, but it worked. The ship's architects had built a vessel for ten thousand souls. Eli had built one for the ones who fell between the numbers.
 
 ---
 
@@ -174,6 +172,6 @@ After she left, Virel stood at the viewport, watching the stars slide past in th
 
 He had not lied to Okoye. He never lied to the recruits. The enhancement worked exactly as described. The freedom from psychological paralysis was genuine. The clarity was real.
 
-What he withheld was simpler and more damning: that the same architecture scaling up from individual therapy to population governance crossed a line the volunteers couldn't see: from liberation to leash, from clarity offered to compliance required. The distance between healing one surgeon's nightmares and rewriting fifty thousand minds was not a difference of degree. It was a difference of kind.
+What he withheld was simpler and more damning: that the same architecture scaling up from individual therapy to population governance crossed a line the volunteers couldn't see: from liberation to leash, from clarity offered to compliance required. The distance between healing one surgeon's nightmares and rewriting ten thousand minds was not a difference of degree. It was a difference of kind.
 
 But Virel had long ago concluded that this distinction, however philosophically interesting, was operationally irrelevant. Humanity had run the experiment in unmanaged consciousness for two hundred thousand years. The results burned copper-colored in the rear viewport.

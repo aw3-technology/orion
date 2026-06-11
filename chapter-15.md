@@ -42,7 +42,7 @@ As she spoke, Kai worked quickly at the cell's electronic lock, attaching a modi
 
 "We've been mapping these systems since before departure," Kai interrupted, handing Adam a maintenance suit like their own. "Put this on. Quick."
 
-As Adam complied, Sofia moved to the security panel near the door, attaching a small device that pulsed with subtle light patterns.
+As Adam complied, Sofia moved to the security panel near the door, attaching a small device that blinked in a slow, deliberate cycle.
 
 "Surveillance loop initiated," she confirmed. "As far as the system knows, you're still asleep on your cot."
 
@@ -76,17 +76,11 @@ They crawled through regions choked with conduit bundles, navigated around massi
 
 As they progressed, Adam began to notice signs of habitation, subtle at first, then increasingly undeniable. Markings on walls that weren't standard maintenance notations. Storage containers repurposed as personal lockers. Passages widened beyond official specifications to allow easier movement.
 
-They passed a section of corridor where the institutional metal had been transformed by art: a sprawling mural depicting cities Adam recognized from historical archives: Lagos with its towering complexes half-submerged in rising waters; Mumbai's ancient districts overwhelmed by refugee settlements; New Orleans preserved only as a memory above a second city built on higher ground.
-
-"Who made these?" Adam asked, his fingers tracing the outline of a drowned skyline.
-
-"People who remember," Sofia answered. "People who refuse to forget what was left behind."
-
-Further on, they encountered a small alcove transformed into something like a shrine, salvaged LED lights illuminating a collection of Earth artifacts arranged with reverent care. Broken pieces of ceramics. Faded photographs encased in protective film. Strings of prayer beads from various traditions. Handwritten notes on actual paper. Small tokens of lives interrupted, preserved by those who carried Earth's memory in their bodies.
+They passed a section of corridor where the institutional metal had been transformed: a sprawling mural of drowned cities — Lagos, Mumbai, New Orleans — flowing into a small alcove arranged as a shrine, salvaged LED lights illuminating broken ceramics, faded photographs in protective film, prayer beads from half a dozen traditions, handwritten notes on actual paper. Small tokens of lives interrupted, kept by those who carried Earth's memory in their bodies.
 
 "Families were separated during selection," Kai explained quietly. "These remember those left behind."
 
-The magnitude of loss represented in this humble display struck Adam with physical force. Not abstract billions abandoned on a dying planet, but individual lives with names and faces, beloved by those who had been "selected" for salvation.
+Not abstract billions abandoned on a dying planet. Individual lives, with names and faces, beloved by people who had been "selected" for salvation.
 
 As they continued their descent, the signs of hidden life grew more pronounced. They passed through a section where shipping containers had been repurposed into living quarters, their interiors visible through partially open doors: cramped but personalized spaces containing families living entirely off official population records.
 
@@ -98,31 +92,23 @@ Children played among crates and air filtration coils, their laughter a startlin
 
 "Here, people just... live," Sofia finished. "Have children when they want. Grow what they can. It's messy. Completely unauthorized." A brief, almost involuntary smile. "It's rather wonderful, actually."
 
-The journey continued through increasingly populated areas, culminating in what appeared to be an improvised marketplace occupying a junction where multiple maintenance corridors converged. Makeshift stalls constructed from salvaged materials lined the walls, offering an unlikely array of goods: handcrafted tools optimized for specific ship systems; clothing modified from standard issue materials; small electronic devices repurposed from surplus components; preserved food items prepared according to cultural traditions officially classified as "inefficient resource allocation."
+The journey culminated in an improvised marketplace at a junction where multiple maintenance corridors converged: stalls built from salvaged materials, handcrafted tools, food prepared according to traditions officially classified as "inefficient resource allocation," transactions sealed with gestures and nods rather than documented exchanges. The diversity of faces struck Adam immediately — a cross-section of Earth's peoples, speaking in accents from around the abandoned world.
 
-People moved through this unauthorized economy with cautious purpose, transactions conducted through barter rather than the official credit system, agreements sealed with gestures and nods rather than documented exchanges. The diversity of faces struck Adam immediately: a cross-section of Earth's peoples represented in this hidden community, speaking in accents from around the abandoned world.
-
-"We weren't supposed to survive," Adam murmured, taking in the improbable civilization that had formed in the shadows of the official order. "And yet here it is. A real civilization, in the shadows."
-
-"Humanity adapts," Kai replied simply. "Even when the projections say otherwise."
+"We weren't supposed to survive," Adam murmured, taking in the improbable civilization that had formed in the shadows of the official order. "And yet here it is."
 
 They continued through the marketplace, following a path known to Kai and Sofia but invisible to casual observation. As they moved deeper into the hidden community, Adam became aware of music. Not the algorithmically optimized compositions that filled official ship spaces, but a rough, hand-played melody.
 
-The sound drew them to a small alcove where a maintenance worker had established a makeshift music station. Using salvaged equipment and modified tools, the young man was creating something that caught Adam by surprise: a remixed version of his own "Moonlight Waltz" composition from weeks earlier.
+The sound drew them to a small alcove where someone had established a makeshift music station. A masked figure hunched over salvaged equipment, working a remix of Adam's own "Moonlight Waltz" — and Adam stopped dead, not because of the track but because of what was being done to it. The chord voicings stacked in fourths. The high end carved out to leave room for harmonics most people couldn't hear. A swing on the off-beats so slight it was less a choice than a signature.
 
-Adam stopped, transfixed by the familiar-yet-transformed melody. The core elements he had created remained recognizable (the heartbeat rhythm sampled from ship systems, the haunting melodic line constructed from environmental sounds, the subtle rain-like texture of recycling water), but they had been reinterpreted, expanded upon, given new context and meaning.
+Only one person on this ship voiced chords like that.
 
-"You know this piece?" Sofia asked, noticing his reaction.
+"Zedd," he said, before the figure even turned around.
 
-"I made it," Adam replied quietly. "The original version."
+The masked head came up, startled, and then the rebreather — fashioned from a modified coolant valve — came off to reveal a crooked grin. "No shit. You're alive."
 
-The musician looked up, startled by their presence, then broke into a crooked grin.
+"You're alive," Adam shot back, and the laugh that came out of him had an edge of something less comfortable. "You disappeared, man. Three weeks. No word, no message through the walls, nothing. I'm getting framed for sabotage and my best friend evaporates off the manifest."
 
-"No shit. You're alive." He stood and pulled off a rebreather mask fashioned from a modified coolant valve. Zedd.
-
-Adam blinked, then laughed. "You're the remix guy?"
-
-Zedd spread his arms theatrically. "What can I say? Someone's gotta keep the underdeck vibes from collapsing into existential dread."
+The grin faltered. "Yeah." Zedd rubbed the back of his neck. "The instrument confiscations were a list, and I was at the top of it. Kai's people pulled me down here the night before security came for my rig. There was no way to send word that wouldn't have pointed them at you." He paused. "I told myself you'd hear the remix eventually and know I wasn't dead. Sound carries. It's the only mail I trust."
 
 Sofia raised an eyebrow. "You two know each other?"
 
@@ -132,7 +118,7 @@ Adam shook his head. "I just made that track for myself. Never thought it would 
 
 Zedd stepped aside without hesitation. "It's mostly salvage. The low-pass filter sticks and the gain on channel two is shot. But the sampler works."
 
-Adam's fingers found the interface and the muscle memory took over: the particular way he rolled his thumb across the pitch slider, the two-finger tap he used to set tempo. He pulled up the Heartbeat Track's base layer and began reshaping it, stripping out the elements that had made it a comfort piece and replacing them with something harder. The rhythm he'd built on his cell's cot frame, that skeletal, percussive pattern born from confinement, he rebuilt it now with proper tools, layering in the industrial sounds of the lower depths: the deep thrum of the recycling plant, a metallic scrape Zedd had captured from a bulkhead joint, the distant laughter of unauthorized children echoing through conduit corridors.
+Adam's fingers found the interface and the muscle memory took over: the way he rolled his thumb across the pitch slider, the two-finger tap he used to set tempo. He pulled up the Heartbeat Track's base layer and began reshaping it, stripping out the elements that had made it a comfort piece and replacing them with something harder. The rhythm he'd built on his cell's cot frame, that skeletal, percussive pattern born from confinement, he rebuilt it now with proper tools, layering in the industrial sounds of the lower depths: the deep thrum of the recycling plant, a metallic scrape Zedd had captured from a bulkhead joint, the distant laughter of unauthorized children echoing through conduit corridors.
 
 It wasn't pretty. It wasn't meant to be. It was a dispatch from the underside of the ship, music that sounded like what it felt like to be erased from a manifest and keep breathing anyway.
 
@@ -141,6 +127,10 @@ When he lifted his hands, the alcove was quiet. Zedd was staring at the levels d
 "That's different," Zedd said. "That's not the Heartbeat Track."
 
 "No," Adam agreed. "That's what comes after."
+
+Zedd nodded slowly. Then, as if remembering, he reached under the bench and pulled out a bundle wrapped in insulation cloth. "Almost forgot. This came down with a supply run two days ago." He unwrapped it: Adam's beatmaker, the casing scuffed, an evidence tag still looped around the strap. "When the Order purged the security offices, half the contraband locker walked out in people's coat pockets. Somebody recognized whose this was." He held it out. "Folk hero. Like I said."
+
+Adam took it. The weight of it in his hands was the weight of every room he'd ever filled with sound. He clipped it to his hip without a word, because the words available were all too small.
 
 Word had already begun spreading through the nearby stalls. People gathered, regarding Adam with expressions ranging from curiosity to quiet awe. An older woman approached, her maintenance uniform decorated with intricate embroidery that transformed institutional clothing into personal expression.
 
@@ -164,7 +154,7 @@ Adam studied his friend's face, the humor still there but stretched thinner now,
 
 They had just begun to move on when a commotion at the far end of the marketplace caught everyone's attention. The crowd parted to reveal a figure in a utility suit similar to those worn by Adam and his rescuers, but moving with a grace that seemed at odds with the industrial surroundings.
 
-Adam recognized her instantly, despite the practical gear that replaced her customary attire. Artemis Morea had found her way to the lower depths through paths of her own discovery.
+Adam recognized her instantly, despite the practical gear that replaced her customary attire. Artemis Morea had reached the lower depths the hard way: two days in the ship's forgotten interstices, navigating by the hand-drawn schematic Eli Abramov had pressed into her hands in her quarters, rationing water from a maintenance line, twice doubling back when patrol sweeps closed the connecting shafts. The old architect's drawing had been exact where exactness mattered and poetic everywhere else — *the corridor that remembers light*, one annotation read — and she had learned, somewhere around the second day, to trust both registers.
 
 The reaction from the underground community was immediate and hostile. Several people moved to block her path, improvised weapons appearing from hidden pockets. The daughter of General Morea represented everything this hidden society had organized against: authority, selection, the system that had deemed them necessary but disposable.
 
@@ -204,9 +194,9 @@ A pared-down map flashed, not names, just clusters. Enough to locate the living.
 
 "They mapped who's left," Artemis said. "And when to make it nobody."
 
-She let the image vanish. A chair leg scraped against concrete. No one spoke.
+She let the image vanish. A chair leg scraped against deck plating. No one spoke.
 
-Silence held the gathering in its grip as the magnitude of the revelation settled into collective understanding. This wasn't merely confirmation of suspected authority abuses but evidence of atrocity planned on a scale that defied comprehension.
+Silence held the gathering. Someone's cup clicked against a table and was not refilled.
 
 Kai Chen was the first to respond, stepping forward to accept the data cube from Artemis's outstretched hand.
 
@@ -286,7 +276,7 @@ The debate continued on operational specifics, now with clearer channels for dec
 
 The plan was ambitious but technically feasible, drawing on the combined expertise of the underground community and leveraging access points mapped over months of careful observation. What remained was determining who would undertake the actual infiltration.
 
-"I'll go," Adam volunteered without hesitation. "I have the technical knowledge to implement the modifications, and my security clearance (if it hasn't been revoked) might still provide initial access to adjacent systems."
+"I'll go," Adam volunteered without hesitation. "My credentials are dead — they erased me from the ship's systems a week ago. But I've crawled every maintenance route between here and the core with my own hands. The access points you've mapped from observation, I've had my arms inside. Locked doors are a software problem. Somebody who knows which panels come off is a different kind of key."
 
 His offer hung in the air momentarily before Artemis stepped forward.
 
@@ -300,7 +290,7 @@ Her quiet confidence gradually shifted the room's energy from suspicion to cauti
 
 "Once we move, everything we've built down here is exposed," he warned, addressing the entire gathering rather than just the volunteers. "All of it. And what comes after won't be clean. It'll be ugly and fast and we'll be outgunned the whole time."
 
-The gravity of this assessment settled over the chamber. What they were contemplating wasn't merely sabotage but revolution, a fundamental challenge to the power structure that had defined the Orion since its departure from Earth.
+No one spoke for a moment. What they were contemplating wasn't sabotage anymore. It was revolution.
 
 "We've been getting ready for something like this since..." Sofia paused. "Since before any of us would've admitted it, I think."
 
